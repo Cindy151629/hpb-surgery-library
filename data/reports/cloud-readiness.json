@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-09-14T15:52:53.937763+00:00",
-  "github_login": "xxt151629",
+  "checked_at": "2026-09-14T16:21:10.962627+00:00",
+  "github_login": "Cindy151629",
   "github_accessible_repositories": 0,
   "github_app_installations": 0,
   "sites_existing_sites": 0,
@@ -10,13 +10,13 @@
   "cloud_deployed": false,
   "weekly_schedule_enabled": false,
   "observed_scheduled_run": null,
-  "blockers": [
-    "GitHub app has no accessible repository or installation.",
-    "No existing Git credential is available for xxt151629.",
-    "GitHub web login is required before repository creation and deployment."
-  ],
+  "blockers": [],
   "github_installed_accounts": 0,
-  "configured_git_credential_available": false,
+  "configured_git_credential_available": true,
   "github_browser_navigation": "timed out before a usable page",
-  "github_cli": "official2.100.0 installed in local private work directory; archive SHA256 verified"
+  "github_cli": "official2.100.0 installed in local private work directory; archive SHA256 verified",
+  "github_user_id": 177519074,
+  "repository": "Cindy151629/hpb-surgery-library",
+  "repository_created": true,
+  "deployment_status": "repository created; workflow not yet pushed or tested"
 }
