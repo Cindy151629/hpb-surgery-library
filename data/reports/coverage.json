@@ -10,7 +10,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T14:59:44.860125+00:00",
+        "searched_at": "2026-09-14T16:24:31.565865+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"anatomy\" OR TITLE_ABS:\"assessment\" OR TITLE_ABS:\"nomenclature\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 37,
@@ -18,7 +18,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T14:59:46.279580+00:00",
+        "searched_at": "2026-09-14T16:24:32.551169+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract]) AND (\"anatomy\"[Title/Abstract] OR \"assessment\"[Title/Abstract] OR \"nomenclature\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 37,
@@ -38,7 +38,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T14:59:44.860125+00:00",
+        "searched_at": "2026-09-14T16:24:31.565865+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"anatomy\" OR TITLE_ABS:\"assessment\" OR TITLE_ABS:\"nomenclature\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 37,
@@ -46,7 +46,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T14:59:46.279580+00:00",
+        "searched_at": "2026-09-14T16:24:32.551169+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract]) AND (\"anatomy\"[Title/Abstract] OR \"assessment\"[Title/Abstract] OR \"nomenclature\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 37,
@@ -66,7 +66,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T14:59:44.860125+00:00",
+        "searched_at": "2026-09-14T16:24:31.565865+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"anatomy\" OR TITLE_ABS:\"assessment\" OR TITLE_ABS:\"nomenclature\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 37,
@@ -74,7 +74,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T14:59:46.279580+00:00",
+        "searched_at": "2026-09-14T16:24:32.551169+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract]) AND (\"anatomy\"[Title/Abstract] OR \"assessment\"[Title/Abstract] OR \"nomenclature\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 37,
@@ -116,7 +116,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T14:59:52.600200+00:00",
+        "searched_at": "2026-09-14T16:24:34.395374+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\" OR TITLE_ABS:\"liver surgery\" OR TITLE_ABS:\"hepatic surgery\") AND (TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\" OR TITLE_ABS:\"open\" OR TITLE_ABS:\"segmentectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 83,
@@ -124,7 +124,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T14:59:55.381584+00:00",
+        "searched_at": "2026-09-14T16:24:35.110482+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract] OR \"hepatic surgery\"[Title/Abstract]) AND (\"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract] OR \"open\"[Title/Abstract] OR \"segmentectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 85,
@@ -144,7 +144,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T14:59:52.600200+00:00",
+        "searched_at": "2026-09-14T16:24:34.395374+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\" OR TITLE_ABS:\"liver surgery\" OR TITLE_ABS:\"hepatic surgery\") AND (TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\" OR TITLE_ABS:\"open\" OR TITLE_ABS:\"segmentectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 83,
@@ -152,7 +152,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T14:59:55.381584+00:00",
+        "searched_at": "2026-09-14T16:24:35.110482+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract] OR \"hepatic surgery\"[Title/Abstract]) AND (\"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract] OR \"open\"[Title/Abstract] OR \"segmentectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 85,
@@ -172,7 +172,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T14:59:52.600200+00:00",
+        "searched_at": "2026-09-14T16:24:34.395374+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\" OR TITLE_ABS:\"liver surgery\" OR TITLE_ABS:\"hepatic surgery\") AND (TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\" OR TITLE_ABS:\"open\" OR TITLE_ABS:\"segmentectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 83,
@@ -180,7 +180,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T14:59:55.381584+00:00",
+        "searched_at": "2026-09-14T16:24:35.110482+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract] OR \"hepatic surgery\"[Title/Abstract]) AND (\"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract] OR \"open\"[Title/Abstract] OR \"segmentectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 85,
@@ -222,7 +222,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T14:59:57.126731+00:00",
+        "searched_at": "2026-09-14T16:24:36.392120+00:00",
         "query": "((TITLE_ABS:\"ALPPS\" OR TITLE_ABS:\"portal vein embolization\" OR TITLE_ABS:\"portal venous embolization\" OR TITLE_ABS:\"liver venous deprivation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 17,
@@ -230,7 +230,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T14:59:58.262230+00:00",
+        "searched_at": "2026-09-14T16:24:37.090262+00:00",
         "query": "((\"ALPPS\"[Title/Abstract] OR \"portal vein embolization\"[Title/Abstract] OR \"portal venous embolization\"[Title/Abstract] OR \"liver venous deprivation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 17,
@@ -250,7 +250,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T14:59:57.126731+00:00",
+        "searched_at": "2026-09-14T16:24:36.392120+00:00",
         "query": "((TITLE_ABS:\"ALPPS\" OR TITLE_ABS:\"portal vein embolization\" OR TITLE_ABS:\"portal venous embolization\" OR TITLE_ABS:\"liver venous deprivation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 17,
@@ -258,7 +258,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T14:59:58.262230+00:00",
+        "searched_at": "2026-09-14T16:24:37.090262+00:00",
         "query": "((\"ALPPS\"[Title/Abstract] OR \"portal vein embolization\"[Title/Abstract] OR \"portal venous embolization\"[Title/Abstract] OR \"liver venous deprivation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 17,
@@ -278,7 +278,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T14:59:57.126731+00:00",
+        "searched_at": "2026-09-14T16:24:36.392120+00:00",
         "query": "((TITLE_ABS:\"ALPPS\" OR TITLE_ABS:\"portal vein embolization\" OR TITLE_ABS:\"portal venous embolization\" OR TITLE_ABS:\"liver venous deprivation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 17,
@@ -286,7 +286,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T14:59:58.262230+00:00",
+        "searched_at": "2026-09-14T16:24:37.090262+00:00",
         "query": "((\"ALPPS\"[Title/Abstract] OR \"portal vein embolization\"[Title/Abstract] OR \"portal venous embolization\"[Title/Abstract] OR \"liver venous deprivation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 17,
@@ -328,7 +328,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:05.473087+00:00",
+        "searched_at": "2026-09-14T16:24:41.790952+00:00",
         "query": "((TITLE_ABS:\"hepatocellular carcinoma\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"hepatectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 182,
@@ -336,11 +336,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:07.545977+00:00",
+        "searched_at": "2026-09-14T16:24:43.222970+00:00",
         "query": "((\"hepatocellular carcinoma\"[Title/Abstract]) AND (\"resection\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"hepatectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 150,
-        "returned": 150
+        "hit_count": 154,
+        "returned": 154
       }
     ],
     "gap": ""
@@ -356,7 +356,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:05.473087+00:00",
+        "searched_at": "2026-09-14T16:24:41.790952+00:00",
         "query": "((TITLE_ABS:\"hepatocellular carcinoma\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"hepatectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 182,
@@ -364,11 +364,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:07.545977+00:00",
+        "searched_at": "2026-09-14T16:24:43.222970+00:00",
         "query": "((\"hepatocellular carcinoma\"[Title/Abstract]) AND (\"resection\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"hepatectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 150,
-        "returned": 150
+        "hit_count": 154,
+        "returned": 154
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -384,7 +384,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:05.473087+00:00",
+        "searched_at": "2026-09-14T16:24:41.790952+00:00",
         "query": "((TITLE_ABS:\"hepatocellular carcinoma\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"hepatectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 182,
@@ -392,11 +392,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:07.545977+00:00",
+        "searched_at": "2026-09-14T16:24:43.222970+00:00",
         "query": "((\"hepatocellular carcinoma\"[Title/Abstract]) AND (\"resection\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"hepatectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 150,
-        "returned": 150
+        "hit_count": 154,
+        "returned": 154
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
@@ -434,7 +434,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:10.006957+00:00",
+        "searched_at": "2026-09-14T16:24:44.748659+00:00",
         "query": "((TITLE_ABS:\"colorectal liver metastases\" OR TITLE_ABS:\"colorectal liver metastasis\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"ablation\" OR TITLE_ABS:\"surgery\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 39,
@@ -442,7 +442,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:11.379483+00:00",
+        "searched_at": "2026-09-14T16:24:45.578376+00:00",
         "query": "((\"colorectal liver metastases\"[Title/Abstract] OR \"colorectal liver metastasis\"[Title/Abstract]) AND (\"resection\"[Title/Abstract] OR \"ablation\"[Title/Abstract] OR \"surgery\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 37,
@@ -462,7 +462,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:10.006957+00:00",
+        "searched_at": "2026-09-14T16:24:44.748659+00:00",
         "query": "((TITLE_ABS:\"colorectal liver metastases\" OR TITLE_ABS:\"colorectal liver metastasis\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"ablation\" OR TITLE_ABS:\"surgery\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 39,
@@ -470,7 +470,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:11.379483+00:00",
+        "searched_at": "2026-09-14T16:24:45.578376+00:00",
         "query": "((\"colorectal liver metastases\"[Title/Abstract] OR \"colorectal liver metastasis\"[Title/Abstract]) AND (\"resection\"[Title/Abstract] OR \"ablation\"[Title/Abstract] OR \"surgery\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 37,
@@ -490,7 +490,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:10.006957+00:00",
+        "searched_at": "2026-09-14T16:24:44.748659+00:00",
         "query": "((TITLE_ABS:\"colorectal liver metastases\" OR TITLE_ABS:\"colorectal liver metastasis\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"ablation\" OR TITLE_ABS:\"surgery\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 39,
@@ -498,7 +498,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:11.379483+00:00",
+        "searched_at": "2026-09-14T16:24:45.578376+00:00",
         "query": "((\"colorectal liver metastases\"[Title/Abstract] OR \"colorectal liver metastasis\"[Title/Abstract]) AND (\"resection\"[Title/Abstract] OR \"ablation\"[Title/Abstract] OR \"surgery\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 37,
@@ -540,7 +540,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:14.613074+00:00",
+        "searched_at": "2026-09-14T16:24:46.820097+00:00",
         "query": "((TITLE_ABS:\"liver cyst\" OR TITLE_ABS:\"hepatic cyst\" OR TITLE_ABS:\"liver hemangioma\" OR TITLE_ABS:\"hepatic hemangioma\" OR TITLE_ABS:\"hepatic echinococcosis\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 7,
@@ -548,7 +548,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:17.439207+00:00",
+        "searched_at": "2026-09-14T16:24:47.662252+00:00",
         "query": "((\"liver cyst\"[Title/Abstract] OR \"hepatic cyst\"[Title/Abstract] OR \"liver hemangioma\"[Title/Abstract] OR \"hepatic hemangioma\"[Title/Abstract] OR \"hepatic echinococcosis\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 6,
@@ -568,7 +568,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:14.613074+00:00",
+        "searched_at": "2026-09-14T16:24:46.820097+00:00",
         "query": "((TITLE_ABS:\"liver cyst\" OR TITLE_ABS:\"hepatic cyst\" OR TITLE_ABS:\"liver hemangioma\" OR TITLE_ABS:\"hepatic hemangioma\" OR TITLE_ABS:\"hepatic echinococcosis\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 7,
@@ -576,7 +576,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:17.439207+00:00",
+        "searched_at": "2026-09-14T16:24:47.662252+00:00",
         "query": "((\"liver cyst\"[Title/Abstract] OR \"hepatic cyst\"[Title/Abstract] OR \"liver hemangioma\"[Title/Abstract] OR \"hepatic hemangioma\"[Title/Abstract] OR \"hepatic echinococcosis\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 6,
@@ -596,7 +596,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:14.613074+00:00",
+        "searched_at": "2026-09-14T16:24:46.820097+00:00",
         "query": "((TITLE_ABS:\"liver cyst\" OR TITLE_ABS:\"hepatic cyst\" OR TITLE_ABS:\"liver hemangioma\" OR TITLE_ABS:\"hepatic hemangioma\" OR TITLE_ABS:\"hepatic echinococcosis\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 7,
@@ -604,7 +604,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:17.439207+00:00",
+        "searched_at": "2026-09-14T16:24:47.662252+00:00",
         "query": "((\"liver cyst\"[Title/Abstract] OR \"hepatic cyst\"[Title/Abstract] OR \"liver hemangioma\"[Title/Abstract] OR \"hepatic hemangioma\"[Title/Abstract] OR \"hepatic echinococcosis\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 6,
@@ -646,7 +646,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:19.384735+00:00",
+        "searched_at": "2026-09-14T16:24:48.901727+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"vascular reconstruction\" OR TITLE_ABS:\"Pringle\" OR TITLE_ABS:\"hepatic artery infusion\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 14,
@@ -654,7 +654,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:20.523504+00:00",
+        "searched_at": "2026-09-14T16:24:49.602717+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract]) AND (\"vascular reconstruction\"[Title/Abstract] OR \"Pringle\"[Title/Abstract] OR \"hepatic artery infusion\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 13,
@@ -674,7 +674,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:19.384735+00:00",
+        "searched_at": "2026-09-14T16:24:48.901727+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"vascular reconstruction\" OR TITLE_ABS:\"Pringle\" OR TITLE_ABS:\"hepatic artery infusion\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 14,
@@ -682,7 +682,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:20.523504+00:00",
+        "searched_at": "2026-09-14T16:24:49.602717+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract]) AND (\"vascular reconstruction\"[Title/Abstract] OR \"Pringle\"[Title/Abstract] OR \"hepatic artery infusion\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 13,
@@ -702,7 +702,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:19.384735+00:00",
+        "searched_at": "2026-09-14T16:24:48.901727+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"vascular reconstruction\" OR TITLE_ABS:\"Pringle\" OR TITLE_ABS:\"hepatic artery infusion\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 14,
@@ -710,7 +710,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:20.523504+00:00",
+        "searched_at": "2026-09-14T16:24:49.602717+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract]) AND (\"vascular reconstruction\"[Title/Abstract] OR \"Pringle\"[Title/Abstract] OR \"hepatic artery infusion\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 13,
@@ -752,7 +752,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:35.377772+00:00",
+        "searched_at": "2026-09-14T16:24:57.252551+00:00",
         "query": "((TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"cholecystitis\" OR TITLE_ABS:\"gallbladder polyp\" OR TITLE_ABS:\"gallstones\" OR TITLE_ABS:\"gallstone disease\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 376,
@@ -760,11 +760,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:37.876847+00:00",
+        "searched_at": "2026-09-14T16:24:58.920111+00:00",
         "query": "((\"cholecystectomy\"[Title/Abstract] OR \"cholecystitis\"[Title/Abstract] OR \"gallbladder polyp\"[Title/Abstract] OR \"gallstones\"[Title/Abstract] OR \"gallstone disease\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 296,
-        "returned": 296
+        "hit_count": 302,
+        "returned": 302
       }
     ],
     "gap": ""
@@ -780,7 +780,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:35.377772+00:00",
+        "searched_at": "2026-09-14T16:24:57.252551+00:00",
         "query": "((TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"cholecystitis\" OR TITLE_ABS:\"gallbladder polyp\" OR TITLE_ABS:\"gallstones\" OR TITLE_ABS:\"gallstone disease\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 376,
@@ -788,11 +788,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:37.876847+00:00",
+        "searched_at": "2026-09-14T16:24:58.920111+00:00",
         "query": "((\"cholecystectomy\"[Title/Abstract] OR \"cholecystitis\"[Title/Abstract] OR \"gallbladder polyp\"[Title/Abstract] OR \"gallstones\"[Title/Abstract] OR \"gallstone disease\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 296,
-        "returned": 296
+        "hit_count": 302,
+        "returned": 302
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -808,7 +808,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:35.377772+00:00",
+        "searched_at": "2026-09-14T16:24:57.252551+00:00",
         "query": "((TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"cholecystitis\" OR TITLE_ABS:\"gallbladder polyp\" OR TITLE_ABS:\"gallstones\" OR TITLE_ABS:\"gallstone disease\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 376,
@@ -816,11 +816,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:37.876847+00:00",
+        "searched_at": "2026-09-14T16:24:58.920111+00:00",
         "query": "((\"cholecystectomy\"[Title/Abstract] OR \"cholecystitis\"[Title/Abstract] OR \"gallbladder polyp\"[Title/Abstract] OR \"gallstones\"[Title/Abstract] OR \"gallstone disease\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 296,
-        "returned": 296
+        "hit_count": 302,
+        "returned": 302
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
@@ -858,7 +858,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:39.421041+00:00",
+        "searched_at": "2026-09-14T16:25:00.132563+00:00",
         "query": "((TITLE_ABS:\"subtotal cholecystectomy\" OR TITLE_ABS:\"critical view of safety\" OR TITLE_ABS:\"Mirizzi\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 18,
@@ -866,7 +866,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:40.553140+00:00",
+        "searched_at": "2026-09-14T16:25:00.913447+00:00",
         "query": "((\"subtotal cholecystectomy\"[Title/Abstract] OR \"critical view of safety\"[Title/Abstract] OR \"Mirizzi\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 17,
@@ -886,7 +886,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:39.421041+00:00",
+        "searched_at": "2026-09-14T16:25:00.132563+00:00",
         "query": "((TITLE_ABS:\"subtotal cholecystectomy\" OR TITLE_ABS:\"critical view of safety\" OR TITLE_ABS:\"Mirizzi\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 18,
@@ -894,7 +894,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:40.553140+00:00",
+        "searched_at": "2026-09-14T16:25:00.913447+00:00",
         "query": "((\"subtotal cholecystectomy\"[Title/Abstract] OR \"critical view of safety\"[Title/Abstract] OR \"Mirizzi\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 17,
@@ -914,7 +914,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:39.421041+00:00",
+        "searched_at": "2026-09-14T16:25:00.132563+00:00",
         "query": "((TITLE_ABS:\"subtotal cholecystectomy\" OR TITLE_ABS:\"critical view of safety\" OR TITLE_ABS:\"Mirizzi\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 18,
@@ -922,7 +922,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:40.553140+00:00",
+        "searched_at": "2026-09-14T16:25:00.913447+00:00",
         "query": "((\"subtotal cholecystectomy\"[Title/Abstract] OR \"critical view of safety\"[Title/Abstract] OR \"Mirizzi\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 17,
@@ -964,7 +964,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:43.642153+00:00",
+        "searched_at": "2026-09-14T16:25:02.472168+00:00",
         "query": "((TITLE_ABS:\"common bile duct exploration\" OR TITLE_ABS:\"choledocholithiasis\" OR TITLE_ABS:\"hepatolithiasis\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 49,
@@ -972,11 +972,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:44.990822+00:00",
+        "searched_at": "2026-09-14T16:25:03.180501+00:00",
         "query": "((\"common bile duct exploration\"[Title/Abstract] OR \"choledocholithiasis\"[Title/Abstract] OR \"hepatolithiasis\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 38,
-        "returned": 38
+        "hit_count": 39,
+        "returned": 39
       }
     ],
     "gap": ""
@@ -992,7 +992,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:43.642153+00:00",
+        "searched_at": "2026-09-14T16:25:02.472168+00:00",
         "query": "((TITLE_ABS:\"common bile duct exploration\" OR TITLE_ABS:\"choledocholithiasis\" OR TITLE_ABS:\"hepatolithiasis\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 49,
@@ -1000,11 +1000,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:44.990822+00:00",
+        "searched_at": "2026-09-14T16:25:03.180501+00:00",
         "query": "((\"common bile duct exploration\"[Title/Abstract] OR \"choledocholithiasis\"[Title/Abstract] OR \"hepatolithiasis\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 38,
-        "returned": 38
+        "hit_count": 39,
+        "returned": 39
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -1020,7 +1020,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:43.642153+00:00",
+        "searched_at": "2026-09-14T16:25:02.472168+00:00",
         "query": "((TITLE_ABS:\"common bile duct exploration\" OR TITLE_ABS:\"choledocholithiasis\" OR TITLE_ABS:\"hepatolithiasis\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 49,
@@ -1028,11 +1028,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:44.990822+00:00",
+        "searched_at": "2026-09-14T16:25:03.180501+00:00",
         "query": "((\"common bile duct exploration\"[Title/Abstract] OR \"choledocholithiasis\"[Title/Abstract] OR \"hepatolithiasis\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 38,
-        "returned": 38
+        "hit_count": 39,
+        "returned": 39
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
@@ -1070,7 +1070,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:47.218345+00:00",
+        "searched_at": "2026-09-14T16:25:04.736700+00:00",
         "query": "((TITLE_ABS:\"bile duct injury\" OR TITLE_ABS:\"hepaticojejunostomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 43,
@@ -1078,11 +1078,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:48.616771+00:00",
+        "searched_at": "2026-09-14T16:25:05.456000+00:00",
         "query": "((\"bile duct injury\"[Title/Abstract] OR \"hepaticojejunostomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 39,
-        "returned": 39
+        "hit_count": 40,
+        "returned": 40
       }
     ],
     "gap": ""
@@ -1098,7 +1098,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:47.218345+00:00",
+        "searched_at": "2026-09-14T16:25:04.736700+00:00",
         "query": "((TITLE_ABS:\"bile duct injury\" OR TITLE_ABS:\"hepaticojejunostomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 43,
@@ -1106,11 +1106,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:48.616771+00:00",
+        "searched_at": "2026-09-14T16:25:05.456000+00:00",
         "query": "((\"bile duct injury\"[Title/Abstract] OR \"hepaticojejunostomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 39,
-        "returned": 39
+        "hit_count": 40,
+        "returned": 40
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -1126,7 +1126,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:47.218345+00:00",
+        "searched_at": "2026-09-14T16:25:04.736700+00:00",
         "query": "((TITLE_ABS:\"bile duct injury\" OR TITLE_ABS:\"hepaticojejunostomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 43,
@@ -1134,11 +1134,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:48.616771+00:00",
+        "searched_at": "2026-09-14T16:25:05.456000+00:00",
         "query": "((\"bile duct injury\"[Title/Abstract] OR \"hepaticojejunostomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 39,
-        "returned": 39
+        "hit_count": 40,
+        "returned": 40
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
@@ -1176,7 +1176,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:50.549127+00:00",
+        "searched_at": "2026-09-14T16:25:06.884048+00:00",
         "query": "((TITLE_ABS:\"gallbladder cancer\" OR TITLE_ABS:\"gallbladder carcinoma\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 27,
@@ -1184,7 +1184,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:52.074256+00:00",
+        "searched_at": "2026-09-14T16:25:07.716765+00:00",
         "query": "((\"gallbladder cancer\"[Title/Abstract] OR \"gallbladder carcinoma\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 23,
@@ -1204,7 +1204,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:50.549127+00:00",
+        "searched_at": "2026-09-14T16:25:06.884048+00:00",
         "query": "((TITLE_ABS:\"gallbladder cancer\" OR TITLE_ABS:\"gallbladder carcinoma\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 27,
@@ -1212,7 +1212,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:52.074256+00:00",
+        "searched_at": "2026-09-14T16:25:07.716765+00:00",
         "query": "((\"gallbladder cancer\"[Title/Abstract] OR \"gallbladder carcinoma\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 23,
@@ -1232,7 +1232,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:50.549127+00:00",
+        "searched_at": "2026-09-14T16:25:06.884048+00:00",
         "query": "((TITLE_ABS:\"gallbladder cancer\" OR TITLE_ABS:\"gallbladder carcinoma\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 27,
@@ -1240,7 +1240,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:52.074256+00:00",
+        "searched_at": "2026-09-14T16:25:07.716765+00:00",
         "query": "((\"gallbladder cancer\"[Title/Abstract] OR \"gallbladder carcinoma\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 23,
@@ -1282,7 +1282,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:54.498049+00:00",
+        "searched_at": "2026-09-14T16:25:09.753849+00:00",
         "query": "((TITLE_ABS:\"cholangiocarcinoma\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\" OR TITLE_ABS:\"drainage\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 87,
@@ -1290,7 +1290,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:55.840179+00:00",
+        "searched_at": "2026-09-14T16:25:10.487693+00:00",
         "query": "((\"cholangiocarcinoma\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract] OR \"drainage\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 88,
@@ -1310,7 +1310,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:54.498049+00:00",
+        "searched_at": "2026-09-14T16:25:09.753849+00:00",
         "query": "((TITLE_ABS:\"cholangiocarcinoma\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\" OR TITLE_ABS:\"drainage\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 87,
@@ -1318,7 +1318,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:55.840179+00:00",
+        "searched_at": "2026-09-14T16:25:10.487693+00:00",
         "query": "((\"cholangiocarcinoma\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract] OR \"drainage\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 88,
@@ -1338,7 +1338,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:00:54.498049+00:00",
+        "searched_at": "2026-09-14T16:25:09.753849+00:00",
         "query": "((TITLE_ABS:\"cholangiocarcinoma\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\" OR TITLE_ABS:\"drainage\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 87,
@@ -1346,7 +1346,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:00:55.840179+00:00",
+        "searched_at": "2026-09-14T16:25:10.487693+00:00",
         "query": "((\"cholangiocarcinoma\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract] OR \"drainage\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 88,
@@ -1388,7 +1388,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:01.043429+00:00",
+        "searched_at": "2026-09-14T16:25:14.226984+00:00",
         "query": "((TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"pancreatoduodenectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 131,
@@ -1396,11 +1396,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:02.553476+00:00",
+        "searched_at": "2026-09-14T16:25:15.898341+00:00",
         "query": "((\"pancreaticoduodenectomy\"[Title/Abstract] OR \"pancreatoduodenectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 128,
-        "returned": 128
+        "hit_count": 134,
+        "returned": 134
       }
     ],
     "gap": ""
@@ -1416,7 +1416,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:01.043429+00:00",
+        "searched_at": "2026-09-14T16:25:14.226984+00:00",
         "query": "((TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"pancreatoduodenectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 131,
@@ -1424,11 +1424,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:02.553476+00:00",
+        "searched_at": "2026-09-14T16:25:15.898341+00:00",
         "query": "((\"pancreaticoduodenectomy\"[Title/Abstract] OR \"pancreatoduodenectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 128,
-        "returned": 128
+        "hit_count": 134,
+        "returned": 134
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -1444,7 +1444,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:01.043429+00:00",
+        "searched_at": "2026-09-14T16:25:14.226984+00:00",
         "query": "((TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"pancreatoduodenectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 131,
@@ -1452,11 +1452,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:02.553476+00:00",
+        "searched_at": "2026-09-14T16:25:15.898341+00:00",
         "query": "((\"pancreaticoduodenectomy\"[Title/Abstract] OR \"pancreatoduodenectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 128,
-        "returned": 128
+        "hit_count": 134,
+        "returned": 134
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
@@ -1494,7 +1494,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:05.212733+00:00",
+        "searched_at": "2026-09-14T16:25:17.515255+00:00",
         "query": "((TITLE_ABS:\"pancreas\" OR TITLE_ABS:\"pancreatic\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"distal pancreatectomy\" OR TITLE_ABS:\"RAMPS\" OR TITLE_ABS:\"spleen preservation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 37,
@@ -1502,11 +1502,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:07.648815+00:00",
+        "searched_at": "2026-09-14T16:25:18.289520+00:00",
         "query": "((\"pancreas\"[Title/Abstract] OR \"pancreatic\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract]) AND (\"distal pancreatectomy\"[Title/Abstract] OR \"RAMPS\"[Title/Abstract] OR \"spleen preservation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 33,
-        "returned": 33
+        "hit_count": 37,
+        "returned": 37
       }
     ],
     "gap": ""
@@ -1522,7 +1522,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:05.212733+00:00",
+        "searched_at": "2026-09-14T16:25:17.515255+00:00",
         "query": "((TITLE_ABS:\"pancreas\" OR TITLE_ABS:\"pancreatic\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"distal pancreatectomy\" OR TITLE_ABS:\"RAMPS\" OR TITLE_ABS:\"spleen preservation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 37,
@@ -1530,11 +1530,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:07.648815+00:00",
+        "searched_at": "2026-09-14T16:25:18.289520+00:00",
         "query": "((\"pancreas\"[Title/Abstract] OR \"pancreatic\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract]) AND (\"distal pancreatectomy\"[Title/Abstract] OR \"RAMPS\"[Title/Abstract] OR \"spleen preservation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 33,
-        "returned": 33
+        "hit_count": 37,
+        "returned": 37
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -1550,7 +1550,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:05.212733+00:00",
+        "searched_at": "2026-09-14T16:25:17.515255+00:00",
         "query": "((TITLE_ABS:\"pancreas\" OR TITLE_ABS:\"pancreatic\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"distal pancreatectomy\" OR TITLE_ABS:\"RAMPS\" OR TITLE_ABS:\"spleen preservation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 37,
@@ -1558,11 +1558,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:07.648815+00:00",
+        "searched_at": "2026-09-14T16:25:18.289520+00:00",
         "query": "((\"pancreas\"[Title/Abstract] OR \"pancreatic\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract]) AND (\"distal pancreatectomy\"[Title/Abstract] OR \"RAMPS\"[Title/Abstract] OR \"spleen preservation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 33,
-        "returned": 33
+        "hit_count": 37,
+        "returned": 37
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
@@ -1600,7 +1600,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:10.008617+00:00",
+        "searched_at": "2026-09-14T16:25:19.608648+00:00",
         "query": "((TITLE_ABS:\"central pancreatectomy\" OR TITLE_ABS:\"total pancreatectomy\" OR TITLE_ABS:\"pancreatic enucleation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 24,
@@ -1608,11 +1608,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:11.333606+00:00",
+        "searched_at": "2026-09-14T16:25:20.356551+00:00",
         "query": "((\"central pancreatectomy\"[Title/Abstract] OR \"total pancreatectomy\"[Title/Abstract] OR \"pancreatic enucleation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 21,
-        "returned": 21
+        "hit_count": 23,
+        "returned": 23
       }
     ],
     "gap": ""
@@ -1628,7 +1628,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:10.008617+00:00",
+        "searched_at": "2026-09-14T16:25:19.608648+00:00",
         "query": "((TITLE_ABS:\"central pancreatectomy\" OR TITLE_ABS:\"total pancreatectomy\" OR TITLE_ABS:\"pancreatic enucleation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 24,
@@ -1636,11 +1636,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:11.333606+00:00",
+        "searched_at": "2026-09-14T16:25:20.356551+00:00",
         "query": "((\"central pancreatectomy\"[Title/Abstract] OR \"total pancreatectomy\"[Title/Abstract] OR \"pancreatic enucleation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 21,
-        "returned": 21
+        "hit_count": 23,
+        "returned": 23
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -1656,7 +1656,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:10.008617+00:00",
+        "searched_at": "2026-09-14T16:25:19.608648+00:00",
         "query": "((TITLE_ABS:\"central pancreatectomy\" OR TITLE_ABS:\"total pancreatectomy\" OR TITLE_ABS:\"pancreatic enucleation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 24,
@@ -1664,11 +1664,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:11.333606+00:00",
+        "searched_at": "2026-09-14T16:25:20.356551+00:00",
         "query": "((\"central pancreatectomy\"[Title/Abstract] OR \"total pancreatectomy\"[Title/Abstract] OR \"pancreatic enucleation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 21,
-        "returned": 21
+        "hit_count": 23,
+        "returned": 23
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
@@ -1706,7 +1706,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:13.144169+00:00",
+        "searched_at": "2026-09-14T16:25:21.793418+00:00",
         "query": "((TITLE_ABS:\"pancreaticojejunostomy\" OR TITLE_ABS:\"pancreatojejunostomy\" OR TITLE_ABS:\"pancreaticogastrostomy\" OR TITLE_ABS:\"postoperative pancreatic fistula\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 42,
@@ -1714,11 +1714,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:15.801582+00:00",
+        "searched_at": "2026-09-14T16:25:22.659446+00:00",
         "query": "((\"pancreaticojejunostomy\"[Title/Abstract] OR \"pancreatojejunostomy\"[Title/Abstract] OR \"pancreaticogastrostomy\"[Title/Abstract] OR \"postoperative pancreatic fistula\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 40,
-        "returned": 40
+        "hit_count": 46,
+        "returned": 46
       }
     ],
     "gap": ""
@@ -1734,7 +1734,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:13.144169+00:00",
+        "searched_at": "2026-09-14T16:25:21.793418+00:00",
         "query": "((TITLE_ABS:\"pancreaticojejunostomy\" OR TITLE_ABS:\"pancreatojejunostomy\" OR TITLE_ABS:\"pancreaticogastrostomy\" OR TITLE_ABS:\"postoperative pancreatic fistula\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 42,
@@ -1742,11 +1742,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:15.801582+00:00",
+        "searched_at": "2026-09-14T16:25:22.659446+00:00",
         "query": "((\"pancreaticojejunostomy\"[Title/Abstract] OR \"pancreatojejunostomy\"[Title/Abstract] OR \"pancreaticogastrostomy\"[Title/Abstract] OR \"postoperative pancreatic fistula\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 40,
-        "returned": 40
+        "hit_count": 46,
+        "returned": 46
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -1762,7 +1762,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:13.144169+00:00",
+        "searched_at": "2026-09-14T16:25:21.793418+00:00",
         "query": "((TITLE_ABS:\"pancreaticojejunostomy\" OR TITLE_ABS:\"pancreatojejunostomy\" OR TITLE_ABS:\"pancreaticogastrostomy\" OR TITLE_ABS:\"postoperative pancreatic fistula\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 42,
@@ -1770,11 +1770,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:15.801582+00:00",
+        "searched_at": "2026-09-14T16:25:22.659446+00:00",
         "query": "((\"pancreaticojejunostomy\"[Title/Abstract] OR \"pancreatojejunostomy\"[Title/Abstract] OR \"pancreaticogastrostomy\"[Title/Abstract] OR \"postoperative pancreatic fistula\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 40,
-        "returned": 40
+        "hit_count": 46,
+        "returned": 46
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
@@ -1812,7 +1812,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:17.844528+00:00",
+        "searched_at": "2026-09-14T16:25:23.824880+00:00",
         "query": "((TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"pancreatic cancer\") AND (TITLE_ABS:\"vascular resection\" OR TITLE_ABS:\"lymphadenectomy\" OR TITLE_ABS:\"arterial resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 7,
@@ -1820,7 +1820,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:20.530283+00:00",
+        "searched_at": "2026-09-14T16:25:24.627853+00:00",
         "query": "((\"pancreatectomy\"[Title/Abstract] OR \"pancreatic cancer\"[Title/Abstract]) AND (\"vascular resection\"[Title/Abstract] OR \"lymphadenectomy\"[Title/Abstract] OR \"arterial resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 7,
@@ -1840,7 +1840,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:17.844528+00:00",
+        "searched_at": "2026-09-14T16:25:23.824880+00:00",
         "query": "((TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"pancreatic cancer\") AND (TITLE_ABS:\"vascular resection\" OR TITLE_ABS:\"lymphadenectomy\" OR TITLE_ABS:\"arterial resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 7,
@@ -1848,7 +1848,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:20.530283+00:00",
+        "searched_at": "2026-09-14T16:25:24.627853+00:00",
         "query": "((\"pancreatectomy\"[Title/Abstract] OR \"pancreatic cancer\"[Title/Abstract]) AND (\"vascular resection\"[Title/Abstract] OR \"lymphadenectomy\"[Title/Abstract] OR \"arterial resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 7,
@@ -1868,7 +1868,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:17.844528+00:00",
+        "searched_at": "2026-09-14T16:25:23.824880+00:00",
         "query": "((TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"pancreatic cancer\") AND (TITLE_ABS:\"vascular resection\" OR TITLE_ABS:\"lymphadenectomy\" OR TITLE_ABS:\"arterial resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 7,
@@ -1876,7 +1876,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:20.530283+00:00",
+        "searched_at": "2026-09-14T16:25:24.627853+00:00",
         "query": "((\"pancreatectomy\"[Title/Abstract] OR \"pancreatic cancer\"[Title/Abstract]) AND (\"vascular resection\"[Title/Abstract] OR \"lymphadenectomy\"[Title/Abstract] OR \"arterial resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 7,
@@ -1918,7 +1918,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:26.015848+00:00",
+        "searched_at": "2026-09-14T16:25:28.121496+00:00",
         "query": "((TITLE_ABS:\"pancreatic cancer\" OR TITLE_ABS:\"pancreatic adenocarcinoma\") AND (TITLE_ABS:\"neoadjuvant\" OR TITLE_ABS:\"resectable\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 140,
@@ -1926,11 +1926,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:28.656304+00:00",
+        "searched_at": "2026-09-14T16:25:28.866265+00:00",
         "query": "((\"pancreatic cancer\"[Title/Abstract] OR \"pancreatic adenocarcinoma\"[Title/Abstract]) AND (\"neoadjuvant\"[Title/Abstract] OR \"resectable\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 125,
-        "returned": 125
+        "hit_count": 126,
+        "returned": 126
       }
     ],
     "gap": ""
@@ -1946,7 +1946,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:26.015848+00:00",
+        "searched_at": "2026-09-14T16:25:28.121496+00:00",
         "query": "((TITLE_ABS:\"pancreatic cancer\" OR TITLE_ABS:\"pancreatic adenocarcinoma\") AND (TITLE_ABS:\"neoadjuvant\" OR TITLE_ABS:\"resectable\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 140,
@@ -1954,11 +1954,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:28.656304+00:00",
+        "searched_at": "2026-09-14T16:25:28.866265+00:00",
         "query": "((\"pancreatic cancer\"[Title/Abstract] OR \"pancreatic adenocarcinoma\"[Title/Abstract]) AND (\"neoadjuvant\"[Title/Abstract] OR \"resectable\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 125,
-        "returned": 125
+        "hit_count": 126,
+        "returned": 126
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -1974,7 +1974,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:26.015848+00:00",
+        "searched_at": "2026-09-14T16:25:28.121496+00:00",
         "query": "((TITLE_ABS:\"pancreatic cancer\" OR TITLE_ABS:\"pancreatic adenocarcinoma\") AND (TITLE_ABS:\"neoadjuvant\" OR TITLE_ABS:\"resectable\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 140,
@@ -1982,11 +1982,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:28.656304+00:00",
+        "searched_at": "2026-09-14T16:25:28.866265+00:00",
         "query": "((\"pancreatic cancer\"[Title/Abstract] OR \"pancreatic adenocarcinoma\"[Title/Abstract]) AND (\"neoadjuvant\"[Title/Abstract] OR \"resectable\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 125,
-        "returned": 125
+        "hit_count": 126,
+        "returned": 126
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
@@ -2024,7 +2024,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:33.614358+00:00",
+        "searched_at": "2026-09-14T16:25:30.864131+00:00",
         "query": "((TITLE_ABS:\"pancreatic\") AND (TITLE_ABS:\"IPMN\" OR TITLE_ABS:\"cystic neoplasm\" OR TITLE_ABS:\"neuroendocrine\") AND (TITLE_ABS:\"guideline\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 57,
@@ -2032,11 +2032,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:36.254239+00:00",
+        "searched_at": "2026-09-14T16:25:31.570980+00:00",
         "query": "((\"pancreatic\"[Title/Abstract]) AND (\"IPMN\"[Title/Abstract] OR \"cystic neoplasm\"[Title/Abstract] OR \"neuroendocrine\"[Title/Abstract]) AND (\"guideline\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 39,
-        "returned": 39
+        "hit_count": 40,
+        "returned": 40
       }
     ],
     "gap": ""
@@ -2052,7 +2052,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:33.614358+00:00",
+        "searched_at": "2026-09-14T16:25:30.864131+00:00",
         "query": "((TITLE_ABS:\"pancreatic\") AND (TITLE_ABS:\"IPMN\" OR TITLE_ABS:\"cystic neoplasm\" OR TITLE_ABS:\"neuroendocrine\") AND (TITLE_ABS:\"guideline\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 57,
@@ -2060,11 +2060,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:36.254239+00:00",
+        "searched_at": "2026-09-14T16:25:31.570980+00:00",
         "query": "((\"pancreatic\"[Title/Abstract]) AND (\"IPMN\"[Title/Abstract] OR \"cystic neoplasm\"[Title/Abstract] OR \"neuroendocrine\"[Title/Abstract]) AND (\"guideline\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 39,
-        "returned": 39
+        "hit_count": 40,
+        "returned": 40
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -2080,7 +2080,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:33.614358+00:00",
+        "searched_at": "2026-09-14T16:25:30.864131+00:00",
         "query": "((TITLE_ABS:\"pancreatic\") AND (TITLE_ABS:\"IPMN\" OR TITLE_ABS:\"cystic neoplasm\" OR TITLE_ABS:\"neuroendocrine\") AND (TITLE_ABS:\"guideline\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 57,
@@ -2088,11 +2088,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:36.254239+00:00",
+        "searched_at": "2026-09-14T16:25:31.570980+00:00",
         "query": "((\"pancreatic\"[Title/Abstract]) AND (\"IPMN\"[Title/Abstract] OR \"cystic neoplasm\"[Title/Abstract] OR \"neuroendocrine\"[Title/Abstract]) AND (\"guideline\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 39,
-        "returned": 39
+        "hit_count": 40,
+        "returned": 40
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
@@ -2130,7 +2130,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:41.452941+00:00",
+        "searched_at": "2026-09-14T16:25:33.280776+00:00",
         "query": "((TITLE_ABS:\"pancreatitis\") AND (TITLE_ABS:\"necrosectomy\" OR TITLE_ABS:\"drainage\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"step-up\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 84,
@@ -2138,11 +2138,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:42.712540+00:00",
+        "searched_at": "2026-09-14T16:25:34.735080+00:00",
         "query": "((\"pancreatitis\"[Title/Abstract]) AND (\"necrosectomy\"[Title/Abstract] OR \"drainage\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"step-up\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 71,
-        "returned": 71
+        "hit_count": 74,
+        "returned": 74
       }
     ],
     "gap": ""
@@ -2158,7 +2158,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:41.452941+00:00",
+        "searched_at": "2026-09-14T16:25:33.280776+00:00",
         "query": "((TITLE_ABS:\"pancreatitis\") AND (TITLE_ABS:\"necrosectomy\" OR TITLE_ABS:\"drainage\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"step-up\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 84,
@@ -2166,11 +2166,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:42.712540+00:00",
+        "searched_at": "2026-09-14T16:25:34.735080+00:00",
         "query": "((\"pancreatitis\"[Title/Abstract]) AND (\"necrosectomy\"[Title/Abstract] OR \"drainage\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"step-up\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 71,
-        "returned": 71
+        "hit_count": 74,
+        "returned": 74
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -2186,7 +2186,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:41.452941+00:00",
+        "searched_at": "2026-09-14T16:25:33.280776+00:00",
         "query": "((TITLE_ABS:\"pancreatitis\") AND (TITLE_ABS:\"necrosectomy\" OR TITLE_ABS:\"drainage\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"step-up\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 84,
@@ -2194,11 +2194,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:42.712540+00:00",
+        "searched_at": "2026-09-14T16:25:34.735080+00:00",
         "query": "((\"pancreatitis\"[Title/Abstract]) AND (\"necrosectomy\"[Title/Abstract] OR \"drainage\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"step-up\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 71,
-        "returned": 71
+        "hit_count": 74,
+        "returned": 74
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
@@ -2236,7 +2236,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:45.101014+00:00",
+        "searched_at": "2026-09-14T16:25:36.011970+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"indocyanine\" OR TITLE_ABS:\"navigation\" OR TITLE_ABS:\"intraoperative ultrasound\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 14,
@@ -2244,7 +2244,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:46.632407+00:00",
+        "searched_at": "2026-09-14T16:25:36.730626+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"cholecystectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract]) AND (\"indocyanine\"[Title/Abstract] OR \"navigation\"[Title/Abstract] OR \"intraoperative ultrasound\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 12,
@@ -2264,7 +2264,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:45.101014+00:00",
+        "searched_at": "2026-09-14T16:25:36.011970+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"indocyanine\" OR TITLE_ABS:\"navigation\" OR TITLE_ABS:\"intraoperative ultrasound\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 14,
@@ -2272,7 +2272,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:46.632407+00:00",
+        "searched_at": "2026-09-14T16:25:36.730626+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"cholecystectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract]) AND (\"indocyanine\"[Title/Abstract] OR \"navigation\"[Title/Abstract] OR \"intraoperative ultrasound\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 12,
@@ -2292,7 +2292,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:45.101014+00:00",
+        "searched_at": "2026-09-14T16:25:36.011970+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"indocyanine\" OR TITLE_ABS:\"navigation\" OR TITLE_ABS:\"intraoperative ultrasound\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 14,
@@ -2300,7 +2300,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:46.632407+00:00",
+        "searched_at": "2026-09-14T16:25:36.730626+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"cholecystectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract]) AND (\"indocyanine\"[Title/Abstract] OR \"navigation\"[Title/Abstract] OR \"intraoperative ultrasound\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 12,
@@ -2342,7 +2342,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:48.943902+00:00",
+        "searched_at": "2026-09-14T16:25:37.917589+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"liver surgery\") AND (TITLE_ABS:\"enhanced recovery\" OR TITLE_ABS:\"nutrition\" OR TITLE_ABS:\"prehabilitation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 5,
@@ -2350,11 +2350,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:50.231163+00:00",
+        "searched_at": "2026-09-14T16:25:38.660474+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreaticoduodenectomy\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract]) AND (\"enhanced recovery\"[Title/Abstract] OR \"nutrition\"[Title/Abstract] OR \"prehabilitation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 5,
-        "returned": 5
+        "hit_count": 6,
+        "returned": 6
       }
     ],
     "gap": ""
@@ -2370,7 +2370,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:48.943902+00:00",
+        "searched_at": "2026-09-14T16:25:37.917589+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"liver surgery\") AND (TITLE_ABS:\"enhanced recovery\" OR TITLE_ABS:\"nutrition\" OR TITLE_ABS:\"prehabilitation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 5,
@@ -2378,11 +2378,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:50.231163+00:00",
+        "searched_at": "2026-09-14T16:25:38.660474+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreaticoduodenectomy\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract]) AND (\"enhanced recovery\"[Title/Abstract] OR \"nutrition\"[Title/Abstract] OR \"prehabilitation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 5,
-        "returned": 5
+        "hit_count": 6,
+        "returned": 6
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -2398,7 +2398,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:48.943902+00:00",
+        "searched_at": "2026-09-14T16:25:37.917589+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"liver surgery\") AND (TITLE_ABS:\"enhanced recovery\" OR TITLE_ABS:\"nutrition\" OR TITLE_ABS:\"prehabilitation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 5,
@@ -2406,11 +2406,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:50.231163+00:00",
+        "searched_at": "2026-09-14T16:25:38.660474+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreaticoduodenectomy\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract]) AND (\"enhanced recovery\"[Title/Abstract] OR \"nutrition\"[Title/Abstract] OR \"prehabilitation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 5,
-        "returned": 5
+        "hit_count": 6,
+        "returned": 6
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
@@ -2448,7 +2448,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:53.234968+00:00",
+        "searched_at": "2026-09-14T16:25:40.122143+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"postpancreatectomy\" OR TITLE_ABS:\"posthepatectomy\") AND (TITLE_ABS:\"complication\" OR TITLE_ABS:\"ISGLS\" OR TITLE_ABS:\"ISGPS\" OR TITLE_ABS:\"postoperative hemorrhage\" OR TITLE_ABS:\"hemorrhage\" OR TITLE_ABS:\"definition\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 58,
@@ -2456,11 +2456,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:55.172488+00:00",
+        "searched_at": "2026-09-14T16:25:40.842889+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract] OR \"postpancreatectomy\"[Title/Abstract] OR \"posthepatectomy\"[Title/Abstract]) AND (\"complication\"[Title/Abstract] OR \"ISGLS\"[Title/Abstract] OR \"ISGPS\"[Title/Abstract] OR \"postoperative hemorrhage\"[Title/Abstract] OR \"hemorrhage\"[Title/Abstract] OR \"definition\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 53,
-        "returned": 53
+        "hit_count": 59,
+        "returned": 59
       }
     ],
     "gap": ""
@@ -2476,7 +2476,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:53.234968+00:00",
+        "searched_at": "2026-09-14T16:25:40.122143+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"postpancreatectomy\" OR TITLE_ABS:\"posthepatectomy\") AND (TITLE_ABS:\"complication\" OR TITLE_ABS:\"ISGLS\" OR TITLE_ABS:\"ISGPS\" OR TITLE_ABS:\"postoperative hemorrhage\" OR TITLE_ABS:\"hemorrhage\" OR TITLE_ABS:\"definition\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 58,
@@ -2484,11 +2484,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:55.172488+00:00",
+        "searched_at": "2026-09-14T16:25:40.842889+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract] OR \"postpancreatectomy\"[Title/Abstract] OR \"posthepatectomy\"[Title/Abstract]) AND (\"complication\"[Title/Abstract] OR \"ISGLS\"[Title/Abstract] OR \"ISGPS\"[Title/Abstract] OR \"postoperative hemorrhage\"[Title/Abstract] OR \"hemorrhage\"[Title/Abstract] OR \"definition\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 53,
-        "returned": 53
+        "hit_count": 59,
+        "returned": 59
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -2504,7 +2504,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:53.234968+00:00",
+        "searched_at": "2026-09-14T16:25:40.122143+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"postpancreatectomy\" OR TITLE_ABS:\"posthepatectomy\") AND (TITLE_ABS:\"complication\" OR TITLE_ABS:\"ISGLS\" OR TITLE_ABS:\"ISGPS\" OR TITLE_ABS:\"postoperative hemorrhage\" OR TITLE_ABS:\"hemorrhage\" OR TITLE_ABS:\"definition\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 58,
@@ -2512,11 +2512,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:55.172488+00:00",
+        "searched_at": "2026-09-14T16:25:40.842889+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract] OR \"postpancreatectomy\"[Title/Abstract] OR \"posthepatectomy\"[Title/Abstract]) AND (\"complication\"[Title/Abstract] OR \"ISGLS\"[Title/Abstract] OR \"ISGPS\"[Title/Abstract] OR \"postoperative hemorrhage\"[Title/Abstract] OR \"hemorrhage\"[Title/Abstract] OR \"definition\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 53,
-        "returned": 53
+        "hit_count": 59,
+        "returned": 59
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
@@ -2554,7 +2554,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:57.098347+00:00",
+        "searched_at": "2026-09-14T16:25:42.010413+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"cholecystectomy\") AND (TITLE_ABS:\"learning curve\" OR TITLE_ABS:\"benchmark\" OR TITLE_ABS:\"quality indicator\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 10,
@@ -2562,7 +2562,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:58.515751+00:00",
+        "searched_at": "2026-09-14T16:25:42.735212+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreaticoduodenectomy\"[Title/Abstract] OR \"cholecystectomy\"[Title/Abstract]) AND (\"learning curve\"[Title/Abstract] OR \"benchmark\"[Title/Abstract] OR \"quality indicator\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 10,
@@ -2582,7 +2582,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:57.098347+00:00",
+        "searched_at": "2026-09-14T16:25:42.010413+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"cholecystectomy\") AND (TITLE_ABS:\"learning curve\" OR TITLE_ABS:\"benchmark\" OR TITLE_ABS:\"quality indicator\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 10,
@@ -2590,7 +2590,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:58.515751+00:00",
+        "searched_at": "2026-09-14T16:25:42.735212+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreaticoduodenectomy\"[Title/Abstract] OR \"cholecystectomy\"[Title/Abstract]) AND (\"learning curve\"[Title/Abstract] OR \"benchmark\"[Title/Abstract] OR \"quality indicator\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 10,
@@ -2610,7 +2610,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:01:57.098347+00:00",
+        "searched_at": "2026-09-14T16:25:42.010413+00:00",
         "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"cholecystectomy\") AND (TITLE_ABS:\"learning curve\" OR TITLE_ABS:\"benchmark\" OR TITLE_ABS:\"quality indicator\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 10,
@@ -2618,7 +2618,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:01:58.515751+00:00",
+        "searched_at": "2026-09-14T16:25:42.735212+00:00",
         "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreaticoduodenectomy\"[Title/Abstract] OR \"cholecystectomy\"[Title/Abstract]) AND (\"learning curve\"[Title/Abstract] OR \"benchmark\"[Title/Abstract] OR \"quality indicator\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 10,
@@ -2660,7 +2660,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:23.142295+00:00",
+        "searched_at": "2026-09-14T16:25:56.318859+00:00",
         "query": "((TITLE_ABS:\"liver transplantation\" OR TITLE_ABS:\"liver transplant\" OR TITLE_ABS:\"living donor hepatectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 678,
@@ -2668,11 +2668,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:24.393544+00:00",
+        "searched_at": "2026-09-14T16:25:58.083227+00:00",
         "query": "((\"liver transplantation\"[Title/Abstract] OR \"liver transplant\"[Title/Abstract] OR \"living donor hepatectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 575,
-        "returned": 575
+        "hit_count": 578,
+        "returned": 578
       }
     ],
     "gap": ""
@@ -2688,7 +2688,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:23.142295+00:00",
+        "searched_at": "2026-09-14T16:25:56.318859+00:00",
         "query": "((TITLE_ABS:\"liver transplantation\" OR TITLE_ABS:\"liver transplant\" OR TITLE_ABS:\"living donor hepatectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 678,
@@ -2696,11 +2696,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:24.393544+00:00",
+        "searched_at": "2026-09-14T16:25:58.083227+00:00",
         "query": "((\"liver transplantation\"[Title/Abstract] OR \"liver transplant\"[Title/Abstract] OR \"living donor hepatectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 575,
-        "returned": 575
+        "hit_count": 578,
+        "returned": 578
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -2716,7 +2716,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:23.142295+00:00",
+        "searched_at": "2026-09-14T16:25:56.318859+00:00",
         "query": "((TITLE_ABS:\"liver transplantation\" OR TITLE_ABS:\"liver transplant\" OR TITLE_ABS:\"living donor hepatectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 678,
@@ -2724,11 +2724,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:24.393544+00:00",
+        "searched_at": "2026-09-14T16:25:58.083227+00:00",
         "query": "((\"liver transplantation\"[Title/Abstract] OR \"liver transplant\"[Title/Abstract] OR \"living donor hepatectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 575,
-        "returned": 575
+        "hit_count": 578,
+        "returned": 578
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
@@ -2766,7 +2766,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:25.762616+00:00",
+        "searched_at": "2026-09-14T16:25:59.356249+00:00",
         "query": "((TITLE_ABS:\"pancreas transplantation\" OR TITLE_ABS:\"pancreatic transplantation\" OR TITLE_ABS:\"islet autotransplantation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 18,
@@ -2774,7 +2774,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:27.562552+00:00",
+        "searched_at": "2026-09-14T16:26:00.084619+00:00",
         "query": "((\"pancreas transplantation\"[Title/Abstract] OR \"pancreatic transplantation\"[Title/Abstract] OR \"islet autotransplantation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 14,
@@ -2794,7 +2794,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:25.762616+00:00",
+        "searched_at": "2026-09-14T16:25:59.356249+00:00",
         "query": "((TITLE_ABS:\"pancreas transplantation\" OR TITLE_ABS:\"pancreatic transplantation\" OR TITLE_ABS:\"islet autotransplantation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 18,
@@ -2802,7 +2802,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:27.562552+00:00",
+        "searched_at": "2026-09-14T16:26:00.084619+00:00",
         "query": "((\"pancreas transplantation\"[Title/Abstract] OR \"pancreatic transplantation\"[Title/Abstract] OR \"islet autotransplantation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 14,
@@ -2822,7 +2822,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:25.762616+00:00",
+        "searched_at": "2026-09-14T16:25:59.356249+00:00",
         "query": "((TITLE_ABS:\"pancreas transplantation\" OR TITLE_ABS:\"pancreatic transplantation\" OR TITLE_ABS:\"islet autotransplantation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 18,
@@ -2830,7 +2830,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:27.562552+00:00",
+        "searched_at": "2026-09-14T16:26:00.084619+00:00",
         "query": "((\"pancreas transplantation\"[Title/Abstract] OR \"pancreatic transplantation\"[Title/Abstract] OR \"islet autotransplantation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 14,
@@ -2872,7 +2872,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:29.381266+00:00",
+        "searched_at": "2026-09-14T16:26:01.358291+00:00",
         "query": "((TITLE_ABS:\"biliary atresia\" OR TITLE_ABS:\"choledochal cyst\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 24,
@@ -2880,7 +2880,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:31.190013+00:00",
+        "searched_at": "2026-09-14T16:26:02.314532+00:00",
         "query": "((\"biliary atresia\"[Title/Abstract] OR \"choledochal cyst\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 27,
@@ -2900,7 +2900,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:29.381266+00:00",
+        "searched_at": "2026-09-14T16:26:01.358291+00:00",
         "query": "((TITLE_ABS:\"biliary atresia\" OR TITLE_ABS:\"choledochal cyst\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 24,
@@ -2908,7 +2908,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:31.190013+00:00",
+        "searched_at": "2026-09-14T16:26:02.314532+00:00",
         "query": "((\"biliary atresia\"[Title/Abstract] OR \"choledochal cyst\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 27,
@@ -2928,7 +2928,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:29.381266+00:00",
+        "searched_at": "2026-09-14T16:26:01.358291+00:00",
         "query": "((TITLE_ABS:\"biliary atresia\" OR TITLE_ABS:\"choledochal cyst\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 24,
@@ -2936,7 +2936,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:31.190013+00:00",
+        "searched_at": "2026-09-14T16:26:02.314532+00:00",
         "query": "((\"biliary atresia\"[Title/Abstract] OR \"choledochal cyst\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 27,
@@ -2978,7 +2978,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:39.288314+00:00",
+        "searched_at": "2026-09-14T16:26:07.621192+00:00",
         "query": "((TITLE_ABS:\"biliary\" OR TITLE_ABS:\"liver\" OR TITLE_ABS:\"pancreatic\") AND (TITLE_ABS:\"ablation\" OR TITLE_ABS:\"interventional\" OR TITLE_ABS:\"endoscopic drainage\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 265,
@@ -2986,11 +2986,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:42.233875+00:00",
+        "searched_at": "2026-09-14T16:26:09.206478+00:00",
         "query": "((\"biliary\"[Title/Abstract] OR \"liver\"[Title/Abstract] OR \"pancreatic\"[Title/Abstract]) AND (\"ablation\"[Title/Abstract] OR \"interventional\"[Title/Abstract] OR \"endoscopic drainage\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 240,
-        "returned": 240
+        "hit_count": 245,
+        "returned": 245
       }
     ],
     "gap": ""
@@ -3006,7 +3006,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:39.288314+00:00",
+        "searched_at": "2026-09-14T16:26:07.621192+00:00",
         "query": "((TITLE_ABS:\"biliary\" OR TITLE_ABS:\"liver\" OR TITLE_ABS:\"pancreatic\") AND (TITLE_ABS:\"ablation\" OR TITLE_ABS:\"interventional\" OR TITLE_ABS:\"endoscopic drainage\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 265,
@@ -3014,11 +3014,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:42.233875+00:00",
+        "searched_at": "2026-09-14T16:26:09.206478+00:00",
         "query": "((\"biliary\"[Title/Abstract] OR \"liver\"[Title/Abstract] OR \"pancreatic\"[Title/Abstract]) AND (\"ablation\"[Title/Abstract] OR \"interventional\"[Title/Abstract] OR \"endoscopic drainage\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 240,
-        "returned": 240
+        "hit_count": 245,
+        "returned": 245
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -3034,7 +3034,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:39.288314+00:00",
+        "searched_at": "2026-09-14T16:26:07.621192+00:00",
         "query": "((TITLE_ABS:\"biliary\" OR TITLE_ABS:\"liver\" OR TITLE_ABS:\"pancreatic\") AND (TITLE_ABS:\"ablation\" OR TITLE_ABS:\"interventional\" OR TITLE_ABS:\"endoscopic drainage\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 265,
@@ -3042,11 +3042,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:42.233875+00:00",
+        "searched_at": "2026-09-14T16:26:09.206478+00:00",
         "query": "((\"biliary\"[Title/Abstract] OR \"liver\"[Title/Abstract] OR \"pancreatic\"[Title/Abstract]) AND (\"ablation\"[Title/Abstract] OR \"interventional\"[Title/Abstract] OR \"endoscopic drainage\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 240,
-        "returned": 240
+        "hit_count": 245,
+        "returned": 245
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
@@ -3084,7 +3084,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:43.695862+00:00",
+        "searched_at": "2026-09-14T16:26:10.744853+00:00",
         "query": "((TITLE_ABS:\"liver trauma\" OR TITLE_ABS:\"pancreatic trauma\" OR TITLE_ABS:\"duodenal trauma\" OR TITLE_ABS:\"pancreatic injury\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 10,
@@ -3092,7 +3092,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:45.044911+00:00",
+        "searched_at": "2026-09-14T16:26:11.483845+00:00",
         "query": "((\"liver trauma\"[Title/Abstract] OR \"pancreatic trauma\"[Title/Abstract] OR \"duodenal trauma\"[Title/Abstract] OR \"pancreatic injury\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 8,
@@ -3112,7 +3112,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:43.695862+00:00",
+        "searched_at": "2026-09-14T16:26:10.744853+00:00",
         "query": "((TITLE_ABS:\"liver trauma\" OR TITLE_ABS:\"pancreatic trauma\" OR TITLE_ABS:\"duodenal trauma\" OR TITLE_ABS:\"pancreatic injury\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 10,
@@ -3120,7 +3120,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:45.044911+00:00",
+        "searched_at": "2026-09-14T16:26:11.483845+00:00",
         "query": "((\"liver trauma\"[Title/Abstract] OR \"pancreatic trauma\"[Title/Abstract] OR \"duodenal trauma\"[Title/Abstract] OR \"pancreatic injury\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 8,
@@ -3140,7 +3140,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:43.695862+00:00",
+        "searched_at": "2026-09-14T16:26:10.744853+00:00",
         "query": "((TITLE_ABS:\"liver trauma\" OR TITLE_ABS:\"pancreatic trauma\" OR TITLE_ABS:\"duodenal trauma\" OR TITLE_ABS:\"pancreatic injury\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 10,
@@ -3148,7 +3148,7 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:45.044911+00:00",
+        "searched_at": "2026-09-14T16:26:11.483845+00:00",
         "query": "((\"liver trauma\"[Title/Abstract] OR \"pancreatic trauma\"[Title/Abstract] OR \"duodenal trauma\"[Title/Abstract] OR \"pancreatic injury\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
         "hit_count": 8,
@@ -3190,7 +3190,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:46.703215+00:00",
+        "searched_at": "2026-09-14T16:26:12.681500+00:00",
         "query": "((TITLE_ABS:\"pancreatic surgery\" OR TITLE_ABS:\"pancreas surgery\") AND (TITLE_ABS:\"minimally invasive\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 13,
@@ -3198,11 +3198,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:47.852835+00:00",
+        "searched_at": "2026-09-14T16:26:13.401362+00:00",
         "query": "((\"pancreatic surgery\"[Title/Abstract] OR \"pancreas surgery\"[Title/Abstract]) AND (\"minimally invasive\"[Title/Abstract] OR \"guideline\"[Title/Abstract] OR \"consensus\"[Title/Abstract] OR \"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 12,
-        "returned": 12
+        "hit_count": 14,
+        "returned": 14
       }
     ],
     "gap": ""
@@ -3218,7 +3218,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:46.703215+00:00",
+        "searched_at": "2026-09-14T16:26:12.681500+00:00",
         "query": "((TITLE_ABS:\"pancreatic surgery\" OR TITLE_ABS:\"pancreas surgery\") AND (TITLE_ABS:\"minimally invasive\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 13,
@@ -3226,11 +3226,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:47.852835+00:00",
+        "searched_at": "2026-09-14T16:26:13.401362+00:00",
         "query": "((\"pancreatic surgery\"[Title/Abstract] OR \"pancreas surgery\"[Title/Abstract]) AND (\"minimally invasive\"[Title/Abstract] OR \"guideline\"[Title/Abstract] OR \"consensus\"[Title/Abstract] OR \"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 12,
-        "returned": 12
+        "hit_count": 14,
+        "returned": 14
       }
     ],
     "gap": "综述历史检索以系统综述为重点。"
@@ -3246,7 +3246,7 @@
     "searches": [
       {
         "source": "Europe PMC",
-        "searched_at": "2026-09-14T15:02:46.703215+00:00",
+        "searched_at": "2026-09-14T16:26:12.681500+00:00",
         "query": "((TITLE_ABS:\"pancreatic surgery\" OR TITLE_ABS:\"pancreas surgery\") AND (TITLE_ABS:\"minimally invasive\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
         "complete": true,
         "hit_count": 13,
@@ -3254,11 +3254,11 @@
       },
       {
         "source": "PubMed",
-        "searched_at": "2026-09-14T15:02:47.852835+00:00",
+        "searched_at": "2026-09-14T16:26:13.401362+00:00",
         "query": "((\"pancreatic surgery\"[Title/Abstract] OR \"pancreas surgery\"[Title/Abstract]) AND (\"minimally invasive\"[Title/Abstract] OR \"guideline\"[Title/Abstract] OR \"consensus\"[Title/Abstract] OR \"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
         "complete": true,
-        "hit_count": 12,
-        "returned": 12
+        "hit_count": 14,
+        "returned": 14
       }
     ],
     "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
