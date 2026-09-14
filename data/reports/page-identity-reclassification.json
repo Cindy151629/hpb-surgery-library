@@ -1,0 +1,623 @@
+{
+  "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+  "parser_version": "main-title-v3",
+  "network_requests": 0,
+  "scope": "Saved response bytes with original matching SHA256; request timestamps preserved. HTML primary title, XML main record and PDF first-page title region only. Prior parsing retained privately and record history retained.",
+  "changed": [
+    {
+      "task_id": "L036_full",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T12:58:29.728771+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "citation_title",
+          "title": "ALPPS Improves Resectability Compared With Conventional Two-stage Hepatectomy in Patients With Advanced Colorectal Liver Metastasis: Results From a Scandinavian Multicenter Randomized Controlled Trial (LIGRO Trial)"
+        },
+        {
+          "source": "h1",
+          "title": "ALPPS Improves Resectability Compared With Conventional Two-stage Hepatectomy in Patients With Advanced Colorectal Liver Metastasis"
+        }
+      ]
+    },
+    {
+      "task_id": "B001_full",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:00:12.598102+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Safe Cholecystectomy Multi-Society Practice Guideline and State of the Art Consensus Conference on Prevention of Bile Duct Injury during Cholecystectomy - A SAGES Publication"
+        }
+      ]
+    },
+    {
+      "task_id": "B009",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:00:32.105893+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "citation_title",
+          "title": "Restrictive Strategy vs Usual Care for Cholecystectomy in Patients With Abdominal Pain and Gallstones: 5-Year Follow-Up of the SECURE Randomized Clinical Trial"
+        },
+        {
+          "source": "h1",
+          "title": "Restrictive Strategy vs Usual Care for Cholecystectomy in Patients With Abdominal Pain and Gallstones"
+        }
+      ]
+    },
+    {
+      "task_id": "B060_full",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:00:39.886843+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "SAGES-AHPBA 2025 Guideline for the Surgical Management of Bile Duct Injury Following Cholecystectomy - A SAGES Publication"
+        }
+      ]
+    },
+    {
+      "task_id": "W001",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:00:55.743551+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Clinical Spotlight Review: Laparoscopic Common Bile Duct Exploration - A SAGES Publication"
+        }
+      ]
+    },
+    {
+      "task_id": "P032_full",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:01:22.565408+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "xml:main-record-title",
+          "title": "Long-Term Outcome of Immediate Versus Postponed Intervention in Patients With Infected Necrotizing Pancreatitis (POINTER): Multicenter Randomized Trial"
+        }
+      ]
+    },
+    {
+      "task_id": "C034_full",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:03:21.297068+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "citation_title",
+          "title": "Impact of Portable Normothermic Blood-Based Machine Perfusion on Outcomes of Liver Transplant: The OCS Liver PROTECT Randomized Clinical Trial"
+        },
+        {
+          "source": "h1",
+          "title": "Impact of Portable Normothermic Blood-Based Machine Perfusion on Outcomes of Liver Transplant"
+        }
+      ]
+    },
+    {
+      "task_id": "VS012",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:03:39.702812+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Masters at Work - Pre-recorded `Live` Surgery: Robotic Right Hepatectomy from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VS014",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:03:41.002364+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Robotic Right Hepatectomy using monopolar energy: Perfecting the procedure without using advanced energy instruments. from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VS016",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:03:41.814881+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Nationwide outcomes & costs of laparoscopic and robotic vs open hepatectomies from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VS005",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:03:53.003250+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Robotic Completion Cholecystectomy Following Laparoscopic Reconstitutive Subtotal Cholecystectomy from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VS007",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:03:53.402254+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Laparoscopic reconstituting subtotal cholecystectomy: when the critical view of safety cannot be obtained from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VS010",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:03:54.014603+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "I can\\'t get the critical view of safety...Now what? from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VS013",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:03:59.295483+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "LAPAROSCOPIC RADICAL CHOLECYSTECTOMY FOR GALLBLADDER CARCINOMA from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VS002",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:04:00.736483+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Laparoscopic Common Bile Duct Exploration with Balloon Sphincteroplasty and Biliary Stent Placement from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VS006",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:04:00.836783+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Robot-Assisted Laparoscopic Subtotal Cholecystectomy and Common Bile Duct Exploration from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VS011",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:04:02.135881+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "ROBOTIC ASSISTED COMMON BILE DUCT EXPLORATION FOR CHOLEDOCHOLITHIASIS from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VS009",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:04:03.193175+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Common bile duct exploration: Never laparoscopically from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VS004",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:04:03.668082+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "SS15 Best of Video: V033. LAPAROENDOSCOPIC SINGLE-SITE COMMON BILE DUCT EXPLORATION from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VS001",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:04:05.308257+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "ROBOTIC HEPATICOJEJUNOSTOMY FOR COMMON BILE DUCT INJURY from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VS003",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:04:06.623304+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Laparoscopic treatment of choledochal cyst with stapled hepaticojejunostomy from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VS008",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:04:07.040668+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Laparoscopic Redo Hepaticojejunostomy——Biliary Strictures After Laparoscopic Pancreaticoduodenectomy from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VP001",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:04:10.222120+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Video Presentation: Laparoscopic Central Pancreatectomy with Pancreaticogastrostomy from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VP008",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:04:10.448940+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Robotic Pylorus Preserving Pancreaticoduodenectomy and Cholecystectomy from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VP005",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:04:14.148824+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Complications of laparoscopic pancreas surgery: Current data from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VP002",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:04:15.791727+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "ROBOTIC PANCREATICODUODENECTOMY from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VP003",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:04:17.447518+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "SS03 Best of Video I: V014. LAPAROSCOPIC WHIPPLE PROCEDURE WITH A 2-LAYERED PANCREATOJEJUNOSTOMY from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "VP009",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T13:04:19.133087+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Panel Discussion - Pancreas from the SAGES Video Library"
+        }
+      ]
+    },
+    {
+      "task_id": "B016_full",
+      "before": true,
+      "after": false,
+      "request_checked_at": "2026-09-14T13:58:30.752637+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "pdf:first-page-title-region",
+          "title": "Clinical Practice Guidelines"
+        }
+      ]
+    },
+    {
+      "task_id": "L036_full_cbed8350d9dc508e",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T14:41:12.745774+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "xml:main-record-title",
+          "title": "ALPPS Improves Resectability Compared With Conventional Two-stage Hepatectomy in Patients With Advanced Colorectal Liver Metastasis: Results From a Scandinavian Multicenter Randomized Controlled Trial (LIGRO Trial)"
+        }
+      ]
+    },
+    {
+      "task_id": "L017_full_f5f77fecd523e2b6",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T14:41:41.999484+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "citation_title",
+          "title": "Robotic Versus Laparoscopic Liver Resection in Various Settings: An International Multicenter Propensity Score Matched Study of 10.075 Patients"
+        },
+        {
+          "source": "h1",
+          "title": "Robotic Versus Laparoscopic Liver Resection in Various Settings"
+        }
+      ]
+    },
+    {
+      "task_id": "L060_full_667bb3e5551a2543",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T14:42:01.078386+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "citation_title",
+          "title": "Tranexamic Acid in Patients Undergoing Liver Resection: The HeLiX Randomized Clinical Trial"
+        },
+        {
+          "source": "h1",
+          "title": "Tranexamic Acid in Patients Undergoing Liver Resection"
+        }
+      ]
+    },
+    {
+      "task_id": "B001_full_d8a59fe634554b50",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T14:42:31.335407+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "Safe Cholecystectomy Multi-Society Practice Guideline and State of the Art Consensus Conference on Prevention of Bile Duct Injury during Cholecystectomy - A SAGES Publication"
+        }
+      ]
+    },
+    {
+      "task_id": "B009_full_c0cb32926798e703",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T14:42:54.272450+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "xml:main-record-title",
+          "title": "Restrictive Strategy vs Usual Care for Cholecystectomy in Patients With Abdominal Pain and Gallstones: 5-Year Follow-Up of the SECURE Randomized Clinical Trial"
+        }
+      ]
+    },
+    {
+      "task_id": "B060_full_700a739a05434a29",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T14:43:01.837453+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "og:title",
+          "title": "SAGES-AHPBA 2025 Guideline for the Surgical Management of Bile Duct Injury Following Cholecystectomy - A SAGES Publication"
+        }
+      ]
+    },
+    {
+      "task_id": "P032_full_a5fdbf87e36ffb43",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T14:43:40.972897+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "citation_title",
+          "title": "Long-Term Outcome of Immediate Versus Postponed Intervention in Patients With Infected Necrotizing Pancreatitis (POINTER): Multicenter Randomized Trial"
+        },
+        {
+          "source": "h1",
+          "title": "Long-Term Outcome of Immediate Versus Postponed Intervention in Patients With Infected Necrotizing Pancreatitis (POINTER)"
+        }
+      ]
+    },
+    {
+      "task_id": "P032_full_16bc89da763279e3",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T14:43:38.579997+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "xml:main-record-title",
+          "title": "Long-Term Outcome of Immediate Versus Postponed Intervention in Patients With Infected Necrotizing Pancreatitis (POINTER): Multicenter Randomized Trial"
+        }
+      ]
+    },
+    {
+      "task_id": "P018_full_9f1c06fbc0d00cbc",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T14:43:48.963783+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "citation_title",
+          "title": "A Simple Classification of Pancreatic Duct Size and Texture Predicts Postoperative Pancreatic Fistula: A classification of the International Study Group of Pancreatic Surgery"
+        },
+        {
+          "source": "h1",
+          "title": "A Simple Classification of Pancreatic Duct Size and Texture Predicts Postoperative Pancreatic Fistula"
+        }
+      ]
+    },
+    {
+      "task_id": "P048_full_5938c59a2e4c1335",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T14:43:50.601732+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "citation_title",
+          "title": "Pancreatogastrostomy Versus Pancreatojejunostomy for RECOnstruction After PANCreatoduodenectomy (RECOPANC, DRKS 00000767): Perioperative and Long-term Results of a Multicenter Randomized Controlled Trial"
+        },
+        {
+          "source": "h1",
+          "title": "Pancreatogastrostomy Versus Pancreatojejunostomy for RECOnstruction After PANCreatoduodenectomy (RECOPANC, DRKS 00000767)"
+        }
+      ]
+    },
+    {
+      "task_id": "P048_full_1a2c59dbc342fd4a",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T14:43:51.120009+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "xml:main-record-title",
+          "title": "Pancreatogastrostomy Versus Pancreatojejunostomy for RECOnstruction After PANCreatoduodenectomy (RECOPANC, DRKS 00000767): Perioperative and Long-term Results of a Multicenter Randomized Controlled Trial"
+        }
+      ]
+    },
+    {
+      "task_id": "P049_full_33ab4c1adee1bed5",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T14:43:53.583135+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "xml:main-record-title",
+          "title": "A Multicenter, Randomized, Double-Blinded, Clinical Trial Comparing Cattell-Warren and Blumgart Anastomoses Following Partial Pancreatoduodenectomy: PANasta Trial"
+        }
+      ]
+    },
+    {
+      "task_id": "P050_full_6712dbaf21ec8c70",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T14:43:58.191796+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "xml:main-record-title",
+          "title": "Modified Blumgart Mattress Suture Versus Conventional Interrupted Suture in Pancreaticojejunostomy During Pancreaticoduodenectomy: Randomized Controlled Trial"
+        }
+      ]
+    },
+    {
+      "task_id": "C034_full_7aad164be906d809",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T14:45:11.943999+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "citation_title",
+          "title": "Impact of Portable Normothermic Blood-Based Machine Perfusion on Outcomes of Liver Transplant: The OCS Liver PROTECT Randomized Clinical Trial"
+        },
+        {
+          "source": "h1",
+          "title": "Impact of Portable Normothermic Blood-Based Machine Perfusion on Outcomes of Liver Transplant"
+        }
+      ]
+    },
+    {
+      "task_id": "C034_full_58200824bca17634",
+      "before": false,
+      "after": true,
+      "request_checked_at": "2026-09-14T14:45:13.064684+00:00",
+      "reclassified_at": "2026-09-14T14:56:07.743574+00:00",
+      "title_candidates": [
+        {
+          "source": "xml:main-record-title",
+          "title": "Impact of Portable Normothermic Blood-Based Machine Perfusion on Outcomes of Liver Transplant: The OCS Liver PROTECT Randomized Clinical Trial"
+        }
+      ]
+    }
+  ],
+  "skipped": [],
+  "fulltext_link_counts": {
+    "attempted": 179,
+    "title_matched": 95,
+    "unconfirmed": 84
+  },
+  "note_hashes_unchanged": true
+}

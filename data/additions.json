@@ -1,0 +1,224 @@
+[
+  {
+    "id": "NEW-LT-001",
+    "title": "AASLD AST Practice Guideline on adult liver transplantation: Candidate evaluation.",
+    "organ": "移植扩展",
+    "topic": "肝移植候选者评估",
+    "year": 2026,
+    "authors": "Dove L, Chadha RM, Lai JC, DiMartini A, Liapakis A, Parikh ND, Firpi-Morell R, Conteh L, Fallon M, Trotter J, Ladner DP, Sapisochin G, Lucey MR.",
+    "journal": "Hepatology (Baltimore, Md.)",
+    "doi": "10.1097/HEP.0000000000001644",
+    "pmid": "41405234",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41405234/",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13070310/",
+    "type": "指南／共识",
+    "language": "英文",
+    "pmcid": "PMC13070310",
+    "volume": "83",
+    "issue": "6",
+    "pages": "1609-1645",
+    "first_publication_date": "2025-12-17",
+    "print_publication_date": "2026-06-01",
+    "linked_article_ids": [
+      "C022"
+    ],
+    "relationship_type": "新版成人肝移植候选者评估指南；AASLD现行目录将2014版列为prior recommendations。",
+    "verification_detail": "AASLD官方发布及现行目录、PubMed题录及摘要、EuropePMC核心元数据和PMC作者稿索引交叉核对。EuropePMC作者列表重复DiMartini及Fallon；按PubMed展示的13名作者各保留一次。PMC直连返回验证码、EuropePMC正文403，已读取官方PMC索引返回的实质正文段落，未取得全文文件。",
+    "note": {
+      "zh_title": "AASLD与AST成人肝移植实践指南：候选者评估（2025在线／2026正式刊期）",
+      "question": "如何识别可能从成人肝移植获益者，并通过转诊、多学科评估与风险处理形成公平且可实施的移植计划？",
+      "design": "多学科专家与图书馆员历时24个月制定指南，按Oxford体系评证据并结合获益风险及患者偏好确定推荐强度。正文报告初筛1066篇、344篇全文评阅、183篇数据提取，最终261篇为推荐提供资料，2025年1月再次更新检索；并非单一队列或疗效试验。",
+      "results": [
+        "建议慢性肝病发生失代偿事件后转诊；没有失代偿时，转诊的MELD阈值仍不明确，不能把低分单独作为阻止转诊的依据。所有急性肝衰竭患者应接受紧急移植中心评估。",
+        "评估应由多学科进行。所有候选者应评估营养；门诊体能评价推荐使用标准化工具，例如肝脏衰弱指数或Karnofsky功能状态。",
+        "衰弱虽与较差结局相关，但不应成为唯一移植禁忌；高MELD或慢加急性肝衰竭也需结合病程趋势及无效治疗风险判断。",
+        "不能仅凭BMI排除评估；严重精神健康问题也不自动构成绝对禁忌，应尽力治疗稳定后重新评估资格。"
+      ],
+      "interpretation": "本库解读：核心变化是把转诊、候选资格与最后实施移植分开判断，并识别可干预障碍。可与C022历史版对照阅读，优先学习推荐所附证据等级，而非将强推荐误当随机试验结论。建议把营养、衰弱和心理社会支持纳入同一评估记录，观察处理后风险是否改变。",
+      "limitations": [
+        "检索主要限制英语及特定时间窗，部分关键文章由专家补入，证据覆盖仍可能不全。",
+        "多项强推荐依据较低等级研究；衰弱的预后相关性不证明拒绝移植能改善总体获益。",
+        "主要参照美国移植与分配背景，不能直接替代当地分配政策；本次仅重点核对方法、转诊、营养体能及禁忌段落。"
+      ],
+      "read_depth": "正文重点核对",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41405234/",
+          "locator": "题录、Abstract",
+          "scope": "核对正式刊期、作者、DOI和PMID；阅读完整摘要。"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13070310/",
+          "locator": "Methods；Section 1推荐1–4；Section 2推荐12、28–29、33；Section 3推荐43–49",
+          "scope": "读取官方PMC作者稿被检索索引公开返回的上述正文；直连为验证码，未下载或通读全文。"
+        },
+        {
+          "url": "https://www.aasld.org/liver-transplantation",
+          "locator": "Adult Liver Transplant；Additional Resources",
+          "scope": "官方现行指南及旧版prior recommendations关系。"
+        },
+        {
+          "url": "https://www.aasld.org/aasld-and-ast-announce-two-new-practice-guidelines",
+          "locator": "2025年12月17日发布正文",
+          "scope": "官方新版发布及更新范围。"
+        }
+      ],
+      "reviewed_at": "2026-09-14T13:40:25.873362+00:00",
+      "completion": "substantive"
+    }
+  },
+  {
+    "id": "NEW-LT-002",
+    "title": "AASLD AST Practice Guideline on adult liver transplantation: Diagnosis and post-transplant management of non-graft-related complications.",
+    "organ": "移植扩展",
+    "topic": "肝移植远期管理",
+    "year": 2026,
+    "authors": "Sharma P, Izzy M, Ghabril MS, Serper M, Clark VC, Ison MG, Hameed B, Volk M, Brown RS Jr, Humar A, Martin P.",
+    "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
+    "doi": "10.1097/LVT.0000000000000785",
+    "pmid": "41405235",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41405235/",
+    "fulltext_url": "",
+    "type": "指南／共识",
+    "language": "英文",
+    "pmcid": "",
+    "volume": "32",
+    "issue": "8",
+    "pages": "1157-1193",
+    "first_publication_date": "2025-12-17",
+    "print_publication_date": "2026-08-01",
+    "linked_article_ids": [
+      "C023"
+    ],
+    "relationship_type": "新版非移植物并发症管理；与新版移植物相关并发症指南共同覆盖旧版长期管理范围，不视为本篇单独替代旧版全部内容。",
+    "verification_detail": "AASLD官方发布和现行目录、PubMed题录完整摘要、EuropePMC核心元数据及AASLD LiverLearning作者讲解摘要交叉核对。尚未取得原文完整正文；出版商DOI页面不作为已读全文。",
+    "note": {
+      "zh_title": "AASLD与AST成人肝移植实践指南：非移植物并发症的诊断及移植后管理（2025在线／2026正式刊期）",
+      "question": "成人肝移植术后90天以后，怎样预防及管理影响生存和生活质量的非移植物并发症，并安排移植中心与基层医生共同随访？",
+      "design": "专家组将成人受者常见管理问题组织成PICO问题，由医学图书馆员系统检索，采用Oxford证据等级并结合获益风险及患者偏好制定推荐。本文是长期管理指南，未设置新的随机对照人群，也未报告统一干预效应量。",
+      "results": [
+        "摘要把长期死亡的重要来源归于免疫抑制相关问题、疾病复发及内外科共病，重点涉及代谢综合征、慢性肾病、心血管病、恶性肿瘤和疝。",
+        "明确适用范围为成人肝移植超过90天后的非移植物并发症，强调预防与疾病专项处理，以及移植中心和基层医生之间的协作。",
+        "AASLD公开作者讲解还概括骨健康、生殖健康、疫苗与癌症筛查，并指出GLP-1受体激动剂及SGLT2抑制剂用于移植后代谢问题仍有证据缺口。",
+        "作者说明相当一部分管理依据来自回顾性队列、系统综述及普通人群资料外推，明确需要更充分的前瞻性受者研究。"
+      ],
+      "interpretation": "本库解读：随访不宜只记录移植物功能或免疫抑制药浓度，应同时追踪肾脏、心血管、代谢和肿瘤风险。与C023对照时需注意新指南已拆分管理主题；本篇应与移植物相关并发症指南配合阅读。指南的目标是改善长期照护，并不等于本文证明某套随访方案降低了死亡。",
+      "limitations": [
+        "本次阅读完整摘要及官方作者讲解摘要，未核对各推荐正文，不能据此给出药物剂量、筛查间隔或具体推荐等级。",
+        "普通人群疗效和风险未必适用于免疫抑制状态及移植受者药物相互作用。",
+        "适用时间与人群限定明确，不能直接推广到术后早期或儿童；不少问题仍缺乏前瞻性证据。"
+      ],
+      "read_depth": "摘要导读",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41405235/",
+          "locator": "题录、Abstract",
+          "scope": "完整阅读摘要并核对作者、在线日期与2026年8月正式刊期；原文全文未取得。"
+        },
+        {
+          "url": "https://liverlearning.aasld.org/AssetListing/Guideline-Update-Adult-Liver-Transplantation-Diagnosis-and-Post-Transplant-Management-of-Non-Graft-Related-Complications-17608/Adult-Liver-Transplantation-Diagnosis-Post-Transplant-Non-Graft-Related-Comps-80887",
+          "locator": "Video Summary",
+          "scope": "读取AASLD公开页面对Sharma、Martin讲解的摘要；未观看视频或核对完整逐字稿。"
+        },
+        {
+          "url": "https://www.aasld.org/liver-transplantation",
+          "locator": "Adult Liver Transplant；Additional Resources",
+          "scope": "确认现行成人指南与历史长期管理版的目录关系。"
+        },
+        {
+          "url": "https://www.aasld.org/aasld-and-ast-announce-two-new-practice-guidelines",
+          "locator": "2025年12月17日发布正文",
+          "scope": "确认AASLD及AST发布和管理主题范围。"
+        }
+      ],
+      "reviewed_at": "2026-09-14T13:40:25.873362+00:00",
+      "completion": "substantive"
+    }
+  },
+  {
+    "id": "NEW-NICE-001",
+    "organ": "胆囊与胆道",
+    "topic": "胆石症综合指南",
+    "title": "Gallstone disease: diagnosis and management: Clinical guideline",
+    "year": 2014,
+    "journal": "",
+    "publisher": "National Institute for Health and Care Excellence (NICE)",
+    "publication_place": "London",
+    "series": "NICE Clinical Guidelines",
+    "guideline_id": "CG188",
+    "authors": "National Institute for Health and Care Excellence (NICE)",
+    "authors_full": "National Institute for Health and Care Excellence (NICE)",
+    "authors_structured": [
+      {
+        "collectiveName": "National Institute for Health and Care Excellence (NICE)"
+      }
+    ],
+    "type": "指南/共识",
+    "document_type": "官方出版临床指南（非期刊论文）",
+    "source_record_type": "PubmedBookArticle",
+    "doi": "",
+    "pmid": "41021712",
+    "pmcid": "",
+    "bookshelf_id": "NBK618150",
+    "isbn": "978-1-4731-0782-3",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK618150/",
+    "fulltext_url": "https://www.ncbi.nlm.nih.gov/books/n/nicecg188guid/pdf/",
+    "evidence_url": "https://www.ncbi.nlm.nih.gov/books/NBK618150/",
+    "official_guideline_url": "https://www.nice.org.uk/guidance/cg188",
+    "first_publication_date": "2014-10-29",
+    "page_count": 13,
+    "language": "英文",
+    "publication_types": [
+      "Clinical guideline"
+    ],
+    "topic_tags": [
+      "胆石症综合指南",
+      "胆囊结石",
+      "胆总管结石",
+      "急性胆囊炎"
+    ],
+    "linked_article_ids": [],
+    "linked_video_ids": [],
+    "record_origin": "本轮新增，PubMed独有题录经Bookshelf原始指南核对",
+    "first_discovered": "2026-09-14T13:54:21.466300+00:00",
+    "verified_on": "2026-09-14",
+    "verification": "Bookshelf官方题录及推荐版PDF内容已核对",
+    "access": "官方13页推荐版PDF已读取；完整证据综述及附录未读取",
+    "access_normalized": "官方推荐版PDF可读",
+    "fulltext_recorded": true,
+    "content_category": "文献",
+    "note": {
+      "zh_title": "NICE胆石症诊断与管理指南（CG188，2014）",
+      "question": "成人胆囊结石与胆总管结石应如何检查，何时切除胆囊，胆管清石失败后如何安排后续治疗？",
+      "design": "NICE官方出版的临床指南，2014年10月29日发布，由NCBI Bookshelf收录为指南出版物，并非期刊原始研究。本轮读取13页推荐版PDF，重点核对第6–8页推荐及第10–12页研究建议；没有把PDF的2024版权年或PubMed入库时间当成指南发布年。",
+      "results": [
+        "推荐1.1.1–1.1.3：疑似胆石症先查肝功能及超声；超声未发现胆总管结石但胆管扩张或肝功能异常时考虑MRCP，MRCP仍不能明确诊断时考虑EUS。",
+        "推荐1.2.1–1.2.4：正常胆囊及胆道中的无症状胆囊结石无需立即治疗；有症状胆囊结石推荐腹腔镜胆囊切除，急性胆囊炎推荐诊断后1周内早期手术。",
+        "推荐1.2.5–1.2.6：胆囊积脓患者当时存在手术禁忌且保守治疗失败时，可行经皮胆囊造口；恢复至可耐受手术后，应重新评估胆囊切除。",
+        "推荐1.3.1–1.3.3：有症状及无症状胆总管结石均推荐清石并切除胆囊；清石可与胆囊切除同期外科完成，或术前/同期ERCP完成。ERCP不能清石时的支架引流只作为等待最终清石的暂时措施。",
+        "研究建议第2、4项明确指出：低至中风险患者常规术中胆道造影的获益/危害，以及ERCP清石后早期与延迟胆囊切除的比较，当时仍缺充分随机证据；研究问题不能当成已经确定的临床推荐。"
+      ],
+      "interpretation": "本库将其作为成人胆石症诊疗路径的独立历史指南。关键是区分无症状胆囊结石与无症状胆总管结石，两者在本指南中的处理建议不同；引流成功也不等于胆管结石已根治。文件提供诊疗推荐，不能解释成每种路径在所有风险人群中都有相同获益。",
+      "limitations": [
+        "本轮没有逐项读取配套完整指南证据综述、经济学模型及附录，故不补写GRADE等级或研究样本量。",
+        "推荐形成于2014年；文件中的未决问题应结合后续研究审查，不能据此断言当前仍无证据。",
+        "日间诊疗和成本选择涉及英国NHS服务背景，应用需结合患者情况与当地资源。"
+      ],
+      "read_depth": "正文重点核对",
+      "sources": [
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/books/n/nicecg188guid/pdf/",
+          "locator": "PDF第6–8页，推荐1.1.1–1.3.4；第10–12页研究建议，尤其第2及第4项",
+          "scope": "已读取官方13页推荐版PDF；没有读取另行链接的完整证据综述与附录"
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK618150/",
+          "locator": "Bookshelf题录、Clinical guideline、NICE Guideline No.188、出版日期及PMID",
+          "scope": "核对官方出版物身份、2014-10-29日期、Bookshelf ID及PDF入口"
+        }
+      ],
+      "reviewed_at": "2026-09-14T13:54:21.466300+00:00",
+      "completion": "substantive"
+    }
+  }
+]

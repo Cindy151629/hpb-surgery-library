@@ -1,0 +1,528 @@
+{
+  "generated_at": "2026-09-14T14:26:38.366915+00:00",
+  "records": [
+    {
+      "id": "L036",
+      "previous": {
+        "checked_at": "2026-09-14T13:09:58.993158+00:00",
+        "title": "ALPPS Improves Resectability Compared With Conventional Two-stage Hepatectomy in Patients With Advanced Colorectal Liver Metastasis",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:08.850096+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0000000000002511",
+        "title": "ALPPS Improves Resectability Compared With Conventional Two-stage Hepatectomy in Patients With Advanced Colorectal Liver Metastasis",
+        "subtitle": "Results From a Scandinavian Multicenter Randomized Controlled Trial (LIGRO Trial)",
+        "full_title": "ALPPS Improves Resectability Compared With Conventional Two-stage Hepatectomy in Patients With Advanced Colorectal Liver Metastasis: Results From a Scandinavian Multicenter Randomized Controlled Trial (LIGRO Trial)",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "L037",
+      "previous": {
+        "checked_at": "2026-09-14T13:09:58.992687+00:00",
+        "title": "ALPPS Improves Survival Compared With TSH in Patients Affected of CRLM",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:08.848863+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0000000000003701",
+        "title": "ALPPS Improves Survival Compared With TSH in Patients Affected of CRLM",
+        "subtitle": "Survival Analysis From the Randomized Controlled Trial LIGRO",
+        "full_title": "ALPPS Improves Survival Compared With TSH in Patients Affected of CRLM: Survival Analysis From the Randomized Controlled Trial LIGRO",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "L001",
+      "previous": {
+        "checked_at": "2026-09-14T13:10:19.457477+00:00",
+        "title": "The Southampton Consensus Guidelines for Laparoscopic Liver Surgery",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:08.850337+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0000000000002524",
+        "title": "The Southampton Consensus Guidelines for Laparoscopic Liver Surgery",
+        "subtitle": "From Indication to Implementation",
+        "full_title": "The Southampton Consensus Guidelines for Laparoscopic Liver Surgery: From Indication to Implementation",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "L005",
+      "previous": {
+        "checked_at": "2026-09-14T13:10:21.858282+00:00",
+        "title": "The International Position on Laparoscopic Liver Surgery",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:09.668704+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0b013e3181b3b2d8",
+        "title": "The International Position on Laparoscopic Liver Surgery",
+        "subtitle": "The Louisville Statement, 2008",
+        "full_title": "The International Position on Laparoscopic Liver Surgery: The Louisville Statement, 2008",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "L017",
+      "previous": {
+        "checked_at": "2026-09-14T13:10:26.638835+00:00",
+        "title": "Robotic Versus Laparoscopic Liver Resection in Various Settings",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:10.878064+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0000000000006267",
+        "title": "Robotic Versus Laparoscopic Liver Resection in Various Settings",
+        "subtitle": "An International Multicenter Propensity Score Matched Study of 10.075 Patients",
+        "full_title": "Robotic Versus Laparoscopic Liver Resection in Various Settings: An International Multicenter Propensity Score Matched Study of 10.075 Patients",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "L009",
+      "previous": {
+        "checked_at": "2026-09-14T13:10:37.238878+00:00",
+        "title": "Laparoscopic Versus Open Resection for Colorectal Liver Metastases",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:12.115866+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0000000000002353",
+        "title": "Laparoscopic Versus Open Resection for Colorectal Liver Metastases",
+        "subtitle": "The OSLO-COMET Randomized Controlled Trial",
+        "full_title": "Laparoscopic Versus Open Resection for Colorectal Liver Metastases: The OSLO-COMET Randomized Controlled Trial",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "L060",
+      "previous": {
+        "checked_at": "2026-09-14T13:10:48.904290+00:00",
+        "title": "Tranexamic Acid in Patients Undergoing Liver Resection",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:13.330700+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1001%2Fjama.2024.11783",
+        "title": "Tranexamic Acid in Patients Undergoing Liver Resection",
+        "subtitle": "The HeLiX Randomized Clinical Trial",
+        "full_title": "Tranexamic Acid in Patients Undergoing Liver Resection: The HeLiX Randomized Clinical Trial",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "L046",
+      "previous": {
+        "checked_at": "2026-09-14T13:10:55.590034+00:00",
+        "title": "The ???50-50 Criteria??? on Postoperative Day 5",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:14.653136+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2F01.sla.0000189131.90876.9e",
+        "title": "The ???50-50 Criteria??? on Postoperative Day 5",
+        "subtitle": "An Accurate Predictor of Liver Failure and Death After Hepatectomy",
+        "full_title": "The ???50-50 Criteria??? on Postoperative Day 5: An Accurate Predictor of Liver Failure and Death After Hepatectomy",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "L048",
+      "previous": {
+        "checked_at": "2026-09-14T13:10:58.958752+00:00",
+        "title": "How Should Transection of the Liver Be Performed?",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:15.959711+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2F01.sla.0000189121.35617.d7",
+        "title": "How Should Transection of the Liver Be Performed?",
+        "subtitle": "A Prospective Randomized Study in 100 Consecutive Patients: Comparing Four Different Transection Strategies",
+        "full_title": "How Should Transection of the Liver Be Performed?: A Prospective Randomized Study in 100 Consecutive Patients: Comparing Four Different Transection Strategies",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "B025",
+      "previous": {
+        "checked_at": "2026-09-14T13:11:30.551906+00:00",
+        "title": "Association of Optimal Time Interval to Re-resection for Incidental Gallbladder Cancer With Overall Survival",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:17.253154+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1001%2Fjamasurg.2016.3642",
+        "title": "Association of Optimal Time Interval to Re-resection for Incidental Gallbladder Cancer With Overall Survival",
+        "subtitle": "A Multi-Institution Analysis From the US Extrahepatic Biliary Malignancy Consortium",
+        "full_title": "Association of Optimal Time Interval to Re-resection for Incidental Gallbladder Cancer With Overall Survival: A Multi-Institution Analysis From the US Extrahepatic Biliary Malignancy Consortium",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "B043",
+      "previous": {
+        "checked_at": "2026-09-14T13:11:42.248745+00:00",
+        "title": "Subtotal Cholecystectomy for “Difficult Gallbladders”",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:18.530374+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1001%2Fjamasurg.2014.1219",
+        "title": "Subtotal Cholecystectomy for “Difficult Gallbladders”",
+        "subtitle": "Systematic Review and Meta-analysis",
+        "full_title": "Subtotal Cholecystectomy for “Difficult Gallbladders”: Systematic Review and Meta-analysis",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "B057",
+      "previous": {
+        "checked_at": "2026-09-14T13:12:05.485292+00:00",
+        "title": "Surgical Outcomes of Non-Benchmark Perihilar Cholangiocarcinoma",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:19.720633+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0000000000007033",
+        "title": "Surgical Outcomes of Non-Benchmark Perihilar Cholangiocarcinoma",
+        "subtitle": "A Multicenter Study from High-Volume Centers in Japan",
+        "full_title": "Surgical Outcomes of Non-Benchmark Perihilar Cholangiocarcinoma: A Multicenter Study from High-Volume Centers in Japan",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "B056",
+      "previous": {
+        "checked_at": "2026-09-14T13:12:08.860654+00:00",
+        "title": "Evolution of Surgical Treatment for Perihilar Cholangiocarcinoma",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:21.043923+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0b013e3182708b57",
+        "title": "Evolution of Surgical Treatment for Perihilar Cholangiocarcinoma",
+        "subtitle": "A Single-Center 34-Year Review of 574 Consecutive Resections",
+        "full_title": "Evolution of Surgical Treatment for Perihilar Cholangiocarcinoma: A Single-Center 34-Year Review of 574 Consecutive Resections",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "B009",
+      "previous": {
+        "checked_at": "2026-09-14T13:12:17.948551+00:00",
+        "title": "Restrictive Strategy vs Usual Care for Cholecystectomy in Patients With Abdominal Pain and Gallstones",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:22.419432+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1001%2Fjamasurg.2024.3080",
+        "title": "Restrictive Strategy vs Usual Care for Cholecystectomy in Patients With Abdominal Pain and Gallstones",
+        "subtitle": "5-Year Follow-Up of the SECURE Randomized Clinical Trial",
+        "full_title": "Restrictive Strategy vs Usual Care for Cholecystectomy in Patients With Abdominal Pain and Gallstones: 5-Year Follow-Up of the SECURE Randomized Clinical Trial",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "B058",
+      "previous": {
+        "checked_at": "2026-09-14T13:12:27.020060+00:00",
+        "title": "Accurate Staging for Gallbladder Cancer",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:23.709166+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0b013e31822238d8",
+        "title": "Accurate Staging for Gallbladder Cancer",
+        "subtitle": "Implications for Surgical Therapy and Pathological Assessment",
+        "full_title": "Accurate Staging for Gallbladder Cancer: Implications for Surgical Therapy and Pathological Assessment",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "P054",
+      "previous": {
+        "checked_at": "2026-09-14T13:13:19.650099+00:00",
+        "title": "Early Versus Late Drain Removal After Standard Pancreatic Resections",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:26.020526+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0b013e3181e61e88",
+        "title": "Early Versus Late Drain Removal After Standard Pancreatic Resections",
+        "subtitle": "Results of a Prospective Randomized Trial",
+        "full_title": "Early Versus Late Drain Removal After Standard Pancreatic Resections: Results of a Prospective Randomized Trial",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "P001",
+      "previous": {
+        "checked_at": "2026-09-14T13:13:23.246073+00:00",
+        "title": "Minimally Invasive Versus Open Distal Pancreatectomy (LEOPARD)",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:27.287015+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0000000000002979",
+        "title": "Minimally Invasive Versus Open Distal Pancreatectomy (LEOPARD)",
+        "subtitle": "A Multicenter Patient-blinded Randomized Controlled Trial",
+        "full_title": "Minimally Invasive Versus Open Distal Pancreatectomy (LEOPARD): A Multicenter Patient-blinded Randomized Controlled Trial",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "P035",
+      "previous": {
+        "checked_at": "2026-09-14T13:13:34.000028+00:00",
+        "title": "Long-Term Outcomes of Early Surgery vs Endoscopy First in Chronic Pancreatitis",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:28.578300+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1001%2Fjamasurg.2024.5182",
+        "title": "Long-Term Outcomes of Early Surgery vs Endoscopy First in Chronic Pancreatitis",
+        "subtitle": "Follow-Up Analysis of the ESCAPE Randomized Clinical Trial",
+        "full_title": "Long-Term Outcomes of Early Surgery vs Endoscopy First in Chronic Pancreatitis: Follow-Up Analysis of the ESCAPE Randomized Clinical Trial",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "P017",
+      "previous": {
+        "checked_at": "2026-09-14T13:13:39.760287+00:00",
+        "title": "Postpancreatectomy Acute Pancreatitis (PPAP)",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:29.835507+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0000000000005226",
+        "title": "Postpancreatectomy Acute Pancreatitis (PPAP)",
+        "subtitle": "Definition and Grading From the International Study Group for Pancreatic Surgery (ISGPS)",
+        "full_title": "Postpancreatectomy Acute Pancreatitis (PPAP): Definition and Grading From the International Study Group for Pancreatic Surgery (ISGPS)",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "P052",
+      "previous": {
+        "checked_at": "2026-09-14T13:13:50.251235+00:00",
+        "title": "No Need for Routine Drainage After Pancreatic Head Resection",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:31.078475+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0000000000001859",
+        "title": "No Need for Routine Drainage After Pancreatic Head Resection",
+        "subtitle": "The Dual-Center, Randomized, Controlled PANDRA Trial (ISRCTN04937707)",
+        "full_title": "No Need for Routine Drainage After Pancreatic Head Resection: The Dual-Center, Randomized, Controlled PANDRA Trial (ISRCTN04937707)",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "P018",
+      "previous": {
+        "checked_at": "2026-09-14T13:13:58.208324+00:00",
+        "title": "A Simple Classification of Pancreatic Duct Size and Texture Predicts Postoperative Pancreatic Fistula",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:32.361793+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0000000000004855",
+        "title": "A Simple Classification of Pancreatic Duct Size and Texture Predicts Postoperative Pancreatic Fistula",
+        "subtitle": "A classification of the International Study Group of Pancreatic Surgery",
+        "full_title": "A Simple Classification of Pancreatic Duct Size and Texture Predicts Postoperative Pancreatic Fistula: A classification of the International Study Group of Pancreatic Surgery",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "P045",
+      "previous": {
+        "checked_at": "2026-09-14T13:13:59.374889+00:00",
+        "title": "Alternative Fistula Risk Score for Pancreatoduodenectomy (a-FRS)",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:33.662184+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0000000000002620",
+        "title": "Alternative Fistula Risk Score for Pancreatoduodenectomy (a-FRS)",
+        "subtitle": "Design and International External Validation",
+        "full_title": "Alternative Fistula Risk Score for Pancreatoduodenectomy (a-FRS): Design and International External Validation",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "P048",
+      "previous": {
+        "checked_at": "2026-09-14T13:14:04.199060+00:00",
+        "title": "Pancreatogastrostomy Versus Pancreatojejunostomy for RECOnstruction After PANCreatoduodenectomy (RECOPANC, DRKS 00000767)",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:34.980118+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0000000000001240",
+        "title": "Pancreatogastrostomy Versus Pancreatojejunostomy for RECOnstruction After PANCreatoduodenectomy (RECOPANC, DRKS 00000767)",
+        "subtitle": "Perioperative and Long-term Results of a Multicenter Randomized Controlled Trial",
+        "full_title": "Pancreatogastrostomy Versus Pancreatojejunostomy for RECOnstruction After PANCreatoduodenectomy (RECOPANC, DRKS 00000767): Perioperative and Long-term Results of a Multicenter Randomized Controlled Trial",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "P004",
+      "previous": {
+        "checked_at": "2026-09-14T13:14:19.283088+00:00",
+        "title": "Minimally Invasive vs Open Left Pancreatectomy for Resectable Pancreatic Cancer",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:36.457050+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1001%2Fjamasurg.2025.4054",
+        "title": "Minimally Invasive vs Open Left Pancreatectomy for Resectable Pancreatic Cancer",
+        "subtitle": "Long-Term Results of the Randomized DIPLOMA Trial",
+        "full_title": "Minimally Invasive vs Open Left Pancreatectomy for Resectable Pancreatic Cancer: Long-Term Results of the Randomized DIPLOMA Trial",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "P056",
+      "previous": {
+        "checked_at": "2026-09-14T13:14:27.562907+00:00",
+        "title": "Reconsidering Abdominal Drainage After Left Pancreatectomy",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:38.419955+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0000000000006651",
+        "title": "Reconsidering Abdominal Drainage After Left Pancreatectomy",
+        "subtitle": "The Randomized Controlled PANDRA II Trial",
+        "full_title": "Reconsidering Abdominal Drainage After Left Pancreatectomy: The Randomized Controlled PANDRA II Trial",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "C015",
+      "previous": {
+        "checked_at": "2026-09-14T13:14:39.054892+00:00",
+        "title": "Classification of Surgical Complications",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:39.765229+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2F01.sla.0000133083.54934.ae",
+        "title": "Classification of Surgical Complications",
+        "subtitle": "A New Proposal With Evaluation in a Cohort of 6336 Patients and Results of a Survey",
+        "full_title": "Classification of Surgical Complications: A New Proposal With Evaluation in a Cohort of 6336 Patients and Results of a Survey",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "C016",
+      "previous": {
+        "checked_at": "2026-09-14T13:14:41.005154+00:00",
+        "title": "The Comprehensive Complication Index",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:41.036432+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0b013e318296c732",
+        "title": "The Comprehensive Complication Index",
+        "subtitle": "A Novel Continuous Scale to Measure Surgical Morbidity",
+        "full_title": "The Comprehensive Complication Index: A Novel Continuous Scale to Measure Surgical Morbidity",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "C037",
+      "previous": {
+        "checked_at": "2026-09-14T13:15:06.399854+00:00",
+        "title": "Expert Consensus Guidelines on Minimally Invasive Donor Hepatectomy for Living Donor Liver Transplantation From Innovation to Implementation",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:42.307433+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1097%2Fsla.0000000000004475",
+        "title": "Expert Consensus Guidelines on Minimally Invasive Donor Hepatectomy for Living Donor Liver Transplantation From Innovation to Implementation",
+        "subtitle": "A Joint Initiative From the International Laparoscopic Liver Society (ILLS) and the Asian-Pacific Hepato-Pancreato-Biliary Association (A-PHPBA)",
+        "full_title": "Expert Consensus Guidelines on Minimally Invasive Donor Hepatectomy for Living Donor Liver Transplantation From Innovation to Implementation: A Joint Initiative From the International Laparoscopic Liver Society (ILLS) and the Asian-Pacific Hepato-Pancreato-Biliary Association (A-PHPBA)",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    },
+    {
+      "id": "C034",
+      "previous": {
+        "checked_at": "2026-09-14T13:15:16.643065+00:00",
+        "title": "Impact of Portable Normothermic Blood-Based Machine Perfusion on Outcomes of Liver Transplant",
+        "identity_match": false
+      },
+      "current": {
+        "checked_at": "2026-09-14T14:24:43.564193+00:00",
+        "requested_url": "https://api.crossref.org/works/10.1001%2Fjamasurg.2021.6781",
+        "title": "Impact of Portable Normothermic Blood-Based Machine Perfusion on Outcomes of Liver Transplant",
+        "subtitle": "The OCS Liver PROTECT Randomized Clinical Trial",
+        "full_title": "Impact of Portable Normothermic Blood-Based Machine Perfusion on Outcomes of Liver Transplant: The OCS Liver PROTECT Randomized Clinical Trial",
+        "identity_match": true,
+        "match_scope": "full returned title and DOI"
+      },
+      "reason": "Previous parser omitted publisher subtitle; re-fetched official Crossref metadata and combined title/subtitle before comparison."
+    }
+  ],
+  "resolved": 29
+}

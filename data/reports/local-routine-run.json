@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-09-14T14:14:49.771522+00:00",
+  "actual_run_id": "2026-09-14T140204-070758+0000",
+  "pipeline_finished_at": "2026-09-14T14:10:36.692020+00:00",
+  "exit_code": 0,
+  "before_count": 368,
+  "after_count_during_run": 368,
+  "notes_preserved_during_run": true,
+  "evidence": "Immediately after the actual updater returned, all 368 note hashes were compared with work/hpb/before_routine_notes_hashes.json. Changed IDs were []. Subsequent curated full-text corrections are separate.",
+  "cloud_execution": false,
+  "source_queries": 64,
+  "source_queries_complete": 64,
+  "link_checks": 1,
+  "source_failures": 0,
+  "resource_pending_changes": 1,
+  "model_api_calls": 0
+}

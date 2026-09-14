@@ -1,0 +1,12 @@
+{
+  "domain_id": "hpb-surgery",
+  "repository": "",
+  "https_base_url": "",
+  "public_scope_approved": true,
+  "schedule_enabled": false,
+  "observed_scheduled_run": null,
+  "status_url": "",
+  "runtime_status_url": "",
+  "public_scope_approved_at": "2026-09-14T15:34:33.590435+00:00",
+  "approval_basis": "User confirmed the previously listed publication scope and requested scheduled automatic updates."
+}

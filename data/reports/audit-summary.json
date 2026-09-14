@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-09-14T15:54:54.046102+00:00",
+  "data_version": "hpb-1b0aafbab167d949",
+  "counts": {
+    "article": 286,
+    "society": 1,
+    "video": 48,
+    "course": 15,
+    "portal": 12,
+    "lead": 6
+  },
+  "reading": {
+    "摘要导读": 179,
+    "正文重点核对": 106,
+    "资料受限": 2
+  },
+  "current_page_attempts": 368,
+  "core_identity_confirmed": 260,
+  "page_title_matched": 110,
+  "matched_fulltext_obtained": 73,
+  "substantive_notes": 285,
+  "source_limited": [
+    "B041",
+    "P013"
+  ],
+  "videos_playback_passed": 0,
+  "embeds_passed": 0,
+  "last_successful_search": "2026-09-14T15:02:51.987086+00:00",
+  "last_successful_publish": null
+}

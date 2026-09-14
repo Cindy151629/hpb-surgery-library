@@ -1,0 +1,527 @@
+{
+  "audited_at": "2026-09-14T14:57:22.654307+00:00",
+  "kind": "Recorded evidence review, not a network execution",
+  "network_requests": 0,
+  "source_run_files": [
+    "2026-09-14T141721-067363+0000.json",
+    "2026-09-14T143255-187545+0000.json"
+  ],
+  "configuration_fingerprint": "432330577aa8f62e080c4267f70290e702a62346e16bdd504c4ee4de72fbbb89",
+  "required_sources": 64,
+  "matched_sources": 64,
+  "missing": [],
+  "evidence": {
+    "Europe PMC:liver-anatomy": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "8e19173badfea10b2063529c210eadea2ea1cbfd97df25aa0d2c5b94ff59efe2",
+      "searched_at": "2026-09-14T14:33:03.811431+00:00",
+      "returned": 257,
+      "hit_count": 257,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:liver-anatomy": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "3e005dec7ea369892afd67176d7ca6a7c392a0bd222083b0660a1077ef3be132",
+      "searched_at": "2026-09-14T14:17:33.999513+00:00",
+      "returned": 283,
+      "hit_count": 283,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:liver-resection": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "491efeef87070e09447ebbb2d03c2be79e306c0c1332dba8989a2379705c973e",
+      "searched_at": "2026-09-14T14:33:26.324308+00:00",
+      "returned": 703,
+      "hit_count": 703,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:liver-resection": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "5cb3fc1360746c3d87622ffd248750d3a96f80be53973d7ece4f3a2ca6abdcc2",
+      "searched_at": "2026-09-14T14:17:55.302855+00:00",
+      "returned": 736,
+      "hit_count": 736,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:liver-growth": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "76bb4b1371fe39599f22624325a3a785832985a750c1f0836fdc8e825c0c4f1a",
+      "searched_at": "2026-09-14T14:33:31.024925+00:00",
+      "returned": 161,
+      "hit_count": 161,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:liver-growth": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "baf5353d0d2f42c6250d94ee83b302dd3547f640aebd87d1132521786ae5faed",
+      "searched_at": "2026-09-14T14:18:02.060081+00:00",
+      "returned": 169,
+      "hit_count": 169,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:liver-hcc": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "75b303ac897b212b24c853f19c15aa24aac489f9caae4dabb7dc3e658abb4047",
+      "searched_at": "2026-09-14T14:34:27.899795+00:00",
+      "returned": 1758,
+      "hit_count": 1758,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:liver-hcc": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "727e34265593ff473e413a2b1c71271f1a85e48390d7cbef87dc0c21108b9412",
+      "searched_at": "2026-09-14T14:18:57.357237+00:00",
+      "returned": 1853,
+      "hit_count": 1853,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:liver-crlm": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "eb921f37a8fa5c60d0a1e61e46ad7ae6e7e858f98e6333b9d0cc4233db845fd9",
+      "searched_at": "2026-09-14T14:34:44.222589+00:00",
+      "returned": 537,
+      "hit_count": 537,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:liver-crlm": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "c61ef98678c3adabc206232130e509edb8a2686dda941f7179291cdf02a029bc",
+      "searched_at": "2026-09-14T14:19:14.336895+00:00",
+      "returned": 554,
+      "hit_count": 554,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:liver-benign": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "0ffb090228912ecb23f540d022212cbc7e0481233454ef97b19b3c3ea3e04671",
+      "searched_at": "2026-09-14T14:34:46.534916+00:00",
+      "returned": 52,
+      "hit_count": 52,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:liver-benign": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "711cc8f3389e4959172a9aff3ce9c519716f12ed6b84020d24e12f8a01bf0727",
+      "searched_at": "2026-09-14T14:19:18.659364+00:00",
+      "returned": 56,
+      "hit_count": 56,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:liver-vessel": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "e3e80b751f5f7e39131ee165d174dbca3e6bea7355c19885f2589f94e4dfb8b2",
+      "searched_at": "2026-09-14T14:34:50.780722+00:00",
+      "returned": 101,
+      "hit_count": 101,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:liver-vessel": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "387b9508994c98c529225e1ee0739472dd41b7d3f67e4be13d81b6d82193c200",
+      "searched_at": "2026-09-14T14:19:25.102796+00:00",
+      "returned": 124,
+      "hit_count": 124,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:biliary-chole": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "cfa7a4afae2711309b60e64ee07933824af53045104e10e116424305dddfc8be",
+      "searched_at": "2026-09-14T14:37:39.215091+00:00",
+      "returned": 5421,
+      "hit_count": 5421,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:biliary-chole": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "4bb822f97de6409eaf7d556f3854f1532f3a9c08079cfc52b85683652e49f900",
+      "searched_at": "2026-09-14T14:22:38.614564+00:00",
+      "returned": 5547,
+      "hit_count": 5547,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:biliary-difficult": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "f5981a81b42dce8ccc653fd6c9e180355dff4650363286427e5eafc13ae75935",
+      "searched_at": "2026-09-14T14:37:44.066924+00:00",
+      "returned": 154,
+      "hit_count": 154,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:biliary-difficult": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "4516535455416954d167eb0e4ecee5b590aef9db988a4614a28df62aba092d1d",
+      "searched_at": "2026-09-14T14:22:48.384963+00:00",
+      "returned": 164,
+      "hit_count": 164,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:biliary-stones": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "3561bb57147323753f3b234df560e9c6aa5608822d9a4b5428b2c98a893f347e",
+      "searched_at": "2026-09-14T14:37:59.129300+00:00",
+      "returned": 549,
+      "hit_count": 549,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:biliary-stones": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "d3952d88094326ba3a6b7b1e5a4a383c5c779e7668cc872c053fd05c169ccc07",
+      "searched_at": "2026-09-14T14:23:06.434569+00:00",
+      "returned": 589,
+      "hit_count": 589,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:biliary-repair": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "1c3b07a50d7c8ea279ea78034eb76fdd9d6e17db2a41497c37b3e7678f3f7de4",
+      "searched_at": "2026-09-14T14:38:09.168320+00:00",
+      "returned": 311,
+      "hit_count": 311,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:biliary-repair": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "640be1784f857ec0fc8e8113d61c46def855ecfa7a2beadf46e566798c03e4a8",
+      "searched_at": "2026-09-14T14:23:16.259836+00:00",
+      "returned": 351,
+      "hit_count": 351,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:biliary-gbc": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "72cc11fe39370b8f204693085f3f44b95e6d612207468aa495e7e6dd5c130801",
+      "searched_at": "2026-09-14T14:38:18.133037+00:00",
+      "returned": 282,
+      "hit_count": 282,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:biliary-gbc": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "dc52336e502454aef26c7ff9b15bdde8272fdcdc6ca7473ac03752e5065a20cb",
+      "searched_at": "2026-09-14T14:23:25.068927+00:00",
+      "returned": 309,
+      "hit_count": 309,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:biliary-cca": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "99d13ef290656e6b12e3f4514f19c10d3e7ff36dbc8c9abd62eb304f4517c612",
+      "searched_at": "2026-09-14T14:38:39.037623+00:00",
+      "returned": 600,
+      "hit_count": 600,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:biliary-cca": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "568fd74d36d17d9d5646d7d93d792ddf1735a725b7c6ee5e3b854bd99184d970",
+      "searched_at": "2026-09-14T14:23:45.158582+00:00",
+      "returned": 656,
+      "hit_count": 656,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:pancreas-whipple": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "ae6f180ba239a34fe1b98125372348c4502bab6db33aa2fa247ec710257e9038",
+      "searched_at": "2026-09-14T14:39:26.573528+00:00",
+      "returned": 1416,
+      "hit_count": 1416,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:pancreas-whipple": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "3ceeffcaf8b7ea72e661ee7724da706d0d74552aab8b6b873656f95c03d3ff54",
+      "searched_at": "2026-09-14T14:24:35.031547+00:00",
+      "returned": 1517,
+      "hit_count": 1517,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:pancreas-distal": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "feb55e49e47237ee5645e2e9de822c88b68d0349ba5f0f2e579735e59cca5b0e",
+      "searched_at": "2026-09-14T14:39:39.364004+00:00",
+      "returned": 490,
+      "hit_count": 490,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:pancreas-distal": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "8d8d1531f67a2f70bf618d25da4a2e6ae82b8b65f5d54b1d80ee220cdb37d8e6",
+      "searched_at": "2026-09-14T14:24:49.936774+00:00",
+      "returned": 507,
+      "hit_count": 507,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:pancreas-local": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "88395bf1b3d384761363e96cfc3be5ef620173baa9499b48cfd5843e31636a04",
+      "searched_at": "2026-09-14T14:39:44.697378+00:00",
+      "returned": 187,
+      "hit_count": 187,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:pancreas-local": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "b41492021c48aaf70336994f4f879b47bd0a5d713003d6c3d868838e56314afb",
+      "searched_at": "2026-09-14T14:24:57.283240+00:00",
+      "returned": 196,
+      "hit_count": 196,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:pancreas-anastomosis": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "4c8ba4fcdec787e1be9c9559466de2ccc6b5d05703a8bef9a42eaef27fc7aa5c",
+      "searched_at": "2026-09-14T14:40:04.757329+00:00",
+      "returned": 687,
+      "hit_count": 687,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:pancreas-anastomosis": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "724d6eb102e19f73ef80b546598f6cb064293e8420ec53179555e696d04eab40",
+      "searched_at": "2026-09-14T14:25:12.159416+00:00",
+      "returned": 717,
+      "hit_count": 717,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:pancreas-vessel": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "fd1d066d595a85b3a0f916bc2c6508674fde96f96385f4d50fc0cb10681c1299",
+      "searched_at": "2026-09-14T14:40:08.129513+00:00",
+      "returned": 95,
+      "hit_count": 95,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:pancreas-vessel": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "04152531590215ba07d65f48e6f76ba494b7015ff1f7614726d904feee15e130",
+      "searched_at": "2026-09-14T14:25:16.759449+00:00",
+      "returned": 108,
+      "hit_count": 108,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:pancreas-cancer": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "9864b72b4715f6d2b17a9036d710f74fed1b4d2f5735aa57bd3716940b8cb5bd",
+      "searched_at": "2026-09-14T14:40:50.329211+00:00",
+      "returned": 1212,
+      "hit_count": 1212,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:pancreas-cancer": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "f1a3095672660c6d208315606f89dddd0f73c0214cb89b1c86f6fade9d0cee0d",
+      "searched_at": "2026-09-14T14:25:55.193093+00:00",
+      "returned": 1346,
+      "hit_count": 1346,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:pancreas-cyst": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "f2512b7751612a6c8b176b18790336a4b1b9cd5ce0d7ebaac6255f1ba903d9e3",
+      "searched_at": "2026-09-14T14:41:11.311893+00:00",
+      "returned": 643,
+      "hit_count": 643,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:pancreas-cyst": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "91aa4758a8c3f61767d2fcd96937b97db0c2d59da65e98d41337f8ef1678af34",
+      "searched_at": "2026-09-14T14:26:16.492684+00:00",
+      "returned": 729,
+      "hit_count": 729,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:pancreas-inflammation": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "7816466de254fcf94efea604fdc460415d0186593e66db002bb6b6e1bb260c27",
+      "searched_at": "2026-09-14T14:41:44.045755+00:00",
+      "returned": 1082,
+      "hit_count": 1082,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:pancreas-inflammation": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "147ac6b689bf4fd134bd495fd920128cfd32599c9404ca0812960cf92c025d5e",
+      "searched_at": "2026-09-14T14:26:48.099317+00:00",
+      "returned": 1160,
+      "hit_count": 1160,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:common-navigation": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "fb1da4b1dff921a307d0b5248b459c51ef039ffed7d733276407325f6c804a43",
+      "searched_at": "2026-09-14T14:41:50.561677+00:00",
+      "returned": 142,
+      "hit_count": 142,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:common-navigation": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "1945c8529cc43b8a525d69160470ff6ae44666001fb8a77fbe71db49741988ed",
+      "searched_at": "2026-09-14T14:26:55.012619+00:00",
+      "returned": 156,
+      "hit_count": 156,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:common-eras": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "9f2a6ebba2a942087d18e50a584b73a7c48e91c5cf1a85ea630b89e5ced42cbd",
+      "searched_at": "2026-09-14T14:41:57.452749+00:00",
+      "returned": 174,
+      "hit_count": 174,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:common-eras": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "8db0d69b597f46ea8078d6561397cfd71e4e4b1516b298f362746253430f0932",
+      "searched_at": "2026-09-14T14:27:02.974206+00:00",
+      "returned": 195,
+      "hit_count": 195,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:common-complications": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "7718838225cf6faddd5b91fb7b7c2e16d8cf6ed221a7eab67106189ca88516a5",
+      "searched_at": "2026-09-14T14:42:17.899103+00:00",
+      "returned": 764,
+      "hit_count": 764,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:common-complications": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "054b608ab36bcc054c928c0d2defbf0efe125df8e34479b152d86e2aa962bd3f",
+      "searched_at": "2026-09-14T14:27:19.285930+00:00",
+      "returned": 829,
+      "hit_count": 829,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:common-quality": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "37d765f61f8aadd29919a5411d684455e335f950df80069b6ccb60a31a3db649",
+      "searched_at": "2026-09-14T14:42:21.977430+00:00",
+      "returned": 104,
+      "hit_count": 104,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:common-quality": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "518ed1449fba6e8a7881d4ebbc97e9f6ab8c57aeb3b06ea1b019b881433fe794",
+      "searched_at": "2026-09-14T14:27:22.130901+00:00",
+      "returned": 116,
+      "hit_count": 116,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:extended-liver-transplant": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "5e4c90f22130d0e67ae6e36e64fd694ed5ac06fcc23635825c959eea6b8194b7",
+      "searched_at": "2026-09-14T14:45:24.990456+00:00",
+      "returned": 6004,
+      "hit_count": 6004,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:extended-liver-transplant": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "fd18efff9fa8385af1914ff345b5db06fe791acff121db20e3ed3ed4b5429e44",
+      "searched_at": "2026-09-14T14:30:44.896172+00:00",
+      "returned": 6277,
+      "hit_count": 6277,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:extended-pancreas-transplant": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "330a48e07fe9576bfbe6b7e8157d7a4a93ecd16367805c5876bc0204e7be89b8",
+      "searched_at": "2026-09-14T14:45:30.590766+00:00",
+      "returned": 195,
+      "hit_count": 195,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:extended-pancreas-transplant": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "f1b8b5628e036ae4f67143bc00425ff243b2b9ac0bd49c06f4de37d09377534c",
+      "searched_at": "2026-09-14T14:30:55.043897+00:00",
+      "returned": 210,
+      "hit_count": 210,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:extended-pediatric": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "26f128c302b0c6f8e5ac9f15118b0f14eb7c4e1da45abe026812e1195654b62a",
+      "searched_at": "2026-09-14T14:45:34.972450+00:00",
+      "returned": 114,
+      "hit_count": 114,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:extended-pediatric": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "bf47c57f97328ef487c71ef0fa23079e4e168d8af53d20fa934d577f0d7b13d7",
+      "searched_at": "2026-09-14T14:31:00.404754+00:00",
+      "returned": 128,
+      "hit_count": 128,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:extended-intervention": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "90b9f8140efe086636d2a537a2a63238f9677b7beb4de789d52441a7e6061fae",
+      "searched_at": "2026-09-14T14:46:35.920397+00:00",
+      "returned": 1849,
+      "hit_count": 1849,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:extended-intervention": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "9eee51cb9656eb60ee8bf28fcdfabad59e032422c4eebc9d29fa09697f1531cc",
+      "searched_at": "2026-09-14T14:32:02.637180+00:00",
+      "returned": 2004,
+      "hit_count": 2004,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:extended-trauma": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "b2157ba477a92430c8fb95b9cfc69d008dc0ac1a409c3a29f79a883fdb38131d",
+      "searched_at": "2026-09-14T14:46:38.674359+00:00",
+      "returned": 92,
+      "hit_count": 92,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:extended-trauma": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "a66772d1ce5b26752e5ecad25b97e575d5a3676fe79422282ae44f14ca6ea5ed",
+      "searched_at": "2026-09-14T14:32:08.497480+00:00",
+      "returned": 98,
+      "hit_count": 98,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "Europe PMC:pancreas-approach": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "f59cdab2084aadcbf4934f93684ab9048d4cfb338e8cf0b7ec995b7b445ea586",
+      "searched_at": "2026-09-14T14:46:48.781354+00:00",
+      "returned": 271,
+      "hit_count": 271,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "PubMed:pancreas-approach": {
+      "run_id": "2026-09-14T141721-067363+0000",
+      "query_fingerprint": "977dc791f02cea695d112d95b51c87412eaef0c83ad3be9e7b8f462ef3833fcf",
+      "searched_at": "2026-09-14T14:32:19.706137+00:00",
+      "returned": 319,
+      "hit_count": 319,
+      "source_completed_at": "2026-09-14T14:32:25.694242+00:00"
+    },
+    "SAGES RSS": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "6304e4266068a32feed214a88869d6d36f9c514088fdbc014cf98d186c259fac",
+      "searched_at": "2026-09-14T14:46:50.403071+00:00",
+      "returned": 24,
+      "hit_count": null,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    },
+    "Stanford directory": {
+      "run_id": "2026-09-14T143255-187545+0000",
+      "query_fingerprint": "046fcb927ed016f463eb1aef2682306f9bfe77a516150ea780a89b8308fc0ed7",
+      "searched_at": "2026-09-14T14:46:54.311724+00:00",
+      "returned": 7,
+      "hit_count": null,
+      "source_completed_at": "2026-09-14T14:46:54.345426+00:00"
+    }
+  }
+}

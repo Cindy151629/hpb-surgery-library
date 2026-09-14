@@ -1,0 +1,43 @@
+{
+  "B016": {
+    "fields": {
+      "fulltext_url": "https://easl.eu/wp-content/uploads/2016/10/EASL-CPG-Gallstones.pdf"
+    },
+    "evidence": [
+      {
+        "name": "EASL官方指南PDF",
+        "url": "https://easl.eu/wp-content/uploads/2016/10/EASL-CPG-Gallstones.pdf",
+        "checked_at": "2026-09-14T13:58:30.752637+00:00"
+      }
+    ]
+  },
+  "B062": {
+    "fields": {
+      "doi": "10.3969/j.issn.1009-6604.2025.08.001",
+      "authors": "中国医疗保健国际交流促进会微创诊疗学分会",
+      "authors_full": "中国医疗保健国际交流促进会微创诊疗学分会",
+      "fulltext_url": "https://bookcafe.yuntsg.com/ueditor/jsp/upload/file/20250903/1756892224193071170.pdf",
+      "type": "专家共识",
+      "volume": 25,
+      "issue": 8,
+      "pages": "449–456"
+    },
+    "identity_confirmed": true,
+    "matched_fields": {
+      "pdf_title": true,
+      "collective_author": true,
+      "doi": true,
+      "year": true,
+      "journal_volume_pages": true
+    },
+    "checked_at": "2026-09-14T14:04:13.684213+00:00",
+    "evidence": [
+      {
+        "name": "同济医院图书馆目录与原刊PDF",
+        "url": "https://bookcafe.yuntsg.com/ueditor/jsp/upload/file/20250903/1756892224193071170.pdf",
+        "checked_at": "2026-09-14T14:04:13.684213+00:00",
+        "sha256": "5f66b9add5f62d4261a48631b903427ffa9af57291415885736e73ddb6814ced"
+      }
+    ]
+  }
+}

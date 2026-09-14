@@ -1,0 +1,777 @@
+{
+  "version": "hpb-topics-3",
+  "organs": [
+    "肝脏外科",
+    "胆囊与胆道外科",
+    "胰腺外科",
+    "共同技术与围手术期",
+    "移植及扩展专题"
+  ],
+  "resource_types": [
+    "指南/共识",
+    "综述",
+    "原始研究",
+    "技术/解剖文章",
+    "学会专题",
+    "视频",
+    "课程模块",
+    "合集入口",
+    "待核线索"
+  ],
+  "topics": [
+    {
+      "id": "liver-anatomy",
+      "organ": "肝脏外科",
+      "label": "解剖与术前评估",
+      "aliases": [
+        "肝脏解剖",
+        "解剖与命名",
+        "解剖性肝切除",
+        "Couinaud",
+        "Brisbane",
+        "future liver remnant"
+      ],
+      "query": "(\"hepatectomy\" OR \"liver resection\") AND (\"anatomy\" OR \"assessment\" OR \"nomenclature\")",
+      "query_groups": [
+        [
+          "hepatectomy",
+          "liver resection"
+        ],
+        [
+          "anatomy",
+          "assessment",
+          "nomenclature"
+        ]
+      ]
+    },
+    {
+      "id": "liver-resection",
+      "organ": "肝脏外科",
+      "label": "肝切除术式与路径",
+      "aliases": [
+        "肝切除",
+        "半肝",
+        "肝段",
+        "中央肝",
+        "左外叶",
+        "hepatectomy",
+        "liver resection"
+      ],
+      "query": "(\"hepatectomy\" OR \"liver resection\" OR \"liver surgery\" OR \"hepatic surgery\") AND (\"laparoscopic\" OR \"robotic\" OR \"open\" OR \"segmentectomy\")",
+      "query_groups": [
+        [
+          "hepatectomy",
+          "liver resection",
+          "liver surgery",
+          "hepatic surgery"
+        ],
+        [
+          "laparoscopic",
+          "robotic",
+          "open",
+          "segmentectomy"
+        ]
+      ]
+    },
+    {
+      "id": "liver-growth",
+      "organ": "肝脏外科",
+      "label": "余肝增容与分期切除",
+      "aliases": [
+        "余肝增容",
+        "门静脉栓塞",
+        "分期肝切除",
+        "ALPPS",
+        "LIGRO",
+        "liver venous deprivation"
+      ],
+      "query": "(\"ALPPS\" OR \"portal vein embolization\" OR \"portal venous embolization\" OR \"liver venous deprivation\")",
+      "query_groups": [
+        [
+          "ALPPS",
+          "portal vein embolization",
+          "portal venous embolization",
+          "liver venous deprivation"
+        ]
+      ]
+    },
+    {
+      "id": "liver-hcc",
+      "organ": "肝脏外科",
+      "label": "肝细胞癌",
+      "aliases": [
+        "肝细胞癌",
+        "原发性肝癌",
+        "HCC",
+        "hepatocellular carcinoma"
+      ],
+      "query": "(\"hepatocellular carcinoma\") AND (\"resection\" OR \"surgery\" OR \"hepatectomy\")",
+      "query_groups": [
+        [
+          "hepatocellular carcinoma"
+        ],
+        [
+          "resection",
+          "surgery",
+          "hepatectomy"
+        ]
+      ]
+    },
+    {
+      "id": "liver-crlm",
+      "organ": "肝脏外科",
+      "label": "结直肠癌肝转移",
+      "aliases": [
+        "结直肠癌肝转移",
+        "肝转移",
+        "CRLM",
+        "colorectal liver metastases"
+      ],
+      "query": "(\"colorectal liver metastases\" OR \"colorectal liver metastasis\") AND (\"resection\" OR \"ablation\" OR \"surgery\")",
+      "query_groups": [
+        [
+          "colorectal liver metastases",
+          "colorectal liver metastasis"
+        ],
+        [
+          "resection",
+          "ablation",
+          "surgery"
+        ]
+      ]
+    },
+    {
+      "id": "liver-benign",
+      "organ": "肝脏外科",
+      "label": "良性肝病与囊肿",
+      "aliases": [
+        "良性肝",
+        "肝囊肿",
+        "肝血管瘤",
+        "肝包虫",
+        "hemangioma",
+        "hydatid"
+      ],
+      "query": "(\"liver cyst\" OR \"hepatic cyst\" OR \"liver hemangioma\" OR \"hepatic hemangioma\" OR \"hepatic echinococcosis\") AND (\"surgery\" OR \"surgical\" OR \"resection\")",
+      "query_groups": [
+        [
+          "liver cyst",
+          "hepatic cyst",
+          "liver hemangioma",
+          "hepatic hemangioma",
+          "hepatic echinococcosis"
+        ],
+        [
+          "surgery",
+          "surgical",
+          "resection"
+        ]
+      ]
+    },
+    {
+      "id": "liver-vessel",
+      "organ": "肝脏外科",
+      "label": "血管处理与肝动脉灌注",
+      "aliases": [
+        "肝血流阻断",
+        "肝实质离断",
+        "肝动脉灌注",
+        "Pringle",
+        "hepatic artery infusion"
+      ],
+      "query": "(\"hepatectomy\" OR \"liver resection\") AND (\"vascular reconstruction\" OR \"Pringle\" OR \"hepatic artery infusion\")",
+      "query_groups": [
+        [
+          "hepatectomy",
+          "liver resection"
+        ],
+        [
+          "vascular reconstruction",
+          "Pringle",
+          "hepatic artery infusion"
+        ]
+      ]
+    },
+    {
+      "id": "biliary-chole",
+      "organ": "胆囊与胆道外科",
+      "label": "胆囊切除与适应证",
+      "aliases": [
+        "胆囊切除",
+        "急性胆囊炎",
+        "胆囊息肉",
+        "胆石症",
+        "cholecystectomy",
+        "cholecystitis"
+      ],
+      "query": "(\"cholecystectomy\" OR \"cholecystitis\" OR \"gallbladder polyp\" OR \"gallstones\" OR \"gallstone disease\")",
+      "query_groups": [
+        [
+          "cholecystectomy",
+          "cholecystitis",
+          "gallbladder polyp",
+          "gallstones",
+          "gallstone disease"
+        ]
+      ]
+    },
+    {
+      "id": "biliary-difficult",
+      "organ": "胆囊与胆道外科",
+      "label": "困难胆囊与补救术式",
+      "aliases": [
+        "困难胆囊",
+        "次全",
+        "Mirizzi",
+        "subtotal",
+        "critical view of safety",
+        "CVS"
+      ],
+      "query": "(\"subtotal cholecystectomy\" OR \"critical view of safety\" OR \"Mirizzi\")",
+      "query_groups": [
+        [
+          "subtotal cholecystectomy",
+          "critical view of safety",
+          "Mirizzi"
+        ]
+      ]
+    },
+    {
+      "id": "biliary-stones",
+      "organ": "胆囊与胆道外科",
+      "label": "胆管结石与探查",
+      "aliases": [
+        "胆管结石",
+        "胆总管结石",
+        "胆管探查",
+        "胆道镜",
+        "LCBDE",
+        "choledocholithiasis",
+        "transcystic"
+      ],
+      "query": "(\"common bile duct exploration\" OR \"choledocholithiasis\" OR \"hepatolithiasis\")",
+      "query_groups": [
+        [
+          "common bile duct exploration",
+          "choledocholithiasis",
+          "hepatolithiasis"
+        ]
+      ]
+    },
+    {
+      "id": "biliary-repair",
+      "organ": "胆囊与胆道外科",
+      "label": "胆管损伤与胆肠重建",
+      "aliases": [
+        "胆管损伤",
+        "胆道损伤",
+        "胆肠",
+        "Hepp-Couinaud",
+        "hepaticojejunostomy",
+        "bile duct injury"
+      ],
+      "query": "(\"bile duct injury\" OR \"hepaticojejunostomy\")",
+      "query_groups": [
+        [
+          "bile duct injury",
+          "hepaticojejunostomy"
+        ]
+      ]
+    },
+    {
+      "id": "biliary-gbc",
+      "organ": "胆囊与胆道外科",
+      "label": "胆囊癌",
+      "aliases": [
+        "胆囊癌",
+        "gallbladder cancer",
+        "radical cholecystectomy"
+      ],
+      "query": "(\"gallbladder cancer\" OR \"gallbladder carcinoma\") AND (\"surgery\" OR \"surgical\" OR \"resection\")",
+      "query_groups": [
+        [
+          "gallbladder cancer",
+          "gallbladder carcinoma"
+        ],
+        [
+          "surgery",
+          "surgical",
+          "resection"
+        ]
+      ]
+    },
+    {
+      "id": "biliary-cca",
+      "organ": "胆囊与胆道外科",
+      "label": "胆管癌与胆道肿瘤",
+      "aliases": [
+        "胆管癌",
+        "胆道肿瘤",
+        "胆道恶性",
+        "cholangiocarcinoma",
+        "perihilar",
+        "Klatskin"
+      ],
+      "query": "(\"cholangiocarcinoma\") AND (\"surgery\" OR \"surgical\" OR \"resection\" OR \"drainage\")",
+      "query_groups": [
+        [
+          "cholangiocarcinoma"
+        ],
+        [
+          "surgery",
+          "surgical",
+          "resection",
+          "drainage"
+        ]
+      ]
+    },
+    {
+      "id": "pancreas-whipple",
+      "organ": "胰腺外科",
+      "label": "胰十二指肠切除",
+      "aliases": [
+        "胰十二指肠切除",
+        "胰头切除",
+        "Whipple",
+        "pancreaticoduodenectomy",
+        "pancreatoduodenectomy"
+      ],
+      "query": "(\"pancreaticoduodenectomy\" OR \"pancreatoduodenectomy\")",
+      "query_groups": [
+        [
+          "pancreaticoduodenectomy",
+          "pancreatoduodenectomy"
+        ]
+      ]
+    },
+    {
+      "id": "pancreas-distal",
+      "organ": "胰腺外科",
+      "label": "远端胰切除与保脾",
+      "aliases": [
+        "远端胰",
+        "胰体尾",
+        "保脾",
+        "RAMPS",
+        "Kimura",
+        "Warshaw",
+        "distal pancreatectomy"
+      ],
+      "query": "(\"pancreas\" OR \"pancreatic\" OR \"pancreatectomy\") AND (\"distal pancreatectomy\" OR \"RAMPS\" OR \"spleen preservation\")",
+      "query_groups": [
+        [
+          "pancreas",
+          "pancreatic",
+          "pancreatectomy"
+        ],
+        [
+          "distal pancreatectomy",
+          "RAMPS",
+          "spleen preservation"
+        ]
+      ]
+    },
+    {
+      "id": "pancreas-local",
+      "organ": "胰腺外科",
+      "label": "中段、全胰与局部切除",
+      "aliases": [
+        "胰腺中段",
+        "中段胰",
+        "全胰",
+        "剜除",
+        "central pancreatectomy",
+        "total pancreatectomy",
+        "enucleation"
+      ],
+      "query": "(\"central pancreatectomy\" OR \"total pancreatectomy\" OR \"pancreatic enucleation\")",
+      "query_groups": [
+        [
+          "central pancreatectomy",
+          "total pancreatectomy",
+          "pancreatic enucleation"
+        ]
+      ]
+    },
+    {
+      "id": "pancreas-anastomosis",
+      "organ": "胰腺外科",
+      "label": "吻合重建与胰瘘",
+      "aliases": [
+        "胰肠",
+        "胰胃",
+        "胰瘘",
+        "胰管支架",
+        "Blumgart",
+        "pancreaticojejunostomy",
+        "pancreaticogastrostomy"
+      ],
+      "query": "(\"pancreaticojejunostomy\" OR \"pancreatojejunostomy\" OR \"pancreaticogastrostomy\" OR \"postoperative pancreatic fistula\")",
+      "query_groups": [
+        [
+          "pancreaticojejunostomy",
+          "pancreatojejunostomy",
+          "pancreaticogastrostomy",
+          "postoperative pancreatic fistula"
+        ]
+      ]
+    },
+    {
+      "id": "pancreas-vessel",
+      "organ": "胰腺外科",
+      "label": "联合血管切除与清扫",
+      "aliases": [
+        "胰腺癌淋巴结",
+        "复杂血管",
+        "门静脉切除",
+        "胰腺微创手术争议及血管",
+        "pancreatectomy vascular"
+      ],
+      "query": "(\"pancreatectomy\" OR \"pancreatic cancer\") AND (\"vascular resection\" OR \"lymphadenectomy\" OR \"arterial resection\")",
+      "query_groups": [
+        [
+          "pancreatectomy",
+          "pancreatic cancer"
+        ],
+        [
+          "vascular resection",
+          "lymphadenectomy",
+          "arterial resection"
+        ]
+      ]
+    },
+    {
+      "id": "pancreas-cancer",
+      "organ": "胰腺外科",
+      "label": "胰腺癌与手术时机",
+      "aliases": [
+        "胰腺癌",
+        "pancreatic cancer",
+        "borderline resectable",
+        "neoadjuvant"
+      ],
+      "query": "(\"pancreatic cancer\" OR \"pancreatic adenocarcinoma\") AND (\"neoadjuvant\" OR \"resectable\" OR \"surgical\")",
+      "query_groups": [
+        [
+          "pancreatic cancer",
+          "pancreatic adenocarcinoma"
+        ],
+        [
+          "neoadjuvant",
+          "resectable",
+          "surgical"
+        ]
+      ]
+    },
+    {
+      "id": "pancreas-cyst",
+      "organ": "胰腺外科",
+      "label": "囊性病变与神经内分泌肿瘤",
+      "aliases": [
+        "IPMN",
+        "胰腺囊性",
+        "胰腺神经内分泌",
+        "胰岛素瘤",
+        "pancreatic cyst",
+        "neuroendocrine"
+      ],
+      "query": "(\"pancreatic\") AND (\"IPMN\" OR \"cystic neoplasm\" OR \"neuroendocrine\") AND (\"guideline\" OR \"surgery\" OR \"resection\")",
+      "query_groups": [
+        [
+          "pancreatic"
+        ],
+        [
+          "IPMN",
+          "cystic neoplasm",
+          "neuroendocrine"
+        ],
+        [
+          "guideline",
+          "surgery",
+          "resection"
+        ]
+      ]
+    },
+    {
+      "id": "pancreas-inflammation",
+      "organ": "胰腺外科",
+      "label": "胰腺炎与坏死处理",
+      "aliases": [
+        "胰腺炎",
+        "胰腺坏死",
+        "坏死清创",
+        "Frey",
+        "Puestow",
+        "Beger",
+        "sinus tract",
+        "pancreatitis",
+        "necrosectomy"
+      ],
+      "query": "(\"pancreatitis\") AND (\"necrosectomy\" OR \"drainage\" OR \"surgery\" OR \"step-up\")",
+      "query_groups": [
+        [
+          "pancreatitis"
+        ],
+        [
+          "necrosectomy",
+          "drainage",
+          "surgery",
+          "step-up"
+        ]
+      ]
+    },
+    {
+      "id": "common-navigation",
+      "organ": "共同技术与围手术期",
+      "label": "超声、荧光与导航",
+      "aliases": [
+        "术中超声",
+        "荧光",
+        "导航",
+        "ICG",
+        "indocyanine",
+        "intraoperative ultrasound"
+      ],
+      "query": "(\"hepatectomy\" OR \"cholecystectomy\" OR \"pancreatectomy\") AND (\"indocyanine\" OR \"navigation\" OR \"intraoperative ultrasound\")",
+      "query_groups": [
+        [
+          "hepatectomy",
+          "cholecystectomy",
+          "pancreatectomy"
+        ],
+        [
+          "indocyanine",
+          "navigation",
+          "intraoperative ultrasound"
+        ]
+      ]
+    },
+    {
+      "id": "common-eras",
+      "organ": "共同技术与围手术期",
+      "label": "营养、预康复与加速康复",
+      "aliases": [
+        "ERAS",
+        "围术期营养",
+        "肝病营养",
+        "围手术期",
+        "预康复",
+        "enhanced recovery",
+        "nutrition"
+      ],
+      "query": "(\"hepatectomy\" OR \"pancreaticoduodenectomy\" OR \"liver surgery\") AND (\"enhanced recovery\" OR \"nutrition\" OR \"prehabilitation\")",
+      "query_groups": [
+        [
+          "hepatectomy",
+          "pancreaticoduodenectomy",
+          "liver surgery"
+        ],
+        [
+          "enhanced recovery",
+          "nutrition",
+          "prehabilitation"
+        ]
+      ]
+    },
+    {
+      "id": "common-complications",
+      "organ": "共同技术与围手术期",
+      "label": "并发症定义与防治",
+      "aliases": [
+        "胆漏",
+        "肝衰竭",
+        "术后出血",
+        "并发症",
+        "胃排空延迟",
+        "乳糜漏",
+        "ISGLS",
+        "ISGPS",
+        "Clavien"
+      ],
+      "query": "(\"hepatectomy\" OR \"pancreatectomy\" OR \"postpancreatectomy\" OR \"posthepatectomy\") AND (\"complication\" OR \"ISGLS\" OR \"ISGPS\" OR \"postoperative hemorrhage\" OR \"hemorrhage\" OR \"definition\")",
+      "query_groups": [
+        [
+          "hepatectomy",
+          "pancreatectomy",
+          "postpancreatectomy",
+          "posthepatectomy"
+        ],
+        [
+          "complication",
+          "ISGLS",
+          "ISGPS",
+          "postoperative hemorrhage",
+          "hemorrhage",
+          "definition"
+        ]
+      ]
+    },
+    {
+      "id": "common-quality",
+      "organ": "共同技术与围手术期",
+      "label": "学习曲线与质量评价",
+      "aliases": [
+        "学习曲线",
+        "质量评价",
+        "风险模型",
+        "风险预测",
+        "learning curve",
+        "benchmark",
+        "quality"
+      ],
+      "query": "(\"hepatectomy\" OR \"pancreaticoduodenectomy\" OR \"cholecystectomy\") AND (\"learning curve\" OR \"benchmark\" OR \"quality indicator\")",
+      "query_groups": [
+        [
+          "hepatectomy",
+          "pancreaticoduodenectomy",
+          "cholecystectomy"
+        ],
+        [
+          "learning curve",
+          "benchmark",
+          "quality indicator"
+        ]
+      ]
+    },
+    {
+      "id": "extended-liver-transplant",
+      "organ": "移植及扩展专题",
+      "label": "肝移植与活体供肝",
+      "aliases": [
+        "肝移植",
+        "供肝",
+        "供者",
+        "liver transplant",
+        "living donor",
+        "machine perfusion"
+      ],
+      "query": "(\"liver transplantation\" OR \"liver transplant\" OR \"living donor hepatectomy\")",
+      "query_groups": [
+        [
+          "liver transplantation",
+          "liver transplant",
+          "living donor hepatectomy"
+        ]
+      ]
+    },
+    {
+      "id": "extended-pancreas-transplant",
+      "organ": "移植及扩展专题",
+      "label": "胰腺与胰岛移植",
+      "aliases": [
+        "胰腺移植",
+        "胰岛自体移植",
+        "pancreas transplant",
+        "islet transplant"
+      ],
+      "query": "(\"pancreas transplantation\" OR \"pancreatic transplantation\" OR \"islet autotransplantation\")",
+      "query_groups": [
+        [
+          "pancreas transplantation",
+          "pancreatic transplantation",
+          "islet autotransplantation"
+        ]
+      ]
+    },
+    {
+      "id": "extended-pediatric",
+      "organ": "移植及扩展专题",
+      "label": "儿科与先天性疾病",
+      "aliases": [
+        "先天性",
+        "儿科",
+        "胆道闭锁",
+        "choledochal",
+        "biliary atresia",
+        "pediatric"
+      ],
+      "query": "(\"biliary atresia\" OR \"choledochal cyst\") AND (\"surgery\" OR \"surgical\")",
+      "query_groups": [
+        [
+          "biliary atresia",
+          "choledochal cyst"
+        ],
+        [
+          "surgery",
+          "surgical"
+        ]
+      ]
+    },
+    {
+      "id": "extended-intervention",
+      "organ": "移植及扩展专题",
+      "label": "内镜、介入与消融",
+      "aliases": [
+        "内镜",
+        "消融",
+        "ERCP",
+        "ablation",
+        "endoscopy"
+      ],
+      "query": "(\"biliary\" OR \"liver\" OR \"pancreatic\") AND (\"ablation\" OR \"interventional\" OR \"endoscopic drainage\")",
+      "query_groups": [
+        [
+          "biliary",
+          "liver",
+          "pancreatic"
+        ],
+        [
+          "ablation",
+          "interventional",
+          "endoscopic drainage"
+        ]
+      ]
+    },
+    {
+      "id": "extended-trauma",
+      "organ": "移植及扩展专题",
+      "label": "肝胆胰创伤",
+      "aliases": [
+        "创伤",
+        "trauma",
+        "injury traumatic"
+      ],
+      "query": "(\"liver trauma\" OR \"pancreatic trauma\" OR \"duodenal trauma\" OR \"pancreatic injury\") AND (\"surgery\" OR \"surgical\")",
+      "query_groups": [
+        [
+          "liver trauma",
+          "pancreatic trauma",
+          "duodenal trauma",
+          "pancreatic injury"
+        ],
+        [
+          "surgery",
+          "surgical"
+        ]
+      ]
+    },
+    {
+      "id": "pancreas-approach",
+      "organ": "胰腺外科",
+      "label": "胰腺外科总论与手术路径",
+      "aliases": [
+        "微创胰腺外科",
+        "微创胰腺手术",
+        "EGUMIPS",
+        "Brescia",
+        "Miami guidelines",
+        "pancreatic surgery",
+        "pancreas surgery"
+      ],
+      "query_groups": [
+        [
+          "pancreatic surgery",
+          "pancreas surgery"
+        ],
+        [
+          "minimally invasive",
+          "guideline",
+          "consensus",
+          "laparoscopic",
+          "robotic"
+        ]
+      ],
+      "query": "(\"pancreatic surgery\" OR \"pancreas surgery\") AND (\"minimally invasive\" OR \"guideline\" OR \"consensus\" OR \"laparoscopic\" OR \"robotic\")"
+    }
+  ]
+}

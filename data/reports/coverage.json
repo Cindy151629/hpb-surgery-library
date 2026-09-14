@@ -1,0 +1,3288 @@
+[
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-anatomy",
+    "topic": "解剖与术前评估",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T14:59:44.860125+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"anatomy\" OR TITLE_ABS:\"assessment\" OR TITLE_ABS:\"nomenclature\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 37,
+        "returned": 37
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T14:59:46.279580+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract]) AND (\"anatomy\"[Title/Abstract] OR \"assessment\"[Title/Abstract] OR \"nomenclature\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 37,
+        "returned": 37
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-anatomy",
+    "topic": "解剖与术前评估",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T14:59:44.860125+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"anatomy\" OR TITLE_ABS:\"assessment\" OR TITLE_ABS:\"nomenclature\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 37,
+        "returned": 37
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T14:59:46.279580+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract]) AND (\"anatomy\"[Title/Abstract] OR \"assessment\"[Title/Abstract] OR \"nomenclature\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 37,
+        "returned": 37
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-anatomy",
+    "topic": "解剖与术前评估",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T14:59:44.860125+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"anatomy\" OR TITLE_ABS:\"assessment\" OR TITLE_ABS:\"nomenclature\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 37,
+        "returned": 37
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T14:59:46.279580+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract]) AND (\"anatomy\"[Title/Abstract] OR \"assessment\"[Title/Abstract] OR \"nomenclature\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 37,
+        "returned": 37
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-anatomy",
+    "topic": "解剖与术前评估",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-anatomy",
+    "topic": "解剖与术前评估",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-resection",
+    "topic": "肝切除术式与路径",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 16,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T14:59:52.600200+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\" OR TITLE_ABS:\"liver surgery\" OR TITLE_ABS:\"hepatic surgery\") AND (TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\" OR TITLE_ABS:\"open\" OR TITLE_ABS:\"segmentectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 83,
+        "returned": 83
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T14:59:55.381584+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract] OR \"hepatic surgery\"[Title/Abstract]) AND (\"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract] OR \"open\"[Title/Abstract] OR \"segmentectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 85,
+        "returned": 85
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-resection",
+    "topic": "肝切除术式与路径",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 6,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T14:59:52.600200+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\" OR TITLE_ABS:\"liver surgery\" OR TITLE_ABS:\"hepatic surgery\") AND (TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\" OR TITLE_ABS:\"open\" OR TITLE_ABS:\"segmentectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 83,
+        "returned": 83
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T14:59:55.381584+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract] OR \"hepatic surgery\"[Title/Abstract]) AND (\"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract] OR \"open\"[Title/Abstract] OR \"segmentectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 85,
+        "returned": 85
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-resection",
+    "topic": "肝切除术式与路径",
+    "type": "原始研究",
+    "verified": 1,
+    "restricted": 29,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T14:59:52.600200+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\" OR TITLE_ABS:\"liver surgery\" OR TITLE_ABS:\"hepatic surgery\") AND (TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\" OR TITLE_ABS:\"open\" OR TITLE_ABS:\"segmentectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 83,
+        "returned": 83
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T14:59:55.381584+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract] OR \"hepatic surgery\"[Title/Abstract]) AND (\"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract] OR \"open\"[Title/Abstract] OR \"segmentectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 85,
+        "returned": 85
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-resection",
+    "topic": "肝切除术式与路径",
+    "type": "技术/解剖文章",
+    "verified": 1,
+    "restricted": 3,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-resection",
+    "topic": "肝切除术式与路径",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 15,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-growth",
+    "topic": "余肝增容与分期切除",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T14:59:57.126731+00:00",
+        "query": "((TITLE_ABS:\"ALPPS\" OR TITLE_ABS:\"portal vein embolization\" OR TITLE_ABS:\"portal venous embolization\" OR TITLE_ABS:\"liver venous deprivation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 17,
+        "returned": 17
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T14:59:58.262230+00:00",
+        "query": "((\"ALPPS\"[Title/Abstract] OR \"portal vein embolization\"[Title/Abstract] OR \"portal venous embolization\"[Title/Abstract] OR \"liver venous deprivation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 17,
+        "returned": 17
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-growth",
+    "topic": "余肝增容与分期切除",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T14:59:57.126731+00:00",
+        "query": "((TITLE_ABS:\"ALPPS\" OR TITLE_ABS:\"portal vein embolization\" OR TITLE_ABS:\"portal venous embolization\" OR TITLE_ABS:\"liver venous deprivation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 17,
+        "returned": 17
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T14:59:58.262230+00:00",
+        "query": "((\"ALPPS\"[Title/Abstract] OR \"portal vein embolization\"[Title/Abstract] OR \"portal venous embolization\"[Title/Abstract] OR \"liver venous deprivation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 17,
+        "returned": 17
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-growth",
+    "topic": "余肝增容与分期切除",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 5,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T14:59:57.126731+00:00",
+        "query": "((TITLE_ABS:\"ALPPS\" OR TITLE_ABS:\"portal vein embolization\" OR TITLE_ABS:\"portal venous embolization\" OR TITLE_ABS:\"liver venous deprivation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 17,
+        "returned": 17
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T14:59:58.262230+00:00",
+        "query": "((\"ALPPS\"[Title/Abstract] OR \"portal vein embolization\"[Title/Abstract] OR \"portal venous embolization\"[Title/Abstract] OR \"liver venous deprivation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 17,
+        "returned": 17
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-growth",
+    "topic": "余肝增容与分期切除",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-growth",
+    "topic": "余肝增容与分期切除",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-hcc",
+    "topic": "肝细胞癌",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 5,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:05.473087+00:00",
+        "query": "((TITLE_ABS:\"hepatocellular carcinoma\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"hepatectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 182,
+        "returned": 182
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:07.545977+00:00",
+        "query": "((\"hepatocellular carcinoma\"[Title/Abstract]) AND (\"resection\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"hepatectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 150,
+        "returned": 150
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-hcc",
+    "topic": "肝细胞癌",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:05.473087+00:00",
+        "query": "((TITLE_ABS:\"hepatocellular carcinoma\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"hepatectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 182,
+        "returned": 182
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:07.545977+00:00",
+        "query": "((\"hepatocellular carcinoma\"[Title/Abstract]) AND (\"resection\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"hepatectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 150,
+        "returned": 150
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-hcc",
+    "topic": "肝细胞癌",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 12,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:05.473087+00:00",
+        "query": "((TITLE_ABS:\"hepatocellular carcinoma\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"hepatectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 182,
+        "returned": 182
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:07.545977+00:00",
+        "query": "((\"hepatocellular carcinoma\"[Title/Abstract]) AND (\"resection\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"hepatectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 150,
+        "returned": 150
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-hcc",
+    "topic": "肝细胞癌",
+    "type": "技术/解剖文章",
+    "verified": 1,
+    "restricted": 0,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-hcc",
+    "topic": "肝细胞癌",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-crlm",
+    "topic": "结直肠癌肝转移",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 4,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:10.006957+00:00",
+        "query": "((TITLE_ABS:\"colorectal liver metastases\" OR TITLE_ABS:\"colorectal liver metastasis\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"ablation\" OR TITLE_ABS:\"surgery\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 39,
+        "returned": 39
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:11.379483+00:00",
+        "query": "((\"colorectal liver metastases\"[Title/Abstract] OR \"colorectal liver metastasis\"[Title/Abstract]) AND (\"resection\"[Title/Abstract] OR \"ablation\"[Title/Abstract] OR \"surgery\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 37,
+        "returned": 37
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-crlm",
+    "topic": "结直肠癌肝转移",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:10.006957+00:00",
+        "query": "((TITLE_ABS:\"colorectal liver metastases\" OR TITLE_ABS:\"colorectal liver metastasis\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"ablation\" OR TITLE_ABS:\"surgery\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 39,
+        "returned": 39
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:11.379483+00:00",
+        "query": "((\"colorectal liver metastases\"[Title/Abstract] OR \"colorectal liver metastasis\"[Title/Abstract]) AND (\"resection\"[Title/Abstract] OR \"ablation\"[Title/Abstract] OR \"surgery\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 37,
+        "returned": 37
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-crlm",
+    "topic": "结直肠癌肝转移",
+    "type": "原始研究",
+    "verified": 1,
+    "restricted": 15,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:10.006957+00:00",
+        "query": "((TITLE_ABS:\"colorectal liver metastases\" OR TITLE_ABS:\"colorectal liver metastasis\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"ablation\" OR TITLE_ABS:\"surgery\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 39,
+        "returned": 39
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:11.379483+00:00",
+        "query": "((\"colorectal liver metastases\"[Title/Abstract] OR \"colorectal liver metastasis\"[Title/Abstract]) AND (\"resection\"[Title/Abstract] OR \"ablation\"[Title/Abstract] OR \"surgery\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 37,
+        "returned": 37
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-crlm",
+    "topic": "结直肠癌肝转移",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-crlm",
+    "topic": "结直肠癌肝转移",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-benign",
+    "topic": "良性肝病与囊肿",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:14.613074+00:00",
+        "query": "((TITLE_ABS:\"liver cyst\" OR TITLE_ABS:\"hepatic cyst\" OR TITLE_ABS:\"liver hemangioma\" OR TITLE_ABS:\"hepatic hemangioma\" OR TITLE_ABS:\"hepatic echinococcosis\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 7,
+        "returned": 7
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:17.439207+00:00",
+        "query": "((\"liver cyst\"[Title/Abstract] OR \"hepatic cyst\"[Title/Abstract] OR \"liver hemangioma\"[Title/Abstract] OR \"hepatic hemangioma\"[Title/Abstract] OR \"hepatic echinococcosis\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 6,
+        "returned": 6
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-benign",
+    "topic": "良性肝病与囊肿",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:14.613074+00:00",
+        "query": "((TITLE_ABS:\"liver cyst\" OR TITLE_ABS:\"hepatic cyst\" OR TITLE_ABS:\"liver hemangioma\" OR TITLE_ABS:\"hepatic hemangioma\" OR TITLE_ABS:\"hepatic echinococcosis\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 7,
+        "returned": 7
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:17.439207+00:00",
+        "query": "((\"liver cyst\"[Title/Abstract] OR \"hepatic cyst\"[Title/Abstract] OR \"liver hemangioma\"[Title/Abstract] OR \"hepatic hemangioma\"[Title/Abstract] OR \"hepatic echinococcosis\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 6,
+        "returned": 6
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-benign",
+    "topic": "良性肝病与囊肿",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:14.613074+00:00",
+        "query": "((TITLE_ABS:\"liver cyst\" OR TITLE_ABS:\"hepatic cyst\" OR TITLE_ABS:\"liver hemangioma\" OR TITLE_ABS:\"hepatic hemangioma\" OR TITLE_ABS:\"hepatic echinococcosis\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 7,
+        "returned": 7
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:17.439207+00:00",
+        "query": "((\"liver cyst\"[Title/Abstract] OR \"hepatic cyst\"[Title/Abstract] OR \"liver hemangioma\"[Title/Abstract] OR \"hepatic hemangioma\"[Title/Abstract] OR \"hepatic echinococcosis\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 6,
+        "returned": 6
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-benign",
+    "topic": "良性肝病与囊肿",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-benign",
+    "topic": "良性肝病与囊肿",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 3,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-vessel",
+    "topic": "血管处理与肝动脉灌注",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:19.384735+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"vascular reconstruction\" OR TITLE_ABS:\"Pringle\" OR TITLE_ABS:\"hepatic artery infusion\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 14,
+        "returned": 14
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:20.523504+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract]) AND (\"vascular reconstruction\"[Title/Abstract] OR \"Pringle\"[Title/Abstract] OR \"hepatic artery infusion\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 13,
+        "returned": 13
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-vessel",
+    "topic": "血管处理与肝动脉灌注",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:19.384735+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"vascular reconstruction\" OR TITLE_ABS:\"Pringle\" OR TITLE_ABS:\"hepatic artery infusion\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 14,
+        "returned": 14
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:20.523504+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract]) AND (\"vascular reconstruction\"[Title/Abstract] OR \"Pringle\"[Title/Abstract] OR \"hepatic artery infusion\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 13,
+        "returned": 13
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-vessel",
+    "topic": "血管处理与肝动脉灌注",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:19.384735+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"vascular reconstruction\" OR TITLE_ABS:\"Pringle\" OR TITLE_ABS:\"hepatic artery infusion\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 14,
+        "returned": 14
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:20.523504+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract]) AND (\"vascular reconstruction\"[Title/Abstract] OR \"Pringle\"[Title/Abstract] OR \"hepatic artery infusion\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 13,
+        "returned": 13
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-vessel",
+    "topic": "血管处理与肝动脉灌注",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "肝脏外科",
+    "topic_id": "liver-vessel",
+    "topic": "血管处理与肝动脉灌注",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-chole",
+    "topic": "胆囊切除与适应证",
+    "type": "指南/共识",
+    "verified": 1,
+    "restricted": 12,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:35.377772+00:00",
+        "query": "((TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"cholecystitis\" OR TITLE_ABS:\"gallbladder polyp\" OR TITLE_ABS:\"gallstones\" OR TITLE_ABS:\"gallstone disease\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 376,
+        "returned": 376
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:37.876847+00:00",
+        "query": "((\"cholecystectomy\"[Title/Abstract] OR \"cholecystitis\"[Title/Abstract] OR \"gallbladder polyp\"[Title/Abstract] OR \"gallstones\"[Title/Abstract] OR \"gallstone disease\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 296,
+        "returned": 296
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-chole",
+    "topic": "胆囊切除与适应证",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 6,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:35.377772+00:00",
+        "query": "((TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"cholecystitis\" OR TITLE_ABS:\"gallbladder polyp\" OR TITLE_ABS:\"gallstones\" OR TITLE_ABS:\"gallstone disease\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 376,
+        "returned": 376
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:37.876847+00:00",
+        "query": "((\"cholecystectomy\"[Title/Abstract] OR \"cholecystitis\"[Title/Abstract] OR \"gallbladder polyp\"[Title/Abstract] OR \"gallstones\"[Title/Abstract] OR \"gallstone disease\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 296,
+        "returned": 296
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-chole",
+    "topic": "胆囊切除与适应证",
+    "type": "原始研究",
+    "verified": 2,
+    "restricted": 9,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:35.377772+00:00",
+        "query": "((TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"cholecystitis\" OR TITLE_ABS:\"gallbladder polyp\" OR TITLE_ABS:\"gallstones\" OR TITLE_ABS:\"gallstone disease\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 376,
+        "returned": 376
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:37.876847+00:00",
+        "query": "((\"cholecystectomy\"[Title/Abstract] OR \"cholecystitis\"[Title/Abstract] OR \"gallbladder polyp\"[Title/Abstract] OR \"gallstones\"[Title/Abstract] OR \"gallstone disease\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 296,
+        "returned": 296
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-chole",
+    "topic": "胆囊切除与适应证",
+    "type": "技术/解剖文章",
+    "verified": 4,
+    "restricted": 7,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-chole",
+    "topic": "胆囊切除与适应证",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 17,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-difficult",
+    "topic": "困难胆囊与补救术式",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:39.421041+00:00",
+        "query": "((TITLE_ABS:\"subtotal cholecystectomy\" OR TITLE_ABS:\"critical view of safety\" OR TITLE_ABS:\"Mirizzi\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 18,
+        "returned": 18
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:40.553140+00:00",
+        "query": "((\"subtotal cholecystectomy\"[Title/Abstract] OR \"critical view of safety\"[Title/Abstract] OR \"Mirizzi\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 17,
+        "returned": 17
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-difficult",
+    "topic": "困难胆囊与补救术式",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 5,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:39.421041+00:00",
+        "query": "((TITLE_ABS:\"subtotal cholecystectomy\" OR TITLE_ABS:\"critical view of safety\" OR TITLE_ABS:\"Mirizzi\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 18,
+        "returned": 18
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:40.553140+00:00",
+        "query": "((\"subtotal cholecystectomy\"[Title/Abstract] OR \"critical view of safety\"[Title/Abstract] OR \"Mirizzi\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 17,
+        "returned": 17
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-difficult",
+    "topic": "困难胆囊与补救术式",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:39.421041+00:00",
+        "query": "((TITLE_ABS:\"subtotal cholecystectomy\" OR TITLE_ABS:\"critical view of safety\" OR TITLE_ABS:\"Mirizzi\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 18,
+        "returned": 18
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:40.553140+00:00",
+        "query": "((\"subtotal cholecystectomy\"[Title/Abstract] OR \"critical view of safety\"[Title/Abstract] OR \"Mirizzi\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 17,
+        "returned": 17
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-difficult",
+    "topic": "困难胆囊与补救术式",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 3,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-difficult",
+    "topic": "困难胆囊与补救术式",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 7,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-stones",
+    "topic": "胆管结石与探查",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 7,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:43.642153+00:00",
+        "query": "((TITLE_ABS:\"common bile duct exploration\" OR TITLE_ABS:\"choledocholithiasis\" OR TITLE_ABS:\"hepatolithiasis\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 49,
+        "returned": 49
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:44.990822+00:00",
+        "query": "((\"common bile duct exploration\"[Title/Abstract] OR \"choledocholithiasis\"[Title/Abstract] OR \"hepatolithiasis\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 38,
+        "returned": 38
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-stones",
+    "topic": "胆管结石与探查",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:43.642153+00:00",
+        "query": "((TITLE_ABS:\"common bile duct exploration\" OR TITLE_ABS:\"choledocholithiasis\" OR TITLE_ABS:\"hepatolithiasis\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 49,
+        "returned": 49
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:44.990822+00:00",
+        "query": "((\"common bile duct exploration\"[Title/Abstract] OR \"choledocholithiasis\"[Title/Abstract] OR \"hepatolithiasis\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 38,
+        "returned": 38
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-stones",
+    "topic": "胆管结石与探查",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 3,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:43.642153+00:00",
+        "query": "((TITLE_ABS:\"common bile duct exploration\" OR TITLE_ABS:\"choledocholithiasis\" OR TITLE_ABS:\"hepatolithiasis\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 49,
+        "returned": 49
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:44.990822+00:00",
+        "query": "((\"common bile duct exploration\"[Title/Abstract] OR \"choledocholithiasis\"[Title/Abstract] OR \"hepatolithiasis\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 38,
+        "returned": 38
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-stones",
+    "topic": "胆管结石与探查",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-stones",
+    "topic": "胆管结石与探查",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 6,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-repair",
+    "topic": "胆管损伤与胆肠重建",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 4,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:47.218345+00:00",
+        "query": "((TITLE_ABS:\"bile duct injury\" OR TITLE_ABS:\"hepaticojejunostomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 43,
+        "returned": 43
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:48.616771+00:00",
+        "query": "((\"bile duct injury\"[Title/Abstract] OR \"hepaticojejunostomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 39,
+        "returned": 39
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-repair",
+    "topic": "胆管损伤与胆肠重建",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 3,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:47.218345+00:00",
+        "query": "((TITLE_ABS:\"bile duct injury\" OR TITLE_ABS:\"hepaticojejunostomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 43,
+        "returned": 43
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:48.616771+00:00",
+        "query": "((\"bile duct injury\"[Title/Abstract] OR \"hepaticojejunostomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 39,
+        "returned": 39
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-repair",
+    "topic": "胆管损伤与胆肠重建",
+    "type": "原始研究",
+    "verified": 1,
+    "restricted": 1,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:47.218345+00:00",
+        "query": "((TITLE_ABS:\"bile duct injury\" OR TITLE_ABS:\"hepaticojejunostomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 43,
+        "returned": 43
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:48.616771+00:00",
+        "query": "((\"bile duct injury\"[Title/Abstract] OR \"hepaticojejunostomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 39,
+        "returned": 39
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-repair",
+    "topic": "胆管损伤与胆肠重建",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 3,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-repair",
+    "topic": "胆管损伤与胆肠重建",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 5,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-gbc",
+    "topic": "胆囊癌",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:50.549127+00:00",
+        "query": "((TITLE_ABS:\"gallbladder cancer\" OR TITLE_ABS:\"gallbladder carcinoma\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 27,
+        "returned": 27
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:52.074256+00:00",
+        "query": "((\"gallbladder cancer\"[Title/Abstract] OR \"gallbladder carcinoma\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 23,
+        "returned": 23
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-gbc",
+    "topic": "胆囊癌",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:50.549127+00:00",
+        "query": "((TITLE_ABS:\"gallbladder cancer\" OR TITLE_ABS:\"gallbladder carcinoma\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 27,
+        "returned": 27
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:52.074256+00:00",
+        "query": "((\"gallbladder cancer\"[Title/Abstract] OR \"gallbladder carcinoma\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 23,
+        "returned": 23
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-gbc",
+    "topic": "胆囊癌",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:50.549127+00:00",
+        "query": "((TITLE_ABS:\"gallbladder cancer\" OR TITLE_ABS:\"gallbladder carcinoma\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 27,
+        "returned": 27
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:52.074256+00:00",
+        "query": "((\"gallbladder cancer\"[Title/Abstract] OR \"gallbladder carcinoma\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 23,
+        "returned": 23
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-gbc",
+    "topic": "胆囊癌",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-gbc",
+    "topic": "胆囊癌",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-cca",
+    "topic": "胆管癌与胆道肿瘤",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 10,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:54.498049+00:00",
+        "query": "((TITLE_ABS:\"cholangiocarcinoma\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\" OR TITLE_ABS:\"drainage\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 87,
+        "returned": 87
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:55.840179+00:00",
+        "query": "((\"cholangiocarcinoma\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract] OR \"drainage\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 88,
+        "returned": 88
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-cca",
+    "topic": "胆管癌与胆道肿瘤",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:54.498049+00:00",
+        "query": "((TITLE_ABS:\"cholangiocarcinoma\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\" OR TITLE_ABS:\"drainage\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 87,
+        "returned": 87
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:55.840179+00:00",
+        "query": "((\"cholangiocarcinoma\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract] OR \"drainage\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 88,
+        "returned": 88
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-cca",
+    "topic": "胆管癌与胆道肿瘤",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 5,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:00:54.498049+00:00",
+        "query": "((TITLE_ABS:\"cholangiocarcinoma\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\" OR TITLE_ABS:\"drainage\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 87,
+        "returned": 87
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:00:55.840179+00:00",
+        "query": "((\"cholangiocarcinoma\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract] OR \"drainage\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 88,
+        "returned": 88
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-cca",
+    "topic": "胆管癌与胆道肿瘤",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "topic_id": "biliary-cca",
+    "topic": "胆管癌与胆道肿瘤",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-whipple",
+    "topic": "胰十二指肠切除",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:01.043429+00:00",
+        "query": "((TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"pancreatoduodenectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 131,
+        "returned": 131
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:02.553476+00:00",
+        "query": "((\"pancreaticoduodenectomy\"[Title/Abstract] OR \"pancreatoduodenectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 128,
+        "returned": 128
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-whipple",
+    "topic": "胰十二指肠切除",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:01.043429+00:00",
+        "query": "((TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"pancreatoduodenectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 131,
+        "returned": 131
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:02.553476+00:00",
+        "query": "((\"pancreaticoduodenectomy\"[Title/Abstract] OR \"pancreatoduodenectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 128,
+        "returned": 128
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-whipple",
+    "topic": "胰十二指肠切除",
+    "type": "原始研究",
+    "verified": 2,
+    "restricted": 18,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:01.043429+00:00",
+        "query": "((TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"pancreatoduodenectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 131,
+        "returned": 131
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:02.553476+00:00",
+        "query": "((\"pancreaticoduodenectomy\"[Title/Abstract] OR \"pancreatoduodenectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 128,
+        "returned": 128
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-whipple",
+    "topic": "胰十二指肠切除",
+    "type": "技术/解剖文章",
+    "verified": 2,
+    "restricted": 1,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-whipple",
+    "topic": "胰十二指肠切除",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 10,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-distal",
+    "topic": "远端胰切除与保脾",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:05.212733+00:00",
+        "query": "((TITLE_ABS:\"pancreas\" OR TITLE_ABS:\"pancreatic\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"distal pancreatectomy\" OR TITLE_ABS:\"RAMPS\" OR TITLE_ABS:\"spleen preservation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 37,
+        "returned": 37
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:07.648815+00:00",
+        "query": "((\"pancreas\"[Title/Abstract] OR \"pancreatic\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract]) AND (\"distal pancreatectomy\"[Title/Abstract] OR \"RAMPS\"[Title/Abstract] OR \"spleen preservation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 33,
+        "returned": 33
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-distal",
+    "topic": "远端胰切除与保脾",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:05.212733+00:00",
+        "query": "((TITLE_ABS:\"pancreas\" OR TITLE_ABS:\"pancreatic\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"distal pancreatectomy\" OR TITLE_ABS:\"RAMPS\" OR TITLE_ABS:\"spleen preservation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 37,
+        "returned": 37
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:07.648815+00:00",
+        "query": "((\"pancreas\"[Title/Abstract] OR \"pancreatic\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract]) AND (\"distal pancreatectomy\"[Title/Abstract] OR \"RAMPS\"[Title/Abstract] OR \"spleen preservation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 33,
+        "returned": 33
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-distal",
+    "topic": "远端胰切除与保脾",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 8,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:05.212733+00:00",
+        "query": "((TITLE_ABS:\"pancreas\" OR TITLE_ABS:\"pancreatic\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"distal pancreatectomy\" OR TITLE_ABS:\"RAMPS\" OR TITLE_ABS:\"spleen preservation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 37,
+        "returned": 37
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:07.648815+00:00",
+        "query": "((\"pancreas\"[Title/Abstract] OR \"pancreatic\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract]) AND (\"distal pancreatectomy\"[Title/Abstract] OR \"RAMPS\"[Title/Abstract] OR \"spleen preservation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 33,
+        "returned": 33
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-distal",
+    "topic": "远端胰切除与保脾",
+    "type": "技术/解剖文章",
+    "verified": 1,
+    "restricted": 6,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-distal",
+    "topic": "远端胰切除与保脾",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 3,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-local",
+    "topic": "中段、全胰与局部切除",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:10.008617+00:00",
+        "query": "((TITLE_ABS:\"central pancreatectomy\" OR TITLE_ABS:\"total pancreatectomy\" OR TITLE_ABS:\"pancreatic enucleation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 24,
+        "returned": 24
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:11.333606+00:00",
+        "query": "((\"central pancreatectomy\"[Title/Abstract] OR \"total pancreatectomy\"[Title/Abstract] OR \"pancreatic enucleation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 21,
+        "returned": 21
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-local",
+    "topic": "中段、全胰与局部切除",
+    "type": "综述",
+    "verified": 1,
+    "restricted": 6,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:10.008617+00:00",
+        "query": "((TITLE_ABS:\"central pancreatectomy\" OR TITLE_ABS:\"total pancreatectomy\" OR TITLE_ABS:\"pancreatic enucleation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 24,
+        "returned": 24
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:11.333606+00:00",
+        "query": "((\"central pancreatectomy\"[Title/Abstract] OR \"total pancreatectomy\"[Title/Abstract] OR \"pancreatic enucleation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 21,
+        "returned": 21
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-local",
+    "topic": "中段、全胰与局部切除",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:10.008617+00:00",
+        "query": "((TITLE_ABS:\"central pancreatectomy\" OR TITLE_ABS:\"total pancreatectomy\" OR TITLE_ABS:\"pancreatic enucleation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 24,
+        "returned": 24
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:11.333606+00:00",
+        "query": "((\"central pancreatectomy\"[Title/Abstract] OR \"total pancreatectomy\"[Title/Abstract] OR \"pancreatic enucleation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 21,
+        "returned": 21
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-local",
+    "topic": "中段、全胰与局部切除",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-local",
+    "topic": "中段、全胰与局部切除",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-anastomosis",
+    "topic": "吻合重建与胰瘘",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:13.144169+00:00",
+        "query": "((TITLE_ABS:\"pancreaticojejunostomy\" OR TITLE_ABS:\"pancreatojejunostomy\" OR TITLE_ABS:\"pancreaticogastrostomy\" OR TITLE_ABS:\"postoperative pancreatic fistula\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 42,
+        "returned": 42
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:15.801582+00:00",
+        "query": "((\"pancreaticojejunostomy\"[Title/Abstract] OR \"pancreatojejunostomy\"[Title/Abstract] OR \"pancreaticogastrostomy\"[Title/Abstract] OR \"postoperative pancreatic fistula\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 40,
+        "returned": 40
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-anastomosis",
+    "topic": "吻合重建与胰瘘",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:13.144169+00:00",
+        "query": "((TITLE_ABS:\"pancreaticojejunostomy\" OR TITLE_ABS:\"pancreatojejunostomy\" OR TITLE_ABS:\"pancreaticogastrostomy\" OR TITLE_ABS:\"postoperative pancreatic fistula\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 42,
+        "returned": 42
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:15.801582+00:00",
+        "query": "((\"pancreaticojejunostomy\"[Title/Abstract] OR \"pancreatojejunostomy\"[Title/Abstract] OR \"pancreaticogastrostomy\"[Title/Abstract] OR \"postoperative pancreatic fistula\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 40,
+        "returned": 40
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-anastomosis",
+    "topic": "吻合重建与胰瘘",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 4,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:13.144169+00:00",
+        "query": "((TITLE_ABS:\"pancreaticojejunostomy\" OR TITLE_ABS:\"pancreatojejunostomy\" OR TITLE_ABS:\"pancreaticogastrostomy\" OR TITLE_ABS:\"postoperative pancreatic fistula\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 42,
+        "returned": 42
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:15.801582+00:00",
+        "query": "((\"pancreaticojejunostomy\"[Title/Abstract] OR \"pancreatojejunostomy\"[Title/Abstract] OR \"pancreaticogastrostomy\"[Title/Abstract] OR \"postoperative pancreatic fistula\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 40,
+        "returned": 40
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-anastomosis",
+    "topic": "吻合重建与胰瘘",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-anastomosis",
+    "topic": "吻合重建与胰瘘",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-vessel",
+    "topic": "联合血管切除与清扫",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:17.844528+00:00",
+        "query": "((TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"pancreatic cancer\") AND (TITLE_ABS:\"vascular resection\" OR TITLE_ABS:\"lymphadenectomy\" OR TITLE_ABS:\"arterial resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 7,
+        "returned": 7
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:20.530283+00:00",
+        "query": "((\"pancreatectomy\"[Title/Abstract] OR \"pancreatic cancer\"[Title/Abstract]) AND (\"vascular resection\"[Title/Abstract] OR \"lymphadenectomy\"[Title/Abstract] OR \"arterial resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 7,
+        "returned": 7
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-vessel",
+    "topic": "联合血管切除与清扫",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:17.844528+00:00",
+        "query": "((TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"pancreatic cancer\") AND (TITLE_ABS:\"vascular resection\" OR TITLE_ABS:\"lymphadenectomy\" OR TITLE_ABS:\"arterial resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 7,
+        "returned": 7
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:20.530283+00:00",
+        "query": "((\"pancreatectomy\"[Title/Abstract] OR \"pancreatic cancer\"[Title/Abstract]) AND (\"vascular resection\"[Title/Abstract] OR \"lymphadenectomy\"[Title/Abstract] OR \"arterial resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 7,
+        "returned": 7
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-vessel",
+    "topic": "联合血管切除与清扫",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:17.844528+00:00",
+        "query": "((TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"pancreatic cancer\") AND (TITLE_ABS:\"vascular resection\" OR TITLE_ABS:\"lymphadenectomy\" OR TITLE_ABS:\"arterial resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 7,
+        "returned": 7
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:20.530283+00:00",
+        "query": "((\"pancreatectomy\"[Title/Abstract] OR \"pancreatic cancer\"[Title/Abstract]) AND (\"vascular resection\"[Title/Abstract] OR \"lymphadenectomy\"[Title/Abstract] OR \"arterial resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 7,
+        "returned": 7
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-vessel",
+    "topic": "联合血管切除与清扫",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-vessel",
+    "topic": "联合血管切除与清扫",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-cancer",
+    "topic": "胰腺癌与手术时机",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 4,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:26.015848+00:00",
+        "query": "((TITLE_ABS:\"pancreatic cancer\" OR TITLE_ABS:\"pancreatic adenocarcinoma\") AND (TITLE_ABS:\"neoadjuvant\" OR TITLE_ABS:\"resectable\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 140,
+        "returned": 140
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:28.656304+00:00",
+        "query": "((\"pancreatic cancer\"[Title/Abstract] OR \"pancreatic adenocarcinoma\"[Title/Abstract]) AND (\"neoadjuvant\"[Title/Abstract] OR \"resectable\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 125,
+        "returned": 125
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-cancer",
+    "topic": "胰腺癌与手术时机",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:26.015848+00:00",
+        "query": "((TITLE_ABS:\"pancreatic cancer\" OR TITLE_ABS:\"pancreatic adenocarcinoma\") AND (TITLE_ABS:\"neoadjuvant\" OR TITLE_ABS:\"resectable\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 140,
+        "returned": 140
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:28.656304+00:00",
+        "query": "((\"pancreatic cancer\"[Title/Abstract] OR \"pancreatic adenocarcinoma\"[Title/Abstract]) AND (\"neoadjuvant\"[Title/Abstract] OR \"resectable\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 125,
+        "returned": 125
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-cancer",
+    "topic": "胰腺癌与手术时机",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 7,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:26.015848+00:00",
+        "query": "((TITLE_ABS:\"pancreatic cancer\" OR TITLE_ABS:\"pancreatic adenocarcinoma\") AND (TITLE_ABS:\"neoadjuvant\" OR TITLE_ABS:\"resectable\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 140,
+        "returned": 140
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:28.656304+00:00",
+        "query": "((\"pancreatic cancer\"[Title/Abstract] OR \"pancreatic adenocarcinoma\"[Title/Abstract]) AND (\"neoadjuvant\"[Title/Abstract] OR \"resectable\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 125,
+        "returned": 125
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-cancer",
+    "topic": "胰腺癌与手术时机",
+    "type": "技术/解剖文章",
+    "verified": 1,
+    "restricted": 0,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-cancer",
+    "topic": "胰腺癌与手术时机",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-cyst",
+    "topic": "囊性病变与神经内分泌肿瘤",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 4,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:33.614358+00:00",
+        "query": "((TITLE_ABS:\"pancreatic\") AND (TITLE_ABS:\"IPMN\" OR TITLE_ABS:\"cystic neoplasm\" OR TITLE_ABS:\"neuroendocrine\") AND (TITLE_ABS:\"guideline\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 57,
+        "returned": 57
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:36.254239+00:00",
+        "query": "((\"pancreatic\"[Title/Abstract]) AND (\"IPMN\"[Title/Abstract] OR \"cystic neoplasm\"[Title/Abstract] OR \"neuroendocrine\"[Title/Abstract]) AND (\"guideline\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 39,
+        "returned": 39
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-cyst",
+    "topic": "囊性病变与神经内分泌肿瘤",
+    "type": "综述",
+    "verified": 1,
+    "restricted": 0,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:33.614358+00:00",
+        "query": "((TITLE_ABS:\"pancreatic\") AND (TITLE_ABS:\"IPMN\" OR TITLE_ABS:\"cystic neoplasm\" OR TITLE_ABS:\"neuroendocrine\") AND (TITLE_ABS:\"guideline\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 57,
+        "returned": 57
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:36.254239+00:00",
+        "query": "((\"pancreatic\"[Title/Abstract]) AND (\"IPMN\"[Title/Abstract] OR \"cystic neoplasm\"[Title/Abstract] OR \"neuroendocrine\"[Title/Abstract]) AND (\"guideline\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 39,
+        "returned": 39
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-cyst",
+    "topic": "囊性病变与神经内分泌肿瘤",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:33.614358+00:00",
+        "query": "((TITLE_ABS:\"pancreatic\") AND (TITLE_ABS:\"IPMN\" OR TITLE_ABS:\"cystic neoplasm\" OR TITLE_ABS:\"neuroendocrine\") AND (TITLE_ABS:\"guideline\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 57,
+        "returned": 57
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:36.254239+00:00",
+        "query": "((\"pancreatic\"[Title/Abstract]) AND (\"IPMN\"[Title/Abstract] OR \"cystic neoplasm\"[Title/Abstract] OR \"neuroendocrine\"[Title/Abstract]) AND (\"guideline\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 39,
+        "returned": 39
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-cyst",
+    "topic": "囊性病变与神经内分泌肿瘤",
+    "type": "技术/解剖文章",
+    "verified": 1,
+    "restricted": 0,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-cyst",
+    "topic": "囊性病变与神经内分泌肿瘤",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-inflammation",
+    "topic": "胰腺炎与坏死处理",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 4,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:41.452941+00:00",
+        "query": "((TITLE_ABS:\"pancreatitis\") AND (TITLE_ABS:\"necrosectomy\" OR TITLE_ABS:\"drainage\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"step-up\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 84,
+        "returned": 84
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:42.712540+00:00",
+        "query": "((\"pancreatitis\"[Title/Abstract]) AND (\"necrosectomy\"[Title/Abstract] OR \"drainage\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"step-up\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 71,
+        "returned": 71
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-inflammation",
+    "topic": "胰腺炎与坏死处理",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:41.452941+00:00",
+        "query": "((TITLE_ABS:\"pancreatitis\") AND (TITLE_ABS:\"necrosectomy\" OR TITLE_ABS:\"drainage\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"step-up\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 84,
+        "returned": 84
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:42.712540+00:00",
+        "query": "((\"pancreatitis\"[Title/Abstract]) AND (\"necrosectomy\"[Title/Abstract] OR \"drainage\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"step-up\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 71,
+        "returned": 71
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-inflammation",
+    "topic": "胰腺炎与坏死处理",
+    "type": "原始研究",
+    "verified": 1,
+    "restricted": 11,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:41.452941+00:00",
+        "query": "((TITLE_ABS:\"pancreatitis\") AND (TITLE_ABS:\"necrosectomy\" OR TITLE_ABS:\"drainage\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"step-up\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 84,
+        "returned": 84
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:42.712540+00:00",
+        "query": "((\"pancreatitis\"[Title/Abstract]) AND (\"necrosectomy\"[Title/Abstract] OR \"drainage\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"step-up\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 71,
+        "returned": 71
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-inflammation",
+    "topic": "胰腺炎与坏死处理",
+    "type": "技术/解剖文章",
+    "verified": 1,
+    "restricted": 2,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-inflammation",
+    "topic": "胰腺炎与坏死处理",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 4,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-navigation",
+    "topic": "超声、荧光与导航",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:45.101014+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"indocyanine\" OR TITLE_ABS:\"navigation\" OR TITLE_ABS:\"intraoperative ultrasound\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 14,
+        "returned": 14
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:46.632407+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"cholecystectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract]) AND (\"indocyanine\"[Title/Abstract] OR \"navigation\"[Title/Abstract] OR \"intraoperative ultrasound\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 12,
+        "returned": 12
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-navigation",
+    "topic": "超声、荧光与导航",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:45.101014+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"indocyanine\" OR TITLE_ABS:\"navigation\" OR TITLE_ABS:\"intraoperative ultrasound\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 14,
+        "returned": 14
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:46.632407+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"cholecystectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract]) AND (\"indocyanine\"[Title/Abstract] OR \"navigation\"[Title/Abstract] OR \"intraoperative ultrasound\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 12,
+        "returned": 12
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-navigation",
+    "topic": "超声、荧光与导航",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:45.101014+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"indocyanine\" OR TITLE_ABS:\"navigation\" OR TITLE_ABS:\"intraoperative ultrasound\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 14,
+        "returned": 14
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:46.632407+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"cholecystectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract]) AND (\"indocyanine\"[Title/Abstract] OR \"navigation\"[Title/Abstract] OR \"intraoperative ultrasound\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 12,
+        "returned": 12
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-navigation",
+    "topic": "超声、荧光与导航",
+    "type": "技术/解剖文章",
+    "verified": 1,
+    "restricted": 2,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-navigation",
+    "topic": "超声、荧光与导航",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-eras",
+    "topic": "营养、预康复与加速康复",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 11,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:48.943902+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"liver surgery\") AND (TITLE_ABS:\"enhanced recovery\" OR TITLE_ABS:\"nutrition\" OR TITLE_ABS:\"prehabilitation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 5,
+        "returned": 5
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:50.231163+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreaticoduodenectomy\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract]) AND (\"enhanced recovery\"[Title/Abstract] OR \"nutrition\"[Title/Abstract] OR \"prehabilitation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 5,
+        "returned": 5
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-eras",
+    "topic": "营养、预康复与加速康复",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:48.943902+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"liver surgery\") AND (TITLE_ABS:\"enhanced recovery\" OR TITLE_ABS:\"nutrition\" OR TITLE_ABS:\"prehabilitation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 5,
+        "returned": 5
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:50.231163+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreaticoduodenectomy\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract]) AND (\"enhanced recovery\"[Title/Abstract] OR \"nutrition\"[Title/Abstract] OR \"prehabilitation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 5,
+        "returned": 5
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-eras",
+    "topic": "营养、预康复与加速康复",
+    "type": "原始研究",
+    "verified": 1,
+    "restricted": 8,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:48.943902+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"liver surgery\") AND (TITLE_ABS:\"enhanced recovery\" OR TITLE_ABS:\"nutrition\" OR TITLE_ABS:\"prehabilitation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 5,
+        "returned": 5
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:50.231163+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreaticoduodenectomy\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract]) AND (\"enhanced recovery\"[Title/Abstract] OR \"nutrition\"[Title/Abstract] OR \"prehabilitation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 5,
+        "returned": 5
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-eras",
+    "topic": "营养、预康复与加速康复",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-eras",
+    "topic": "营养、预康复与加速康复",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-complications",
+    "topic": "并发症定义与防治",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 11,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:53.234968+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"postpancreatectomy\" OR TITLE_ABS:\"posthepatectomy\") AND (TITLE_ABS:\"complication\" OR TITLE_ABS:\"ISGLS\" OR TITLE_ABS:\"ISGPS\" OR TITLE_ABS:\"postoperative hemorrhage\" OR TITLE_ABS:\"hemorrhage\" OR TITLE_ABS:\"definition\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 58,
+        "returned": 58
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:55.172488+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract] OR \"postpancreatectomy\"[Title/Abstract] OR \"posthepatectomy\"[Title/Abstract]) AND (\"complication\"[Title/Abstract] OR \"ISGLS\"[Title/Abstract] OR \"ISGPS\"[Title/Abstract] OR \"postoperative hemorrhage\"[Title/Abstract] OR \"hemorrhage\"[Title/Abstract] OR \"definition\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 53,
+        "returned": 53
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-complications",
+    "topic": "并发症定义与防治",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:53.234968+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"postpancreatectomy\" OR TITLE_ABS:\"posthepatectomy\") AND (TITLE_ABS:\"complication\" OR TITLE_ABS:\"ISGLS\" OR TITLE_ABS:\"ISGPS\" OR TITLE_ABS:\"postoperative hemorrhage\" OR TITLE_ABS:\"hemorrhage\" OR TITLE_ABS:\"definition\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 58,
+        "returned": 58
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:55.172488+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract] OR \"postpancreatectomy\"[Title/Abstract] OR \"posthepatectomy\"[Title/Abstract]) AND (\"complication\"[Title/Abstract] OR \"ISGLS\"[Title/Abstract] OR \"ISGPS\"[Title/Abstract] OR \"postoperative hemorrhage\"[Title/Abstract] OR \"hemorrhage\"[Title/Abstract] OR \"definition\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 53,
+        "returned": 53
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-complications",
+    "topic": "并发症定义与防治",
+    "type": "原始研究",
+    "verified": 1,
+    "restricted": 2,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:53.234968+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"postpancreatectomy\" OR TITLE_ABS:\"posthepatectomy\") AND (TITLE_ABS:\"complication\" OR TITLE_ABS:\"ISGLS\" OR TITLE_ABS:\"ISGPS\" OR TITLE_ABS:\"postoperative hemorrhage\" OR TITLE_ABS:\"hemorrhage\" OR TITLE_ABS:\"definition\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 58,
+        "returned": 58
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:55.172488+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract] OR \"postpancreatectomy\"[Title/Abstract] OR \"posthepatectomy\"[Title/Abstract]) AND (\"complication\"[Title/Abstract] OR \"ISGLS\"[Title/Abstract] OR \"ISGPS\"[Title/Abstract] OR \"postoperative hemorrhage\"[Title/Abstract] OR \"hemorrhage\"[Title/Abstract] OR \"definition\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 53,
+        "returned": 53
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-complications",
+    "topic": "并发症定义与防治",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-complications",
+    "topic": "并发症定义与防治",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-quality",
+    "topic": "学习曲线与质量评价",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:57.098347+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"cholecystectomy\") AND (TITLE_ABS:\"learning curve\" OR TITLE_ABS:\"benchmark\" OR TITLE_ABS:\"quality indicator\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 10,
+        "returned": 10
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:58.515751+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreaticoduodenectomy\"[Title/Abstract] OR \"cholecystectomy\"[Title/Abstract]) AND (\"learning curve\"[Title/Abstract] OR \"benchmark\"[Title/Abstract] OR \"quality indicator\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 10,
+        "returned": 10
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-quality",
+    "topic": "学习曲线与质量评价",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:57.098347+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"cholecystectomy\") AND (TITLE_ABS:\"learning curve\" OR TITLE_ABS:\"benchmark\" OR TITLE_ABS:\"quality indicator\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 10,
+        "returned": 10
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:58.515751+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreaticoduodenectomy\"[Title/Abstract] OR \"cholecystectomy\"[Title/Abstract]) AND (\"learning curve\"[Title/Abstract] OR \"benchmark\"[Title/Abstract] OR \"quality indicator\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 10,
+        "returned": 10
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-quality",
+    "topic": "学习曲线与质量评价",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 5,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:01:57.098347+00:00",
+        "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"cholecystectomy\") AND (TITLE_ABS:\"learning curve\" OR TITLE_ABS:\"benchmark\" OR TITLE_ABS:\"quality indicator\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 10,
+        "returned": 10
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:01:58.515751+00:00",
+        "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreaticoduodenectomy\"[Title/Abstract] OR \"cholecystectomy\"[Title/Abstract]) AND (\"learning curve\"[Title/Abstract] OR \"benchmark\"[Title/Abstract] OR \"quality indicator\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 10,
+        "returned": 10
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-quality",
+    "topic": "学习曲线与质量评价",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "共同技术与围手术期",
+    "topic_id": "common-quality",
+    "topic": "学习曲线与质量评价",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-liver-transplant",
+    "topic": "肝移植与活体供肝",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 15,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:23.142295+00:00",
+        "query": "((TITLE_ABS:\"liver transplantation\" OR TITLE_ABS:\"liver transplant\" OR TITLE_ABS:\"living donor hepatectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 678,
+        "returned": 678
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:24.393544+00:00",
+        "query": "((\"liver transplantation\"[Title/Abstract] OR \"liver transplant\"[Title/Abstract] OR \"living donor hepatectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 575,
+        "returned": 575
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-liver-transplant",
+    "topic": "肝移植与活体供肝",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:23.142295+00:00",
+        "query": "((TITLE_ABS:\"liver transplantation\" OR TITLE_ABS:\"liver transplant\" OR TITLE_ABS:\"living donor hepatectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 678,
+        "returned": 678
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:24.393544+00:00",
+        "query": "((\"liver transplantation\"[Title/Abstract] OR \"liver transplant\"[Title/Abstract] OR \"living donor hepatectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 575,
+        "returned": 575
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-liver-transplant",
+    "topic": "肝移植与活体供肝",
+    "type": "原始研究",
+    "verified": 1,
+    "restricted": 10,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:23.142295+00:00",
+        "query": "((TITLE_ABS:\"liver transplantation\" OR TITLE_ABS:\"liver transplant\" OR TITLE_ABS:\"living donor hepatectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 678,
+        "returned": 678
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:24.393544+00:00",
+        "query": "((\"liver transplantation\"[Title/Abstract] OR \"liver transplant\"[Title/Abstract] OR \"living donor hepatectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 575,
+        "returned": 575
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-liver-transplant",
+    "topic": "肝移植与活体供肝",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-liver-transplant",
+    "topic": "肝移植与活体供肝",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-pancreas-transplant",
+    "topic": "胰腺与胰岛移植",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:25.762616+00:00",
+        "query": "((TITLE_ABS:\"pancreas transplantation\" OR TITLE_ABS:\"pancreatic transplantation\" OR TITLE_ABS:\"islet autotransplantation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 18,
+        "returned": 18
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:27.562552+00:00",
+        "query": "((\"pancreas transplantation\"[Title/Abstract] OR \"pancreatic transplantation\"[Title/Abstract] OR \"islet autotransplantation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 14,
+        "returned": 14
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-pancreas-transplant",
+    "topic": "胰腺与胰岛移植",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:25.762616+00:00",
+        "query": "((TITLE_ABS:\"pancreas transplantation\" OR TITLE_ABS:\"pancreatic transplantation\" OR TITLE_ABS:\"islet autotransplantation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 18,
+        "returned": 18
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:27.562552+00:00",
+        "query": "((\"pancreas transplantation\"[Title/Abstract] OR \"pancreatic transplantation\"[Title/Abstract] OR \"islet autotransplantation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 14,
+        "returned": 14
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-pancreas-transplant",
+    "topic": "胰腺与胰岛移植",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:25.762616+00:00",
+        "query": "((TITLE_ABS:\"pancreas transplantation\" OR TITLE_ABS:\"pancreatic transplantation\" OR TITLE_ABS:\"islet autotransplantation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 18,
+        "returned": 18
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:27.562552+00:00",
+        "query": "((\"pancreas transplantation\"[Title/Abstract] OR \"pancreatic transplantation\"[Title/Abstract] OR \"islet autotransplantation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 14,
+        "returned": 14
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-pancreas-transplant",
+    "topic": "胰腺与胰岛移植",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-pancreas-transplant",
+    "topic": "胰腺与胰岛移植",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-pediatric",
+    "topic": "儿科与先天性疾病",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:29.381266+00:00",
+        "query": "((TITLE_ABS:\"biliary atresia\" OR TITLE_ABS:\"choledochal cyst\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 24,
+        "returned": 24
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:31.190013+00:00",
+        "query": "((\"biliary atresia\"[Title/Abstract] OR \"choledochal cyst\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 27,
+        "returned": 27
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-pediatric",
+    "topic": "儿科与先天性疾病",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 3,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:29.381266+00:00",
+        "query": "((TITLE_ABS:\"biliary atresia\" OR TITLE_ABS:\"choledochal cyst\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 24,
+        "returned": 24
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:31.190013+00:00",
+        "query": "((\"biliary atresia\"[Title/Abstract] OR \"choledochal cyst\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 27,
+        "returned": 27
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-pediatric",
+    "topic": "儿科与先天性疾病",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:29.381266+00:00",
+        "query": "((TITLE_ABS:\"biliary atresia\" OR TITLE_ABS:\"choledochal cyst\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 24,
+        "returned": 24
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:31.190013+00:00",
+        "query": "((\"biliary atresia\"[Title/Abstract] OR \"choledochal cyst\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 27,
+        "returned": 27
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-pediatric",
+    "topic": "儿科与先天性疾病",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-pediatric",
+    "topic": "儿科与先天性疾病",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-intervention",
+    "topic": "内镜、介入与消融",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 2,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:39.288314+00:00",
+        "query": "((TITLE_ABS:\"biliary\" OR TITLE_ABS:\"liver\" OR TITLE_ABS:\"pancreatic\") AND (TITLE_ABS:\"ablation\" OR TITLE_ABS:\"interventional\" OR TITLE_ABS:\"endoscopic drainage\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 265,
+        "returned": 265
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:42.233875+00:00",
+        "query": "((\"biliary\"[Title/Abstract] OR \"liver\"[Title/Abstract] OR \"pancreatic\"[Title/Abstract]) AND (\"ablation\"[Title/Abstract] OR \"interventional\"[Title/Abstract] OR \"endoscopic drainage\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 240,
+        "returned": 240
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-intervention",
+    "topic": "内镜、介入与消融",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:39.288314+00:00",
+        "query": "((TITLE_ABS:\"biliary\" OR TITLE_ABS:\"liver\" OR TITLE_ABS:\"pancreatic\") AND (TITLE_ABS:\"ablation\" OR TITLE_ABS:\"interventional\" OR TITLE_ABS:\"endoscopic drainage\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 265,
+        "returned": 265
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:42.233875+00:00",
+        "query": "((\"biliary\"[Title/Abstract] OR \"liver\"[Title/Abstract] OR \"pancreatic\"[Title/Abstract]) AND (\"ablation\"[Title/Abstract] OR \"interventional\"[Title/Abstract] OR \"endoscopic drainage\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 240,
+        "returned": 240
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-intervention",
+    "topic": "内镜、介入与消融",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 5,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:39.288314+00:00",
+        "query": "((TITLE_ABS:\"biliary\" OR TITLE_ABS:\"liver\" OR TITLE_ABS:\"pancreatic\") AND (TITLE_ABS:\"ablation\" OR TITLE_ABS:\"interventional\" OR TITLE_ABS:\"endoscopic drainage\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 265,
+        "returned": 265
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:42.233875+00:00",
+        "query": "((\"biliary\"[Title/Abstract] OR \"liver\"[Title/Abstract] OR \"pancreatic\"[Title/Abstract]) AND (\"ablation\"[Title/Abstract] OR \"interventional\"[Title/Abstract] OR \"endoscopic drainage\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 240,
+        "returned": 240
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-intervention",
+    "topic": "内镜、介入与消融",
+    "type": "技术/解剖文章",
+    "verified": 1,
+    "restricted": 0,
+    "state": "已有题录/所读内容已核实资源",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-intervention",
+    "topic": "内镜、介入与消融",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-trauma",
+    "topic": "肝胆胰创伤",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:43.695862+00:00",
+        "query": "((TITLE_ABS:\"liver trauma\" OR TITLE_ABS:\"pancreatic trauma\" OR TITLE_ABS:\"duodenal trauma\" OR TITLE_ABS:\"pancreatic injury\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 10,
+        "returned": 10
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:45.044911+00:00",
+        "query": "((\"liver trauma\"[Title/Abstract] OR \"pancreatic trauma\"[Title/Abstract] OR \"duodenal trauma\"[Title/Abstract] OR \"pancreatic injury\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 8,
+        "returned": 8
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-trauma",
+    "topic": "肝胆胰创伤",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:43.695862+00:00",
+        "query": "((TITLE_ABS:\"liver trauma\" OR TITLE_ABS:\"pancreatic trauma\" OR TITLE_ABS:\"duodenal trauma\" OR TITLE_ABS:\"pancreatic injury\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 10,
+        "returned": 10
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:45.044911+00:00",
+        "query": "((\"liver trauma\"[Title/Abstract] OR \"pancreatic trauma\"[Title/Abstract] OR \"duodenal trauma\"[Title/Abstract] OR \"pancreatic injury\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 8,
+        "returned": 8
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-trauma",
+    "topic": "肝胆胰创伤",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:43.695862+00:00",
+        "query": "((TITLE_ABS:\"liver trauma\" OR TITLE_ABS:\"pancreatic trauma\" OR TITLE_ABS:\"duodenal trauma\" OR TITLE_ABS:\"pancreatic injury\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 10,
+        "returned": 10
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:45.044911+00:00",
+        "query": "((\"liver trauma\"[Title/Abstract] OR \"pancreatic trauma\"[Title/Abstract] OR \"duodenal trauma\"[Title/Abstract] OR \"pancreatic injury\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 8,
+        "returned": 8
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-trauma",
+    "topic": "肝胆胰创伤",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "移植及扩展专题",
+    "topic_id": "extended-trauma",
+    "topic": "肝胆胰创伤",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-approach",
+    "topic": "胰腺外科总论与手术路径",
+    "type": "指南/共识",
+    "verified": 0,
+    "restricted": 11,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:46.703215+00:00",
+        "query": "((TITLE_ABS:\"pancreatic surgery\" OR TITLE_ABS:\"pancreas surgery\") AND (TITLE_ABS:\"minimally invasive\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 13,
+        "returned": 13
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:47.852835+00:00",
+        "query": "((\"pancreatic surgery\"[Title/Abstract] OR \"pancreas surgery\"[Title/Abstract]) AND (\"minimally invasive\"[Title/Abstract] OR \"guideline\"[Title/Abstract] OR \"consensus\"[Title/Abstract] OR \"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 12,
+        "returned": 12
+      }
+    ],
+    "gap": ""
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-approach",
+    "topic": "胰腺外科总论与手术路径",
+    "type": "综述",
+    "verified": 0,
+    "restricted": 0,
+    "state": "已检索；本库尚无核实记录",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:46.703215+00:00",
+        "query": "((TITLE_ABS:\"pancreatic surgery\" OR TITLE_ABS:\"pancreas surgery\") AND (TITLE_ABS:\"minimally invasive\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 13,
+        "returned": 13
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:47.852835+00:00",
+        "query": "((\"pancreatic surgery\"[Title/Abstract] OR \"pancreas surgery\"[Title/Abstract]) AND (\"minimally invasive\"[Title/Abstract] OR \"guideline\"[Title/Abstract] OR \"consensus\"[Title/Abstract] OR \"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 12,
+        "returned": 12
+      }
+    ],
+    "gap": "综述历史检索以系统综述为重点。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-approach",
+    "topic": "胰腺外科总论与手术路径",
+    "type": "原始研究",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [
+      {
+        "source": "Europe PMC",
+        "searched_at": "2026-09-14T15:02:46.703215+00:00",
+        "query": "((TITLE_ABS:\"pancreatic surgery\" OR TITLE_ABS:\"pancreas surgery\") AND (TITLE_ABS:\"minimally invasive\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
+        "complete": true,
+        "hit_count": 13,
+        "returned": 13
+      },
+      {
+        "source": "PubMed",
+        "searched_at": "2026-09-14T15:02:47.852835+00:00",
+        "query": "((\"pancreatic surgery\"[Title/Abstract] OR \"pancreas surgery\"[Title/Abstract]) AND (\"minimally invasive\"[Title/Abstract] OR \"guideline\"[Title/Abstract] OR \"consensus\"[Title/Abstract] OR \"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
+        "complete": true,
+        "hit_count": 12,
+        "returned": 12
+      }
+    ],
+    "gap": "原始研究历史检索以随机试验为重点，非随机原始研究仍有缺口。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-approach",
+    "topic": "胰腺外科总论与手术路径",
+    "type": "技术/解剖文章",
+    "verified": 0,
+    "restricted": 0,
+    "state": "尚无本轮该类型系统补检",
+    "searches": [],
+    "gap": "技术/解剖原始研究未完成独立历史检索。"
+  },
+  {
+    "organ": "胰腺外科",
+    "topic_id": "pancreas-approach",
+    "topic": "胰腺外科总论与手术路径",
+    "type": "视频",
+    "verified": 0,
+    "restricted": 1,
+    "state": "发现但受限或待核对",
+    "searches": [],
+    "gap": "视频数量表示页面/题录核对，不表示播放成功；目录巡查不构成该专题全覆盖。"
+  }
+]

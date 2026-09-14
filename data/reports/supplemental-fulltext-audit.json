@@ -1,0 +1,165 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-14T14:04:13.684213+00:00",
+  "scope": "仅补查B041、B062；汇入此前B016官方PDF核验。除两条notes及本报告外不修改主数据或现有核验文件。",
+  "records": {
+    "B016": {
+      "checked_at": "2026-09-14T13:58:30.752637+00:00",
+      "time_basis": "此前PDF正文提取与人工阅读核验完成时间，沿用该条reviewed_at；本报告未重新下载",
+      "requested_url": "https://easl.eu/wp-content/uploads/2016/10/EASL-CPG-Gallstones.pdf",
+      "final_url": "https://easl.eu/wp-content/uploads/2016/10/EASL-CPG-Gallstones.pdf",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 4844745,
+      "sha256": "c91b865677d0b4677623a69c21ed47a299f8c4922b354c6dd993ee3d5e4d3b70",
+      "format": "PDF",
+      "pdf_pages": 36,
+      "identity_match": true,
+      "body_present": true,
+      "matched_fields": [
+        "题名",
+        "EASL集体署名",
+        "DOI 10.1016/j.jhep.2016.03.005"
+      ],
+      "read_scope": "PDF第1、6、8–9、17页相关段落；article-in-press排版，不能把PDF页码当正式刊期页码",
+      "retrieval_method": "普通requests请求，pypdf内存解析；此前web工具403不覆盖此次实际PDF成功",
+      "raw_saved": false,
+      "outcome": "正文重点核对，substantive"
+    },
+    "B041": {
+      "checked_at": "2026-09-14T14:04:13.684213+00:00",
+      "identity_match": true,
+      "resource_type_confirmed": "Research Letter（原始观察研究简报）；页面另有读者评论，二者不混同",
+      "pmid": "42201711",
+      "doi": "10.1001/jamasurg.2026.1585",
+      "published_online": "2026-05-27",
+      "issue_date": "2026-07-01",
+      "body_present": false,
+      "body_state": "只有可读引言与期刊方定性简介；完整研究结果未取得",
+      "abstract_present": false,
+      "pmc_embargo_until": "2027-05-27",
+      "outcome": "保留资料受限/source_limited，更新实际访问边界",
+      "attempts": [
+        {
+          "checked_at": "2026-09-14T14:00:00.795803+00:00",
+          "requested_url": "https://jamanetwork.com/journals/jamasurgery/article-abstract/2849504",
+          "final_url": "https://jamanetwork.com/journals/jamasurgery/article-abstract/2849504",
+          "method": "requests",
+          "status": 403,
+          "content_type": "text/html",
+          "bytes": 1031,
+          "sha256": "e22639036b4f5efd3a3d5b0749586692bba67ed455aecf2c39fa8c35ee59836b",
+          "result": "访问拒绝；不表示文献不存在"
+        },
+        {
+          "checked_at": "2026-09-14T14:04:13.684213+00:00",
+          "requested_url": "https://jamanetwork.com/journals/jamasurgery/article-abstract/2849504",
+          "final_url": "https://jamanetwork.com/journals/jamasurgery/article-abstract/2849504",
+          "method": "web读取官方公开页及点击View Full Text",
+          "status": null,
+          "result": "可读题录、Research Letter类型及引言；出现Get Access，未返回完整方法/结果"
+        },
+        {
+          "checked_at": "2026-09-14T14:04:13.684213+00:00",
+          "requested_url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2849504/jamasurgery_mullens_2026_ld_260006_1782745022.94876.pdf",
+          "final_url": "https://jamanetwork.com/journals/jamasurgery/article-abstract/2849504",
+          "method": "web点击官方Download PDF",
+          "status": null,
+          "content_type": "text/html",
+          "result": "PDF链接重定向到受限HTML，不能标为PDF取得"
+        },
+        {
+          "checked_at": "2026-09-14T14:00:40.239808+00:00",
+          "requested_url": "https://www.eurekalert.org/news-releases/1129454",
+          "final_url": "https://www.eurekalert.org/news-releases/1129454",
+          "method": "requests；同时有官方新闻稿的公开检索摘要",
+          "status": 403,
+          "bytes": 118,
+          "sha256": "58bf2215b395dcac74c009aa98701854e43cbe54a1cd3a95fee6a647ca9910d4",
+          "result": "直连403；公开索引仍有JAMA方2020–2023年研究的定性简介，无样本量及效应值"
+        },
+        {
+          "checked_at": "2026-09-14T14:04:13.684213+00:00",
+          "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42201711/",
+          "method": "PubMed公开检索结果及页面复查",
+          "status": null,
+          "result": "No abstract available；PMCID PMC13217252 available on 2027-05-27"
+        }
+      ]
+    },
+    "B062": {
+      "checked_at": "2026-09-14T14:04:13.684213+00:00",
+      "identity_match": true,
+      "resource_type_confirmed": "专家共识，非单项原始比较研究",
+      "doi_confirmed": "10.3969/j.issn.1009-6604.2025.08.001",
+      "group_author_confirmed": "中国医疗保健国际交流促进会微创诊疗学分会",
+      "byline_note": "柴欣等六位列于执笔人员；陈德兴为通讯作者。主数据未改，供主线程字段审计。",
+      "journal": "中国微创外科杂志",
+      "year": 2025,
+      "volume": 25,
+      "issue": 8,
+      "pages": "449–456",
+      "body_present": true,
+      "format": "PDF",
+      "pdf_pages": 8,
+      "read_scope": "原刊449–454页正文及GRADE表、10项推荐和小结；后两页参考文献未逐篇复核",
+      "raw_saved": false,
+      "outcome": "升级正文重点核对/substantive",
+      "corrections_and_boundaries": [
+        "旧摘要导读仅强调继发性结石；正文亦列原发性肝外胆管结石适应证。",
+        "路径定义允许部分病例微切开胆总管，不能宣传为所有患者胆总管均不切开。",
+        "第454页承认研究多为回顾性；推荐等级为共识原文评级，并非本库独立重评结果。",
+        "第452页营养部分NRS2022与NRS2002并存；口径5.0 mm处普通/超细镜范围重叠。未将可疑措辞扩写成诊疗规则。"
+      ],
+      "attempts": [
+        {
+          "checked_at": "2026-09-14T14:00:01.169997+00:00",
+          "requested_url": "https://ccj.pku.edu.cn/Article/info?aid=387860072",
+          "final_url": "https://ccj.pku.edu.cn/Article/info?aid=387860072",
+          "method": "requests",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 80414,
+          "sha256": "f06cae5b1d46d875cf0c3f92eed7c77e7800ff4b8c0c3252e8d11658573d9fe4",
+          "result": "目标题名匹配，正文只有引言式摘要，无全文下载链接"
+        },
+        {
+          "checked_at": "2026-09-14T14:00:40.089515+00:00",
+          "requested_url": "https://tjhlib.yuntsg.com/web/detail?id=18626&tid=0&type=service",
+          "final_url": "https://tjhlib.yuntsg.com/web/detail?id=18626&tid=0&type=service",
+          "method": "requests及原页面公开脚本检查",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 16824,
+          "sha256": "0b8bf34f11bbdc7b312608e3894dfb0b6bfa988d9482cc4f9fbfe166b003d666",
+          "result": "官方医院图书馆壳页，原页面脚本getGuideInfo明确调用/web/guideInfo?id=18626"
+        },
+        {
+          "checked_at": "2026-09-14T14:01:23.534988+00:00",
+          "requested_url": "https://tjhlib.yuntsg.com/web/guideInfo?id=18626",
+          "final_url": "https://tjhlib.yuntsg.com/web/guideInfo?id=18626",
+          "method": "requests，按前端已公开GET调用",
+          "status": 200,
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 1069,
+          "sha256": "4604d158207523f1398a1b3d3cc68a7bc1bfe07e60d93d58381f0be2cff8c641",
+          "result": "info.title与目标匹配；info.content明确链接下列bookcafe PDF",
+          "linked_pdf_url": "https://bookcafe.yuntsg.com/ueditor/jsp/upload/file/20250903/1756892224193071170.pdf"
+        },
+        {
+          "checked_at": "2026-09-14T14:00:40.815183+00:00",
+          "requested_url": "https://bookcafe.yuntsg.com/ueditor/jsp/upload/file/20250903/1756892224193071170.pdf",
+          "final_url": "https://bookcafe.yuntsg.com/ueditor/jsp/upload/file/20250903/1756892224193071170.pdf",
+          "method": "requests+pypdf内存解析",
+          "status": 200,
+          "content_type": "application/pdf",
+          "bytes": 1249900,
+          "sha256": "5f66b9add5f62d4261a48631b903427ffa9af57291415885736e73ddb6814ced",
+          "pdf_pages": 8,
+          "identity_match": true,
+          "result": "原刊正文可读；题名/署名/DOI/卷期页码与目标对应；pypdf报告MediaBox重复键但不妨碍文本提取，未据此声称图像版式已全面核验"
+        }
+      ]
+    }
+  }
+}

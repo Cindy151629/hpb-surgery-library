@@ -1,0 +1,129 @@
+name: HPB weekly discovery and publication
+on:
+  schedule:
+    - cron: '17 1 * * 1' # Monday 09:17 Asia/Shanghai
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: hpb-cumulative-update
+  cancel-in-progress: false
+jobs:
+  update-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      HPB_WORK_DIR: ${{ runner.temp }}/hpb-private-evidence
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Check concrete publication authorization and configuration
+        id: authorization
+        run: python scripts/cloud_recovery.py authorize
+      - name: Record actual run start before dependency installation
+        id: started
+        run: python scripts/cloud_recovery.py start
+      - name: Persist the started run so interrupted executions remain visible
+        id: start_saved
+        run: python scripts/cloud_recovery.py persist
+      - name: Install fixed-program dependencies
+        id: dependencies
+        run: python -m pip install -r requirements.txt
+      - uses: actions/setup-node@v4
+        id: node
+        with:
+          node-version: '22'
+      - name: Restore the pinned externally verified release, if one exists
+        id: recovery
+        run: python scripts/cloud_recovery.py restore --directory previous-site
+      - name: Search, deduplicate, classify, verify, merge and build
+        id: update
+        # Reserve time for failure persistence and verified recovery before the job timeout.
+        timeout-minutes: 75
+        run: python scripts/update.py
+      - name: Validate generated artifacts and failure behavior
+        id: tests
+        timeout-minutes: 5
+        run: |
+          python -m unittest discover -s tests -v
+          node --test tests/core.test.cjs
+      - uses: actions/configure-pages@v5
+        id: pages_config
+      - uses: actions/upload-pages-artifact@v3
+        id: upload
+        with:
+          path: site
+      - uses: actions/deploy-pages@v4
+        id: deployment
+        timeout-minutes: 10
+      - name: Verify intended HTML and JSON bytes, version and Origin-null CORS
+        id: verification
+        timeout-minutes: 5
+        env:
+          DEPLOYED_URL: ${{ steps.deployment.outputs.page_url }}
+        run: python scripts/deploy_check.py --url "$DEPLOYED_URL" --expected-dir site
+      - name: Pin this verified immutable artifact on release-good
+        id: pin
+        run: python scripts/cloud_recovery.py pin --directory site
+      - name: Prepare the previous verified artifact after a failed publication
+        if: always() && steps.recovery.outputs.available == 'true' && (steps.deployment.outcome == 'failure' || steps.verification.outcome == 'failure')
+        id: recovery_upload
+        uses: actions/upload-pages-artifact@v3
+        with:
+          name: hpb-recovery
+          path: previous-site
+      - name: Restore the pinned successful publication
+        if: always() && steps.recovery_upload.outcome == 'success'
+        id: rollback
+        uses: actions/deploy-pages@v4
+        timeout-minutes: 10
+        with:
+          artifact_name: hpb-recovery
+      - name: Verify the actual rollback bytes from HTTPS
+        if: always() && steps.rollback.outcome == 'success'
+        id: rollback_check
+        timeout-minutes: 5
+        env:
+          DEPLOYED_URL: ${{ steps.rollback.outputs.page_url }}
+        run: python scripts/deploy_check.py --url "$DEPLOYED_URL" --expected-dir previous-site --rollback
+      - name: Record the final attempt outcome without changing source watermarks
+        if: always() && steps.started.outcome == 'success'
+        id: finalized
+        env:
+          HPB_STEP_RESULTS: ${{ toJSON(steps) }}
+        run: python scripts/cloud_recovery.py finish
+      - name: Persist cumulative state and checkpoints even after failure
+        if: always() && steps.started.outcome == 'success'
+        id: persisted
+        run: python scripts/cloud_recovery.py persist
+      - name: Record persistence failure for the downloadable recovery bundle
+        if: always() && steps.started.outcome == 'success' && steps.persisted.outcome == 'failure'
+        env:
+          HPB_STEP_RESULTS: ${{ toJSON(steps) }}
+        run: python scripts/cloud_recovery.py finish
+      - name: Keep only approved public state and execution evidence
+        if: always() && steps.started.outcome == 'success'
+        uses: actions/upload-artifact@v4
+        with:
+          name: hpb-execution-${{ github.run_id }}
+          path: |
+            data/records.json
+            data/state.json
+            data/candidates.json
+            data/pending_changes.json
+            data/video_discovery.json
+            data/checkpoints/*.json
+            data/runs/*.json
+            data/reports/*.json
+            data/publication-status.json
+            data/runtime-status.json
+          retention-days: 90

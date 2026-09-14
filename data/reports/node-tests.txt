@@ -1,0 +1,17 @@
+✔ real cumulative envelope is valid (122.635125ms)
+✔ wrong domain, broken checksum, missing old IDs rejected (66.450042ms)
+✔ untrusted source text escapes script and attribute injection (0.301083ms)
+✔ Chinese and English Whipple aliases map to reviewed operation topic (0.818708ms)
+✔ multiple filters and empty results do not alter cumulative data (27.586167ms)
+✔ ID and note content are searchable (0.28725ms)
+✔ playback gate needs permission AND successful embed test (0.195209ms)
+✔ single HTML embeds all original record IDs and no eager iframe (255.525333ms)
+✔ malformed navigation or note data cannot replace the working snapshot (12.02225ms)
+ℹ tests 9
+ℹ suites 0
+ℹ pass 9
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 643.340917

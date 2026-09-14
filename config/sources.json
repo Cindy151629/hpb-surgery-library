@@ -1,0 +1,32 @@
+{
+  "query_version": "hpb-query-3-guideline-recall",
+  "overlap_days": 21,
+  "monthly_lookback_days": 90,
+  "max_pages": 120,
+  "page_size": 100,
+  "epmc_endpoint": "https://www.ebi.ac.uk/europepmc/webservices/rest/search",
+  "pubmed_endpoint": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi",
+  "sages_feed": "https://www.sages.org/video/feed/",
+  "stanford_directory": "https://med.stanford.edu/hpb-library.html",
+  "include": "与肝胆胰手术决策、操作或围手术期直接相关的人类研究；不限OA；教学病例与比较研究分开",
+  "exclude": "纯基础研究、无手术相关性、广告；疑似相关但证据不足留候选",
+  "historical_filter": "(PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")",
+  "manual_sources": [
+    "中华医学会系列期刊/指南平台",
+    "国家卫生健康委",
+    "临床肝胆病杂志指南目录",
+    "JOMI官方视频目录",
+    "webop课程目录",
+    "Olympus中国专业教育"
+  ],
+  "unsearched_subscription_sources": [
+    "Embase",
+    "Web of Science",
+    "CNKI付费检索"
+  ],
+  "schedule": {
+    "timezone": "Asia/Shanghai",
+    "local": "每周一09:17",
+    "utc_cron": "17 1 * * 1"
+  }
+}

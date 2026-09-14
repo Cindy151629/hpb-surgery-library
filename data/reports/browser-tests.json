@@ -1,0 +1,101 @@
+{
+  "recorded_at": "2026-09-14T15:06:15.956863+00:00",
+  "surface": "Codex in-app browser, localhost HTTP, 1280x720",
+  "tests": [
+    {
+      "name": "Rendering and detailed sourced note",
+      "status": "passed",
+      "observations": "P001 question/design/numeric results/limitations/source location visible; later B016 and B062 notes rendered."
+    },
+    {
+      "name": "Whipple bilingual alias search",
+      "status": "passed",
+      "observations": "35 results observed before subsequent guideline addition; all result counts calculated live."
+    },
+    {
+      "name": "ID search P001",
+      "status": "passed",
+      "observations": "One result."
+    },
+    {
+      "name": "Combined organ/type filters",
+      "status": "passed",
+      "observations": "Pancreas + original research returned 46 results."
+    },
+    {
+      "name": "No-match state",
+      "status": "passed",
+      "observations": "Distinct no-result message; underlying data unchanged."
+    },
+    {
+      "name": "Favorite survives reload",
+      "status": "passed",
+      "observations": "P001 remained saved after reload; test favorite removed."
+    },
+    {
+      "name": "Personal note persists immediately on input",
+      "status": "passed",
+      "observations": "Initial change-only persistence failed; fixed input listener. Test text remained on reload; test text then cleared."
+    },
+    {
+      "name": "Videos and lazy embeds",
+      "status": "passed",
+      "observations": "81 video/course/portal/lead records; first page 18 original-site links, zero eager iframes. Playback gate remains closed without verified permission/playback."
+    },
+    {
+      "name": "Coverage table",
+      "status": "passed",
+      "observations": "Final expanded taxonomy rendered 155 rows; two report export buttons visible; DOM width 1280."
+    },
+    {
+      "name": "Legacy article anchor",
+      "status": "passed",
+      "observations": "#resource-J017 resolved to #J017 with detailed note open."
+    },
+    {
+      "name": "Desktop width",
+      "status": "passed",
+      "observations": "scrollWidth 1280 equals viewport width 1280."
+    },
+    {
+      "name": "Mobile viewport override",
+      "status": "not_completed",
+      "observations": "Requested390x844 through supported capability but DOM still1280; no responsive-pass claim; override reset."
+    },
+    {
+      "name": "file:// entry",
+      "status": "blocked_by_browser_security_policy",
+      "observations": "Browser URL policy explicitly rejected navigation. No workaround, alternate browser, or security disabling used."
+    },
+    {
+      "name": "Remote official video playback",
+      "status": "not_completed",
+      "observations": "SAGES, Vimeo and Olympus China official video navigation/DOM operations timed out. Olympus navigation attempted 2026-09-14 at approximately14:46 UTC with a20-second tool timeout; no player could be reached. No successful playback or embedding claimed."
+    },
+    {
+      "name": "New NICE full recommendation notes",
+      "status": "passed",
+      "observations": "NEW-NICE-001 returns one record; actual reading scope, recommendations1.1–1.3, research questions and two linked sources visible."
+    },
+    {
+      "name": "Search URL survives reload after legacy anchor",
+      "status": "passed",
+      "observations": "Fixed stale #J017 overriding later searches; NEW-NICE-001 persisted after reload with one record and no residual anchor. Tested version hpb-fc55a3e9b71db077."
+    },
+    {
+      "name": "All records navigation after strict title audit",
+      "status": "passed",
+      "observations": "All368primary records render; first page18cards,21pages; zero iframes loaded."
+    },
+    {
+      "name": "Final rendered data version",
+      "status": "passed",
+      "observations": "hpb-4373eaa804854c11:155coverage rows; B016one result and six substantive reading sections; successful search time2026-09-14T15:02:51.987086+00:00; no successful publish time."
+    }
+  ],
+  "cloud_cors_test": "not_run; no approved HTTPS deployment",
+  "download_export_test": "controls and code tested; actual browser download/import round-trip not yet completed",
+  "private_user_data_transmitted": false,
+  "final_data_version": "hpb-4373eaa804854c11",
+  "final_console_errors": []
+}

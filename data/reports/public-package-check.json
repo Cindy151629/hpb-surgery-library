@@ -1,0 +1,18 @@
+{
+  "checked_at": "2026-09-14T15:06:15.956863+00:00",
+  "result": "passed",
+  "description": "Built the staged public source with a separate empty HPB_WORK_DIR, without inherited.json or original source documents. No network request was needed for rendering.",
+  "counts": {
+    "article": 286,
+    "society": 1,
+    "video": 48,
+    "course": 15,
+    "portal": 12,
+    "lead": 6
+  },
+  "records": 368,
+  "private_files_present": false,
+  "data_version": "hpb-4373eaa804854c11",
+  "fresh_work_directory": true,
+  "network_requests": 0
+}

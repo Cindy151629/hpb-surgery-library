@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-09-14T14:28:46.125196+00:00",
+  "id": "P013",
+  "prior_flag": {
+    "detected_at": "2026-09-14T14:10:32.524011+00:00",
+    "changes": {
+      "corrections": {
+        "before": [
+          {
+            "type": "ErratumFor",
+            "pmid": "28040257",
+            "citation": "Surgery. 2017 Mar;161(3):584-591. doi: 10.1016/j.surg.2016.11.014.",
+            "note": ""
+          },
+          {
+            "DOI": "10.1016/j.surg.2016.11.014",
+            "type": "erratum",
+            "label": "Erratum",
+            "source": "publisher",
+            "updated": {
+              "date-parts": [
+                [
+                  2024,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2024-09-01T00:00:00Z",
+              "timestamp": 1725148800000
+            }
+          }
+        ],
+        "after": [
+          {
+            "type": "ErratumFor",
+            "pmid": "28040257",
+            "citation": "Surgery. 2017 Mar;161(3):584-591. doi: 10.1016/j.surg.2016.11.014.",
+            "note": ""
+          }
+        ]
+      }
+    },
+    "source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=31502658%2C35580661%2C30452918%2C29108721%2C30391468%2C20410514%2C38407228%2C20622661%2C41288428%2C30685489%2C30080726%2C37485920%2C37450702%2C31567509%2C37450701%2C34614330%2C15798460%2C31870802%2C28344786%2C39565607%2C31961419%2C28901935%2C17301298%2C17629996%2C34596077%2C42386316%2C38420108%2C17981197%2C24374513%2C27513157%2C40897878%2C28040257%2C16003309%2C38926000%2C24849084%2C33914473%2C29240007%2C23122535%2C21368658%2C40747945%2C26135690%2C36199490%2C29697455%2C37300889%2C29574408%2C38237621%2C36521500%2C35084987%2C35834226%2C32105518%2C25061003%2C41060640%2C37457332%2C31856076%2C35155544%2C39172725%2C33915091%2C39907004%2C38499019%2C40114539%2C35983583%2C21529927%2C31210778%2C40957230%2C34242915%2C15273542%2C23728278%2C27549599%2C25059275%2C39826234&retmode=xml",
+    "status": "待专业复核；保留现有题名和阅读笔记"
+  },
+  "resolution": "False positive caused by comparing PubMed-only corrections against a combined PubMed+Crossref list. PubMed ErratumFor is unchanged; preserve both provider records. Actual source-page restriction remains.",
+  "status": "resolved comparator error; content still restricted"
+}

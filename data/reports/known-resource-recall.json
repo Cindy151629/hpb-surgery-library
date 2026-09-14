@@ -1,0 +1,482 @@
+{
+  "generated_at": "2026-09-14T14:33:32.108132+00:00",
+  "sentinels": [
+    {
+      "id": "L001",
+      "pmid": "29064908",
+      "title": "The Southampton Consensus Guidelines for Laparoscopic Liver Surgery: From Indication to Implementation.",
+      "found_in_recorded_results": true,
+      "matches": [
+        {
+          "source": "Europe PMC",
+          "topic_id": "liver-resection",
+          "searched_at": "2026-09-14T14:17:49.704101+00:00",
+          "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\" OR TITLE_ABS:\"liver surgery\" OR TITLE_ABS:\"hepatic surgery\") AND (TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\" OR TITLE_ABS:\"open\" OR TITLE_ABS:\"segmentectomy\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\")"
+        },
+        {
+          "source": "PubMed",
+          "topic_id": "liver-resection",
+          "searched_at": "2026-09-14T14:17:55.302855+00:00",
+          "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract] OR \"hepatic surgery\"[Title/Abstract]) AND (\"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract] OR \"open\"[Title/Abstract] OR \"segmentectomy\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "liver-resection",
+          "searched_at": "2026-09-14T14:33:26.324308+00:00",
+          "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\" OR TITLE_ABS:\"liver surgery\" OR TITLE_ABS:\"hepatic surgery\") AND (TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\" OR TITLE_ABS:\"open\" OR TITLE_ABS:\"segmentectomy\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        }
+      ],
+      "limit": "Known-resource recall check, not sensitivity against all HPB literature. Nonindexed/technical items require additional sources.",
+      "found_in_any_validated_query": true,
+      "additional_scope_note": "Current type-limited history search can omit observational reports; prior validated incremental searches are counted separately. JOMI without PMID is covered by its official page, not assumed PubMed-indexed."
+    },
+    {
+      "id": "L004",
+      "pmid": "36310325",
+      "title": "Guidelines for Perioperative Care for Liver Surgery: Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.",
+      "found_in_recorded_results": true,
+      "matches": [
+        {
+          "source": "Europe PMC",
+          "topic_id": "liver-anatomy",
+          "searched_at": "2026-09-14T14:17:27.311734+00:00",
+          "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"anatomy\" OR TITLE_ABS:\"assessment\" OR TITLE_ABS:\"nomenclature\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\")"
+        },
+        {
+          "source": "PubMed",
+          "topic_id": "liver-anatomy",
+          "searched_at": "2026-09-14T14:17:33.999513+00:00",
+          "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract]) AND (\"anatomy\"[Title/Abstract] OR \"assessment\"[Title/Abstract] OR \"nomenclature\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "common-eras",
+          "searched_at": "2026-09-14T14:26:59.793993+00:00",
+          "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"liver surgery\") AND (TITLE_ABS:\"enhanced recovery\" OR TITLE_ABS:\"nutrition\" OR TITLE_ABS:\"prehabilitation\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\")"
+        },
+        {
+          "source": "PubMed",
+          "topic_id": "common-eras",
+          "searched_at": "2026-09-14T14:27:02.974206+00:00",
+          "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreaticoduodenectomy\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract]) AND (\"enhanced recovery\"[Title/Abstract] OR \"nutrition\"[Title/Abstract] OR \"prehabilitation\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "liver-anatomy",
+          "searched_at": "2026-09-14T14:33:03.811431+00:00",
+          "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"anatomy\" OR TITLE_ABS:\"assessment\" OR TITLE_ABS:\"nomenclature\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "common-eras",
+          "searched_at": "2026-09-14T14:41:57.452749+00:00",
+          "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"liver surgery\") AND (TITLE_ABS:\"enhanced recovery\" OR TITLE_ABS:\"nutrition\" OR TITLE_ABS:\"prehabilitation\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        }
+      ],
+      "limit": "Known-resource recall check, not sensitivity against all HPB literature. Nonindexed/technical items require additional sources.",
+      "found_in_any_validated_query": true,
+      "additional_scope_note": "Current type-limited history search can omit observational reports; prior validated incremental searches are counted separately. JOMI without PMID is covered by its official page, not assumed PubMed-indexed."
+    },
+    {
+      "id": "L020",
+      "pmid": "29172949",
+      "title": "Laparoscopic Versus Open Hepatic Resection for Solitary Hepatocellular Carcinoma Less Than 5 cm in Cirrhotic Patients: A Randomized Controlled Study.",
+      "found_in_recorded_results": true,
+      "matches": [
+        {
+          "source": "Europe PMC",
+          "topic_id": "liver-resection",
+          "searched_at": "2026-09-14T14:17:49.704101+00:00",
+          "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\" OR TITLE_ABS:\"liver surgery\" OR TITLE_ABS:\"hepatic surgery\") AND (TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\" OR TITLE_ABS:\"open\" OR TITLE_ABS:\"segmentectomy\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\")"
+        },
+        {
+          "source": "PubMed",
+          "topic_id": "liver-resection",
+          "searched_at": "2026-09-14T14:17:55.302855+00:00",
+          "query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract] OR \"hepatic surgery\"[Title/Abstract]) AND (\"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract] OR \"open\"[Title/Abstract] OR \"segmentectomy\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "liver-hcc",
+          "searched_at": "2026-09-14T14:18:30.024856+00:00",
+          "query": "((TITLE_ABS:\"hepatocellular carcinoma\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"hepatectomy\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\")"
+        },
+        {
+          "source": "PubMed",
+          "topic_id": "liver-hcc",
+          "searched_at": "2026-09-14T14:18:57.357237+00:00",
+          "query": "((\"hepatocellular carcinoma\"[Title/Abstract]) AND (\"resection\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"hepatectomy\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "liver-resection",
+          "searched_at": "2026-09-14T14:33:26.324308+00:00",
+          "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\" OR TITLE_ABS:\"liver surgery\" OR TITLE_ABS:\"hepatic surgery\") AND (TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\" OR TITLE_ABS:\"open\" OR TITLE_ABS:\"segmentectomy\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "liver-hcc",
+          "searched_at": "2026-09-14T14:34:27.899795+00:00",
+          "query": "((TITLE_ABS:\"hepatocellular carcinoma\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"hepatectomy\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        }
+      ],
+      "limit": "Known-resource recall check, not sensitivity against all HPB literature. Nonindexed/technical items require additional sources.",
+      "found_in_any_validated_query": true,
+      "additional_scope_note": "Current type-limited history search can omit observational reports; prior validated incremental searches are counted separately. JOMI without PMID is covered by its official page, not assumed PubMed-indexed."
+    },
+    {
+      "id": "P001",
+      "pmid": "30080726",
+      "title": "Minimally Invasive Versus Open Distal Pancreatectomy (LEOPARD): A Multicenter Patient-blinded Randomized Controlled Trial.",
+      "found_in_recorded_results": true,
+      "matches": [
+        {
+          "source": "Europe PMC",
+          "topic_id": "pancreas-distal",
+          "searched_at": "2026-09-14T14:24:44.237941+00:00",
+          "query": "((TITLE_ABS:\"pancreas\" OR TITLE_ABS:\"pancreatic\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"distal pancreatectomy\" OR TITLE_ABS:\"RAMPS\" OR TITLE_ABS:\"spleen preservation\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\")"
+        },
+        {
+          "source": "PubMed",
+          "topic_id": "pancreas-distal",
+          "searched_at": "2026-09-14T14:24:49.936774+00:00",
+          "query": "((\"pancreas\"[Title/Abstract] OR \"pancreatic\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract]) AND (\"distal pancreatectomy\"[Title/Abstract] OR \"RAMPS\"[Title/Abstract] OR \"spleen preservation\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "common-complications",
+          "searched_at": "2026-09-14T14:27:13.784264+00:00",
+          "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"postpancreatectomy\" OR TITLE_ABS:\"posthepatectomy\") AND (TITLE_ABS:\"complication\" OR TITLE_ABS:\"ISGLS\" OR TITLE_ABS:\"ISGPS\" OR TITLE_ABS:\"postoperative hemorrhage\" OR TITLE_ABS:\"hemorrhage\" OR TITLE_ABS:\"definition\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\")"
+        },
+        {
+          "source": "PubMed",
+          "topic_id": "common-complications",
+          "searched_at": "2026-09-14T14:27:19.285930+00:00",
+          "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract] OR \"postpancreatectomy\"[Title/Abstract] OR \"posthepatectomy\"[Title/Abstract]) AND (\"complication\"[Title/Abstract] OR \"ISGLS\"[Title/Abstract] OR \"ISGPS\"[Title/Abstract] OR \"postoperative hemorrhage\"[Title/Abstract] OR \"hemorrhage\"[Title/Abstract] OR \"definition\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "pancreas-distal",
+          "searched_at": "2026-09-14T14:39:39.364004+00:00",
+          "query": "((TITLE_ABS:\"pancreas\" OR TITLE_ABS:\"pancreatic\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"distal pancreatectomy\" OR TITLE_ABS:\"RAMPS\" OR TITLE_ABS:\"spleen preservation\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "common-complications",
+          "searched_at": "2026-09-14T14:42:17.899103+00:00",
+          "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"postpancreatectomy\" OR TITLE_ABS:\"posthepatectomy\") AND (TITLE_ABS:\"complication\" OR TITLE_ABS:\"ISGLS\" OR TITLE_ABS:\"ISGPS\" OR TITLE_ABS:\"postoperative hemorrhage\" OR TITLE_ABS:\"hemorrhage\" OR TITLE_ABS:\"definition\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        }
+      ],
+      "limit": "Known-resource recall check, not sensitivity against all HPB literature. Nonindexed/technical items require additional sources.",
+      "found_in_any_validated_query": true,
+      "additional_scope_note": "Current type-limited history search can omit observational reports; prior validated incremental searches are counted separately. JOMI without PMID is covered by its official page, not assumed PubMed-indexed."
+    },
+    {
+      "id": "P010",
+      "pmid": "37450702",
+      "title": "The Brescia Internationally Validated European Guidelines on Minimally Invasive Pancreatic Surgery (EGUMIPS).",
+      "found_in_recorded_results": true,
+      "matches": [
+        {
+          "source": "Europe PMC",
+          "topic_id": "pancreas-approach",
+          "searched_at": "2026-09-14T14:32:16.935608+00:00",
+          "query": "((TITLE_ABS:\"pancreatic surgery\" OR TITLE_ABS:\"pancreas surgery\") AND (TITLE_ABS:\"minimally invasive\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\")"
+        },
+        {
+          "source": "PubMed",
+          "topic_id": "pancreas-approach",
+          "searched_at": "2026-09-14T14:32:19.706137+00:00",
+          "query": "((\"pancreatic surgery\"[Title/Abstract] OR \"pancreas surgery\"[Title/Abstract]) AND (\"minimally invasive\"[Title/Abstract] OR \"guideline\"[Title/Abstract] OR \"consensus\"[Title/Abstract] OR \"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "pancreas-approach",
+          "searched_at": "2026-09-14T14:46:48.781354+00:00",
+          "query": "((TITLE_ABS:\"pancreatic surgery\" OR TITLE_ABS:\"pancreas surgery\") AND (TITLE_ABS:\"minimally invasive\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        }
+      ],
+      "limit": "Known-resource recall check, not sensitivity against all HPB literature. Nonindexed/technical items require additional sources.",
+      "found_in_any_validated_query": true,
+      "additional_scope_note": "Current type-limited history search can omit observational reports; prior validated incremental searches are counted separately. JOMI without PMID is covered by its official page, not assumed PubMed-indexed."
+    },
+    {
+      "id": "P014",
+      "pmid": "17629996",
+      "title": "Postpancreatectomy hemorrhage (PPH): an International Study Group of Pancreatic Surgery (ISGPS) definition.",
+      "found_in_recorded_results": true,
+      "matches": [
+        {
+          "source": "Europe PMC",
+          "topic_id": "common-complications",
+          "searched_at": "2026-09-14T14:27:13.784264+00:00",
+          "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"postpancreatectomy\" OR TITLE_ABS:\"posthepatectomy\") AND (TITLE_ABS:\"complication\" OR TITLE_ABS:\"ISGLS\" OR TITLE_ABS:\"ISGPS\" OR TITLE_ABS:\"postoperative hemorrhage\" OR TITLE_ABS:\"hemorrhage\" OR TITLE_ABS:\"definition\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\")"
+        },
+        {
+          "source": "PubMed",
+          "topic_id": "common-complications",
+          "searched_at": "2026-09-14T14:27:19.285930+00:00",
+          "query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract] OR \"postpancreatectomy\"[Title/Abstract] OR \"posthepatectomy\"[Title/Abstract]) AND (\"complication\"[Title/Abstract] OR \"ISGLS\"[Title/Abstract] OR \"ISGPS\"[Title/Abstract] OR \"postoperative hemorrhage\"[Title/Abstract] OR \"hemorrhage\"[Title/Abstract] OR \"definition\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "pancreas-approach",
+          "searched_at": "2026-09-14T14:32:16.935608+00:00",
+          "query": "((TITLE_ABS:\"pancreatic surgery\" OR TITLE_ABS:\"pancreas surgery\") AND (TITLE_ABS:\"minimally invasive\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\")"
+        },
+        {
+          "source": "PubMed",
+          "topic_id": "pancreas-approach",
+          "searched_at": "2026-09-14T14:32:19.706137+00:00",
+          "query": "((\"pancreatic surgery\"[Title/Abstract] OR \"pancreas surgery\"[Title/Abstract]) AND (\"minimally invasive\"[Title/Abstract] OR \"guideline\"[Title/Abstract] OR \"consensus\"[Title/Abstract] OR \"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "common-complications",
+          "searched_at": "2026-09-14T14:42:17.899103+00:00",
+          "query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"postpancreatectomy\" OR TITLE_ABS:\"posthepatectomy\") AND (TITLE_ABS:\"complication\" OR TITLE_ABS:\"ISGLS\" OR TITLE_ABS:\"ISGPS\" OR TITLE_ABS:\"postoperative hemorrhage\" OR TITLE_ABS:\"hemorrhage\" OR TITLE_ABS:\"definition\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "pancreas-approach",
+          "searched_at": "2026-09-14T14:46:48.781354+00:00",
+          "query": "((TITLE_ABS:\"pancreatic surgery\" OR TITLE_ABS:\"pancreas surgery\") AND (TITLE_ABS:\"minimally invasive\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        }
+      ],
+      "limit": "Known-resource recall check, not sensitivity against all HPB literature. Nonindexed/technical items require additional sources.",
+      "found_in_any_validated_query": true,
+      "additional_scope_note": "Current type-limited history search can omit observational reports; prior validated incremental searches are counted separately. JOMI without PMID is covered by its official page, not assumed PubMed-indexed."
+    },
+    {
+      "id": "B001",
+      "pmid": "32404658",
+      "title": "Safe Cholecystectomy Multi-society Practice Guideline and State of the Art Consensus Conference on Prevention of Bile Duct Injury During Cholecystectomy.",
+      "found_in_recorded_results": true,
+      "matches": [
+        {
+          "source": "Europe PMC",
+          "topic_id": "biliary-chole",
+          "searched_at": "2026-09-14T14:21:32.503015+00:00",
+          "query": "((TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"cholecystitis\" OR TITLE_ABS:\"gallbladder polyp\" OR TITLE_ABS:\"gallstones\" OR TITLE_ABS:\"gallstone disease\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\")"
+        },
+        {
+          "source": "PubMed",
+          "topic_id": "biliary-chole",
+          "searched_at": "2026-09-14T14:22:38.614564+00:00",
+          "query": "((\"cholecystectomy\"[Title/Abstract] OR \"cholecystitis\"[Title/Abstract] OR \"gallbladder polyp\"[Title/Abstract] OR \"gallstones\"[Title/Abstract] OR \"gallstone disease\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "biliary-repair",
+          "searched_at": "2026-09-14T14:23:13.549779+00:00",
+          "query": "((TITLE_ABS:\"bile duct injury\" OR TITLE_ABS:\"hepaticojejunostomy\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\")"
+        },
+        {
+          "source": "PubMed",
+          "topic_id": "biliary-repair",
+          "searched_at": "2026-09-14T14:23:16.259836+00:00",
+          "query": "((\"bile duct injury\"[Title/Abstract] OR \"hepaticojejunostomy\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "biliary-chole",
+          "searched_at": "2026-09-14T14:37:39.215091+00:00",
+          "query": "((TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"cholecystitis\" OR TITLE_ABS:\"gallbladder polyp\" OR TITLE_ABS:\"gallstones\" OR TITLE_ABS:\"gallstone disease\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "biliary-repair",
+          "searched_at": "2026-09-14T14:38:09.168320+00:00",
+          "query": "((TITLE_ABS:\"bile duct injury\" OR TITLE_ABS:\"hepaticojejunostomy\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        }
+      ],
+      "limit": "Known-resource recall check, not sensitivity against all HPB literature. Nonindexed/technical items require additional sources.",
+      "found_in_any_validated_query": true,
+      "additional_scope_note": "Current type-limited history search can omit observational reports; prior validated incremental searches are counted separately. JOMI without PMID is covered by its official page, not assumed PubMed-indexed."
+    },
+    {
+      "id": "B016",
+      "pmid": "27085810",
+      "title": "EASL Clinical Practice Guidelines on the prevention, diagnosis and treatment of gallstones.",
+      "found_in_recorded_results": true,
+      "matches": [
+        {
+          "source": "PubMed",
+          "topic_id": "biliary-chole",
+          "searched_at": "2026-09-14T14:22:38.614564+00:00",
+          "query": "((\"cholecystectomy\"[Title/Abstract] OR \"cholecystitis\"[Title/Abstract] OR \"gallbladder polyp\"[Title/Abstract] OR \"gallstones\"[Title/Abstract] OR \"gallstone disease\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "biliary-chole",
+          "searched_at": "2026-09-14T14:37:39.215091+00:00",
+          "query": "((TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"cholecystitis\" OR TITLE_ABS:\"gallbladder polyp\" OR TITLE_ABS:\"gallstones\" OR TITLE_ABS:\"gallstone disease\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        }
+      ],
+      "limit": "Known-resource recall check, not sensitivity against all HPB literature. Nonindexed/technical items require additional sources.",
+      "found_in_any_validated_query": true,
+      "additional_scope_note": "Current type-limited history search can omit observational reports; prior validated incremental searches are counted separately. JOMI without PMID is covered by its official page, not assumed PubMed-indexed."
+    },
+    {
+      "id": "B041",
+      "pmid": "42201711",
+      "title": "Comparative Safety of Robotic-Assisted vs Laparoscopic Cholecystectomy in Contemporary Practice.",
+      "found_in_recorded_results": false,
+      "matches": [],
+      "limit": "Known-resource recall check, not sensitivity against all HPB literature. Nonindexed/technical items require additional sources.",
+      "found_in_any_validated_query": true,
+      "additional_scope_note": "Current type-limited history search can omit observational reports; prior validated incremental searches are counted separately. JOMI without PMID is covered by its official page, not assumed PubMed-indexed."
+    },
+    {
+      "id": "C022",
+      "pmid": "24716201",
+      "title": "Evaluation for liver transplantation in adults: 2013 practice guideline by the American Association for the Study of Liver Diseases and the American Society of Transplantation.",
+      "found_in_recorded_results": true,
+      "matches": [
+        {
+          "source": "PubMed",
+          "topic_id": "extended-liver-transplant",
+          "searched_at": "2026-09-14T14:30:44.896172+00:00",
+          "query": "((\"liver transplantation\"[Title/Abstract] OR \"liver transplant\"[Title/Abstract] OR \"living donor hepatectomy\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "extended-liver-transplant",
+          "searched_at": "2026-09-14T14:45:24.990456+00:00",
+          "query": "((TITLE_ABS:\"liver transplantation\" OR TITLE_ABS:\"liver transplant\" OR TITLE_ABS:\"living donor hepatectomy\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        }
+      ],
+      "limit": "Known-resource recall check, not sensitivity against all HPB literature. Nonindexed/technical items require additional sources.",
+      "found_in_any_validated_query": true,
+      "additional_scope_note": "Current type-limited history search can omit observational reports; prior validated incremental searches are counted separately. JOMI without PMID is covered by its official page, not assumed PubMed-indexed."
+    },
+    {
+      "id": "C023",
+      "pmid": "23281277",
+      "title": "Long-term management of the successful adult liver transplant: 2012 practice guideline by the American Association for the Study of Liver Diseases and the American Society of Transplantation.",
+      "found_in_recorded_results": true,
+      "matches": [
+        {
+          "source": "PubMed",
+          "topic_id": "extended-liver-transplant",
+          "searched_at": "2026-09-14T14:30:44.896172+00:00",
+          "query": "((\"liver transplantation\"[Title/Abstract] OR \"liver transplant\"[Title/Abstract] OR \"living donor hepatectomy\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "extended-liver-transplant",
+          "searched_at": "2026-09-14T14:45:24.990456+00:00",
+          "query": "((TITLE_ABS:\"liver transplantation\" OR TITLE_ABS:\"liver transplant\" OR TITLE_ABS:\"living donor hepatectomy\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        }
+      ],
+      "limit": "Known-resource recall check, not sensitivity against all HPB literature. Nonindexed/technical items require additional sources.",
+      "found_in_any_validated_query": true,
+      "additional_scope_note": "Current type-limited history search can omit observational reports; prior validated incremental searches are counted separately. JOMI without PMID is covered by its official page, not assumed PubMed-indexed."
+    },
+    {
+      "id": "J017",
+      "pmid": "",
+      "title": "Laparoscopic Cholecystectomy",
+      "found_in_recorded_results": false,
+      "matches": [],
+      "limit": "Known-resource recall check, not sensitivity against all HPB literature. Nonindexed/technical items require additional sources.",
+      "found_in_any_validated_query": false,
+      "additional_scope_note": "Current type-limited history search can omit observational reports; prior validated incremental searches are counted separately. JOMI without PMID is covered by its official page, not assumed PubMed-indexed."
+    },
+    {
+      "id": "NEW-LT-001",
+      "pmid": "41405234",
+      "title": "AASLD AST Practice Guideline on adult liver transplantation: Candidate evaluation.",
+      "found_in_recorded_results": true,
+      "matches": [
+        {
+          "source": "Europe PMC",
+          "topic_id": "extended-liver-transplant",
+          "searched_at": "2026-09-14T14:29:11.432000+00:00",
+          "query": "((TITLE_ABS:\"liver transplantation\" OR TITLE_ABS:\"liver transplant\" OR TITLE_ABS:\"living donor hepatectomy\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\")"
+        },
+        {
+          "source": "PubMed",
+          "topic_id": "extended-liver-transplant",
+          "searched_at": "2026-09-14T14:30:44.896172+00:00",
+          "query": "((\"liver transplantation\"[Title/Abstract] OR \"liver transplant\"[Title/Abstract] OR \"living donor hepatectomy\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "extended-liver-transplant",
+          "searched_at": "2026-09-14T14:45:24.990456+00:00",
+          "query": "((TITLE_ABS:\"liver transplantation\" OR TITLE_ABS:\"liver transplant\" OR TITLE_ABS:\"living donor hepatectomy\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        }
+      ],
+      "limit": "Known-resource recall check, not sensitivity against all HPB literature. Nonindexed/technical items require additional sources.",
+      "found_in_any_validated_query": true,
+      "additional_scope_note": "Current type-limited history search can omit observational reports; prior validated incremental searches are counted separately. JOMI without PMID is covered by its official page, not assumed PubMed-indexed."
+    },
+    {
+      "id": "NEW-LT-002",
+      "pmid": "41405235",
+      "title": "AASLD AST Practice Guideline on adult liver transplantation: Diagnosis and post-transplant management of non-graft-related complications.",
+      "found_in_recorded_results": true,
+      "matches": [
+        {
+          "source": "Europe PMC",
+          "topic_id": "extended-liver-transplant",
+          "searched_at": "2026-09-14T14:29:11.432000+00:00",
+          "query": "((TITLE_ABS:\"liver transplantation\" OR TITLE_ABS:\"liver transplant\" OR TITLE_ABS:\"living donor hepatectomy\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\")"
+        },
+        {
+          "source": "PubMed",
+          "topic_id": "extended-liver-transplant",
+          "searched_at": "2026-09-14T14:30:44.896172+00:00",
+          "query": "((\"liver transplantation\"[Title/Abstract] OR \"liver transplant\"[Title/Abstract] OR \"living donor hepatectomy\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "extended-liver-transplant",
+          "searched_at": "2026-09-14T14:45:24.990456+00:00",
+          "query": "((TITLE_ABS:\"liver transplantation\" OR TITLE_ABS:\"liver transplant\" OR TITLE_ABS:\"living donor hepatectomy\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        }
+      ],
+      "limit": "Known-resource recall check, not sensitivity against all HPB literature. Nonindexed/technical items require additional sources.",
+      "found_in_any_validated_query": true,
+      "additional_scope_note": "Current type-limited history search can omit observational reports; prior validated incremental searches are counted separately. JOMI without PMID is covered by its official page, not assumed PubMed-indexed."
+    },
+    {
+      "id": "NEW-NICE-001",
+      "pmid": "41021712",
+      "title": "Gallstone disease: diagnosis and management: Clinical guideline",
+      "found_in_recorded_results": true,
+      "matches": [
+        {
+          "source": "Europe PMC",
+          "topic_id": "biliary-chole",
+          "searched_at": "2026-09-14T14:21:32.503015+00:00",
+          "query": "((TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"cholecystitis\" OR TITLE_ABS:\"gallbladder polyp\" OR TITLE_ABS:\"gallstones\" OR TITLE_ABS:\"gallstone disease\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\")"
+        },
+        {
+          "source": "PubMed",
+          "topic_id": "biliary-chole",
+          "searched_at": "2026-09-14T14:22:38.614564+00:00",
+          "query": "((\"cholecystectomy\"[Title/Abstract] OR \"cholecystitis\"[Title/Abstract] OR \"gallbladder polyp\"[Title/Abstract] OR \"gallstones\"[Title/Abstract] OR \"gallstone disease\"[Title/Abstract])) AND (Guideline[pt] OR Practice Guideline[pt] OR Randomized Controlled Trial[pt] OR consensus[tiab] OR systematic review[tiab] OR guideline[tiab] OR guidelines[tiab] OR definition[tiab] OR recommendations[tiab])"
+        },
+        {
+          "source": "Europe PMC",
+          "topic_id": "biliary-chole",
+          "searched_at": "2026-09-14T14:37:39.215091+00:00",
+          "query": "((TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"cholecystitis\" OR TITLE_ABS:\"gallbladder polyp\" OR TITLE_ABS:\"gallstones\" OR TITLE_ABS:\"gallstone disease\")) AND SRC:MED AND (PUB_TYPE:\"guideline\" OR PUB_TYPE:\"randomized controlled trial\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"guidelines\" OR TITLE_ABS:\"definition\" OR TITLE_ABS:\"recommendations\")"
+        }
+      ],
+      "limit": "Known-resource recall check, not sensitivity against all HPB literature. Nonindexed/technical items require additional sources.",
+      "found_in_any_validated_query": true,
+      "additional_scope_note": "Current type-limited history search can omit observational reports; prior validated incremental searches are counted separately. JOMI without PMID is covered by its official page, not assumed PubMed-indexed."
+    }
+  ],
+  "hit_count": 13,
+  "total": 15,
+  "query_version": "hpb-query-3-guideline-recall",
+  "indexed_total": 14,
+  "any_validated_query_hit_count": 14,
+  "current_indexed_sentinels_found": 13,
+  "all_validated_indexed_sentinels_found": 14,
+  "indexed_sentinels": 14
+}
