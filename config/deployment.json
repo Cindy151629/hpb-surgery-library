@@ -3,11 +3,13 @@
   "repository": "Cindy151629/hpb-surgery-library",
   "https_base_url": "https://cindy151629.github.io/hpb-surgery-library/",
   "public_scope_approved": true,
-  "schedule_enabled": false,
+  "schedule_enabled": true,
   "observed_scheduled_run": null,
   "status_url": "https://raw.githubusercontent.com/Cindy151629/hpb-surgery-library/main/data/publication-status.json",
   "runtime_status_url": "https://raw.githubusercontent.com/Cindy151629/hpb-surgery-library/main/data/runtime-status.json",
   "public_scope_approved_at": "2026-09-14T15:34:33.590435+00:00",
   "approval_basis": "User confirmed the previously listed publication scope and requested scheduled automatic updates.",
-  "deployment_account_confirmed_at": "2026-09-14T16:21:10.962627+00:00"
+  "deployment_account_confirmed_at": "2026-09-14T16:21:10.962627+00:00",
+  "schedule_verified_at": "2026-09-14T16:23:20.997189+00:00",
+  "workflow_id": 357994111
 }
