@@ -17,9 +17,9 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    env:
-      HPB_WORK_DIR: ${{ runner.temp }}/hpb-private-evidence
     steps:
+      - name: Keep fetched source evidence in runner temporary storage
+        run: echo "HPB_WORK_DIR=$RUNNER_TEMP/hpb-private-evidence" >> "$GITHUB_ENV"
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
