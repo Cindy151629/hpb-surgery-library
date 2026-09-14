@@ -1299,22 +1299,10 @@
     "2026-09-14T143255-187545+0000",
     "2026-09-14T145936-964159+0000"
   ],
-  "last_attempt_status": "success",
+  "last_attempt_status": "running",
   "last_errors": [],
-  "last_attempt": "2026-09-14T14:59:36.964159+00:00",
-  "last_counts": {
-    "added": 73,
-    "revised": 5,
-    "existing": 3,
-    "duplicates": 2537,
-    "pending_total": 30926,
-    "canonical_revised": 0,
-    "pending_changes": 0,
-    "link_checks": 0,
-    "main_link_checks": 0,
-    "fulltext_link_checks": 0,
-    "link_unconfirmed": 0
-  },
+  "last_attempt": "2026-09-14T16:24:22.183489+00:00",
+  "last_counts": {},
   "last_run_id": "2026-09-14T145936-964159+0000",
   "last_partial_search": "2026-09-14T13:57:53.558697+00:00",
   "initial_link_sweep_evidence": {

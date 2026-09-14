@@ -1,0 +1,17 @@
+{
+  "domain_id": "hpb-surgery",
+  "schema_version": 1,
+  "status": "running",
+  "started_at": "2026-09-14T16:24:22.183489+00:00",
+  "finished_at": null,
+  "event": "workflow_dispatch",
+  "run_id": "34868308004",
+  "run_url": "https://github.com/Cindy151629/hpb-surgery-library/actions/runs/34868308004",
+  "observed_scheduled_run": null,
+  "steps": {},
+  "rollback": {
+    "status": "not_checked"
+  },
+  "last_errors": [],
+  "last_counts": {}
+}
