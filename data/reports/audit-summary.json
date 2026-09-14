@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T16:26:44.817572+00:00",
-  "data_version": "hpb-42f01741cead78f9",
+  "generated_at": "2026-09-14T16:31:48.278456+00:00",
+  "data_version": "hpb-461d9ce9658ee2fa",
   "counts": {
     "article": 286,
     "society": 1,
@@ -25,6 +25,6 @@
   ],
   "videos_playback_passed": 0,
   "embeds_passed": 0,
-  "last_successful_search": "2026-09-14T16:26:16.654805+00:00",
-  "last_successful_publish": null
+  "last_successful_search": "2026-09-14T16:31:20.604683+00:00",
+  "last_successful_publish": "2026-09-14T16:27:00.007838+00:00"
 }

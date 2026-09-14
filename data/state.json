@@ -1,1239 +1,1239 @@
 {
   "source_progress": {
     "Europe PMC:liver-anatomy": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 37,
       "last_query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"anatomy\" OR TITLE_ABS:\"assessment\" OR TITLE_ABS:\"nomenclature\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:31.565865+00:00",
+      "last_completed_at": "2026-09-14T16:29:50.214677+00:00",
       "query_fingerprint": "20925b83ee7cbaea6a9df9b756587a5336cd72b5b6ee2adab00fe63e00af7fe8",
       "scope_fingerprint": "be90c781c0ea4b7f6cc606c0e4278846f64477edbc1dd3428275526e20705d58",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:liver-anatomy": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 37,
       "last_query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract]) AND (\"anatomy\"[Title/Abstract] OR \"assessment\"[Title/Abstract] OR \"nomenclature\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:32.551169+00:00",
+      "last_completed_at": "2026-09-14T16:29:50.946956+00:00",
       "query_fingerprint": "962033e6e67a42eca66e1487efe2cb7cbd6b20b47a61b85edcb756eb7fe124a9",
       "scope_fingerprint": "6211751f9b3b9c3629f1e7e460b54c1ee75527bc21885aecd5a921899db6de7a",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:liver-resection": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 83,
       "last_query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\" OR TITLE_ABS:\"liver surgery\" OR TITLE_ABS:\"hepatic surgery\") AND (TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\" OR TITLE_ABS:\"open\" OR TITLE_ABS:\"segmentectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:34.395374+00:00",
+      "last_completed_at": "2026-09-14T16:29:52.690540+00:00",
       "query_fingerprint": "68cad410b0d3e329c16ebd6d8ebbdf76c2d905fb07bf127f776b600a9b32bdfc",
       "scope_fingerprint": "600b91322abb7d0fed38ad6c4b0a2000808ef3f0d2484d4015c1da7cb7fe75bf",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:liver-resection": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 85,
       "last_query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract] OR \"hepatic surgery\"[Title/Abstract]) AND (\"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract] OR \"open\"[Title/Abstract] OR \"segmentectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:35.110482+00:00",
+      "last_completed_at": "2026-09-14T16:29:53.393005+00:00",
       "query_fingerprint": "c9b0aa2893c54c2e1a012e3887d67fae0941fd9ac7d2dcda2d681184d6bed968",
       "scope_fingerprint": "5fe8a2b2867f6892e09effa0c62011df643b2a30a1478d3679b56bea22357fda",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:liver-growth": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 17,
       "last_query": "((TITLE_ABS:\"ALPPS\" OR TITLE_ABS:\"portal vein embolization\" OR TITLE_ABS:\"portal venous embolization\" OR TITLE_ABS:\"liver venous deprivation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:36.392120+00:00",
+      "last_completed_at": "2026-09-14T16:29:54.598987+00:00",
       "query_fingerprint": "a1bf9ab12060c2b155900deb429344aa618f5738eb93c9ece6b763d14c22e414",
       "scope_fingerprint": "6f3c152e96716b7a4a6f70ad57ff34ccf14fd6dc7afd1f04703d58e1a06450d3",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:liver-growth": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 17,
       "last_query": "((\"ALPPS\"[Title/Abstract] OR \"portal vein embolization\"[Title/Abstract] OR \"portal venous embolization\"[Title/Abstract] OR \"liver venous deprivation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:37.090262+00:00",
+      "last_completed_at": "2026-09-14T16:29:55.323612+00:00",
       "query_fingerprint": "f8baa066008f6d7a69337959006e79ddfe97f415838319e38c9cb29ebfde880b",
       "scope_fingerprint": "f8a444627b1a9c30318e3674be8ebcfa5e9560e1ccb413416e2e840707aa0d61",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:liver-hcc": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 182,
       "last_query": "((TITLE_ABS:\"hepatocellular carcinoma\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"hepatectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:41.790952+00:00",
+      "last_completed_at": "2026-09-14T16:29:59.430848+00:00",
       "query_fingerprint": "11980165021b312380d11cdecdbb26004dbf278e89c2d8fa9e748af337d92cb2",
       "scope_fingerprint": "0743f56c182d93b3cfe6a488ea1992b2c449625a8fd5bfc85aaf17376cc326cf",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:liver-hcc": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 154,
       "last_query": "((\"hepatocellular carcinoma\"[Title/Abstract]) AND (\"resection\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"hepatectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:43.222970+00:00",
+      "last_completed_at": "2026-09-14T16:30:00.257642+00:00",
       "query_fingerprint": "4305ac4888d05b6af1570894a2005520919d22522112c1e4420b4566519e8998",
       "scope_fingerprint": "9bf3dcb8992cfb37a56b522ff875dd721556e5ec9aacd4de0759f1a4b731b8d3",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:liver-crlm": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 39,
       "last_query": "((TITLE_ABS:\"colorectal liver metastases\" OR TITLE_ABS:\"colorectal liver metastasis\") AND (TITLE_ABS:\"resection\" OR TITLE_ABS:\"ablation\" OR TITLE_ABS:\"surgery\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:44.748659+00:00",
+      "last_completed_at": "2026-09-14T16:30:01.532417+00:00",
       "query_fingerprint": "5bc20dd8c0eb9982f4e638869bc686a4da96dcee0fd67adc6267e5625a2e3cdb",
       "scope_fingerprint": "bac72c086cce1ce06e4a0df1cf318667010a7cf867d0be26f98695c7e08b37b5",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:liver-crlm": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 37,
       "last_query": "((\"colorectal liver metastases\"[Title/Abstract] OR \"colorectal liver metastasis\"[Title/Abstract]) AND (\"resection\"[Title/Abstract] OR \"ablation\"[Title/Abstract] OR \"surgery\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:45.578376+00:00",
+      "last_completed_at": "2026-09-14T16:30:02.306294+00:00",
       "query_fingerprint": "3ddf72f324f809ddb815d3d9d41fb569ebc9907fe0f439c6e77c26eac88a1d0f",
       "scope_fingerprint": "be6eb89ce5be08789cec1fbe83ae1b3afb8aaada45504cc00eb95df47d07c248",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:liver-benign": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 7,
       "last_query": "((TITLE_ABS:\"liver cyst\" OR TITLE_ABS:\"hepatic cyst\" OR TITLE_ABS:\"liver hemangioma\" OR TITLE_ABS:\"hepatic hemangioma\" OR TITLE_ABS:\"hepatic echinococcosis\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:46.820097+00:00",
+      "last_completed_at": "2026-09-14T16:30:03.387980+00:00",
       "query_fingerprint": "fe755ac0410fea5826f1c34e81d487595bf8831ade3904e1e7d935a1d72cd3fd",
       "scope_fingerprint": "cc140b4514d84884e36c776f069ba64d2db4469bf8cbea41f0192e53952a8e1b",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:liver-benign": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 6,
       "last_query": "((\"liver cyst\"[Title/Abstract] OR \"hepatic cyst\"[Title/Abstract] OR \"liver hemangioma\"[Title/Abstract] OR \"hepatic hemangioma\"[Title/Abstract] OR \"hepatic echinococcosis\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:47.662252+00:00",
+      "last_completed_at": "2026-09-14T16:30:04.120376+00:00",
       "query_fingerprint": "39fdbd4eb26220d5543b72be6bf44f1105d30b239f18a85901022a664ebfec22",
       "scope_fingerprint": "25608a7129f922d80b4fd437a105ddc5d594b81c5bd1e98dee741f43f470c447",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:liver-vessel": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 14,
       "last_query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"liver resection\") AND (TITLE_ABS:\"vascular reconstruction\" OR TITLE_ABS:\"Pringle\" OR TITLE_ABS:\"hepatic artery infusion\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:48.901727+00:00",
+      "last_completed_at": "2026-09-14T16:30:05.476133+00:00",
       "query_fingerprint": "a363ff72506dfb93992e987a1a550aa2f8aaf8580c7c24891efa5264b467e091",
       "scope_fingerprint": "82677f9b8e8ea4d17fc2177ed44e7b235c30cb0a99e2a11a51f684f5a73ff900",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:liver-vessel": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 13,
       "last_query": "((\"hepatectomy\"[Title/Abstract] OR \"liver resection\"[Title/Abstract]) AND (\"vascular reconstruction\"[Title/Abstract] OR \"Pringle\"[Title/Abstract] OR \"hepatic artery infusion\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:49.602717+00:00",
+      "last_completed_at": "2026-09-14T16:30:06.424163+00:00",
       "query_fingerprint": "cfbb800537d4033b725e36a2b28d658d34e7a758845a8c5fc6ed135aab7d564b",
       "scope_fingerprint": "100669a6fce07684855129b8d1430e902259fc310330b45f04a3a74d9aea7cf7",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:biliary-chole": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 376,
       "last_query": "((TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"cholecystitis\" OR TITLE_ABS:\"gallbladder polyp\" OR TITLE_ABS:\"gallstones\" OR TITLE_ABS:\"gallstone disease\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:57.252551+00:00",
+      "last_completed_at": "2026-09-14T16:30:12.598739+00:00",
       "query_fingerprint": "e6a18a125d4b578a85ac1828fc63d89235bdfdf4a23dbec00e3f2be0f8c63485",
       "scope_fingerprint": "4e4d71ee79fd1049180b6bda7d7a4f740a18b041144d8aad714dfff70325c73c",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "Europe PMC:biliary-difficult": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 18,
       "last_query": "((TITLE_ABS:\"subtotal cholecystectomy\" OR TITLE_ABS:\"critical view of safety\" OR TITLE_ABS:\"Mirizzi\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:00.132563+00:00",
+      "last_completed_at": "2026-09-14T16:30:14.447087+00:00",
       "query_fingerprint": "09780c5b8cabe1cf370116223d34215ec0b877ef95fb6d56a96d8110ef4bad31",
       "scope_fingerprint": "ecfe40bebbf00eac42dde86bcbf37c18e1f847ab1267be9c3fc75780457594cf",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:biliary-difficult": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 17,
       "last_query": "((\"subtotal cholecystectomy\"[Title/Abstract] OR \"critical view of safety\"[Title/Abstract] OR \"Mirizzi\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:00.913447+00:00",
+      "last_completed_at": "2026-09-14T16:30:15.119718+00:00",
       "query_fingerprint": "240750362a62fe75f329b3b6bf034f6ffc725ab8655beb952b1fcd58d2e6cbff",
       "scope_fingerprint": "56d73c9bbdc8fcb9d5a01b0a17c1c999049c9ddaee8d65865f7dfe686e8cd50f",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:biliary-stones": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 49,
       "last_query": "((TITLE_ABS:\"common bile duct exploration\" OR TITLE_ABS:\"choledocholithiasis\" OR TITLE_ABS:\"hepatolithiasis\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:02.472168+00:00",
+      "last_completed_at": "2026-09-14T16:30:16.387996+00:00",
       "query_fingerprint": "8b36f6946fc05ec85f90f07305b9f0a10ef7bc53a54b261cae8ff3dbd68c8762",
       "scope_fingerprint": "1270ef7a75fc67fe0afdd58d1429dd2eb4fd38e479124b62296b21b9cce4c1f8",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:biliary-stones": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 39,
       "last_query": "((\"common bile duct exploration\"[Title/Abstract] OR \"choledocholithiasis\"[Title/Abstract] OR \"hepatolithiasis\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:03.180501+00:00",
+      "last_completed_at": "2026-09-14T16:30:17.112845+00:00",
       "query_fingerprint": "59810c763152295b6b20cb28adf36545cd2eb7e993f2cc2f1e8241f8ae9aebc0",
       "scope_fingerprint": "347b95155fa0bef202b1cc010564fda6d8eadc8ca32b203dc30b0cd69fb2bc12",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:biliary-repair": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 43,
       "last_query": "((TITLE_ABS:\"bile duct injury\" OR TITLE_ABS:\"hepaticojejunostomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:04.736700+00:00",
+      "last_completed_at": "2026-09-14T16:30:18.962603+00:00",
       "query_fingerprint": "f40d47c7d7d4d4b4c60c2f37fe841b1962d7a995460293dad86f9d180c3297bd",
       "scope_fingerprint": "0ad0ac14f6ebe2993ba4937538b978a858fe618426c3597aa92ea952b84d4df1",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:biliary-repair": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 40,
       "last_query": "((\"bile duct injury\"[Title/Abstract] OR \"hepaticojejunostomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:05.456000+00:00",
+      "last_completed_at": "2026-09-14T16:30:19.695940+00:00",
       "query_fingerprint": "9a248784394cd643b7a5148d6af0e19083a77a5036bcf5dc33a598d272ca190d",
       "scope_fingerprint": "6922ef4e4bd4e1e2bef407fb544ccebee6287b8f7121c6fdde26d0d57814c0f6",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:biliary-gbc": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 27,
       "last_query": "((TITLE_ABS:\"gallbladder cancer\" OR TITLE_ABS:\"gallbladder carcinoma\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:06.884048+00:00",
+      "last_completed_at": "2026-09-14T16:30:20.862129+00:00",
       "query_fingerprint": "6ecb3f2fe81e2d91f68fe95ece23c4c85ebe76e39129b26551c14606a780086b",
       "scope_fingerprint": "64fed4ff42eb6ddfcae85bc227ee6e3c3badb3656f67c261ff139ffa46a25963",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:biliary-gbc": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 23,
       "last_query": "((\"gallbladder cancer\"[Title/Abstract] OR \"gallbladder carcinoma\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:07.716765+00:00",
+      "last_completed_at": "2026-09-14T16:30:22.245704+00:00",
       "query_fingerprint": "52a695888b07eb5b35100cb3547c7fee0741a2ef4417d838bf2567fbaf53ec42",
       "scope_fingerprint": "36db9ef986b718438e6c2d269611cb6902f3e975c2550ed2aac93898d781aec0",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:biliary-cca": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 87,
       "last_query": "((TITLE_ABS:\"cholangiocarcinoma\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\" OR TITLE_ABS:\"resection\" OR TITLE_ABS:\"drainage\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:09.753849+00:00",
+      "last_completed_at": "2026-09-14T16:30:23.834556+00:00",
       "query_fingerprint": "11153b1f8ae22e8359b01a617dc077d9e9cb54a3bae9a70e65d1a7c66b114a69",
       "scope_fingerprint": "86ad1702cc3b1288ed404ef21bf15aaca6782bd6fcb903c5e97696a935783365",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:biliary-cca": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 88,
       "last_query": "((\"cholangiocarcinoma\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract] OR \"resection\"[Title/Abstract] OR \"drainage\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:10.487693+00:00",
+      "last_completed_at": "2026-09-14T16:30:24.572575+00:00",
       "query_fingerprint": "0ec507361bd90865943698394f5d4d16165598b35f67f49f65ac36c9fd668794",
       "scope_fingerprint": "1fc38ecd22eb66f5895c7a9b11dc3d29472b88d0da4bd2c421c4795de9a6f7f1",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:pancreas-whipple": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 131,
       "last_query": "((TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"pancreatoduodenectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:14.226984+00:00",
+      "last_completed_at": "2026-09-14T16:30:27.599288+00:00",
       "query_fingerprint": "53010a905ec71597add59aa588135d76907506aea034d198d2a51a517486caf5",
       "scope_fingerprint": "78d2431346ca3cf99d8c833508b727b807b2ec945e2e76b4e4790382bee3478f",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:pancreas-whipple": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 134,
       "last_query": "((\"pancreaticoduodenectomy\"[Title/Abstract] OR \"pancreatoduodenectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:15.898341+00:00",
+      "last_completed_at": "2026-09-14T16:30:28.419808+00:00",
       "query_fingerprint": "42f2d1f8e8593e358392f7fdc6830fb2fb2391ece57fa585a40f3fbeb8bb12bd",
       "scope_fingerprint": "b664cda79506e74948c481a8923348f1c9a17a5656022507ad41b65d14cd0e9e",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:pancreas-distal": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 37,
       "last_query": "((TITLE_ABS:\"pancreas\" OR TITLE_ABS:\"pancreatic\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"distal pancreatectomy\" OR TITLE_ABS:\"RAMPS\" OR TITLE_ABS:\"spleen preservation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:17.515255+00:00",
+      "last_completed_at": "2026-09-14T16:30:29.671324+00:00",
       "query_fingerprint": "3324271642abf6bf1531a21ea10490a0f6430be8d01df720e57ccc2dec2d8c90",
       "scope_fingerprint": "2ccdcc39f2c2dfebdf33e7fdb6d58c59c41f32f18be18b10bf4f2dac3ad8a241",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:pancreas-distal": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 37,
       "last_query": "((\"pancreas\"[Title/Abstract] OR \"pancreatic\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract]) AND (\"distal pancreatectomy\"[Title/Abstract] OR \"RAMPS\"[Title/Abstract] OR \"spleen preservation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:18.289520+00:00",
+      "last_completed_at": "2026-09-14T16:30:30.402585+00:00",
       "query_fingerprint": "aafe0377f7210d2b2bf51cf4e134d5982b9be9bc71e828e0d4558ba93936d18e",
       "scope_fingerprint": "e4182ae85564fd706bd3662ab4999db453d61d14ffb08bdc939a4548d2c65321",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:pancreas-local": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 24,
       "last_query": "((TITLE_ABS:\"central pancreatectomy\" OR TITLE_ABS:\"total pancreatectomy\" OR TITLE_ABS:\"pancreatic enucleation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:19.608648+00:00",
+      "last_completed_at": "2026-09-14T16:30:31.600637+00:00",
       "query_fingerprint": "7b0c49a277caa75d4fe8630e65fb4707e1444b64135b435e6b62f95e4d63e550",
       "scope_fingerprint": "bc569b11f50766d8161e21a71cf6388186467833b350d45293d862104ada0f55",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:pancreas-local": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 23,
       "last_query": "((\"central pancreatectomy\"[Title/Abstract] OR \"total pancreatectomy\"[Title/Abstract] OR \"pancreatic enucleation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:20.356551+00:00",
+      "last_completed_at": "2026-09-14T16:30:32.386770+00:00",
       "query_fingerprint": "2c61ca1137d12655231d5311e1f4786becd280a3e6ab146fed0babc39d864b8d",
       "scope_fingerprint": "fb1c692b738fc9329d8fdd76902a4309bb81bc9a07f3820491a595a0b5df138f",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:pancreas-anastomosis": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 42,
       "last_query": "((TITLE_ABS:\"pancreaticojejunostomy\" OR TITLE_ABS:\"pancreatojejunostomy\" OR TITLE_ABS:\"pancreaticogastrostomy\" OR TITLE_ABS:\"postoperative pancreatic fistula\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:21.793418+00:00",
+      "last_completed_at": "2026-09-14T16:30:33.545399+00:00",
       "query_fingerprint": "22c4b3050454ffeb5bb90a26777cd6d35ef27a1cf7753389d65073be499b99f9",
       "scope_fingerprint": "d0c09f1b2138e5e2ac1ecaa4e80569c99aaadfe5963b1beb35ee72f1786b2063",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:pancreas-anastomosis": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 46,
       "last_query": "((\"pancreaticojejunostomy\"[Title/Abstract] OR \"pancreatojejunostomy\"[Title/Abstract] OR \"pancreaticogastrostomy\"[Title/Abstract] OR \"postoperative pancreatic fistula\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:22.659446+00:00",
+      "last_completed_at": "2026-09-14T16:30:34.295551+00:00",
       "query_fingerprint": "09c19484f929131ab4ebbeb4b5d4c01d94e0d84ce44752baf71e8509f2f53cf6",
       "scope_fingerprint": "aed2fae5461adcda2e7821a19ccbdc667c124f732f9a43459ddf873db9e3750e",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:pancreas-vessel": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 7,
       "last_query": "((TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"pancreatic cancer\") AND (TITLE_ABS:\"vascular resection\" OR TITLE_ABS:\"lymphadenectomy\" OR TITLE_ABS:\"arterial resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:23.824880+00:00",
+      "last_completed_at": "2026-09-14T16:30:35.309921+00:00",
       "query_fingerprint": "3fb09db9355ba21769dc298b7e3d00c3719bfee5f8a661a269a261013dd2a9e1",
       "scope_fingerprint": "f4350ddf0d38699504e6d114a1a7a778955e74e8d936c4a50d34f6d38a9262a3",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:pancreas-vessel": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 7,
       "last_query": "((\"pancreatectomy\"[Title/Abstract] OR \"pancreatic cancer\"[Title/Abstract]) AND (\"vascular resection\"[Title/Abstract] OR \"lymphadenectomy\"[Title/Abstract] OR \"arterial resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:24.627853+00:00",
+      "last_completed_at": "2026-09-14T16:30:36.046433+00:00",
       "query_fingerprint": "0bf8ec83c9551785673e4253615a39e833d31dbf5d03a0897c7c5da8e01841eb",
       "scope_fingerprint": "406b88ab3cbf0a549fbca0f0d9c7e90d75b761371fcba7e6f7e79a7c40523642",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:pancreas-cancer": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 140,
       "last_query": "((TITLE_ABS:\"pancreatic cancer\" OR TITLE_ABS:\"pancreatic adenocarcinoma\") AND (TITLE_ABS:\"neoadjuvant\" OR TITLE_ABS:\"resectable\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:28.121496+00:00",
+      "last_completed_at": "2026-09-14T16:30:40.080185+00:00",
       "query_fingerprint": "57fca0cfe55d603b52136daf503f2de2fc10f614422c5d539cfc1bfa1f22a864",
       "scope_fingerprint": "47e83c67f34f7a1c2c2a6cdf994e6c3d57a046259a938fcc6e5e19bd2da3d08d",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:pancreas-cancer": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 126,
       "last_query": "((\"pancreatic cancer\"[Title/Abstract] OR \"pancreatic adenocarcinoma\"[Title/Abstract]) AND (\"neoadjuvant\"[Title/Abstract] OR \"resectable\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:28.866265+00:00",
+      "last_completed_at": "2026-09-14T16:30:40.810591+00:00",
       "query_fingerprint": "e0548c894037b24545096b8644df0957f7f0c4599da197b39f780e5f9c1ee036",
       "scope_fingerprint": "b0cb5b1404f773485d50c2c2a68e79ea711b61d505dee6afaddabfb7d2625a51",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:pancreas-cyst": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 57,
       "last_query": "((TITLE_ABS:\"pancreatic\") AND (TITLE_ABS:\"IPMN\" OR TITLE_ABS:\"cystic neoplasm\" OR TITLE_ABS:\"neuroendocrine\") AND (TITLE_ABS:\"guideline\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"resection\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:30.864131+00:00",
+      "last_completed_at": "2026-09-14T16:30:42.066819+00:00",
       "query_fingerprint": "4e6571cb0f54c7c93e3df232c1231fce62fd86ff9efe3d8a05a7d84d9a17f5f7",
       "scope_fingerprint": "f80a58b7a60a8da0a55e745a5700271036137a7dad17e2d642ed5d2d8d640f02",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:pancreas-cyst": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 40,
       "last_query": "((\"pancreatic\"[Title/Abstract]) AND (\"IPMN\"[Title/Abstract] OR \"cystic neoplasm\"[Title/Abstract] OR \"neuroendocrine\"[Title/Abstract]) AND (\"guideline\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"resection\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:31.570980+00:00",
+      "last_completed_at": "2026-09-14T16:30:42.813616+00:00",
       "query_fingerprint": "9d0aaa068f49853ebe31e1623d6ff3a79a47ad065bf280b01916f23c4fea7208",
       "scope_fingerprint": "c95f8307e22dc1c062545194cf17ea56e3d5df6e8a429d4ab4a301563f5db548",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:pancreas-inflammation": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 84,
       "last_query": "((TITLE_ABS:\"pancreatitis\") AND (TITLE_ABS:\"necrosectomy\" OR TITLE_ABS:\"drainage\" OR TITLE_ABS:\"surgery\" OR TITLE_ABS:\"step-up\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:33.280776+00:00",
+      "last_completed_at": "2026-09-14T16:30:44.413306+00:00",
       "query_fingerprint": "3bdfc5aa2653be2c67747cfea9445182828b829899807befb490ada6fb3c6b84",
       "scope_fingerprint": "5b3a6be0f80270a196480f9cc7593c9a32e1c686eebdb615288974a2f4e8bd9b",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:pancreas-inflammation": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 74,
       "last_query": "((\"pancreatitis\"[Title/Abstract]) AND (\"necrosectomy\"[Title/Abstract] OR \"drainage\"[Title/Abstract] OR \"surgery\"[Title/Abstract] OR \"step-up\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:34.735080+00:00",
+      "last_completed_at": "2026-09-14T16:30:45.130384+00:00",
       "query_fingerprint": "a40f55ada423323acfb2e19a03d0cdde98223bf783156634b182d6aeb1a44165",
       "scope_fingerprint": "44dfc8625fd8db6cab16293417f8f6592dc9fd64ef7b67e6f5e5c4f8c3c31eb9",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:common-navigation": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 14,
       "last_query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"cholecystectomy\" OR TITLE_ABS:\"pancreatectomy\") AND (TITLE_ABS:\"indocyanine\" OR TITLE_ABS:\"navigation\" OR TITLE_ABS:\"intraoperative ultrasound\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:36.011970+00:00",
+      "last_completed_at": "2026-09-14T16:30:46.169624+00:00",
       "query_fingerprint": "a7156fdabacf3ae5afaf05f415ce0a76247e4c2b440b9a0713dac052a81d6809",
       "scope_fingerprint": "ed6d21bf721ff2b1e306c1af73cc961fdc0a3570c527da188bc0c15e2f30abab",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:common-navigation": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 12,
       "last_query": "((\"hepatectomy\"[Title/Abstract] OR \"cholecystectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract]) AND (\"indocyanine\"[Title/Abstract] OR \"navigation\"[Title/Abstract] OR \"intraoperative ultrasound\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:36.730626+00:00",
+      "last_completed_at": "2026-09-14T16:30:46.918060+00:00",
       "query_fingerprint": "b7911c876a0ea5d93f21b7787938c7499ea3e71e319bcbc16a9edfbb8ca55806",
       "scope_fingerprint": "c0c32781f201492b8d19bb9e783e6de8adbcd5cb351c403df533af0e6acc040c",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:common-eras": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 5,
       "last_query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"liver surgery\") AND (TITLE_ABS:\"enhanced recovery\" OR TITLE_ABS:\"nutrition\" OR TITLE_ABS:\"prehabilitation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:37.917589+00:00",
+      "last_completed_at": "2026-09-14T16:30:47.924207+00:00",
       "query_fingerprint": "613dca77c20f1cb711227032fbc820d326d8827f94f6e6636bffadcf7fc90b15",
       "scope_fingerprint": "420d7805d3e886c9edddd7701971e5663a74222082656192ec9d34fdf1c9dec5",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:common-eras": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 6,
       "last_query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreaticoduodenectomy\"[Title/Abstract] OR \"liver surgery\"[Title/Abstract]) AND (\"enhanced recovery\"[Title/Abstract] OR \"nutrition\"[Title/Abstract] OR \"prehabilitation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:38.660474+00:00",
+      "last_completed_at": "2026-09-14T16:30:48.614686+00:00",
       "query_fingerprint": "1d0b58a578c41a9cfc096837bc13edb92dd8864a801e757cbdd15701a0bb2a4e",
       "scope_fingerprint": "d7f115585fde9260cd9f00e7541d5e8ed0abf2026f64c75465cd619f66312b9b",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:common-complications": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 58,
       "last_query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreatectomy\" OR TITLE_ABS:\"postpancreatectomy\" OR TITLE_ABS:\"posthepatectomy\") AND (TITLE_ABS:\"complication\" OR TITLE_ABS:\"ISGLS\" OR TITLE_ABS:\"ISGPS\" OR TITLE_ABS:\"postoperative hemorrhage\" OR TITLE_ABS:\"hemorrhage\" OR TITLE_ABS:\"definition\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:40.122143+00:00",
+      "last_completed_at": "2026-09-14T16:30:49.915007+00:00",
       "query_fingerprint": "5b30605bce57c041224712874c7da9422b9cc1eaca6ad46290e7fc4086ddfec9",
       "scope_fingerprint": "2eb5be6a385e4ef1d1d03739b2106ecda6a98bfda6cf13bb9ce052149c801a5a",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:common-complications": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 59,
       "last_query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreatectomy\"[Title/Abstract] OR \"postpancreatectomy\"[Title/Abstract] OR \"posthepatectomy\"[Title/Abstract]) AND (\"complication\"[Title/Abstract] OR \"ISGLS\"[Title/Abstract] OR \"ISGPS\"[Title/Abstract] OR \"postoperative hemorrhage\"[Title/Abstract] OR \"hemorrhage\"[Title/Abstract] OR \"definition\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:40.842889+00:00",
+      "last_completed_at": "2026-09-14T16:30:50.633276+00:00",
       "query_fingerprint": "ec56df74a00db8d2d0c9c3d7c64ae45401719773a64145f2869db0cb5cfa77dc",
       "scope_fingerprint": "1f44e1c29ddb82cd6e4d26be13e4767ec53dbfe41495e0a31dff7c45410ce1e2",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:common-quality": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 10,
       "last_query": "((TITLE_ABS:\"hepatectomy\" OR TITLE_ABS:\"pancreaticoduodenectomy\" OR TITLE_ABS:\"cholecystectomy\") AND (TITLE_ABS:\"learning curve\" OR TITLE_ABS:\"benchmark\" OR TITLE_ABS:\"quality indicator\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:42.010413+00:00",
+      "last_completed_at": "2026-09-14T16:30:51.804352+00:00",
       "query_fingerprint": "4a15f712a55e081b24696564f2690d2ff5c671023107397a243748bfee7476bf",
       "scope_fingerprint": "91dd2501f7e749134046a7307e9050a62493873dc1f758cda5cadaa8e1679297",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:common-quality": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 10,
       "last_query": "((\"hepatectomy\"[Title/Abstract] OR \"pancreaticoduodenectomy\"[Title/Abstract] OR \"cholecystectomy\"[Title/Abstract]) AND (\"learning curve\"[Title/Abstract] OR \"benchmark\"[Title/Abstract] OR \"quality indicator\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:42.735212+00:00",
+      "last_completed_at": "2026-09-14T16:30:52.546326+00:00",
       "query_fingerprint": "661b0fcf3db6f34dcb5fb6e737610dc88e291db22b626dfa65fcd730351fc579",
       "scope_fingerprint": "73472d980b3aa123a328eb351edb01ff0eb5a6ac5db1f2152eb4d54667d9240e",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:extended-liver-transplant": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 678,
       "last_query": "((TITLE_ABS:\"liver transplantation\" OR TITLE_ABS:\"liver transplant\" OR TITLE_ABS:\"living donor hepatectomy\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:56.318859+00:00",
+      "last_completed_at": "2026-09-14T16:31:04.379220+00:00",
       "query_fingerprint": "c803cfff413b3701fb84bab4871fa83bc969848b35fb7673a966358819ae8fbe",
       "scope_fingerprint": "4a4a204ad68614eb9e648adc59ce366b828618af6396b75c74c425219dcb34f3",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "Europe PMC:extended-pancreas-transplant": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 18,
       "last_query": "((TITLE_ABS:\"pancreas transplantation\" OR TITLE_ABS:\"pancreatic transplantation\" OR TITLE_ABS:\"islet autotransplantation\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:59.356249+00:00",
+      "last_completed_at": "2026-09-14T16:31:06.192740+00:00",
       "query_fingerprint": "253f841c9893d5d642be3267c090e278f4374eb033c9398d95d865b3f1968a6f",
       "scope_fingerprint": "db0fb091f941b24c3b782abf5ee75db7d9364c02beceadb3f14fb92690a3396d",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:extended-pancreas-transplant": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 14,
       "last_query": "((\"pancreas transplantation\"[Title/Abstract] OR \"pancreatic transplantation\"[Title/Abstract] OR \"islet autotransplantation\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:26:00.084619+00:00",
+      "last_completed_at": "2026-09-14T16:31:07.074264+00:00",
       "query_fingerprint": "fca8adb9656ce11c520487cca7ff990c324d2c1686d9a2761bd222d855929a36",
       "scope_fingerprint": "40b1c327782103369bfb855d8d05ae424b0ab6e250358996d217aaaa1d8f21c7",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:extended-pediatric": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 24,
       "last_query": "((TITLE_ABS:\"biliary atresia\" OR TITLE_ABS:\"choledochal cyst\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:26:01.358291+00:00",
+      "last_completed_at": "2026-09-14T16:31:08.130877+00:00",
       "query_fingerprint": "9042ed2e1de92904200983e9a5a5c1ad41804028b6680ad7c3105623188803ca",
       "scope_fingerprint": "34bf5d5026523bf203699a67efc9bb6bfc49bafd5bdc7a04f6ee8b4815dcc4bf",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:extended-pediatric": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 27,
       "last_query": "((\"biliary atresia\"[Title/Abstract] OR \"choledochal cyst\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:26:02.314532+00:00",
+      "last_completed_at": "2026-09-14T16:31:08.883411+00:00",
       "query_fingerprint": "99708cf1986e09a9251afc31e355cf9ab40475f692a16cd50796b2e23dfe0370",
       "scope_fingerprint": "09287201f17191999824ce6b3b54b66fe57959c748bd6a7c2b433b4d070e87cb",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:extended-intervention": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 265,
       "last_query": "((TITLE_ABS:\"biliary\" OR TITLE_ABS:\"liver\" OR TITLE_ABS:\"pancreatic\") AND (TITLE_ABS:\"ablation\" OR TITLE_ABS:\"interventional\" OR TITLE_ABS:\"endoscopic drainage\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:26:07.621192+00:00",
+      "last_completed_at": "2026-09-14T16:31:13.120257+00:00",
       "query_fingerprint": "f3dfc9c9f364f64ce0e6b6bafa74f653eecf26fbd8465733a1baff5b06481420",
       "scope_fingerprint": "74e17661c7d045bb7ec5ce54e30e0540e51a0aabfb520667ea20f02741b32a19",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "Europe PMC:extended-trauma": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 10,
       "last_query": "((TITLE_ABS:\"liver trauma\" OR TITLE_ABS:\"pancreatic trauma\" OR TITLE_ABS:\"duodenal trauma\" OR TITLE_ABS:\"pancreatic injury\") AND (TITLE_ABS:\"surgery\" OR TITLE_ABS:\"surgical\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:26:10.744853+00:00",
+      "last_completed_at": "2026-09-14T16:31:15.030660+00:00",
       "query_fingerprint": "1358d1e187a15491754a4a6d55369dd19de92a387b3bce6bebcae68315b4ef21",
       "scope_fingerprint": "ae7c8530d1cd7cf893c6d29949bf5b1f4d94972a56553a18b5250fcf7ab5b383",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:extended-trauma": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 8,
       "last_query": "((\"liver trauma\"[Title/Abstract] OR \"pancreatic trauma\"[Title/Abstract] OR \"duodenal trauma\"[Title/Abstract] OR \"pancreatic injury\"[Title/Abstract]) AND (\"surgery\"[Title/Abstract] OR \"surgical\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:38:23.066133+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:26:11.483845+00:00",
+      "last_completed_at": "2026-09-14T16:31:15.718450+00:00",
       "query_fingerprint": "98b2cc700a4fe046c22ebbaacc9e2474625ec957771d1f31c20b5fa76049812a",
       "scope_fingerprint": "95a73ed299d8d92b73cb684ae1377c7a10ce91323390bc3661777a4b5675217e",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "SAGES RSS": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "scope": "官网所返回目录；不代表平台全部历史视频",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:26:15.073716+00:00",
+      "last_completed_at": "2026-09-14T16:31:19.194807+00:00",
       "last_query": "https://www.sages.org/video/feed/",
       "query_fingerprint": "6304e4266068a32feed214a88869d6d36f9c514088fdbc014cf98d186c259fac",
       "scope_fingerprint": "6304e4266068a32feed214a88869d6d36f9c514088fdbc014cf98d186c259fac",
       "window": {
         "range_start": null,
         "range_end": null,
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00"
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00"
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "Stanford directory": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "scope": "官网所返回目录；不代表平台全部历史视频",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:26:16.398328+00:00",
+      "last_completed_at": "2026-09-14T16:31:20.349781+00:00",
       "last_query": "https://med.stanford.edu/hpb-library.html",
       "query_fingerprint": "046fcb927ed016f463eb1aef2682306f9bfe77a516150ea780a89b8308fc0ed7",
       "scope_fingerprint": "046fcb927ed016f463eb1aef2682306f9bfe77a516150ea780a89b8308fc0ed7",
       "window": {
         "range_start": null,
         "range_end": null,
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00"
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00"
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:biliary-chole": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 302,
       "last_query": "((\"cholecystectomy\"[Title/Abstract] OR \"cholecystitis\"[Title/Abstract] OR \"gallbladder polyp\"[Title/Abstract] OR \"gallstones\"[Title/Abstract] OR \"gallstone disease\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:53:12.289278+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:24:58.920111+00:00",
+      "last_completed_at": "2026-09-14T16:30:13.383464+00:00",
       "query_fingerprint": "6e8a392f40a17d668be8c221f7c389ee995a14609d3008b768989c4683c1bd37",
       "scope_fingerprint": "355b951554e47bca19fa541bce0662aa69bf69b01a1ea8af297060ee53adc413",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "PubMed:extended-liver-transplant": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 578,
       "last_query": "((\"liver transplantation\"[Title/Abstract] OR \"liver transplant\"[Title/Abstract] OR \"living donor hepatectomy\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T13:53:12.289278+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:25:58.083227+00:00",
+      "last_completed_at": "2026-09-14T16:31:05.137934+00:00",
       "query_fingerprint": "a2c8900ef5e6504c5e210bbb3609f7b8ddd2e497e64f29f8b157af8dde82ac55",
       "scope_fingerprint": "e5c3b2d0fafefa4c77188ccbda9dcb6405edce39fa852250dd8954b8fcae08ae",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "PubMed:extended-intervention": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 245,
       "last_query": "((\"biliary\"[Title/Abstract] OR \"liver\"[Title/Abstract] OR \"pancreatic\"[Title/Abstract]) AND (\"ablation\"[Title/Abstract] OR \"interventional\"[Title/Abstract] OR \"endoscopic drainage\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T14:02:04.070758+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:26:09.206478+00:00",
+      "last_completed_at": "2026-09-14T16:31:14.005638+00:00",
       "query_fingerprint": "4438c0d78061d8cb7bb0902cfc506a470f1a9961c0266d7359ab960d73e32972",
       "scope_fingerprint": "e90d4f6d4ff7594e1fadd88b97711d5370e1f43e95eeaca772f960e360c726e0",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     },
     "Europe PMC:biliary-cca:history": {
@@ -1251,43 +1251,43 @@
       "first_historical_search": "2026-09-14T14:02:04.070758+00:00"
     },
     "Europe PMC:pancreas-approach": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 13,
       "last_query": "((TITLE_ABS:\"pancreatic surgery\" OR TITLE_ABS:\"pancreas surgery\") AND (TITLE_ABS:\"minimally invasive\" OR TITLE_ABS:\"guideline\" OR TITLE_ABS:\"consensus\" OR TITLE_ABS:\"laparoscopic\" OR TITLE_ABS:\"robotic\")) AND SRC:MED AND (CREATION_DATE:[2026-08-24 TO 2026-09-14] OR UPDATE_DATE:[2026-08-24 TO 2026-09-14])",
       "first_historical_search": "2026-09-14T14:17:21.067363+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:26:12.681500+00:00",
+      "last_completed_at": "2026-09-14T16:31:16.776858+00:00",
       "query_fingerprint": "b93d316df1a1b786642e20dfef022451c2d35cbb226aa4451258dbe0b6aa8223",
       "scope_fingerprint": "6c529bb84ce27cf6c483f18fd1abd6cf284b2bdf6468f39e772e486882a9067d",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T143255-187545+0000"
     },
     "PubMed:pancreas-approach": {
-      "last_success": "2026-09-14T16:24:29.310337+00:00",
+      "last_success": "2026-09-14T16:29:47.901505+00:00",
       "query_version": "hpb-query-3-guideline-recall",
       "hit_count": 14,
       "last_query": "((\"pancreatic surgery\"[Title/Abstract] OR \"pancreas surgery\"[Title/Abstract]) AND (\"minimally invasive\"[Title/Abstract] OR \"guideline\"[Title/Abstract] OR \"consensus\"[Title/Abstract] OR \"laparoscopic\"[Title/Abstract] OR \"robotic\"[Title/Abstract])) AND (\"2026-08-24\"[EDAT] : \"2026-09-14\"[EDAT] OR \"2026-08-24\"[MDAT] : \"2026-09-14\"[MDAT])",
       "first_historical_search": "2026-09-14T14:17:21.067363+00:00",
-      "last_attempt": "2026-09-14T16:24:29.310337+00:00",
+      "last_attempt": "2026-09-14T16:29:47.901505+00:00",
       "last_attempt_status": "success",
-      "last_completed_at": "2026-09-14T16:26:13.401362+00:00",
+      "last_completed_at": "2026-09-14T16:31:17.499732+00:00",
       "query_fingerprint": "ce9efe176d557c0f1eef4b2cb6d9532ca1d37e05bb19f11a040b92b6adab521c",
       "scope_fingerprint": "7da096815b5332f16ee3829e71ee305ddcfe0eafa19d52884d0a29471b5dbfac",
       "window": {
         "range_start": "2026-08-24",
         "range_end": "2026-09-14",
-        "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+        "coverage_until": "2026-09-14T16:29:47.901505+00:00",
         "historical": false
       },
-      "cycle_id": "2026-09-14T162429-310337+0000",
+      "cycle_id": "2026-09-14T162947-901505+0000",
       "evidence_run_id": "2026-09-14T141721-067363+0000"
     }
   },
@@ -1298,13 +1298,26 @@
     "2026-09-14T141721-067363+0000",
     "2026-09-14T143255-187545+0000",
     "2026-09-14T145936-964159+0000",
-    "2026-09-14T162429-310337+0000"
+    "2026-09-14T162429-310337+0000",
+    "2026-09-14T162947-901505+0000"
   ],
-  "last_attempt_status": "running",
+  "last_attempt_status": "success",
   "last_errors": [],
-  "last_attempt": "2026-09-14T16:29:39.997189+00:00",
-  "last_counts": {},
-  "last_run_id": "2026-09-14T162429-310337+0000",
+  "last_attempt": "2026-09-14T16:29:47.901505+00:00",
+  "last_counts": {
+    "added": 0,
+    "revised": 0,
+    "existing": 3,
+    "duplicates": 2593,
+    "pending_total": 30943,
+    "canonical_revised": 0,
+    "pending_changes": 0,
+    "link_checks": 0,
+    "main_link_checks": 0,
+    "fulltext_link_checks": 0,
+    "link_unconfirmed": 0
+  },
+  "last_run_id": "2026-09-14T162947-901505+0000",
   "last_partial_search": "2026-09-14T13:57:53.558697+00:00",
   "initial_link_sweep_evidence": {
     "scope": "All368canonical main URLs had a real request attempt in this round; unconfirmed pages are not a successful all-links sweep.",
@@ -1312,7 +1325,7 @@
     "month": "2026-09",
     "report": "data/reports/record-audit.json"
   },
-  "last_successful_search": "2026-09-14T16:26:16.654805+00:00",
+  "last_successful_search": "2026-09-14T16:31:20.604683+00:00",
   "last_monthly": "2026-09",
   "historical_rotation_index": 1,
   "last_successful_search_basis": "All 60 topic/source incremental queries, 2 official catalog checks, and the monthly historical rotation completed; link or publication failures are separate.",
@@ -1331,9 +1344,9 @@
   },
   "search_cycle": {
     "schema_version": 1,
-    "id": "2026-09-14T162429-310337+0000",
-    "started_at": "2026-09-14T16:24:29.310337+00:00",
-    "valid_until": "2026-10-05T16:24:29.310337+00:00",
+    "id": "2026-09-14T162947-901505+0000",
+    "started_at": "2026-09-14T16:29:47.901505+00:00",
+    "valid_until": "2026-10-05T16:29:47.901505+00:00",
     "configuration_fingerprint": "432330577aa8f62e080c4267f70290e702a62346e16bdd504c4ee4de72fbbb89",
     "query_version": "hpb-query-3-guideline-recall",
     "initial": false,
@@ -1348,7 +1361,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1361,7 +1374,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1374,7 +1387,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1387,7 +1400,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1400,7 +1413,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1413,7 +1426,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1426,7 +1439,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1439,7 +1452,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1452,7 +1465,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1465,7 +1478,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1478,7 +1491,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1491,7 +1504,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1504,7 +1517,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1517,7 +1530,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1530,7 +1543,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1543,7 +1556,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1556,7 +1569,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1569,7 +1582,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1582,7 +1595,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1595,7 +1608,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1608,7 +1621,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1621,7 +1634,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1634,7 +1647,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1647,7 +1660,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1660,7 +1673,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1673,7 +1686,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1686,7 +1699,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1699,7 +1712,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1712,7 +1725,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1725,7 +1738,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1738,7 +1751,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1751,7 +1764,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1764,7 +1777,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1777,7 +1790,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1790,7 +1803,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1803,7 +1816,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1816,7 +1829,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1829,7 +1842,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1842,7 +1855,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1855,7 +1868,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1868,7 +1881,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1881,7 +1894,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1894,7 +1907,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1907,7 +1920,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1920,7 +1933,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1933,7 +1946,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1946,7 +1959,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1959,7 +1972,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1972,7 +1985,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1985,7 +1998,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -1998,7 +2011,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -2011,7 +2024,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -2024,7 +2037,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -2037,7 +2050,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -2050,7 +2063,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -2063,7 +2076,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -2076,7 +2089,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -2089,7 +2102,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -2102,7 +2115,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -2115,7 +2128,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -2128,7 +2141,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -2141,7 +2154,7 @@
         "window": {
           "range_start": "2026-08-24",
           "range_end": "2026-09-14",
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00",
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00",
           "historical": false
         }
       },
@@ -2153,7 +2166,7 @@
         "window": {
           "range_start": null,
           "range_end": null,
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00"
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00"
         }
       },
       "Stanford directory": {
@@ -2164,14 +2177,14 @@
         "window": {
           "range_start": null,
           "range_end": null,
-          "coverage_until": "2026-09-14T16:24:29.310337+00:00"
+          "coverage_until": "2026-09-14T16:29:47.901505+00:00"
         }
       }
     },
-    "completed_at": "2026-09-14T16:26:16.654805+00:00"
+    "completed_at": "2026-09-14T16:31:20.604683+00:00"
   },
-  "last_search_completed_at": "2026-09-14T16:26:16.654805+00:00",
-  "last_complete_coverage_through": "2026-09-14T16:24:29.310337+00:00",
-  "last_successful_publish": "2026-09-14T16:27:00.007838+00:00",
-  "last_published_version": "hpb-42f01741cead78f9"
+  "last_search_completed_at": "2026-09-14T16:31:20.604683+00:00",
+  "last_complete_coverage_through": "2026-09-14T16:29:47.901505+00:00",
+  "last_successful_publish": "2026-09-14T16:32:02.637662+00:00",
+  "last_published_version": "hpb-461d9ce9658ee2fa"
 }
