@@ -1,6 +1,6 @@
 # 已获授权的公开范围
 
-用户已在本轮确认按本清单公开并部署自动更新。当前尚未实际公开。实际文件清单由 scripts/stage_public.py 生成在 PUBLICATION_MANIFEST.json；可审阅目录为 public-review/。
+用户已在本轮确认按本清单公开并部署自动更新。已于2026年9月15日发布到 https://cindy151629.github.io/hpb-surgery-library/ 。实际文件清单由 scripts/stage_public.py 生成在 PUBLICATION_MANIFEST.json；可审阅目录为 public-review/。
 
 已授权公开：
 

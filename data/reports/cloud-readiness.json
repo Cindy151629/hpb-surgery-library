@@ -1,22 +1,23 @@
 {
-  "checked_at": "2026-09-14T16:21:10.962627+00:00",
+  "checked_at": "2026-09-14T16:40:46.631557+00:00",
   "github_login": "Cindy151629",
-  "github_accessible_repositories": 0,
-  "github_app_installations": 0,
-  "sites_existing_sites": 0,
-  "scope_approved": true,
-  "code": "implemented; see tests for exact scope",
-  "local_browser": "HTTP tested; file URL blocked by browser security policy",
-  "cloud_deployed": false,
-  "weekly_schedule_enabled": false,
-  "observed_scheduled_run": null,
-  "blockers": [],
-  "github_installed_accounts": 0,
-  "configured_git_credential_available": true,
-  "github_browser_navigation": "timed out before a usable page",
-  "github_cli": "official2.100.0 installed in local private work directory; archive SHA256 verified",
   "github_user_id": 177519074,
   "repository": "Cindy151629/hpb-surgery-library",
-  "repository_created": true,
-  "deployment_status": "repository created; workflow not yet pushed or tested"
+  "scope_approved": true,
+  "cloud_deployed": true,
+  "weekly_schedule_enabled": true,
+  "workflow_state": "active",
+  "workflow_id": 357994111,
+  "observed_scheduled_run": null,
+  "https_url": "https://cindy151629.github.io/hpb-surgery-library/",
+  "manual_cloud_runs_passed": [
+    "34868308004",
+    "34868931077"
+  ],
+  "blockers": [],
+  "remaining_validation": [
+    "Actual schedule event has not yet occurred.",
+    "Actual file:// and mobile acceptance remains incomplete; see cloud-acceptance.json."
+  ],
+  "evidence": "cloud-acceptance.json"
 }

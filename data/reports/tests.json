@@ -12,6 +12,17 @@
     "failed": 0,
     "log": "node-tests.txt"
   },
-  "cloud_integration": "Not run; Git clone/remote restoration cases are local tests with temporary repositories, not cloud runner proof.",
+  "cloud_integration": {
+    "status": "passed",
+    "runs": [
+      "https://github.com/Cindy151629/hpb-surgery-library/actions/runs/34868308004",
+      "https://github.com/Cindy151629/hpb-surgery-library/actions/runs/34868931077"
+    ],
+    "python_passed_each_run": 81,
+    "javascript_passed_each_run": 9,
+    "independent_runner_cumulative_restore": "passed",
+    "artifact_bytes_and_origin_null_cors": "passed",
+    "observed_real_schedule_event": false
+  },
   "browser": "See browser-tests.json for passes and incomplete/blocked cases."
 }

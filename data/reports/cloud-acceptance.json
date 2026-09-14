@@ -1,0 +1,123 @@
+{
+  "checked_at": "2026-09-14T16:39:24.934369+00:00",
+  "repository": "Cindy151629/hpb-surgery-library",
+  "url": "https://cindy151629.github.io/hpb-surgery-library/",
+  "code_completed": true,
+  "local_validation": "90 tests previously passed; see browser limitations",
+  "cloud_deployed": true,
+  "weekly_schedule_enabled": true,
+  "schedule_beijing": "Monday 09:17 Asia/Shanghai",
+  "observed_scheduled_run": null,
+  "next_expected_scheduled_date_beijing": "2026-09-21 09:17",
+  "runs": [
+    {
+      "run_id": "34868308004",
+      "url": "https://github.com/Cindy151629/hpb-surgery-library/actions/runs/34868308004",
+      "event": "workflow_dispatch",
+      "head_sha": "24e3c4ad47ba2920f7fc3e66d1e691163ba41867",
+      "job_id": 104057635577,
+      "started_at": "2026-09-14T16:24:22.183489+00:00",
+      "finished_at": "2026-09-14T16:27:08.198061+00:00",
+      "workflow_result": "success",
+      "retrieval_status": "success",
+      "queries": 64,
+      "all_sources_complete": true,
+      "added_candidates": 17,
+      "revised_candidates": 7,
+      "errors": [],
+      "publication_version": "hpb-42f01741cead78f9",
+      "published_at": "2026-09-14T16:27:00.007838+00:00",
+      "publication_byte_verification": true,
+      "origin_null_cors": true,
+      "restored_release": {
+        "available": false,
+        "status": "unavailable",
+        "reason": "No externally verified previous release exists"
+      },
+      "tests": {
+        "python_passed": 81,
+        "javascript_passed": 9
+      }
+    },
+    {
+      "run_id": "34868931077",
+      "url": "https://github.com/Cindy151629/hpb-surgery-library/actions/runs/34868931077",
+      "event": "workflow_dispatch",
+      "head_sha": "d18d26bb67ba6d146d3a90239411eb36f83916c3",
+      "job_id": 104059724467,
+      "started_at": "2026-09-14T16:29:39.997189+00:00",
+      "finished_at": "2026-09-14T16:32:10.482555+00:00",
+      "workflow_result": "success",
+      "retrieval_status": "success",
+      "queries": 64,
+      "all_sources_complete": true,
+      "added_candidates": 0,
+      "revised_candidates": 0,
+      "errors": [],
+      "publication_version": "hpb-461d9ce9658ee2fa",
+      "published_at": "2026-09-14T16:32:02.637662+00:00",
+      "publication_byte_verification": true,
+      "origin_null_cors": true,
+      "restored_release": {
+        "available": true,
+        "status": "ready",
+        "commit": "751dfde5977dc5c504596dcd4ba98abbd5b9b3c7",
+        "data_version": "hpb-42f01741cead78f9"
+      },
+      "tests": {
+        "python_passed": 81,
+        "javascript_passed": 9
+      }
+    }
+  ],
+  "continuity": {
+    "distinct_hosted_jobs": true,
+    "second_checkout_is_first_persisted_commit": true,
+    "original_record_ids_preserved": 368,
+    "notes_hashes_unchanged": true,
+    "original_candidates_preserved": true,
+    "first_run_added_candidates_preserved": true,
+    "source_watermarks_advanced_in_second_run": 64
+  },
+  "external_verification": {
+    "checked_at": "2026-09-14T16:36:58.136123+00:00",
+    "run_id": "34868931077",
+    "version": "hpb-461d9ce9658ee2fa",
+    "url": "https://cindy151629.github.io/hpb-surgery-library/",
+    "checks": {
+      "domain": true,
+      "version": true,
+      "payload_sha256": true,
+      "published_bytes": true,
+      "cors_origin_null": true
+    },
+    "hashes": {
+      "index.html": "6b54b907c1cef1c8e9d24b384cd4636a814f922943af435e947a87140a0c5227",
+      "data.json": "ca27255a0c67a277543078a1816ee23ab68d728d02246f4fa567ed7a8f6f0a23"
+    },
+    "network_notes": [
+      "Initial local request interrupted by TLS EOF; retried with certificate verification retained."
+    ],
+    "records": 368,
+    "candidates": 30948
+  },
+  "browser": {
+    "online_page_loaded": true,
+    "cloud_snapshot_loaded_and_verified_in_page": true,
+    "published_times_displayed": true,
+    "detailed_note_sections_visible": true,
+    "additional_interaction_checks": "Timed out; no claim of completion",
+    "file_mode": "Prior browser security policy blocked file:// tests; HTTP Origin:null response verified, not equivalent to actual file:// test",
+    "mobile": "Not completed"
+  },
+  "initial_failed_configuration": {
+    "run_id": "34868125912",
+    "reason": "runner.temp not allowed at job env scope",
+    "resolution": "Initialize HPB_WORK_DIR in a running step; both subsequent dispatches succeeded"
+  },
+  "limitations": [
+    "Two observed runs were manually dispatched; no genuine schedule event observed yet.",
+    "No video playback or embedding approval was newly verified during cloud deployment.",
+    "Complex scientific reading notes require professional review; routine discovery adds pending candidates without generating unsupported medical notes."
+  ]
+}

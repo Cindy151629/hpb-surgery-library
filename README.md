@@ -8,8 +8,8 @@
 
 - 代码：实现了固定检索、去重、候选分类、题录变更检查、链接检查、累计状态、页面构建、云端发布和失败恢复。
 - 本地验证：最终真实更新完成64项来源查询，来源失败0项；全部368条主记录的笔记哈希保持一致。81项Python测试及9项JavaScript测试通过。本地HTTP浏览器测试另有逐项记录；准确结果见 `data/reports/tests.json`、`final-local-routine-run.json`、`browser-tests.json`。
-- 云端部署：未部署。GitHub 连接账户为 xxt151629，但本轮仓库与 App 安装列表均为空；Sites 现有站点列表也为空。
-- 周调度：工作流已实现，尚未启用。默认每周一北京时间 09:17，UTC 周一 01:17。
+- 云端部署：专用仓库 `Cindy151629/hpb-surgery-library` 与 Pages 已部署；两次独立云端运行均通过检索、90项测试、发布与外部校验。公开地址为 https://cindy151629.github.io/hpb-surgery-library/ 。
+- 周调度：默认分支工作流已由 GitHub 确认为 active。排期每周一北京时间 09:17，UTC 周一 01:17。
 - 真实定时运行：尚未发生可观察的本项目运行；不能用本地执行或 YAML 文件替代。
 - 视频：原站链接与概括已整理。页面、播放、嵌入、完整观看是四个独立维度。当前没有通过实际播放/嵌入测试的记录，故不展示未核验播放器，也不保证当前网络和账号能播放全部视频。原站可能要求登录或订阅。
 - 双击入口：HTML 已生成并内嵌完整数据。自动化浏览器安全策略拒绝 file:// 导航，因此真实 file:// 浏览及跨域同步验收尚未完成；没有绕过该限制。本地 HTTP 功能已测试。
@@ -57,11 +57,17 @@ python3 scripts/build.py
 
 SAGES RSS、Stanford 官方目录有自动巡查；目录返回并不证明覆盖平台全部历史视频。中文期刊、学会、JOMI、webop 等人工补查范围见来源配置；Embase、Web of Science、CNKI 付费检索未完成授权检索。候选保留为待核信息，常规程序不会凭题名生成医学结论或精读笔记。
 
-## 首次云端部署：公开范围已获授权，待完成GitHub登录
+## 云端部署与手动补跑
 
-用户已确认 PUBLICATION_SCOPE.md 和 PUBLICATION_MANIFEST.json 所列公开范围，无需重复确认。当前仍需完成GitHub登录，才能创建或使用实际目标仓库。不得上传完整工作目录、附件、原始全文、个人笔记或密钥；只上传 `public-review/` 的白名单内容。新建或提供用户自己的 GitHub 仓库，并授予当前 GitHub App 对该仓库的访问权限。无需在对话中粘贴密码或长期令牌。
+用户已确认 PUBLICATION_SCOPE.md 所列公开范围和 Cindy151629 账户，专用仓库已建立。只上传 `public-review/` 的白名单内容；原始附件、全文与个人笔记仍留在本地。常规更新使用 GitHub 自动提供的工作流凭据，无需配置模型 API 密钥。
 
-完成GitHub授权后，在目标默认分支的 `config/deployment.json` 设置：
+手动补跑：打开 https://github.com/Cindy151629/hpb-surgery-library/actions/workflows/weekly.yml ，点击 Run workflow，选择 main。已安装 GitHub CLI 时也可运行：
+
+```sh
+gh workflow run weekly.yml --repo Cindy151629/hpb-surgery-library --ref main
+```
+
+迁移到其他已授权目标时，在目标默认分支的 `config/deployment.json` 设置：
 
 - `repository`：实际 OWNER/REPO。
 - `https_base_url`：实际 GitHub Pages HTTPS 根地址，保留结尾斜线。
@@ -89,8 +95,18 @@ python3 scripts/deploy_check.py --url ACTUAL_HTTPS_URL --expected-dir recovery-s
 
 第二行只校验实际已经部署的恢复版本，不负责部署；不得把校验命令误当发布操作。常规工作流已包含 Pages 恢复部署步骤。
 
-### 尚未完成的云端验收
+### 实际云端验收与剩余限制
 
-本轮没有目标仓库权限，故以下均待部署后实测：两个独立云 runner 恢复、Pages 发布、外部公开字节一致、真实 file:// Origin:null 跨域读取、真实调度状态与第一条 schedule 事件。GitHub 定时任务可能延迟或暂停；网页根据实际时间提示过期，不能承诺永不漏跑。服务配额或原站订阅可能收费，未启用付费服务。
+2026年9月15日北京时间00:24—00:32完成两次独立云端验收，实际记录：
+
+- 第一次：https://github.com/Cindy151629/hpb-surgery-library/actions/runs/34868308004 。64项来源查询全部完成，新增17条候选、修订7条候选题录。
+- 第二次：https://github.com/Cindy151629/hpb-surgery-library/actions/runs/34868931077 。从第一次保存的累计提交启动，64项来源查询全部完成，新增0条、修订0条，去重有效；64项来源水位继续推进。
+- 两次均通过81项Python及9项JavaScript测试、Pages部署、公开HTML/JSON字节一致与Origin:null响应校验。368条正式记录及原有阅读笔记哈希均保持一致，新增候选累计保留。第二次读取并校验了上一版可回滚制品。
+- 最终核实版本 `hpb-461d9ce9658ee2fa`，最近成功检索北京时间2026年09月15日00:31:20，最近成功发布00:32:02。最终发布时间及版本以网页实时回执为准。
+- 周工作流在默认分支为active。两次验收事件均为workflow_dispatch；尚未观察到真实schedule事件，下一次计划为2026年9月21日09:17北京时间。GitHub定时任务可能延迟或暂停；查看Actions失败记录并可手动补跑。
+- 在线页面已显示云端读取校验通过、检索及发布时间、完整笔记章节。追加交互检查出现浏览器控制超时。真实file://与手机尺寸验收尚未完成；请求带Origin:null时返回允许跨域，只证明服务响应，不能替代真实file://测试。
+
+完整证据见 `data/reports/cloud-acceptance.json` 和 `data/reports/云端自动更新验收报告.md`。初次提交曾因GitHub不允许在job环境中使用runner.temp而失败，已改为在运行步骤初始化；该失败历史保留，随后两次完整验收通过。未启用付费服务。
+
 
 浏览器的个人笔记不进入任何云端请求。日常浏览、搜索、筛选、播放和常规更新程序均不调用大模型。复杂科学结论由专业复核后再并入正式笔记。
