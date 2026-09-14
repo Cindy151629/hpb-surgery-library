@@ -1,96 +1,17 @@
 {
   "domain_id": "hpb-surgery",
   "schema_version": 1,
-  "status": "success",
-  "started_at": "2026-09-14T16:24:22.183489+00:00",
-  "finished_at": "2026-09-14T16:27:08.198061+00:00",
+  "status": "running",
+  "started_at": "2026-09-14T16:29:39.997189+00:00",
+  "finished_at": null,
   "event": "workflow_dispatch",
-  "run_id": "34868308004",
-  "run_url": "https://github.com/Cindy151629/hpb-surgery-library/actions/runs/34868308004",
+  "run_id": "34868931077",
+  "run_url": "https://github.com/Cindy151629/hpb-surgery-library/actions/runs/34868931077",
   "observed_scheduled_run": null,
-  "steps": {
-    "authorization": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "started": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "start_saved": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "dependencies": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "node": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "recovery": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "update": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "tests": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "pages_config": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "upload": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "deployment": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "verification": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "pin": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "recovery_upload": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    },
-    "rollback": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    },
-    "rollback_check": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    }
-  },
+  "steps": {},
   "rollback": {
-    "available": false,
-    "status": "unavailable",
-    "reason": "No externally verified previous release exists"
+    "status": "not_checked"
   },
   "last_errors": [],
-  "last_counts": {
-    "added": 17,
-    "revised": 7,
-    "existing": 3,
-    "duplicates": 2586,
-    "pending_total": 30943,
-    "canonical_revised": 0,
-    "pending_changes": 0,
-    "link_checks": 0,
-    "main_link_checks": 0,
-    "fulltext_link_checks": 0,
-    "link_unconfirmed": 0
-  }
+  "last_counts": {}
 }
