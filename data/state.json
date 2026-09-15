@@ -1301,22 +1301,10 @@
     "2026-09-14T162429-310337+0000",
     "2026-09-14T162947-901505+0000"
   ],
-  "last_attempt_status": "success",
+  "last_attempt_status": "running",
   "last_errors": [],
-  "last_attempt": "2026-09-14T16:29:47.901505+00:00",
-  "last_counts": {
-    "added": 0,
-    "revised": 0,
-    "existing": 3,
-    "duplicates": 2593,
-    "pending_total": 30943,
-    "canonical_revised": 0,
-    "pending_changes": 0,
-    "link_checks": 0,
-    "main_link_checks": 0,
-    "fulltext_link_checks": 0,
-    "link_unconfirmed": 0
-  },
+  "last_attempt": "2026-09-15T10:51:12.491385+00:00",
+  "last_counts": {},
   "last_run_id": "2026-09-14T162947-901505+0000",
   "last_partial_search": "2026-09-14T13:57:53.558697+00:00",
   "initial_link_sweep_evidence": {
