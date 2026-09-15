@@ -1,12 +1,7 @@
 {
-  "last_attempt": "2026-09-15T10:54:41.611553+00:00",
+  "last_attempt": "2026-09-15T11:21:05.466797+00:00",
   "status": "partial",
   "errors": [
-    {
-      "source": "Europe PMC:可迁移方法",
-      "reason": "请求、解析或分页未完成；成功进度保留",
-      "query": "(surgical OR surgery OR laparoscopic) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-    },
     {
       "source": "arXiv:肝脏外科",
       "reason": "请求、解析或分页未完成；成功进度保留",
@@ -26,22 +21,6 @@
       "source": "arXiv:可迁移方法",
       "reason": "请求、解析或分页未完成；成功进度保留",
       "query": "(all:surgical OR all:surgery OR all:laparoscopic) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-    },
-    {
-      "source": "Crossref:10.48550/arxiv.2603.01108",
-      "reason": "request failed"
-    },
-    {
-      "source": "Crossref:10.48550/arxiv.2607.23694",
-      "reason": "request failed"
-    },
-    {
-      "source": "Crossref:10.48550/arxiv.2506.02555",
-      "reason": "request failed"
-    },
-    {
-      "source": "Crossref:10.48550/arxiv.2604.03645",
-      "reason": "request failed"
     },
     {
       "source": "arXiv-ID:HPBAI-002",
@@ -126,113 +105,200 @@
   ],
   "source_progress": {
     "Europe PMC:肝脏外科": {
-      "version": "hpb-ai-query-2",
-      "last_attempt": "2026-09-15T10:54:41.611553+00:00",
-      "last_success": "2026-09-15T23:59:59+00:00",
+      "version": "hpb-ai-query-3",
+      "last_attempt": "2026-09-15T11:21:05.466797+00:00",
+      "last_success": "2026-09-15T11:21:06.944042+00:00",
       "completed_window": {
-        "start": "2026-06-17",
+        "start": null,
         "end": "2026-09-15"
-      }
+      },
+      "covered_through": "2026-09-15"
     },
     "Europe PMC:胆囊与胆道外科": {
-      "version": "hpb-ai-query-2",
-      "last_attempt": "2026-09-15T10:54:41.611553+00:00",
-      "last_success": "2026-09-15T23:59:59+00:00",
+      "version": "hpb-ai-query-3",
+      "last_attempt": "2026-09-15T11:21:05.466797+00:00",
+      "last_success": "2026-09-15T11:21:09.188993+00:00",
       "completed_window": {
-        "start": "2026-06-17",
+        "start": null,
         "end": "2026-09-15"
-      }
+      },
+      "covered_through": "2026-09-15"
     },
     "Europe PMC:胰腺外科": {
-      "version": "hpb-ai-query-2",
-      "last_attempt": "2026-09-15T10:54:41.611553+00:00",
-      "last_success": "2026-09-15T23:59:59+00:00",
+      "version": "hpb-ai-query-3",
+      "last_attempt": "2026-09-15T11:21:05.466797+00:00",
+      "last_success": "2026-09-15T11:21:10.482516+00:00",
       "completed_window": {
         "start": null,
         "end": "2026-09-15"
-      }
+      },
+      "covered_through": "2026-09-15"
     },
     "Europe PMC:可迁移方法": {
-      "version": "hpb-ai-query-2",
-      "pending": {
+      "version": "hpb-ai-query-3",
+      "last_attempt": "2026-09-15T11:21:05.466797+00:00",
+      "last_success": "2026-09-15T11:21:28.671807+00:00",
+      "covered_through": "2026-09-15",
+      "completed_window": {
         "start": null,
         "end": "2026-09-15"
-      },
-      "last_attempt": "2026-09-15T10:54:41.611553+00:00"
+      }
     },
     "PubMed:肝脏外科": {
-      "version": "hpb-ai-query-2",
-      "last_attempt": "2026-09-15T10:54:41.611553+00:00",
-      "last_success": "2026-09-15T23:59:59+00:00",
+      "version": "hpb-ai-query-3",
+      "last_attempt": "2026-09-15T11:21:05.466797+00:00",
+      "last_success": "2026-09-15T11:21:30.630952+00:00",
       "completed_window": {
         "start": null,
         "end": "2026-09-15"
-      }
+      },
+      "covered_through": "2026-09-15"
     },
     "PubMed:胆囊与胆道外科": {
-      "version": "hpb-ai-query-2",
-      "last_attempt": "2026-09-15T10:54:41.611553+00:00",
-      "last_success": "2026-09-15T23:59:59+00:00",
+      "version": "hpb-ai-query-3",
+      "last_attempt": "2026-09-15T11:21:05.466797+00:00",
+      "last_success": "2026-09-15T11:21:33.397224+00:00",
       "completed_window": {
         "start": null,
         "end": "2026-09-15"
-      }
+      },
+      "covered_through": "2026-09-15"
     },
     "PubMed:胰腺外科": {
-      "version": "hpb-ai-query-2",
-      "last_attempt": "2026-09-15T10:54:41.611553+00:00",
-      "last_success": "2026-09-15T23:59:59+00:00",
+      "version": "hpb-ai-query-3",
+      "last_attempt": "2026-09-15T11:21:05.466797+00:00",
+      "last_success": "2026-09-15T11:21:34.970809+00:00",
       "completed_window": {
         "start": null,
         "end": "2026-09-15"
-      }
+      },
+      "covered_through": "2026-09-15"
     },
     "PubMed:可迁移方法": {
-      "version": "hpb-ai-query-2",
-      "last_attempt": "2026-09-15T10:54:41.611553+00:00",
-      "last_success": "2026-09-15T23:59:59+00:00",
+      "version": "hpb-ai-query-3",
+      "last_attempt": "2026-09-15T11:21:05.466797+00:00",
+      "last_success": "2026-09-15T11:22:10.860374+00:00",
       "completed_window": {
         "start": null,
         "end": "2026-09-15"
-      }
+      },
+      "covered_through": "2026-09-15"
     },
     "arXiv:肝脏外科": {
-      "version": "hpb-ai-query-2",
+      "version": "hpb-ai-query-3",
       "pending": {
         "start": null,
         "end": "2026-09-15"
       },
-      "last_attempt": "2026-09-15T10:54:41.611553+00:00"
+      "last_attempt": "2026-09-15T11:21:05.466797+00:00"
     },
     "arXiv:胆囊与胆道外科": {
-      "version": "hpb-ai-query-2",
+      "version": "hpb-ai-query-3",
       "pending": {
         "start": null,
         "end": "2026-09-15"
       },
-      "last_attempt": "2026-09-15T10:54:41.611553+00:00"
+      "last_attempt": "2026-09-15T11:21:05.466797+00:00"
     },
     "arXiv:胰腺外科": {
-      "version": "hpb-ai-query-2",
+      "version": "hpb-ai-query-3",
       "pending": {
         "start": null,
         "end": "2026-09-15"
       },
-      "last_attempt": "2026-09-15T10:54:41.611553+00:00"
+      "last_attempt": "2026-09-15T11:21:05.466797+00:00"
     },
     "arXiv:可迁移方法": {
-      "version": "hpb-ai-query-2",
+      "version": "hpb-ai-query-3",
       "pending": {
         "start": null,
         "end": "2026-09-15"
       },
-      "last_attempt": "2026-09-15T10:54:41.611553+00:00"
+      "last_attempt": "2026-09-15T11:21:05.466797+00:00"
     },
     "Crossref:10.1007/978-3-032-05114-1_11": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "CholecMamba: A Mamba-Based Multimodal Reasoning Model for Cholecystectomy Surgery"
+        ],
+        "author": [
+          {
+            "given": "Zipei",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Sitian",
+            "family": "Pan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Mengjie",
+            "family": "Fang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ruofan",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0498-0432",
+            "authenticated-orcid": false,
+            "given": "Jie",
+            "family": "Tian",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0783-3171",
+            "authenticated-orcid": false,
+            "given": "Di",
+            "family": "Dong",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -266,10 +332,108 @@
       }
     },
     "Crossref:10.1038/s41598-025-11759-4": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "A fine-tuned foundational model SurgiSAM2 for surgical video anatomy segmentation and detection"
+        ],
+        "author": [
+          {
+            "given": "Devanish N.",
+            "family": "Kamtam",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Joseph B.",
+            "family": "Shrager",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Satya Deepya",
+            "family": "Malla",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xiaohan",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Nicole",
+            "family": "Lin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Juan J.",
+            "family": "Cardona",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Serena",
+            "family": "Yeung-Levy",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Clarence",
+            "family": "Hu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -297,10 +461,62 @@
       }
     },
     "Crossref:10.1007/s11548-025-03408-y": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "SASVi: segment any surgical video"
+        ],
+        "author": [
+          {
+            "given": "Ssharvien Kumar",
+            "family": "Sivakumar",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0005-8097-0158",
+            "authenticated-orcid": false,
+            "given": "Yannik",
+            "family": "Frisch",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Amin",
+            "family": "Ranem",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Anirban",
+            "family": "Mukhopadhyay",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -328,10 +544,124 @@
       }
     },
     "Crossref:10.1007/978-3-032-05127-1_26": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "HRVVS: A High-Resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0007-3471-7041",
+            "authenticated-orcid": false,
+            "given": "Xincheng",
+            "family": "Yao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4083-5144",
+            "authenticated-orcid": false,
+            "given": "Yijun",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-7199-9382",
+            "authenticated-orcid": false,
+            "given": "Kangwei",
+            "family": "Guo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0001-6822-8146",
+            "authenticated-orcid": false,
+            "given": "Ruiqiang",
+            "family": "Xiao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0002-5582-0324",
+            "authenticated-orcid": false,
+            "given": "Haipeng",
+            "family": "Zhou",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0871-9581",
+            "authenticated-orcid": false,
+            "given": "Haisu",
+            "family": "Tao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4721-7744",
+            "authenticated-orcid": false,
+            "given": "Jian",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-3871-663X",
+            "authenticated-orcid": false,
+            "given": "Lei",
+            "family": "Zhu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -365,10 +695,98 @@
       }
     },
     "Crossref:10.1007/s11548-025-03381-6": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "Automated multimodel segmentation and tracking for AR-guided open liver surgery using scene-aware self-prompting"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0009-1986-6916",
+            "authenticated-orcid": false,
+            "given": "Serouj",
+            "family": "Khajarian",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michael",
+            "family": "Schwimmbeck",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Konstantin",
+            "family": "Holzapfel",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Johannes",
+            "family": "Schmidt",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Christopher",
+            "family": "Auer",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Stefanie",
+            "family": "Remmele",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Oliver",
+            "family": "Amft",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -396,10 +814,96 @@
       }
     },
     "Crossref:10.1007/978-3-032-05127-1_42": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-Term Tracking"
+        ],
+        "author": [
+          {
+            "given": "Haofeng",
+            "family": "Liu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mingqi",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xuxiao",
+            "family": "Luo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ziyue",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Guanyi",
+            "family": "Qin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Junde",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yueming",
+            "family": "Jin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -433,10 +937,72 @@
       }
     },
     "Crossref:10.1007/978-3-032-05127-1_32": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "Memory-Augmented SAM2 for Training-Free Surgical Video Segmentation"
+        ],
+        "author": [
+          {
+            "given": "Ming",
+            "family": "Yin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Fu",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xujiong",
+            "family": "Ye",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yanda",
+            "family": "Meng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Zeyu",
+            "family": "Fu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -470,10 +1036,180 @@
       }
     },
     "Crossref:10.1038/s44484-025-00002-2": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "Systematic evaluation and guidelines for segment anything model in surgical video analysis"
+        ],
+        "author": [
+          {
+            "given": "Cheng",
+            "family": "Yuan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jian",
+            "family": "Jiang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Kunyi",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Lv",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Rui",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Zi",
+            "family": "Meng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Haonan",
+            "family": "Ping",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ziyu",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yifan",
+            "family": "Zhou",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Wanli",
+            "family": "Song",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Hesheng",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yueming",
+            "family": "Jin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Qi",
+            "family": "Dou",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yutong",
+            "family": "Ban",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -501,10 +1237,122 @@
       }
     },
     "Crossref:10.1016/j.media.2025.103644": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "Learning multi-modal representations by watching hundreds of surgical video lectures"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-6030-8862",
+            "authenticated-orcid": false,
+            "given": "Kun",
+            "family": "Yuan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-1044-038X",
+            "authenticated-orcid": false,
+            "given": "Vinkle",
+            "family": "Srivastav",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tong",
+            "family": "Yu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0248-4996",
+            "authenticated-orcid": false,
+            "given": "Joël L.",
+            "family": "Lavanchy",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-1400-6230",
+            "authenticated-orcid": false,
+            "given": "Jacques",
+            "family": "Marescaux",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-7288-3023",
+            "authenticated-orcid": false,
+            "given": "Pietro",
+            "family": "Mascagni",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-6032-5611",
+            "authenticated-orcid": false,
+            "given": "Nassir",
+            "family": "Navab",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-5010-4137",
+            "authenticated-orcid": false,
+            "given": "Nicolas",
+            "family": "Padoy",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -530,10 +1378,60 @@
       }
     },
     "Crossref:10.1007/978-3-031-72089-5_29": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "HecVL: Hierarchical Video-Language Pretraining for Zero-Shot Surgical Phase Recognition"
+        ],
+        "author": [
+          {
+            "given": "Kun",
+            "family": "Yuan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Vinkle",
+            "family": "Srivastav",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Nassir",
+            "family": "Navab",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Nicolas",
+            "family": "Padoy",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -565,10 +1463,60 @@
       }
     },
     "Crossref:10.52202/079017-3907": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation"
+        ],
+        "author": [
+          {
+            "given": "Kun",
+            "family": "Yuan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Vinkle",
+            "family": "Srivastav",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Nassir",
+            "family": "Navab",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Nicolas",
+            "family": "Padoy",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -592,10 +1540,240 @@
       }
     },
     "Crossref:10.1038/s41746-026-02403-0": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "Large-scale self-supervised video foundation model for intelligent surgery"
+        ],
+        "author": [
+          {
+            "given": "Shu",
+            "family": "Yang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Fengtao",
+            "family": "Zhou",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Leon",
+            "family": "Mayer",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Fuxiang",
+            "family": "Huang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yiliang",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yihui",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Sunan",
+            "family": "He",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yuxiang",
+            "family": "Nie",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xi",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ömer",
+            "family": "Sümer",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yueming",
+            "family": "Jin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Huihui",
+            "family": "Sun",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shuchang",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Alex Qinyang",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Zheng",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jing",
+            "family": "Qin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jeremy YuenChun",
+            "family": "Teoh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lena",
+            "family": "Maier-Hein",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Hao",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -641,10 +1819,110 @@
       }
     },
     "Crossref:10.1016/j.media.2026.103940": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "Depth-induced prompt learning for laparoscopic liver landmark detection"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-8371-269X",
+            "authenticated-orcid": false,
+            "given": "Ruize",
+            "family": "Cui",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-3289-9714",
+            "authenticated-orcid": false,
+            "given": "Weixin",
+            "family": "Si",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0005-2184-635X",
+            "authenticated-orcid": false,
+            "given": "Zhixi",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5814-817X",
+            "authenticated-orcid": false,
+            "given": "Kai",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-2630-2838",
+            "authenticated-orcid": false,
+            "given": "Jialun",
+            "family": "Pei",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-3055-5034",
+            "authenticated-orcid": false,
+            "given": "Pheng-Ann",
+            "family": "Heng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-7059-0929",
+            "authenticated-orcid": false,
+            "given": "Jing",
+            "family": "Qin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -670,10 +1948,86 @@
       }
     },
     "Crossref:10.1007/s11548-026-03674-4": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "Subsampled randomized Fourier GaLore for adapting foundation models in depth-driven liver landmark segmentation"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0006-7441-526X",
+            "authenticated-orcid": false,
+            "given": "Yun-Chen",
+            "family": "Lin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jiayuan",
+            "family": "Huang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Hanyuan",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Sergi",
+            "family": "Kavtaradze",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Matthew J.",
+            "family": "Clarkson",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mobarak I.",
+            "family": "Hoque",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -701,10 +2055,132 @@
       }
     },
     "Crossref:10.1038/s41746-026-02989-5": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "Real-time anatomy recognition in laparoscopic liver resection using video segmentation AI model"
+        ],
+        "author": [
+          {
+            "given": "Haisu",
+            "family": "Tao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kangwei",
+            "family": "Guo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yijun",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xincheng",
+            "family": "Yao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ruiqiang",
+            "family": "Xiao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xiaojun",
+            "family": "Zeng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xuanshuang",
+            "family": "Tang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lei",
+            "family": "Zhu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yinling",
+            "family": "Qian",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jian",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -732,10 +2208,147 @@
       }
     },
     "Crossref:10.1007/s00464-024-10725-x": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "The development of a deep learning model for automated segmentation of the robotic pancreaticojejunostomy"
+        ],
+        "author": [
+          {
+            "given": "Amr I.",
+            "family": "Al Abbas",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Babak",
+            "family": "Namazi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Imad",
+            "family": "Radi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rodrigo",
+            "family": "Alterio",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Andres A.",
+            "family": "Abreu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Benjamin",
+            "family": "Rail",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Patricio M.",
+            "family": "Polanco",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "suffix": "III",
+            "given": "Herbert J.",
+            "family": "Zeh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Melissa E.",
+            "family": "Hogg",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Amer H.",
+            "family": "Zureikat",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1556-2797",
+            "authenticated-orcid": false,
+            "given": "Ganesh",
+            "family": "Sankaranarayanan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -770,10 +2383,208 @@
       }
     },
     "Crossref:10.1093/bjs/znaf160": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "Automated surgical phase recognition for robotic pancreatoduodenectomy using artificial intelligence"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-2484-6548",
+            "authenticated-orcid": false,
+            "given": "Koichi",
+            "family": "Tomita",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Surgical Oncology, The University of Texas MD Anderson Cancer Center , Houston, Texas ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Masashi",
+            "family": "Takeuchi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Surgery, Keio University School of Medicine , Tokyo ,",
+                "place": [
+                  "Japan"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jessica E",
+            "family": "Maxwell",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Surgical Oncology, The University of Texas MD Anderson Cancer Center , Houston, Texas ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rebecca A",
+            "family": "Snyder",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Surgical Oncology, The University of Texas MD Anderson Cancer Center , Houston, Texas ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michael P",
+            "family": "Kim",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Surgical Oncology, The University of Texas MD Anderson Cancer Center , Houston, Texas ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Hop S",
+            "family": "Tran Cao",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Surgical Oncology, The University of Texas MD Anderson Cancer Center , Houston, Texas ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ching-Wei D",
+            "family": "Tzeng",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Surgical Oncology, The University of Texas MD Anderson Cancer Center , Houston, Texas ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jeffrey E",
+            "family": "Lee",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Surgical Oncology, The University of Texas MD Anderson Cancer Center , Houston, Texas ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-3870-6968",
+            "authenticated-orcid": false,
+            "given": "Matthew H G",
+            "family": "Katz",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Surgical Oncology, The University of Texas MD Anderson Cancer Center , Houston, Texas ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-9825-9234",
+            "authenticated-orcid": false,
+            "given": "Naruhiko",
+            "family": "Ikoma",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Surgical Oncology, The University of Texas MD Anderson Cancer Center , Houston, Texas ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -808,10 +2619,84 @@
       }
     },
     "Crossref:10.1007/978-3-032-05127-1_56": {
-      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T11:21:05.466797+00:00",
       "metadata": {
         "title": [
           "Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection"
+        ],
+        "author": [
+          {
+            "given": "Ruize",
+            "family": "Cui",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jiaan",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jialun",
+            "family": "Pei",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kai",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Pheng-Ann",
+            "family": "Heng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jing",
+            "family": "Qin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
         ],
         "published": {
           "date-parts": [
@@ -846,10 +2731,11 @@
     }
   },
   "counts": {
-    "added": 3157,
-    "revised": 8,
-    "pending": 5723,
-    "failed": 29
+    "added": 14,
+    "revised": 39,
+    "pending": 5780,
+    "failed": 24
   },
-  "last_run_id": "ai-2026-09-15T105441-611553+0000"
+  "last_run_id": "ai-2026-09-15T112105-466797+0000",
+  "arxiv_retry_after": "2026-09-15T17:21:05.466797+00:00"
 }

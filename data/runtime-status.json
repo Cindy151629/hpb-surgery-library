@@ -1,17 +1,102 @@
 {
   "domain_id": "hpb-surgery",
   "schema_version": 1,
-  "status": "running",
+  "status": "partial",
   "started_at": "2026-09-15T11:18:29.494909+00:00",
-  "finished_at": null,
+  "finished_at": "2026-09-15T11:24:30.974699+00:00",
   "event": "workflow_dispatch",
   "run_id": "34962561369",
   "run_url": "https://github.com/Cindy151629/hpb-surgery-library/actions/runs/34962561369",
   "observed_scheduled_run": null,
-  "steps": {},
-  "rollback": {
-    "status": "not_checked"
+  "steps": {
+    "authorization": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "started": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "start_saved": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "dependencies": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "node": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "recovery": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "update": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "tests": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "pages_config": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "upload": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "deployment": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "verification": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "pin": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "recovery_upload": {
+      "outcome": "skipped",
+      "conclusion": "skipped"
+    },
+    "rollback": {
+      "outcome": "skipped",
+      "conclusion": "skipped"
+    },
+    "rollback_check": {
+      "outcome": "skipped",
+      "conclusion": "skipped"
+    }
   },
-  "last_errors": [],
-  "last_counts": {}
+  "rollback": {
+    "available": true,
+    "status": "ready",
+    "commit": "d6fcd320e49eae88870c12cd2d7097b4d23121a3",
+    "data_version": "hpb-1a7a096cbed1c5e9"
+  },
+  "last_errors": [
+    {
+      "source": "AI topic",
+      "reason": "部分检索或资源巡检未完成；详见AI专题状态"
+    }
+  ],
+  "last_counts": {
+    "added": 0,
+    "revised": 36,
+    "existing": 6,
+    "duplicates": 2586,
+    "pending_total": 31029,
+    "canonical_revised": 0,
+    "pending_changes": 0,
+    "link_checks": 0,
+    "main_link_checks": 0,
+    "fulltext_link_checks": 0,
+    "link_unconfirmed": 0
+  }
 }
