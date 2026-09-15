@@ -1,0 +1,170 @@
+{
+  "verified_at": "2026-09-15T11:28:36.679390+00:00",
+  "code_completed": true,
+  "local_automated_tests": {
+    "python": 100,
+    "javascript": 15,
+    "failed": 0
+  },
+  "cloud_automated_tests": {
+    "python": 100,
+    "javascript": 15,
+    "failed": 0,
+    "run_id": "34962561369"
+  },
+  "local_browser_http": "passed",
+  "file_browser_test": "blocked by Browser URL security policy; not passed",
+  "online_browser": "visible DOM confirmed AI card HPBAI-006 and original 368-record navigation; no page console errors",
+  "cloud_deployed": true,
+  "weekly_schedule_enabled": true,
+  "schedule": "Monday 09:17 Asia/Shanghai",
+  "observed_real_schedule_event": null,
+  "observed_manual_runs": [
+    {
+      "id": "34960141592",
+      "conclusion": "success",
+      "duration": "19m51s"
+    },
+    {
+      "id": "34962561369",
+      "conclusion": "success",
+      "duration": "6m24s"
+    }
+  ],
+  "receipt": {
+    "deployed": true,
+    "domain_id": "hpb-surgery",
+    "schema_version": 1,
+    "data_version": "hpb-6bd6d32ea4a7d850",
+    "verified_at": "2026-09-15T11:24:21.280222+00:00",
+    "url": "https://cindy151629.github.io/hpb-surgery-library/",
+    "sha256": "6ca51cf5d55a8b66874b99a606a035e75d5365e6913c6cb0082b8f13cd040b39",
+    "file_hashes": {
+      "data.json": "fde799bdad0b1256bb8b9bf3ab278149baf9e938a28bb097676673c04b64a716",
+      "index.html": "e91be50c813e0a50cc1b31fe5f8c662fe0ba26f71a8cc4470362cd3e92feebc7"
+    },
+    "cors_origin_null": true,
+    "event": "workflow_dispatch",
+    "run_id": "34962561369",
+    "run_url": "https://github.com/Cindy151629/hpb-surgery-library/actions/runs/34962561369",
+    "rollback": false,
+    "release_commit": null,
+    "schedule_enabled": true,
+    "observed_scheduled_run": null
+  },
+  "external_html_json_hashes_match": true,
+  "clinical_records_unchanged": 368,
+  "curated_AI_records_unchanged_after_cloud_runs": 46,
+  "AI_search_status": "partial",
+  "AI_last_counts": {
+    "added": 14,
+    "revised": 39,
+    "pending": 5780,
+    "failed": 24
+  },
+  "AI_complete_discovery_queries": 8,
+  "AI_discovery_queries": 12,
+  "AI_failures": [
+    {
+      "source": "arXiv:肝脏外科",
+      "reason": "请求、解析或分页未完成；成功进度保留",
+      "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
+    },
+    {
+      "source": "arXiv:胆囊与胆道外科",
+      "reason": "请求、解析或分页未完成；成功进度保留",
+      "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
+    },
+    {
+      "source": "arXiv:胰腺外科",
+      "reason": "请求、解析或分页未完成；成功进度保留",
+      "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
+    },
+    {
+      "source": "arXiv:可迁移方法",
+      "reason": "请求、解析或分页未完成；成功进度保留",
+      "query": "(all:surgical OR all:surgery OR all:laparoscopic) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-002",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-003",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-004",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-006",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-008",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-009",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-012",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-013",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-014",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-015",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-016",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-017",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-018",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-019",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-028",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-029",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-032",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-033",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-034",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-038",
+      "reason": "已知版本查询未完成"
+    }
+  ],
+  "limitation": "arXiv超时/HTTP429及冷却延后；来源进度未推进。39条修订为题录/页面变更线索，不是39篇已重写笔记。"
+}

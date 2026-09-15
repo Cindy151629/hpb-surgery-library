@@ -10,5 +10,10 @@
     "failed": 0
   },
   "source_logs": "local work/hpb/ai-patch-20260915/python-tests.log and node-tests.log",
-  "cloud_tests": "pending actual workflow result"
+  "cloud_tests": {
+    "python": 100,
+    "javascript": 15,
+    "failed": 0,
+    "run_id": "34962561369"
+  }
 }

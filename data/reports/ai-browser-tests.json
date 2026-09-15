@@ -9,7 +9,13 @@
   "viewport390": "document scrollWidth=clientWidth=390",
   "console_errors": [],
   "file_scheme": "blocked by Browser URL safety policy; not passed; no bypass attempted",
-  "online_after_deployment": "pending",
+  "online_after_deployment": {
+    "checked_at": "2026-09-15T11:24:34.973561+00:00",
+    "status": "passed via actual visible-DOM interface",
+    "resource_seen": "HPBAI-006 SurgSLOT; official preprint/fulltext/project/code/weight entries visible",
+    "console_errors": [],
+    "tool_limitations": "Two Playwright operations timed out; documented visible-DOM fallback and dev logs succeeded."
+  },
   "favorites": "passed:toggle, reload retained, test state restored",
   "old_namespaced_anchor": "passed: #AI-A-R01 resolves canonical DOM #HPBAI-003",
   "old_clinical_anchor": "passed: #resource-L015 resolves DOM #L015"
