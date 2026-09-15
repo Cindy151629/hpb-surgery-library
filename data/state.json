@@ -1302,27 +1302,10 @@
     "2026-09-14T162947-901505+0000",
     "2026-09-15T105125-293880+0000"
   ],
-  "last_attempt_status": "partial",
-  "last_errors": [
-    {
-      "source": "AI topic",
-      "reason": "部分检索或资源巡检未完成；详见AI专题状态"
-    }
-  ],
-  "last_attempt": "2026-09-15T10:51:25.293880+00:00",
-  "last_counts": {
-    "added": 86,
-    "revised": 398,
-    "existing": 6,
-    "duplicates": 2282,
-    "pending_total": 31029,
-    "canonical_revised": 0,
-    "pending_changes": 0,
-    "link_checks": 0,
-    "main_link_checks": 0,
-    "fulltext_link_checks": 0,
-    "link_unconfirmed": 0
-  },
+  "last_attempt_status": "running",
+  "last_errors": [],
+  "last_attempt": "2026-09-15T11:18:29.494909+00:00",
+  "last_counts": {},
   "last_run_id": "2026-09-15T105125-293880+0000",
   "last_partial_search": "2026-09-14T13:57:53.558697+00:00",
   "initial_link_sweep_evidence": {
