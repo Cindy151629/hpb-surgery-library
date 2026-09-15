@@ -110,3 +110,12 @@ python3 scripts/deploy_check.py --url ACTUAL_HTTPS_URL --expected-dir recovery-s
 
 
 浏览器的个人笔记不进入任何云端请求。日常浏览、搜索、筛选、播放和常规更新程序均不调用大模型。复杂科学结论由专业复核后再并入正式笔记。
+
+
+## AI手术视频专题增量补丁（2026-09-15）
+
+在原站选择“AI手术视频分析”，或通过器官目录“相关AI研究”进入。临床资源仍是默认。具体内容笔记、版本与开放状态在每条“内容依据、开放状态与逐条核验”中。新增数据独立保存于data/ai_*.json，科学笔记只由有来源的人工复核输入更新。
+
+构建仍为 `python scripts/build.py`；测试为 `python -m unittest discover -s tests` 和 `node --test tests/*.test.cjs`。运行原 `python scripts/update.py` 会同时更新临床与AI元数据。单独诊断AI可运行 `python scripts/ai_update.py`。导入使用 `python scripts/ai_import.py --package <原合并包目录> --reviews <逐条复核JSON文件...>`；未经复核的seed字段不自动发布。
+
+详见 [补丁报告](PATCH_REPORT.md)、[逐条核验](data/reports/ai-verification.json)、[合并报告](data/reports/ai-import.json)、[覆盖矩阵](data/reports/ai-coverage.json)。实际部署以ai-cloud-acceptance.json及publication-status.json为准。

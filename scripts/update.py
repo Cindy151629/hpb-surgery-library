@@ -264,6 +264,25 @@ def update(initial=False):
         write(ROOT / 'data/records.json', records)
         write(ROOT / 'data/pending_changes.json', pending)
         write(ROOT / 'data/state.json', state)
+        if (ROOT / 'data/ai_records.json').exists():
+            from ai_update import update as update_ai
+            try:
+                ai_report = update_ai(initial)
+                report['ai'] = {'run_id': ai_report['run_id'], 'status': ai_report['status'], 'counts': ai_report['counts']}
+                if ai_report['status'] != 'success':
+                    state['last_attempt_status'] = 'partial'
+                    state['last_successful_search'] = prior.get('last_successful_search')
+                    state.setdefault('last_errors', []).append({'source': 'AI topic', 'reason': '部分检索或资源巡检未完成；详见AI专题状态'})
+            except Exception as error:
+                state['last_attempt_status'] = 'partial'
+                state['last_successful_search'] = prior.get('last_successful_search')
+                state.setdefault('last_errors', []).append({'source': 'AI topic', 'reason': str(error)[:240]})
+                ai_state = read(ROOT / 'data/ai_state.json', {})
+                ai_state.update(status='failed', errors=ai_state.get('errors', []) + [{'source': 'pipeline', 'reason': str(error)[:240]}])
+                write(ROOT / 'data/ai_state.json', ai_state)
+            report['status'] = state['last_attempt_status']
+            write(ROOT / 'data/state.json', state)
+            write(ROOT / 'data/runs' / (report['run_id'] + '.json'), report)
         build()
         return report
 

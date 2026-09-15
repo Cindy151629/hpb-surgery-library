@@ -32,6 +32,7 @@ def digest(value):
 
 SITE_FILES = ('index.html', 'data.json', 'version.json', '.nojekyll')
 STATE_FILES = (
+    'data/ai_records.json', 'data/ai_aliases.json', 'data/ai_state.json', 'data/ai_candidates.json', 'data/ai_pending_changes.json', 'data/ai_asset_checks.json',
     'data/records.json', 'data/state.json', 'data/candidates.json',
     'data/pending_changes.json', 'data/video_discovery.json',
     'data/publication-status.json', 'data/runtime-status.json',

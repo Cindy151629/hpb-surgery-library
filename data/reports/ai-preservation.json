@@ -1,0 +1,12 @@
+{
+  "checked_at": "2026-09-15T10:48:33.127817+00:00",
+  "clinical_records": 368,
+  "clinical_bytes_unchanged": true,
+  "sha256": "b78829133b97e66504a1fd511452f206c2dfb9527b0dfa6b7e1ae72569543e43",
+  "manual_storage_key": "hpb-personal-v1 unchanged",
+  "first_import_added": 46,
+  "second_import_added": 0,
+  "source_rows_mapped": 61,
+  "raw_package_checksums": "all matched",
+  "backup": "local work/hpb/ai-patch-20260915/before-patch"
+}

@@ -1,0 +1,316 @@
+{
+  "run_id": "ai-2026-09-15T103958-330322+0000",
+  "started_at": "2026-09-15T10:39:58.330322+00:00",
+  "query_version": "hpb-ai-query-1",
+  "queries": [
+    {
+      "source": "Europe PMC",
+      "organ": "肝脏外科",
+      "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")",
+      "window": {
+        "start": null,
+        "end": "2026-09-15"
+      },
+      "checked_at": "2026-09-15T10:42:42.517257+00:00",
+      "complete": true,
+      "hit_count": 1471,
+      "returned": 1471,
+      "pages": [
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=%2A",
+          "checked_at": "2026-09-15T10:39:58.333464+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=%2A"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=%2A",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 87065,
+          "sha256": "5659b3b31c70481a8f39f115a3364c060403f9d99a04cb8db969dd49e1088bf4",
+          "hit_count": 1471,
+          "returned": 100,
+          "cursor": "*",
+          "next_cursor": "AoIIQMeU3Sg1NDQ1NDA2OQ=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQMeU3Sg1NDQ1NDA2OQ%3D%3D",
+          "checked_at": "2026-09-15T10:40:09.685830+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQMeU3Sg1NDQ1NDA2OQ%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQMeU3Sg1NDQ1NDA2OQ%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 88189,
+          "sha256": "16d4d4e6c09241a267a7dfc783ea7a29b26a636ccd2c2e142300af890dd2777f",
+          "hit_count": 1471,
+          "returned": 100,
+          "cursor": "AoIIQMeU3Sg1NDQ1NDA2OQ==",
+          "next_cursor": "AoIIQKBK/Cg1MzQ5MDkyMQ=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQKBK%2FCg1MzQ5MDkyMQ%3D%3D",
+          "checked_at": "2026-09-15T10:40:19.543239+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQKBK%2FCg1MzQ5MDkyMQ%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQKBK%2FCg1MzQ5MDkyMQ%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 90099,
+          "sha256": "e7e03d856773379220d31dc3e5d446269244de042a6fcaf3ae551be22b4685cb",
+          "hit_count": 1471,
+          "returned": 100,
+          "cursor": "AoIIQKBK/Cg1MzQ5MDkyMQ==",
+          "next_cursor": "AoIIQIeYmCg1MzY1MTc1Mw=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQIeYmCg1MzY1MTc1Mw%3D%3D",
+          "checked_at": "2026-09-15T10:40:31.842907+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQIeYmCg1MzY1MTc1Mw%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQIeYmCg1MzY1MTc1Mw%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 88937,
+          "sha256": "498ea2a3b7c32f4a83ae1fc6d6634332d68be1509b452b0c8a11ed40ff05ea30",
+          "hit_count": 1471,
+          "returned": 100,
+          "cursor": "AoIIQIeYmCg1MzY1MTc1Mw==",
+          "next_cursor": "AoIIQGJHHCg1MTMzNjYzNQ=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQGJHHCg1MTMzNjYzNQ%3D%3D",
+          "checked_at": "2026-09-15T10:40:42.076344+00:00",
+          "attempts": [
+            {
+              "error": "ReadTimeout: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=20)"
+            },
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQGJHHCg1MTMzNjYzNQ%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQGJHHCg1MTMzNjYzNQ%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 89843,
+          "sha256": "34dfe0323da09712b32ecc175ae766a72557634aa483542aed30fe527259a68a",
+          "hit_count": 1471,
+          "returned": 100,
+          "cursor": "AoIIQGJHHCg1MTMzNjYzNQ==",
+          "next_cursor": "AoIIQERRSSg1MDY4OTU0Nw=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQERRSSg1MDY4OTU0Nw%3D%3D",
+          "checked_at": "2026-09-15T10:41:11.012047+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQERRSSg1MDY4OTU0Nw%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQERRSSg1MDY4OTU0Nw%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 90069,
+          "sha256": "035a5e45de147901cb3fdf38c391aa37f10ab58cb6e574b510e55e8016398e65",
+          "hit_count": 1471,
+          "returned": 100,
+          "cursor": "AoIIQERRSSg1MDY4OTU0Nw==",
+          "next_cursor": "AoIIQC3uASg0Nzg2MzQ1Nw=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQC3uASg0Nzg2MzQ1Nw%3D%3D",
+          "checked_at": "2026-09-15T10:41:20.398844+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQC3uASg0Nzg2MzQ1Nw%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQC3uASg0Nzg2MzQ1Nw%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 88370,
+          "sha256": "f34c02c9a24b40e570d8fcbcd16fc93fec115379600eb6aa80f6eff6d6fd0327",
+          "hit_count": 1471,
+          "returned": 100,
+          "cursor": "AoIIQC3uASg0Nzg2MzQ1Nw==",
+          "next_cursor": "AoIIQB0swyg1NDc1NTUwNw=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQB0swyg1NDc1NTUwNw%3D%3D",
+          "checked_at": "2026-09-15T10:41:27.605295+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQB0swyg1NDc1NTUwNw%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQB0swyg1NDc1NTUwNw%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 89591,
+          "sha256": "f7834b21dd766106780edef4cf51e18fa1ffb73828d4674c607686e14af56b12",
+          "hit_count": 1471,
+          "returned": 100,
+          "cursor": "AoIIQB0swyg1NDc1NTUwNw==",
+          "next_cursor": "AoIIQAuPiCg0OTE4OTM3MQ=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQAuPiCg0OTE4OTM3MQ%3D%3D",
+          "checked_at": "2026-09-15T10:41:34.956373+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQAuPiCg0OTE4OTM3MQ%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQAuPiCg0OTE4OTM3MQ%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 89719,
+          "sha256": "17b540e43ace8a3a4d55333a0a3660ba7dbc074b8eefd76ab8ed8ca40566b9fa",
+          "hit_count": 1471,
+          "returned": 100,
+          "cursor": "AoIIQAuPiCg0OTE4OTM3MQ==",
+          "next_cursor": "AoIIP+92QCg0MTcwOTY3OA=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP%2B92QCg0MTcwOTY3OA%3D%3D",
+          "checked_at": "2026-09-15T10:41:45.686262+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP%2B92QCg0MTcwOTY3OA%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP%2B92QCg0MTcwOTY3OA%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 94469,
+          "sha256": "09eb0c390f673009b3eecd46681403d0026e74d7e1b29023c2bc125b941c0633",
+          "hit_count": 1471,
+          "returned": 100,
+          "cursor": "AoIIP+92QCg0MTcwOTY3OA==",
+          "next_cursor": "AoIIP8kXaCg1NTA5NjUxMw=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP8kXaCg1NTA5NjUxMw%3D%3D",
+          "checked_at": "2026-09-15T10:41:52.141637+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP8kXaCg1NTA5NjUxMw%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP8kXaCg1NTA5NjUxMw%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 89295,
+          "sha256": "4d5ad010d95cd781fcf6cc1e5eda88257f16de890886ff24fb01b8433c8831cd",
+          "hit_count": 1471,
+          "returned": 100,
+          "cursor": "AoIIP8kXaCg1NTA5NjUxMw==",
+          "next_cursor": "AoIIP6QFdCg1NTg5MjQ3OQ=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP6QFdCg1NTg5MjQ3OQ%3D%3D",
+          "checked_at": "2026-09-15T10:41:58.743515+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP6QFdCg1NTg5MjQ3OQ%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP6QFdCg1NTg5MjQ3OQ%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 100601,
+          "sha256": "aaea5f972b28be302a37a68e050b740d0714d52eb886ef56231a804d744c4c61",
+          "hit_count": 1471,
+          "returned": 100,
+          "cursor": "AoIIP6QFdCg1NTg5MjQ3OQ==",
+          "next_cursor": "AoIIP4Ba6ig0Njc3OTg5OQ=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP4Ba6ig0Njc3OTg5OQ%3D%3D",
+          "checked_at": "2026-09-15T10:42:08.931477+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP4Ba6ig0Njc3OTg5OQ%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP4Ba6ig0Njc3OTg5OQ%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 92823,
+          "sha256": "ce376f5a321fab45418129f76ae21fc892a072de423ee854a1068a5ec55f4945",
+          "hit_count": 1471,
+          "returned": 100,
+          "cursor": "AoIIP4Ba6ig0Njc3OTg5OQ==",
+          "next_cursor": "AoIIPy6Bfig0MTU2MzIzNA=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIPy6Bfig0MTU2MzIzNA%3D%3D",
+          "checked_at": "2026-09-15T10:42:18.580256+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIPy6Bfig0MTU2MzIzNA%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIPy6Bfig0MTU2MzIzNA%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 77976,
+          "sha256": "7a319b29c42d850cf7d98b454555ed3802b2c960d375dd7f93b494d62a7bfe03",
+          "hit_count": 1471,
+          "returned": 100,
+          "cursor": "AoIIPy6Bfig0MTU2MzIzNA==",
+          "next_cursor": "AoIIPlsShSgzOTU3MjExMA=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIPlsShSgzOTU3MjExMA%3D%3D",
+          "checked_at": "2026-09-15T10:42:28.846840+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIPlsShSgzOTU3MjExMA%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIPlsShSgzOTU3MjExMA%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 104623,
+          "sha256": "b9067e89a91cea38ac045c1a48c6b26050903bccdf024a55bb84702d5e95a94b",
+          "hit_count": 1471,
+          "returned": 71,
+          "cursor": "AoIIPlsShSgzOTU3MjExMA==",
+          "next_cursor": "AoIIO8qymygzMjY1MjU0Mw=="
+        }
+      ],
+      "added": 1454,
+      "revised": 3
+    }
+  ],
+  "source_checks": [],
+  "status": "interrupted_query_refinement",
+  "completed_at": "2026-09-15T10:44:51.196251+00:00",
+  "reason": "宽检索带入非视频研究；保留已取得候选及分页证据，使用明确视频/腹腔镜/机器人限定重新历史检索"
+}

@@ -1,0 +1,854 @@
+{
+  "runs": [
+    {
+      "attempted_at": "2026-09-15T10:38:36.181239+00:00",
+      "added": [
+        "HPBAI-001",
+        "HPBAI-002",
+        "HPBAI-003",
+        "HPBAI-004",
+        "HPBAI-005",
+        "HPBAI-006",
+        "HPBAI-007",
+        "HPBAI-008",
+        "HPBAI-009",
+        "HPBAI-010",
+        "HPBAI-011",
+        "HPBAI-012",
+        "HPBAI-013",
+        "HPBAI-014",
+        "HPBAI-015",
+        "HPBAI-016",
+        "HPBAI-017",
+        "HPBAI-018",
+        "HPBAI-019",
+        "HPBAI-020",
+        "HPBAI-021",
+        "HPBAI-022",
+        "HPBAI-023",
+        "HPBAI-024",
+        "HPBAI-025",
+        "HPBAI-026",
+        "HPBAI-027",
+        "HPBAI-028",
+        "HPBAI-029",
+        "HPBAI-030",
+        "HPBAI-031",
+        "HPBAI-032",
+        "HPBAI-033",
+        "HPBAI-034",
+        "HPBAI-035",
+        "HPBAI-036",
+        "HPBAI-037",
+        "HPBAI-038",
+        "HPBAI-039",
+        "HPBAI-040",
+        "HPBAI-041",
+        "HPBAI-042",
+        "HPBAI-043",
+        "HPBAI-044",
+        "HPBAI-045",
+        "HPBAI-PENDING-001"
+      ],
+      "updated": [],
+      "unchanged": [],
+      "conflicts": [],
+      "source_mappings": [
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-001",
+          "canonical_id": "HPBAI-001",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-002",
+          "canonical_id": "HPBAI-002",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-003",
+          "canonical_id": "HPBAI-003",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-004",
+          "canonical_id": "HPBAI-004",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-005",
+          "canonical_id": "HPBAI-005",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-006",
+          "canonical_id": "HPBAI-006",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-007",
+          "canonical_id": "HPBAI-007",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-008",
+          "canonical_id": "HPBAI-008",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-009",
+          "canonical_id": "HPBAI-009",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-010",
+          "canonical_id": "HPBAI-010",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-011",
+          "canonical_id": "HPBAI-011",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-012",
+          "canonical_id": "HPBAI-012",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-013",
+          "canonical_id": "HPBAI-013",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-014",
+          "canonical_id": "HPBAI-014",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-015",
+          "canonical_id": "HPBAI-015",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-016",
+          "canonical_id": "HPBAI-016",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-017",
+          "canonical_id": "HPBAI-017",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-018",
+          "canonical_id": "HPBAI-018",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-019",
+          "canonical_id": "HPBAI-019",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-020",
+          "canonical_id": "HPBAI-020",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-021",
+          "canonical_id": "HPBAI-021",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-022",
+          "canonical_id": "HPBAI-022",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-023",
+          "canonical_id": "HPBAI-023",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-024",
+          "canonical_id": "HPBAI-024",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-025",
+          "canonical_id": "HPBAI-025",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-026",
+          "canonical_id": "HPBAI-026",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-027",
+          "canonical_id": "HPBAI-027",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-028",
+          "canonical_id": "HPBAI-028",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R01",
+          "canonical_id": "HPBAI-003",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R02",
+          "canonical_id": "HPBAI-002",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R03",
+          "canonical_id": "HPBAI-006",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R04",
+          "canonical_id": "HPBAI-029",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R05",
+          "canonical_id": "HPBAI-030",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R06",
+          "canonical_id": "HPBAI-031",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R07",
+          "canonical_id": "HPBAI-032",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R08",
+          "canonical_id": "HPBAI-033",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R09",
+          "canonical_id": "HPBAI-011",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R10",
+          "canonical_id": "HPBAI-012",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R11",
+          "canonical_id": "HPBAI-013",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R12",
+          "canonical_id": "HPBAI-014",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R13",
+          "canonical_id": "HPBAI-017",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R14",
+          "canonical_id": "HPBAI-034",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R15",
+          "canonical_id": "HPBAI-035",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R16",
+          "canonical_id": "HPBAI-036",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R17",
+          "canonical_id": "HPBAI-037",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R18",
+          "canonical_id": "HPBAI-008",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R19",
+          "canonical_id": "HPBAI-038",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R20",
+          "canonical_id": "HPBAI-039",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R21",
+          "canonical_id": "HPBAI-010",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D01",
+          "canonical_id": "HPBAI-020",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D02",
+          "canonical_id": "HPBAI-021",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D03",
+          "canonical_id": "HPBAI-022",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D04",
+          "canonical_id": "HPBAI-024",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D05",
+          "canonical_id": "HPBAI-025",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D06",
+          "canonical_id": "HPBAI-040",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D07",
+          "canonical_id": "HPBAI-041",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D08",
+          "canonical_id": "HPBAI-026",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "V01",
+          "canonical_id": "HPBAI-042",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "V02",
+          "canonical_id": "HPBAI-043",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "V03",
+          "canonical_id": "HPBAI-044",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "V04",
+          "canonical_id": "HPBAI-045",
+          "action": "append_distinct_resource"
+        }
+      ],
+      "canonical_count": 46,
+      "source_rows": 61,
+      "all_source_rows_resolved": true
+    },
+    {
+      "attempted_at": "2026-09-15T10:43:29.453826+00:00",
+      "added": [],
+      "updated": [],
+      "unchanged": [
+        "HPBAI-001",
+        "HPBAI-002",
+        "HPBAI-003",
+        "HPBAI-004",
+        "HPBAI-005",
+        "HPBAI-006",
+        "HPBAI-007",
+        "HPBAI-008",
+        "HPBAI-009",
+        "HPBAI-010",
+        "HPBAI-011",
+        "HPBAI-012",
+        "HPBAI-013",
+        "HPBAI-014",
+        "HPBAI-015",
+        "HPBAI-016",
+        "HPBAI-017",
+        "HPBAI-018",
+        "HPBAI-019",
+        "HPBAI-020",
+        "HPBAI-021",
+        "HPBAI-022",
+        "HPBAI-023",
+        "HPBAI-024",
+        "HPBAI-025",
+        "HPBAI-026",
+        "HPBAI-027",
+        "HPBAI-028",
+        "HPBAI-029",
+        "HPBAI-030",
+        "HPBAI-031",
+        "HPBAI-032",
+        "HPBAI-033",
+        "HPBAI-034",
+        "HPBAI-035",
+        "HPBAI-036",
+        "HPBAI-037",
+        "HPBAI-038",
+        "HPBAI-039",
+        "HPBAI-040",
+        "HPBAI-041",
+        "HPBAI-042",
+        "HPBAI-043",
+        "HPBAI-044",
+        "HPBAI-045",
+        "HPBAI-PENDING-001"
+      ],
+      "conflicts": [],
+      "source_mappings": [
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-001",
+          "canonical_id": "HPBAI-001",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-002",
+          "canonical_id": "HPBAI-002",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-003",
+          "canonical_id": "HPBAI-003",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-004",
+          "canonical_id": "HPBAI-004",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-005",
+          "canonical_id": "HPBAI-005",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-006",
+          "canonical_id": "HPBAI-006",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-007",
+          "canonical_id": "HPBAI-007",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-008",
+          "canonical_id": "HPBAI-008",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-009",
+          "canonical_id": "HPBAI-009",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-010",
+          "canonical_id": "HPBAI-010",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-011",
+          "canonical_id": "HPBAI-011",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-012",
+          "canonical_id": "HPBAI-012",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-013",
+          "canonical_id": "HPBAI-013",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-014",
+          "canonical_id": "HPBAI-014",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-015",
+          "canonical_id": "HPBAI-015",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-016",
+          "canonical_id": "HPBAI-016",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-017",
+          "canonical_id": "HPBAI-017",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-018",
+          "canonical_id": "HPBAI-018",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-019",
+          "canonical_id": "HPBAI-019",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-020",
+          "canonical_id": "HPBAI-020",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-021",
+          "canonical_id": "HPBAI-021",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-022",
+          "canonical_id": "HPBAI-022",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-023",
+          "canonical_id": "HPBAI-023",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-024",
+          "canonical_id": "HPBAI-024",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-025",
+          "canonical_id": "HPBAI-025",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-026",
+          "canonical_id": "HPBAI-026",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-027",
+          "canonical_id": "HPBAI-027",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "B",
+          "legacy_id": "HPBAI-028",
+          "canonical_id": "HPBAI-028",
+          "action": "preserve"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R01",
+          "canonical_id": "HPBAI-003",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R02",
+          "canonical_id": "HPBAI-002",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R03",
+          "canonical_id": "HPBAI-006",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R04",
+          "canonical_id": "HPBAI-029",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R05",
+          "canonical_id": "HPBAI-030",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R06",
+          "canonical_id": "HPBAI-031",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R07",
+          "canonical_id": "HPBAI-032",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R08",
+          "canonical_id": "HPBAI-033",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R09",
+          "canonical_id": "HPBAI-011",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R10",
+          "canonical_id": "HPBAI-012",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R11",
+          "canonical_id": "HPBAI-013",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R12",
+          "canonical_id": "HPBAI-014",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R13",
+          "canonical_id": "HPBAI-017",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R14",
+          "canonical_id": "HPBAI-034",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R15",
+          "canonical_id": "HPBAI-035",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R16",
+          "canonical_id": "HPBAI-036",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R17",
+          "canonical_id": "HPBAI-037",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R18",
+          "canonical_id": "HPBAI-008",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R19",
+          "canonical_id": "HPBAI-038",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R20",
+          "canonical_id": "HPBAI-039",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "R21",
+          "canonical_id": "HPBAI-010",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D01",
+          "canonical_id": "HPBAI-020",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D02",
+          "canonical_id": "HPBAI-021",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D03",
+          "canonical_id": "HPBAI-022",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D04",
+          "canonical_id": "HPBAI-024",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D05",
+          "canonical_id": "HPBAI-025",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D06",
+          "canonical_id": "HPBAI-040",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D07",
+          "canonical_id": "HPBAI-041",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "D08",
+          "canonical_id": "HPBAI-026",
+          "action": "merge_same_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "V01",
+          "canonical_id": "HPBAI-042",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "V02",
+          "canonical_id": "HPBAI-043",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "V03",
+          "canonical_id": "HPBAI-044",
+          "action": "append_distinct_resource"
+        },
+        {
+          "source_batch": "A",
+          "legacy_id": "V04",
+          "canonical_id": "HPBAI-045",
+          "action": "append_distinct_resource"
+        }
+      ],
+      "canonical_count": 46,
+      "source_rows": 61,
+      "all_source_rows_resolved": true
+    }
+  ]
+}

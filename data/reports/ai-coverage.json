@@ -1,0 +1,1013 @@
+[
+  {
+    "organ": "肝脏外科",
+    "task": "空间像素分割",
+    "model": "视觉/视频基础模型",
+    "count": 5,
+    "ids": [
+      "HPBAI-005",
+      "HPBAI-018",
+      "HPBAI-029",
+      "HPBAI-030",
+      "HPBAI-031"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "空间像素分割",
+    "model": "视觉语言预训练",
+    "count": 1,
+    "ids": [
+      "HPBAI-018"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "空间像素分割",
+    "model": "多模态大语言模型",
+    "count": 0,
+    "ids": [],
+    "status": "已检索；尚无纳入且核实资源",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "空间像素分割",
+    "model": "常规深度学习/其他",
+    "count": 3,
+    "ids": [
+      "HPBAI-030",
+      "HPBAI-035",
+      "HPBAI-039"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "目标跟踪",
+    "model": "视觉/视频基础模型",
+    "count": 1,
+    "ids": [
+      "HPBAI-005"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "目标跟踪",
+    "model": "视觉语言预训练",
+    "count": 0,
+    "ids": [],
+    "status": "已检索；尚无纳入且核实资源",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "目标跟踪",
+    "model": "多模态大语言模型",
+    "count": 0,
+    "ids": [],
+    "status": "已检索；尚无纳入且核实资源",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "目标跟踪",
+    "model": "常规深度学习/其他",
+    "count": 0,
+    "ids": [],
+    "status": "已检索；尚无纳入且核实资源",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "时间阶段/步骤识别",
+    "model": "视觉/视频基础模型",
+    "count": 1,
+    "ids": [
+      "HPBAI-018"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "时间阶段/步骤识别",
+    "model": "视觉语言预训练",
+    "count": 1,
+    "ids": [
+      "HPBAI-018"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "时间阶段/步骤识别",
+    "model": "多模态大语言模型",
+    "count": 0,
+    "ids": [],
+    "status": "已检索；尚无纳入且核实资源",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "时间阶段/步骤识别",
+    "model": "常规深度学习/其他",
+    "count": 1,
+    "ids": [
+      "HPBAI-019"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "动作三元组",
+    "model": "视觉/视频基础模型",
+    "count": 1,
+    "ids": [
+      "HPBAI-018"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "动作三元组",
+    "model": "视觉语言预训练",
+    "count": 1,
+    "ids": [
+      "HPBAI-018"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "动作三元组",
+    "model": "多模态大语言模型",
+    "count": 0,
+    "ids": [],
+    "status": "已检索；尚无纳入且核实资源",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "动作三元组",
+    "model": "常规深度学习/其他",
+    "count": 0,
+    "ids": [],
+    "status": "已检索；尚无纳入且核实资源",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "视频问答/语言理解",
+    "model": "视觉/视频基础模型",
+    "count": 1,
+    "ids": [
+      "HPBAI-018"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "视频问答/语言理解",
+    "model": "视觉语言预训练",
+    "count": 1,
+    "ids": [
+      "HPBAI-018"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "视频问答/语言理解",
+    "model": "多模态大语言模型",
+    "count": 0,
+    "ids": [],
+    "status": "已检索；尚无纳入且核实资源",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "肝脏外科",
+    "task": "视频问答/语言理解",
+    "model": "常规深度学习/其他",
+    "count": 0,
+    "ids": [],
+    "status": "已检索；尚无纳入且核实资源",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:45:52.308160+00:00",
+        "complete": true,
+        "returned": 553,
+        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "空间像素分割",
+    "model": "视觉/视频基础模型",
+    "count": 8,
+    "ids": [
+      "HPBAI-002",
+      "HPBAI-003",
+      "HPBAI-006",
+      "HPBAI-011",
+      "HPBAI-018",
+      "HPBAI-027",
+      "HPBAI-032",
+      "HPBAI-033"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "空间像素分割",
+    "model": "视觉语言预训练",
+    "count": 4,
+    "ids": [
+      "HPBAI-006",
+      "HPBAI-018",
+      "HPBAI-027",
+      "HPBAI-032"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "空间像素分割",
+    "model": "多模态大语言模型",
+    "count": 1,
+    "ids": [
+      "HPBAI-001"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "空间像素分割",
+    "model": "常规深度学习/其他",
+    "count": 1,
+    "ids": [
+      "HPBAI-001"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "目标跟踪",
+    "model": "视觉/视频基础模型",
+    "count": 5,
+    "ids": [
+      "HPBAI-002",
+      "HPBAI-003",
+      "HPBAI-006",
+      "HPBAI-011",
+      "HPBAI-027"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "目标跟踪",
+    "model": "视觉语言预训练",
+    "count": 2,
+    "ids": [
+      "HPBAI-006",
+      "HPBAI-027"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "目标跟踪",
+    "model": "多模态大语言模型",
+    "count": 0,
+    "ids": [],
+    "status": "已检索；尚无纳入且核实资源",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "目标跟踪",
+    "model": "常规深度学习/其他",
+    "count": 0,
+    "ids": [],
+    "status": "已检索；尚无纳入且核实资源",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "时间阶段/步骤识别",
+    "model": "视觉/视频基础模型",
+    "count": 2,
+    "ids": [
+      "HPBAI-017",
+      "HPBAI-018"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "时间阶段/步骤识别",
+    "model": "视觉语言预训练",
+    "count": 2,
+    "ids": [
+      "HPBAI-012",
+      "HPBAI-018"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "时间阶段/步骤识别",
+    "model": "多模态大语言模型",
+    "count": 2,
+    "ids": [
+      "HPBAI-014",
+      "HPBAI-034"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "时间阶段/步骤识别",
+    "model": "常规深度学习/其他",
+    "count": 1,
+    "ids": [
+      "HPBAI-019"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "动作三元组",
+    "model": "视觉/视频基础模型",
+    "count": 2,
+    "ids": [
+      "HPBAI-017",
+      "HPBAI-018"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "动作三元组",
+    "model": "视觉语言预训练",
+    "count": 1,
+    "ids": [
+      "HPBAI-018"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "动作三元组",
+    "model": "多模态大语言模型",
+    "count": 1,
+    "ids": [
+      "HPBAI-034"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "动作三元组",
+    "model": "常规深度学习/其他",
+    "count": 0,
+    "ids": [],
+    "status": "已检索；尚无纳入且核实资源",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "视频问答/语言理解",
+    "model": "视觉/视频基础模型",
+    "count": 1,
+    "ids": [
+      "HPBAI-018"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "视频问答/语言理解",
+    "model": "视觉语言预训练",
+    "count": 1,
+    "ids": [
+      "HPBAI-018"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "视频问答/语言理解",
+    "model": "多模态大语言模型",
+    "count": 3,
+    "ids": [
+      "HPBAI-001",
+      "HPBAI-016",
+      "HPBAI-034"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胆囊与胆道外科",
+    "task": "视频问答/语言理解",
+    "model": "常规深度学习/其他",
+    "count": 1,
+    "ids": [
+      "HPBAI-001"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": [
+      {
+        "source": "Europe PMC",
+        "checked_at": "2026-09-15T10:47:59.548013+00:00",
+        "complete": true,
+        "returned": 1487,
+        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+      }
+    ]
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "空间像素分割",
+    "model": "视觉/视频基础模型",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "空间像素分割",
+    "model": "视觉语言预训练",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "空间像素分割",
+    "model": "多模态大语言模型",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "空间像素分割",
+    "model": "常规深度学习/其他",
+    "count": 2,
+    "ids": [
+      "HPBAI-007",
+      "HPBAI-036"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "目标跟踪",
+    "model": "视觉/视频基础模型",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "目标跟踪",
+    "model": "视觉语言预训练",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "目标跟踪",
+    "model": "多模态大语言模型",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "目标跟踪",
+    "model": "常规深度学习/其他",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "时间阶段/步骤识别",
+    "model": "视觉/视频基础模型",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "时间阶段/步骤识别",
+    "model": "视觉语言预训练",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "时间阶段/步骤识别",
+    "model": "多模态大语言模型",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "时间阶段/步骤识别",
+    "model": "常规深度学习/其他",
+    "count": 2,
+    "ids": [
+      "HPBAI-036",
+      "HPBAI-037"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "动作三元组",
+    "model": "视觉/视频基础模型",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "动作三元组",
+    "model": "视觉语言预训练",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "动作三元组",
+    "model": "多模态大语言模型",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "动作三元组",
+    "model": "常规深度学习/其他",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "视频问答/语言理解",
+    "model": "视觉/视频基础模型",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "视频问答/语言理解",
+    "model": "视觉语言预训练",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "视频问答/语言理解",
+    "model": "多模态大语言模型",
+    "count": 1,
+    "ids": [
+      "HPBAI-015"
+    ],
+    "status": "已有身份核实资源；证据范围见各条",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  },
+  {
+    "organ": "胰腺外科",
+    "task": "视频问答/语言理解",
+    "model": "常规深度学习/其他",
+    "count": 0,
+    "ids": [],
+    "status": "尚未检索",
+    "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
+    "queries": []
+  }
+]

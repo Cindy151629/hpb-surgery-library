@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-09-15T10:46:12.333960+00:00",
+  "actual_browser": "Codex in-app browser",
+  "http_default_clinical": "passed:368clinical records,287article/society entries shown",
+  "topic_switch": "passed",
+  "alias_search": "SAM2S returns SurgSLOT paper and demo",
+  "combined_filter": "publication narrows to one paper",
+  "detailed_notes": "expanded source/method/limitations/version evidence",
+  "viewport390": "document scrollWidth=clientWidth=390",
+  "console_errors": [],
+  "file_scheme": "blocked by Browser URL safety policy; not passed; no bypass attempted",
+  "online_after_deployment": "pending",
+  "favorites": "passed:toggle, reload retained, test state restored",
+  "old_namespaced_anchor": "AI-A-R01 navigated to canonical record; browser no console errors"
+}

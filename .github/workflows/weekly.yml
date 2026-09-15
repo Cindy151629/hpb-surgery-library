@@ -55,7 +55,7 @@ jobs:
         timeout-minutes: 5
         run: |
           python -m unittest discover -s tests -v
-          node --test tests/core.test.cjs
+          node --test tests/*.test.cjs
       - uses: actions/configure-pages@v5
         id: pages_config
       - uses: actions/upload-pages-artifact@v3
@@ -116,6 +116,12 @@ jobs:
         with:
           name: hpb-execution-${{ github.run_id }}
           path: |
+            data/ai_records.json
+            data/ai_aliases.json
+            data/ai_state.json
+            data/ai_candidates.json
+            data/ai_pending_changes.json
+            data/ai_asset_checks.json
             data/records.json
             data/state.json
             data/candidates.json

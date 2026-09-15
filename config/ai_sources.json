@@ -1,0 +1,139 @@
+{
+  "collection_id": "hpb-ai-video",
+  "status": "implemented_configuration; actual executions in ai_state and ai run reports",
+  "schedule": "reuse_existing_weekly_job",
+  "fallback_schedule_if_absent": {
+    "timezone": "Asia/Shanghai",
+    "weekday": "Monday",
+    "local_time": "09:17",
+    "utc_cron": "17 1 * * 1"
+  },
+  "sources_to_implement_or_reuse": [
+    "PubMed/Europe PMC",
+    "arXiv official API",
+    "Crossref",
+    "MICCAI official proceedings",
+    "CVF Open Access",
+    "publisher official pages",
+    "author-linked GitHub repositories",
+    "author-linked Hugging Face pages",
+    "university official repositories"
+  ],
+  "concept_groups": {
+    "hpb_procedures": [
+      "cholecystectomy",
+      "hepatobiliary",
+      "hepatectomy",
+      "liver resection",
+      "liver surgery",
+      "pancreatic surgery",
+      "pancreatectomy",
+      "pancreatoduodenectomy",
+      "pancreaticoduodenectomy",
+      "pancreaticojejunostomy",
+      "Whipple",
+      "distal pancreatectomy",
+      "bile duct",
+      "胆囊切除",
+      "肝切除",
+      "胰十二指肠切除",
+      "胰肠吻合"
+    ],
+    "video_tasks": [
+      "surgical video",
+      "surgical image",
+      "laparoscopic video",
+      "robotic surgery",
+      "video segmentation",
+      "semantic segmentation",
+      "instance segmentation",
+      "video object segmentation",
+      "tracking",
+      "anatomy recognition",
+      "phase recognition",
+      "temporal segmentation",
+      "step recognition",
+      "referring segmentation",
+      "grounding",
+      "video question answering",
+      "手术视频分割",
+      "阶段识别"
+    ],
+    "model_families": [
+      "foundation model",
+      "segment anything",
+      "SAM2",
+      "SAM 2",
+      "SAM3",
+      "SAM 3",
+      "vision-language",
+      "video-language",
+      "large language model",
+      "multimodal large language model",
+      "VLM",
+      "MLLM",
+      "prompt learning",
+      "大模型",
+      "基础模型"
+    ]
+  },
+  "query_families": [
+    {
+      "id": "direct_hpb_video_task",
+      "logic": "hpb_procedures AND video_tasks",
+      "reason": "不能硬性要求LLM词；保留常规深度学习临床任务对照。"
+    },
+    {
+      "id": "foundation_surgical_video",
+      "logic": "surgical context AND video_tasks AND model_families",
+      "reason": "收集通用方法候选，必须人工/来源核实HPB验证范围后才标直接相关。"
+    },
+    {
+      "id": "known_resource_updates",
+      "logic": "canonical titles + model aliases + exact identifiers + author-linked asset pages",
+      "reason": "追踪更名、正式发表、勘误、权重和数据发布；不得把每次commit算新论文。"
+    }
+  ],
+  "rules": [
+    "各来源分别生成符合官方语法的检索式，不能共享一条伪通用API查询。",
+    "记录全部分页与各source/query成功水位；失败不推进。",
+    "首次历史补查，之后按更新/入库时间加至少14天重叠窗口；窗口为可调默认值，不保证零漏检。",
+    "月度补漏和到期链接巡检；新规则补查此前未覆盖范围。",
+    "不一律用NOT CT/MRI排除可能包含术中视频的混合导航研究；按实际输入与任务审核。",
+    "不按开放全文过滤文献；访问受限不等于文章不存在。",
+    "无法自动检索的来源标人工补查，不虚构已全自动覆盖。",
+    "默认无模型API，无视频转写、帧分析或权重下载。"
+  ],
+  "coverage_axes": [
+    "procedure",
+    "task",
+    "model_family",
+    "source",
+    "verification_state"
+  ],
+  "documentation": [
+    "https://info.arxiv.org/help/api/user-manual.html",
+    "https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows",
+    "https://learn.chatgpt.com/guides/best-practices"
+  ],
+  "query_version": "hpb-ai-query-2",
+  "overlap_days": 21,
+  "monthly_lookback_days": 90,
+  "page_size": 100,
+  "max_pages": 30,
+  "source_timeout_seconds": 20,
+  "asset_max_bytes": 1500000,
+  "arxiv_interval_seconds": 3,
+  "manual_sources": [
+    "MICCAI官方论文目录的广泛发现检索",
+    "CVF Open Access广泛发现检索",
+    "未收录作者/大学目录的历史全站检索"
+  ],
+  "auto_sources": {
+    "Europe PMC": "历史与按入库/更新日期检索",
+    "PubMed": "历史与按入库/更新日期检索",
+    "arXiv": "历史与按lastUpdatedDate检索、已知标识追踪",
+    "Crossref": "已确认DOI的题录、正式版和更正关系巡查",
+    "author_assets": "已确认作者仓库/模型卡/数据/项目页面定期巡查；不把commit算论文"
+  }
+}

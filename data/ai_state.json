@@ -1,0 +1,38 @@
+{
+  "last_attempt": "2026-09-15T10:44:51.355861+00:00",
+  "status": "partial",
+  "errors": [
+    {
+      "source": "本地到云端交接",
+      "reason": "未完成来源保留待续查询窗口；下一次云端运行继续。"
+    }
+  ],
+  "source_progress": {
+    "Europe PMC:肝脏外科": {
+      "version": "hpb-ai-query-2",
+      "last_attempt": "2026-09-15T10:44:51.355861+00:00",
+      "last_success": "2026-09-15T23:59:59+00:00",
+      "completed_window": {
+        "start": null,
+        "end": "2026-09-15"
+      }
+    },
+    "Europe PMC:胆囊与胆道外科": {
+      "version": "hpb-ai-query-2",
+      "last_attempt": "2026-09-15T10:44:51.355861+00:00",
+      "last_success": "2026-09-15T23:59:59+00:00",
+      "completed_window": {
+        "start": null,
+        "end": "2026-09-15"
+      }
+    },
+    "Europe PMC:胰腺外科": {
+      "version": "hpb-ai-query-2",
+      "pending": {
+        "start": null,
+        "end": "2026-09-15"
+      },
+      "last_attempt": "2026-09-15T10:44:51.355861+00:00"
+    }
+  }
+}

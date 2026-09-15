@@ -1,0 +1,67 @@
+{
+  "HPBAI-031:metadata:Europe PMC": {
+    "id": "HPBAI-031",
+    "source": "Europe PMC",
+    "detected_at": "2026-09-15T10:44:51.355861+00:00",
+    "changes": {
+      "pmid": {
+        "before": null,
+        "after": "42090056"
+      }
+    },
+    "status": "题录/版本变化待复核；人工笔记未覆盖",
+    "url": "https://europepmc.org/article/MED/42090056"
+  },
+  "HPBAI-005:metadata:Europe PMC": {
+    "id": "HPBAI-005",
+    "source": "Europe PMC",
+    "detected_at": "2026-09-15T10:44:51.355861+00:00",
+    "changes": {
+      "pmid": {
+        "before": null,
+        "after": "40366617"
+      }
+    },
+    "status": "题录/版本变化待复核；人工笔记未覆盖",
+    "url": "https://europepmc.org/article/MED/40366617"
+  },
+  "HPBAI-017:metadata:Europe PMC": {
+    "id": "HPBAI-017",
+    "source": "Europe PMC",
+    "detected_at": "2026-09-15T10:44:51.355861+00:00",
+    "changes": {
+      "pmid": {
+        "before": null,
+        "after": "41639385"
+      }
+    },
+    "status": "题录/版本变化待复核；人工笔记未覆盖",
+    "url": "https://europepmc.org/article/MED/41639385"
+  },
+  "HPBAI-002:metadata:Europe PMC": {
+    "id": "HPBAI-002",
+    "source": "Europe PMC",
+    "detected_at": "2026-09-15T10:44:51.355861+00:00",
+    "changes": {
+      "pmid": {
+        "before": null,
+        "after": "41093871"
+      }
+    },
+    "status": "题录/版本变化待复核；人工笔记未覆盖",
+    "url": "https://europepmc.org/article/MED/41093871"
+  },
+  "HPBAI-003:metadata:Europe PMC": {
+    "id": "HPBAI-003",
+    "source": "Europe PMC",
+    "detected_at": "2026-09-15T10:44:51.355861+00:00",
+    "changes": {
+      "pmid": {
+        "before": null,
+        "after": "40392391"
+      }
+    },
+    "status": "题录/版本变化待复核；人工笔记未覆盖",
+    "url": "https://europepmc.org/article/MED/40392391"
+  }
+}

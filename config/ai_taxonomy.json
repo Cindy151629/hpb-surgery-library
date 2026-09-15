@@ -1,0 +1,116 @@
+{
+  "collection_id": "hpb-ai-video",
+  "title": "AI手术视频分析：基础模型、分割、跟踪与流程理解",
+  "sections": [
+    {
+      "id": "spatial",
+      "label": "解剖与器械的空间分割、连续跟踪",
+      "topics": [
+        "spatial_segmentation"
+      ]
+    },
+    {
+      "id": "vascular",
+      "label": "肝胆胰手术血管分割",
+      "topics": [
+        "vascular_segmentation_tracking"
+      ]
+    },
+    {
+      "id": "language",
+      "label": "语言引导分割与多模态视频理解",
+      "topics": [
+        "language_guided_segmentation",
+        "video_language_understanding"
+      ]
+    },
+    {
+      "id": "workflow",
+      "label": "阶段、步骤、动作与流程识别",
+      "topics": [
+        "temporal_phase_steps"
+      ]
+    },
+    {
+      "id": "datasets",
+      "label": "数据集、基准与评价方法",
+      "topics": [
+        "datasets_benchmarks_evaluation"
+      ]
+    },
+    {
+      "id": "clinical",
+      "label": "非基础模型的临床直接相关研究",
+      "topics": [
+        "non_foundation_clinical_references"
+      ]
+    },
+    {
+      "id": "transfer",
+      "label": "可迁移方法、项目与演示",
+      "topics": [
+        "demos_projects"
+      ]
+    },
+    {
+      "id": "updates",
+      "label": "待核线索、版本修订与最近更新",
+      "topics": []
+    }
+  ],
+  "kinds": {
+    "publication": "论文/研究",
+    "dataset": "数据集",
+    "audit_tool": "审计工具",
+    "model_card": "模型卡",
+    "project": "项目页",
+    "demo_entry": "研究演示入口",
+    "pending_lead": "待核线索",
+    "candidate": "新检索候选"
+  },
+  "alias_groups": [
+    [
+      "胆囊切除",
+      "cholecystectomy"
+    ],
+    [
+      "肝切除",
+      "hepatectomy",
+      "liver resection",
+      "liver surgery"
+    ],
+    [
+      "胰十二指肠切除",
+      "pancreatoduodenectomy",
+      "pancreaticoduodenectomy",
+      "Whipple"
+    ],
+    [
+      "胰肠吻合",
+      "pancreaticojejunostomy"
+    ],
+    [
+      "空间分割",
+      "pixel segmentation",
+      "semantic segmentation",
+      "instance segmentation"
+    ],
+    [
+      "跟踪",
+      "tracking"
+    ],
+    [
+      "阶段识别",
+      "phase recognition"
+    ],
+    [
+      "SAM2S",
+      "SurgSLOT"
+    ]
+  ],
+  "organs": [
+    "肝脏外科",
+    "胆囊与胆道外科",
+    "胰腺外科"
+  ]
+}

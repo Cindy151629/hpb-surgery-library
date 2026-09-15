@@ -2,6 +2,7 @@
 from common import *
 import shutil
 FILES=['README.md','PUBLICATION_SCOPE.md','requirements.txt','.gitignore','.github/workflows/weekly.yml','config/taxonomy.json','config/sources.json','config/deployment.json','data/records.json','data/state.json','data/candidates.json','data/additions.json','data/curated_overrides.json','data/video_discovery.json','data/publication-status.json','data/runtime-status.json','data/pending_changes.json']
+FILES += ['data/ai_records.json', 'data/ai_aliases.json', 'data/ai_state.json', 'data/ai_candidates.json', 'data/ai_pending_changes.json', 'data/ai_asset_checks.json', 'config/ai_taxonomy.json', 'config/ai_sources.json', 'PATCH_REPORT.md']
 GLOBS=['scripts/*.py','src/*','tests/*.py','tests/*.cjs','data/reports/*.json','data/reports/*.md','data/reports/*.txt','data/runs/*.json','data/checkpoints/*.json']
 def stage():
  dest=ROOT/'public-review';dest.mkdir(exist_ok=True);paths=[ROOT/f for f in FILES if (ROOT/f).is_file()]

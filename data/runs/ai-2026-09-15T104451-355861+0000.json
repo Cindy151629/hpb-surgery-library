@@ -1,0 +1,444 @@
+{
+  "run_id": "ai-2026-09-15T104451-355861+0000",
+  "started_at": "2026-09-15T10:44:51.355861+00:00",
+  "query_version": "hpb-ai-query-2",
+  "queries": [
+    {
+      "source": "Europe PMC",
+      "organ": "肝脏外科",
+      "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")",
+      "window": {
+        "start": null,
+        "end": "2026-09-15"
+      },
+      "checked_at": "2026-09-15T10:45:52.308160+00:00",
+      "complete": true,
+      "hit_count": 553,
+      "returned": 553,
+      "pages": [
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=%2A",
+          "checked_at": "2026-09-15T10:44:51.371149+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=%2A"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=%2A",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 88875,
+          "sha256": "a5b7bd3c4b3ebe44eaf9036dd26884c1ce0d9f8a14675d023cc030f390296382",
+          "hit_count": 553,
+          "returned": 100,
+          "cursor": "*",
+          "next_cursor": "AoIIQNm1yyg1NDM5MTQ0Ng=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQNm1yyg1NDM5MTQ0Ng%3D%3D",
+          "checked_at": "2026-09-15T10:44:58.189311+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQNm1yyg1NDM5MTQ0Ng%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQNm1yyg1NDM5MTQ0Ng%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 87399,
+          "sha256": "aac10af260808ceea25f936d38981d3252dceeb361c46a5f89a0d737f3b116b2",
+          "hit_count": 553,
+          "returned": 100,
+          "cursor": "AoIIQNm1yyg1NDM5MTQ0Ng==",
+          "next_cursor": "AoIIQIql2ig1NTY2NDYzNw=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQIql2ig1NTY2NDYzNw%3D%3D",
+          "checked_at": "2026-09-15T10:45:06.338434+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQIql2ig1NTY2NDYzNw%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQIql2ig1NTY2NDYzNw%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 92510,
+          "sha256": "cd6f64862940ea02795bd822ca082654ac95598ea5fd684dcba94f9d0b83404b",
+          "hit_count": 553,
+          "returned": 100,
+          "cursor": "AoIIQIql2ig1NTY2NDYzNw==",
+          "next_cursor": "AoIIQD3+iSg0MzgzODUwNg=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQD3%2BiSg0MzgzODUwNg%3D%3D",
+          "checked_at": "2026-09-15T10:45:16.276059+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQD3%2BiSg0MzgzODUwNg%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQD3%2BiSg0MzgzODUwNg%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 99530,
+          "sha256": "a0e08ea2dd641382576f11aadc6ab49e441ee60976711d29920f656a426c079f",
+          "hit_count": 553,
+          "returned": 100,
+          "cursor": "AoIIQD3+iSg0MzgzODUwNg==",
+          "next_cursor": "AoIIP8Eq9Cg0NjAyNDg4Mw=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP8Eq9Cg0NjAyNDg4Mw%3D%3D",
+          "checked_at": "2026-09-15T10:45:26.893370+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP8Eq9Cg0NjAyNDg4Mw%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP8Eq9Cg0NjAyNDg4Mw%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 84162,
+          "sha256": "f16d96fdedd5976383a1c69a8ab42982ac54f321d03609d45c77d9d906bb7b00",
+          "hit_count": 553,
+          "returned": 100,
+          "cursor": "AoIIP8Eq9Cg0NjAyNDg4Mw==",
+          "next_cursor": "AoIIPo//NCg0MTI5ODIyNw=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIPo%2F%2FNCg0MTI5ODIyNw%3D%3D",
+          "checked_at": "2026-09-15T10:45:36.903294+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIPo%2F%2FNCg0MTI5ODIyNw%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIPo%2F%2FNCg0MTI5ODIyNw%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 53538,
+          "sha256": "8ebcddda3097ebe8077d9eaa90cd02adeb37968aba13b4cf82ea6cbd51046b83",
+          "hit_count": 553,
+          "returned": 54,
+          "cursor": "AoIIPo//NCg0MTI5ODIyNw==",
+          "next_cursor": "AoIIPDhk7CgzMjY1MjU0Mw=="
+        }
+      ],
+      "added": 0,
+      "revised": 3
+    },
+    {
+      "source": "Europe PMC",
+      "organ": "胆囊与胆道外科",
+      "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")",
+      "window": {
+        "start": null,
+        "end": "2026-09-15"
+      },
+      "checked_at": "2026-09-15T10:47:59.548013+00:00",
+      "complete": true,
+      "hit_count": 1487,
+      "returned": 1487,
+      "pages": [
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=%2A",
+          "checked_at": "2026-09-15T10:45:52.318357+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=%2A"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=%2A",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 87091,
+          "sha256": "3b947264b9d2b9a69e89ffccd05c892588961b9d4815ead47c53c29c79cf8979",
+          "hit_count": 1487,
+          "returned": 100,
+          "cursor": "*",
+          "next_cursor": "AoIIQSpekyg1NDA0MTA0OA=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQSpekyg1NDA0MTA0OA%3D%3D",
+          "checked_at": "2026-09-15T10:45:59.511021+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQSpekyg1NDA0MTA0OA%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQSpekyg1NDA0MTA0OA%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 86951,
+          "sha256": "e17c0375765cecbf02d57b57b94eb95d99924160de178b8ad06a872a2c57a642",
+          "hit_count": 1487,
+          "returned": 100,
+          "cursor": "AoIIQSpekyg1NDA0MTA0OA==",
+          "next_cursor": "AoIIQQbr0Cg1NTUyNzY1Ng=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQQbr0Cg1NTUyNzY1Ng%3D%3D",
+          "checked_at": "2026-09-15T10:46:07.207327+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQQbr0Cg1NTUyNzY1Ng%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQQbr0Cg1NTUyNzY1Ng%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 86851,
+          "sha256": "0c643f03190f9ba0589fc23390d3129cf172cbeda38defcb7fa1cb682acf5ce0",
+          "hit_count": 1487,
+          "returned": 100,
+          "cursor": "AoIIQQbr0Cg1NTUyNzY1Ng==",
+          "next_cursor": "AoIIQOB+vCg1NDQ5NTc1Mw=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQOB%2BvCg1NDQ5NTc1Mw%3D%3D",
+          "checked_at": "2026-09-15T10:46:13.574900+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQOB%2BvCg1NDQ5NTc1Mw%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQOB%2BvCg1NDQ5NTc1Mw%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 87277,
+          "sha256": "3621e58a5a2cbd1280125e7e93ffe59f2f39e1eed5b5a58608edfc755bad0bf0",
+          "hit_count": 1487,
+          "returned": 100,
+          "cursor": "AoIIQOB+vCg1NDQ5NTc1Mw==",
+          "next_cursor": "AoIIQMKB6yg1MDcyNDMzMw=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQMKB6yg1MDcyNDMzMw%3D%3D",
+          "checked_at": "2026-09-15T10:46:20.618108+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQMKB6yg1MDcyNDMzMw%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQMKB6yg1MDcyNDMzMw%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 88600,
+          "sha256": "666cc92d393a61458828e7f55bc8f9696b50af743fdb94abaffe061e4b09514b",
+          "hit_count": 1487,
+          "returned": 100,
+          "cursor": "AoIIQMKB6yg1MDcyNDMzMw==",
+          "next_cursor": "AoIIQKf0aig1NDEyNjgxMA=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQKf0aig1NDEyNjgxMA%3D%3D",
+          "checked_at": "2026-09-15T10:46:28.495657+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQKf0aig1NDEyNjgxMA%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQKf0aig1NDEyNjgxMA%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 96587,
+          "sha256": "bbc9f13ecafd9e248e15698947b304a341dd55dad3f2bf987c58fe6cae955308",
+          "hit_count": 1487,
+          "returned": 100,
+          "cursor": "AoIIQKf0aig1NDEyNjgxMA==",
+          "next_cursor": "AoIIQI+teCg1MTY5NjAyMQ=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQI%2BteCg1MTY5NjAyMQ%3D%3D",
+          "checked_at": "2026-09-15T10:46:35.566816+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQI%2BteCg1MTY5NjAyMQ%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQI%2BteCg1MTY5NjAyMQ%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 89984,
+          "sha256": "e35901e87e58051bdea413fde4ca9dc6c4e9e52042ff3af39384fddfe591df7d",
+          "hit_count": 1487,
+          "returned": 100,
+          "cursor": "AoIIQI+teCg1MTY5NjAyMQ==",
+          "next_cursor": "AoIIQHPcmCg1MzAyMDczMg=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQHPcmCg1MzAyMDczMg%3D%3D",
+          "checked_at": "2026-09-15T10:46:41.431165+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQHPcmCg1MzAyMDczMg%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQHPcmCg1MzAyMDczMg%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 86918,
+          "sha256": "96e30c916318032f5a5f3bcb46d158d14f58d513082a12c05597df9f22b728e2",
+          "hit_count": 1487,
+          "returned": 100,
+          "cursor": "AoIIQHPcmCg1MzAyMDczMg==",
+          "next_cursor": "AoIIQFFv8Sg0MzkxMzY4MQ=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQFFv8Sg0MzkxMzY4MQ%3D%3D",
+          "checked_at": "2026-09-15T10:46:48.585721+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQFFv8Sg0MzkxMzY4MQ%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQFFv8Sg0MzkxMzY4MQ%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 88842,
+          "sha256": "c7df8b2fd81fd5ee2a8989440c59ad5d1fc4d5c9861d99d4156bddfaff510c66",
+          "hit_count": 1487,
+          "returned": 100,
+          "cursor": "AoIIQFFv8Sg0MzkxMzY4MQ==",
+          "next_cursor": "AoIIQCuffCg0MDQzMTc2MQ=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQCuffCg0MDQzMTc2MQ%3D%3D",
+          "checked_at": "2026-09-15T10:46:54.597465+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQCuffCg0MDQzMTc2MQ%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQCuffCg0MDQzMTc2MQ%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 100180,
+          "sha256": "88d228340c530188bd9ea8726ca1690179d9b569a9e3c53d33571db714431736",
+          "hit_count": 1487,
+          "returned": 100,
+          "cursor": "AoIIQCuffCg0MDQzMTc2MQ==",
+          "next_cursor": "AoIIQAz3dCg0MzgyODk1NQ=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQAz3dCg0MzgyODk1NQ%3D%3D",
+          "checked_at": "2026-09-15T10:46:59.376478+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQAz3dCg0MzgyODk1NQ%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQAz3dCg0MzgyODk1NQ%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 84667,
+          "sha256": "8f2ed4b944c6c6c45b55542b81d654edd3fc23379657c8cb8c3d22fdd9f7701c",
+          "hit_count": 1487,
+          "returned": 100,
+          "cursor": "AoIIQAz3dCg0MzgyODk1NQ==",
+          "next_cursor": "AoIIP87YcCg0NDY5MTEwMA=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP87YcCg0NDY5MTEwMA%3D%3D",
+          "checked_at": "2026-09-15T10:47:05.496046+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP87YcCg0NDY5MTEwMA%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP87YcCg0NDY5MTEwMA%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 83189,
+          "sha256": "1c3a2916358dba28d06204e4063139f9280b0f352e2246e8c18d252a757fa824",
+          "hit_count": 1487,
+          "returned": 100,
+          "cursor": "AoIIP87YcCg0NDY5MTEwMA==",
+          "next_cursor": "AoIIP4kBXyg1MTQwNzQ0MQ=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP4kBXyg1MTQwNzQ0MQ%3D%3D",
+          "checked_at": "2026-09-15T10:47:14.115648+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP4kBXyg1MTQwNzQ0MQ%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIP4kBXyg1MTQwNzQ0MQ%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 91418,
+          "sha256": "3bc47f24dabedab3cb2b54ee943231145c779c075d299f140b3401899f3f3f28",
+          "hit_count": 1487,
+          "returned": 100,
+          "cursor": "AoIIP4kBXyg1MTQwNzQ0MQ==",
+          "next_cursor": "AoIIPyH2MygzODg5NjU4OQ=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIPyH2MygzODg5NjU4OQ%3D%3D",
+          "checked_at": "2026-09-15T10:47:24.706224+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIPyH2MygzODg5NjU4OQ%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIPyH2MygzODg5NjU4OQ%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 129423,
+          "sha256": "42d3a83cb3b6e9e215bea452864c28ca5d08874ce0a4e1d1058f6d82c11d0f35",
+          "hit_count": 1487,
+          "returned": 100,
+          "cursor": "AoIIPyH2MygzODg5NjU4OQ==",
+          "next_cursor": "AoIIPl3Fyig0MTA1Njg5NA=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIPl3Fyig0MTA1Njg5NA%3D%3D",
+          "checked_at": "2026-09-15T10:47:38.177241+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIPl3Fyig0MTA1Njg5NA%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29&format=json&resultType=lite&pageSize=100&cursorMark=AoIIPl3Fyig0MTA1Njg5NA%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 61699,
+          "sha256": "468fe8113fead50ed8756ee48b307b5daffa09659419946a290f7356ea78c54a",
+          "hit_count": 1487,
+          "returned": 87,
+          "cursor": "AoIIPl3Fyig0MTA1Njg5NA==",
+          "next_cursor": "AoIIPBlcwygxODQxMjc0OQ=="
+        }
+      ],
+      "added": 1099,
+      "revised": 3
+    }
+  ],
+  "source_checks": [],
+  "status": "continued_in_cloud",
+  "completed_at": "2026-09-15T10:48:33.127817+00:00",
+  "reason": "本地已取得真实来源结果；保留查询窗口和分页检查点，由同一周更新程序在GitHub继续执行"
+}

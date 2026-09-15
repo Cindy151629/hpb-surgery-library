@@ -1,0 +1,11 @@
+const test=require('node:test'),assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path');
+const ai=require('../src/ai.js');
+const root=path.join(__dirname,'..');
+const r={id:'HPBAI-001',title:'SurgSLOT',name:'SurgSLOT',aliases:['SAM2S','A:R01'],collection_id:'hpb-ai-video',kind:'publication',organs:['肝脏外科'],procedures:['laparoscopic liver resection'],tasks:['空间分割'],model_families:['视觉基础模型'],section_ids:['spatial'],sources:[],links:[],limitations:[],relations:[]};
+const tax={sections:[{id:'spatial',label:'Spatial'}],alias_groups:[['肝切除','liver resection']]};
+test('Chinese, English and namespaced alias search',()=>{for(const q of ['SAM2S','A:R01','肝切除','liver resection'])assert.ok(ai.search(r,q,tax));assert.ok(!ai.search(r,'pancreatic',tax));});
+test('Combined task/model/organ filters',()=>{assert.equal(ai.select([r],{organ:'肝脏外科',ai_task:'空间分割',ai_model:'视觉基础模型'},'',tax).length,1);assert.equal(ai.select([r],{ai_task:'时间阶段识别'},'',tax).length,0);});
+test('Unsafe text and links cannot create scripts or embeds',()=>{const html=ai.card({...r,summary:'<script>alert(1)</script>',links:[{url:'javascript:alert(1)',role:'code'}]}, {favorites:[],notes:{},read:{}},{records:[r]});assert.ok(!html.includes('<script>'));assert.ok(!html.includes('href="javascript:'));assert.ok(!html.includes('<iframe'));});
+test('Cumulative extension rejects loss and clinical collision',()=>{const a={collection_id:'hpb-ai-video',records:[r],candidates:[],taxonomy:tax,coverage:[]};assert.equal(ai.validate(a),a);assert.throws(()=>ai.validate({...a,records:[]},a));assert.throws(()=>ai.validate(a,null,new Set(['HPBAI-001'])));});
+test('Demo counts remain separate and do not claim playback',()=>{const demo={...r,id:'HPBAI-042',kind:'demo_entry'};const a={records:[r,demo],candidates:[],taxonomy:tax};const intro=ai.intro(a);assert.ok(intro.includes('论文/研究 1'));assert.ok(intro.includes('研究演示入口 1'));assert.ok(ai.card(demo,{favorites:[],notes:{},read:{}},a).includes('均未在本补丁中验证'));});
+test('Generated HTML has AI source injected and preserved private store key',()=>{const p=path.join(root,'site/index.html');if(!fs.existsSync(p))return;const html=fs.readFileSync(p,'utf8');assert.ok(html.includes('const HPBAI'));assert.ok(!html.includes('/*__AI_JS__*/'));assert.ok(html.includes('hpb-personal-v1'));assert.ok(html.includes('id="scope"'));});

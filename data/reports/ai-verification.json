@@ -1,0 +1,3733 @@
+{
+  "records": [
+    {
+      "id": "HPBAI-001",
+      "kind": "publication",
+      "title": "CholecMamba: A Mamba-based Multimodal Reasoning Model for Cholecystectomy Surgery",
+      "checked_at": "2026-09-15T10:27:29.423084+00:00",
+      "identity_status": "身份已核实",
+      "fulltext_status": "已取得正文并核对本卡相关方法段落；非逐句精读",
+      "code_status": "部分代码公开；README明确非完整版本",
+      "data_status": "论文描述CholecReason；本轮未确认独立完整数据下载目录",
+      "weights_status": "专用完整权重未确认",
+      "sources": [
+        {
+          "url": "https://papers.miccai.org/miccai-2025/paper/4415_paper.pdf",
+          "scope": "正文相关段落",
+          "locator": "第2节 Data Construction Process / Model Architecture",
+          "finding": "CholecMamba面向胆囊切除图像与视频，将Mamba视觉特征压缩、语言推理和分割解码结合；CholecReason由原有手术数据、医生描述和模型辅助整理构成，分别评估问答与推理分割。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-001-pdfretry.txt",
+          "checked_at": "2026-09-15T10:27:29.423084+00:00"
+        },
+        {
+          "url": "https://github.com/displaywz/CholecMamba",
+          "scope": "README/文件目录/来源声明",
+          "locator": "作者README或官方题录",
+          "finding": "部分代码公开；README明确非完整版本；论文描述CholecReason；本轮未确认独立完整数据下载目录；专用完整权重未确认",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-001-2.txt",
+          "checked_at": "2026-09-15T10:24:34.568551+00:00"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://papers.miccai.org/miccai-2025/0145-Paper4415.html",
+          "role": "publication",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://papers.miccai.org/miccai-2025/0145-Paper4415.html",
+          "checked_at": "2026-09-15T10:24:34.568220+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://papers.miccai.org/miccai-2025/paper/4415_paper.pdf",
+          "role": "fulltext_pdf",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://papers.miccai.org/miccai-2025/paper/4415_paper.pdf",
+          "checked_at": "2026-09-15T10:27:29.423084+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://github.com/displaywz/CholecMamba",
+          "role": "code",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://github.com/displaywz/CholecMamba",
+          "checked_at": "2026-09-15T10:24:34.568551+00:00",
+          "identity_match": true,
+          "note": "作者代码页面可访问；仅核对README和文件目录，未运行代码。"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1007/978-3-032-05114-1_11",
+          "role": "metadata",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://api.crossref.org/works/10.1007/978-3-032-05114-1_11",
+          "checked_at": "2026-09-15T10:24:34.568636+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        }
+      ],
+      "changes": [],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-002",
+      "kind": "publication",
+      "title": "A fine-tuned foundational model SurgiSAM2 for surgical video anatomy segmentation and detection",
+      "checked_at": "2026-09-15T10:26:28.635364+00:00",
+      "identity_status": "身份已核实；存在已记录版本/字段差异",
+      "fulltext_status": "已取得正文并核对本卡相关方法段落；非逐句精读",
+      "code_status": "作者代码及划分说明可访问；未运行",
+      "data_status": "采用多个既有数据集；本轮未下载数据",
+      "weights_status": "Figshare API列出专用.pt检查点；未下载校验",
+      "sources": [
+        {
+          "url": "https://www.nature.com/articles/s41598-025-11759-4",
+          "scope": "正文相关段落",
+          "locator": "题名、Abstract、Methods及Data/Code availability（如页面提供）",
+          "finding": "SurgiSAM2微调SAM2图像编码器与掩膜解码器，评估手术组织分割、提示点数量与有限标注训练；期刊版另在胆囊切除来源短片上评估首帧提示后的掩膜传播。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-002-0.txt",
+          "checked_at": "2026-09-15T10:24:34.568736+00:00"
+        },
+        {
+          "url": "https://github.com/Devanish31/SurgiSAM2",
+          "scope": "README/文件目录/来源声明",
+          "locator": "方法/实验段落或作者README",
+          "finding": "作者代码及划分说明可访问；未运行；采用多个既有数据集；本轮未下载数据；Figshare API列出专用.pt检查点；未下载校验",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-002-1.txt",
+          "checked_at": "2026-09-15T10:24:34.568795+00:00"
+        },
+        {
+          "url": "https://api.figshare.com/v2/articles/28489961",
+          "scope": "README/文件目录/来源声明",
+          "locator": "Figshare article title / files / license",
+          "finding": "作者代码及划分说明可访问；未运行；采用多个既有数据集；本轮未下载数据；Figshare API列出专用.pt检查点；未下载校验",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-002-figshare.txt",
+          "checked_at": "2026-09-15T10:26:28.635364+00:00"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.nature.com/articles/s41598-025-11759-4",
+          "role": "fulltext_html",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://www.nature.com/articles/s41598-025-11759-4",
+          "checked_at": "2026-09-15T10:24:34.568736+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://github.com/Devanish31/SurgiSAM2",
+          "role": "code",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://github.com/Devanish31/SurgiSAM2",
+          "checked_at": "2026-09-15T10:24:34.568795+00:00",
+          "identity_match": true,
+          "note": "作者代码页面可访问；仅核对README和文件目录，未运行代码。"
+        },
+        {
+          "url": "https://arxiv.org/abs/2503.03942",
+          "role": "preprint",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2503.03942",
+          "checked_at": "2026-09-15T10:24:35.887882+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12528661/",
+          "role": "fulltext_html",
+          "status": "访问受限/待核对",
+          "http_status": 200,
+          "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12528661/",
+          "checked_at": "2026-09-15T10:24:36.155682+00:00",
+          "identity_match": null,
+          "note": "HTTP 200为浏览器验证挑战页，不能作为身份或全文取得证据。"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1038/s41598-025-11759-4",
+          "role": "metadata",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://api.crossref.org/works/10.1038/s41598-025-11759-4",
+          "checked_at": "2026-09-15T10:24:36.196351+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://api.figshare.com/v2/articles/28489961",
+          "role": "model_weights",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://api.figshare.com/v2/articles/28489961",
+          "checked_at": "2026-09-15T10:26:28.635364+00:00",
+          "identity_match": true,
+          "note": "仅核对模型/文件目录或元数据；未下载、加载或校验权重。"
+        }
+      ],
+      "changes": [
+        "仓库引用文章号17098与期刊及Crossref的35961不一致，采用正式题录35961。"
+      ],
+      "relations": [
+        {
+          "type": "preprint_of",
+          "source": "arxiv:2503.03942",
+          "target": "doi:10.1038/s41598-025-11759-4",
+          "note": "题名、作者与作者/出版元数据共同核对"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-003",
+      "kind": "publication",
+      "title": "SASVi: segment any surgical video",
+      "checked_at": "2026-09-15T10:24:38.851005+00:00",
+      "identity_status": "身份已核实；存在已记录版本/字段差异",
+      "fulltext_status": "已取得正文并核对本卡相关方法段落；非逐句精读",
+      "code_status": "训练/推理代码目录可见；未运行",
+      "data_status": "HF dataset目录为生成的分割结果；不是原始视频或人工金标准",
+      "weights_status": "HF checkpoints下可见按数据集分组的检查点目录；未下载",
+      "sources": [
+        {
+          "url": "https://link.springer.com/article/10.1007/s11548-025-03408-y",
+          "scope": "正文相关段落",
+          "locator": "期刊方法、Overseer比较与Change history",
+          "finding": "SASVi用帧级Overseer检测目标出现或消失并重新提示SAM2，使掩膜传播适应场景变化；正式期刊版选择Mask2Former作为主Overseer，并在胆囊切除和白内障数据上研究时间一致性。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-003-5.txt",
+          "checked_at": "2026-09-15T10:24:38.791396+00:00"
+        },
+        {
+          "url": "https://github.com/MECLabTUDA/SASVi",
+          "scope": "README/文件目录/来源声明",
+          "locator": "作者README或官方题录",
+          "finding": "训练/推理代码目录可见；未运行；HF dataset目录为生成的分割结果；不是原始视频或人工金标准；HF checkpoints下可见按数据集分组的检查点目录；未下载",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-003-2.txt",
+          "checked_at": "2026-09-15T10:24:37.209753+00:00"
+        },
+        {
+          "url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/dataset",
+          "scope": "README/文件目录/来源声明",
+          "locator": "README/文件目录",
+          "finding": "训练/推理代码目录可见；未运行；HF dataset目录为生成的分割结果；不是原始视频或人工金标准；HF checkpoints下可见按数据集分组的检查点目录；未下载",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-003-3.txt",
+          "checked_at": "2026-09-15T10:24:37.261657+00:00"
+        },
+        {
+          "url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/checkpoints",
+          "scope": "README/文件目录/来源声明",
+          "locator": "文件目录或数据说明",
+          "finding": "训练/推理代码目录可见；未运行；HF dataset目录为生成的分割结果；不是原始视频或人工金标准；HF checkpoints下可见按数据集分组的检查点目录；未下载",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-003-4.txt",
+          "checked_at": "2026-09-15T10:24:37.353751+00:00"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2502.09653",
+          "role": "preprint",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2502.09653",
+          "checked_at": "2026-09-15T10:24:36.228884+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://arxiv.org/html/2502.09653v1",
+          "role": "fulltext_html",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/html/2502.09653v1",
+          "checked_at": "2026-09-15T10:24:37.207009+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://github.com/MECLabTUDA/SASVi",
+          "role": "code",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://github.com/MECLabTUDA/SASVi",
+          "checked_at": "2026-09-15T10:24:37.209753+00:00",
+          "identity_match": true,
+          "note": "作者代码页面可访问；仅核对README和文件目录，未运行代码。"
+        },
+        {
+          "url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/dataset",
+          "role": "dataset",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/dataset",
+          "checked_at": "2026-09-15T10:24:37.261657+00:00",
+          "identity_match": true,
+          "note": "SASVi生成分割结果目录；不是权重、原始视频或人工金标准。"
+        },
+        {
+          "url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/checkpoints",
+          "role": "model_weights",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/checkpoints",
+          "checked_at": "2026-09-15T10:24:37.353751+00:00",
+          "identity_match": true,
+          "note": "仅核对模型/文件目录或元数据；未下载、加载或校验权重。"
+        },
+        {
+          "url": "https://link.springer.com/article/10.1007/s11548-025-03408-y",
+          "role": "fulltext_html",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://link.springer.com/article/10.1007/s11548-025-03408-y",
+          "checked_at": "2026-09-15T10:24:38.791396+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1007/s11548-025-03408-y",
+          "role": "metadata",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://api.crossref.org/works/10.1007/s11548-025-03408-y",
+          "checked_at": "2026-09-15T10:24:38.851005+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        }
+      ],
+      "changes": [
+        "HF /dataset链接角色由model_weights纠正为dataset。",
+        "早期预印本主Overseer为Mask R-CNN，正式期刊选择Mask2Former。",
+        "期刊变更史2025-08-04记录Tables 1/2横线格式更新；不称撤稿或科学结论更正。"
+      ],
+      "relations": [
+        {
+          "type": "preprint_of",
+          "source": "arxiv:2502.09653",
+          "target": "doi:10.1007/s11548-025-03408-y",
+          "note": "题名、作者与作者/出版元数据共同核对"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-004",
+      "kind": "publication",
+      "title": "HRVVS: A High-resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors",
+      "checked_at": "2026-09-15T10:27:29.423519+00:00",
+      "identity_status": "身份已核实",
+      "fulltext_status": "已取得正文并核对本卡相关方法段落；非逐句精读",
+      "code_status": "作者训练和测试代码页面可访问；未运行",
+      "data_status": "医院审核中（作者README）",
+      "weights_status": "README列基础VAR与Google Drive检查点入口；专用权重文件未独立验证",
+      "sources": [
+        {
+          "url": "https://arxiv.org/html/2507.22530v1",
+          "scope": "正文相关段落",
+          "locator": "方法/实验段落或作者README",
+          "finding": "HRVVS针对肝切除视频的血管像素分割，利用预训练VAR多尺度先验和动态记忆解码；Hepa-SEG覆盖肝实质离断阶段的Glisson鞘与肝静脉标注。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-004-1.txt",
+          "checked_at": "2026-09-15T10:24:38.853811+00:00"
+        },
+        {
+          "url": "https://github.com/LoDeResearch/HRVVS",
+          "scope": "README/文件目录/来源声明",
+          "locator": "作者README或官方题录",
+          "finding": "作者训练和测试代码页面可访问；未运行；医院审核中（作者README）；README列基础VAR与Google Drive检查点入口；专用权重文件未独立验证",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-004-2.txt",
+          "checked_at": "2026-09-15T10:24:38.952010+00:00"
+        },
+        {
+          "url": "https://papers.miccai.org/miccai-2025/0421-Paper0929.html",
+          "scope": "摘要与题录",
+          "locator": "官方会议题名、作者、摘要、会议年份",
+          "finding": "HRVVS针对肝切除视频的血管像素分割，利用预训练VAR多尺度先验和动态记忆解码；Hepa-SEG覆盖肝实质离断阶段的Glisson鞘与肝静脉标注。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-004-formal.txt",
+          "checked_at": "2026-09-15T10:27:29.423409+00:00"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2507.22530",
+          "role": "preprint",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2507.22530",
+          "checked_at": "2026-09-15T10:24:38.853622+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://arxiv.org/html/2507.22530v1",
+          "role": "fulltext_html",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/html/2507.22530v1",
+          "checked_at": "2026-09-15T10:24:38.853811+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://github.com/LoDeResearch/HRVVS",
+          "role": "code",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://github.com/LoDeResearch/HRVVS",
+          "checked_at": "2026-09-15T10:24:38.952010+00:00",
+          "identity_match": true,
+          "note": "作者代码页面可访问；仅核对README和文件目录，未运行代码。"
+        },
+        {
+          "url": "https://papers.miccai.org/miccai-2025/0421-Paper0929.html",
+          "role": "publication",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://papers.miccai.org/miccai-2025/0421-Paper0929.html",
+          "checked_at": "2026-09-15T10:27:29.423409+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1007/978-3-032-05127-1_26",
+          "role": "metadata",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://api.crossref.org/works/10.1007/978-3-032-05127-1_26",
+          "checked_at": "2026-09-15T10:27:29.423519+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        }
+      ],
+      "changes": [],
+      "relations": [
+        {
+          "type": "preprint_of",
+          "source": "arxiv:2507.22530",
+          "target": "doi:10.1007/978-3-032-05127-1_26",
+          "note": "题名、作者与作者/出版元数据共同核对"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-005",
+      "kind": "publication",
+      "title": "Automated multimodel segmentation and tracking for AR-guided open liver surgery using scene-aware self-prompting",
+      "checked_at": "2026-09-15T10:24:39.853042+00:00",
+      "identity_status": "身份已核实；存在已记录版本/字段差异",
+      "fulltext_status": "已取得正文并核对本卡相关方法段落；非逐句精读",
+      "code_status": "本次所读正文未确认作者公开代码入口",
+      "data_status": "本次未确认临床RGBD数据公开下载入口",
+      "weights_status": "未确认专用权重开放",
+      "sources": [
+        {
+          "url": "https://link.springer.com/article/10.1007/s11548-025-03381-6",
+          "scope": "正文相关段落",
+          "locator": "题名、Abstract、Methods及Data/Code availability（如页面提供）",
+          "finding": "该研究组合ESANet、SAM与DeAOT，先从RGBD图像产生提示，再分割和跟踪肝表面，并按场景变化重新提示，目标是开放肝手术的增强现实导航。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-005-0.txt",
+          "checked_at": "2026-09-15T10:24:39.365830+00:00"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://link.springer.com/article/10.1007/s11548-025-03381-6",
+          "role": "fulltext_html",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://link.springer.com/article/10.1007/s11548-025-03381-6",
+          "checked_at": "2026-09-15T10:24:39.365830+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1007/s11548-025-03381-6",
+          "role": "metadata",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://api.crossref.org/works/10.1007/s11548-025-03381-6",
+          "checked_at": "2026-09-15T10:24:39.853042+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        }
+      ],
+      "changes": [
+        "期刊变更史2025-07-10记录Table 1格式修订；不推断未取得的其他更正内容。"
+      ],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-006",
+      "kind": "publication",
+      "title": "SurgSLOT: Segment Anything in Surgical Videos via Semantic Long-term Tracking",
+      "checked_at": "2026-09-15T10:26:27.149346+00:00",
+      "identity_status": "身份已核实；存在已记录版本/字段差异",
+      "fulltext_status": "已取得正文并核对本卡相关方法段落；非逐句精读",
+      "code_status": "作者代码公开；未运行",
+      "data_status": "需按各来源许可取得原始数据；本轮未下载",
+      "weights_status": "HF模型页列SAM2/SAM3专用检查点；CC BY-NC-ND 4.0声明，未下载",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2511.16618",
+          "scope": "摘要与题录",
+          "locator": "题名、Abstract、Methods及Data/Code availability（如页面提供）",
+          "finding": "SurgSLOT以稳定的目标语义身份连接时间语义学习与长期记忆选择，处理目标离开视野后重现时的身份漂移；iSurg整合多术式数据，当前发布提供SAM2及SAM3两种骨干。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-006-0.txt",
+          "checked_at": "2026-09-15T10:24:40.010808+00:00"
+        },
+        {
+          "url": "https://arxiv.org/html/2511.16618v2",
+          "scope": "正文相关段落",
+          "locator": "方法/实验段落或作者README",
+          "finding": "SurgSLOT以稳定的目标语义身份连接时间语义学习与长期记忆选择，处理目标离开视野后重现时的身份漂移；iSurg整合多术式数据，当前发布提供SAM2及SAM3两种骨干。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-006-1.txt",
+          "checked_at": "2026-09-15T10:24:40.197313+00:00"
+        },
+        {
+          "url": "https://github.com/jinlab-imvr/SurgSLOT",
+          "scope": "README/文件目录/来源声明",
+          "locator": "README/文件目录",
+          "finding": "作者代码公开；未运行；需按各来源许可取得原始数据；本轮未下载；HF模型页列SAM2/SAM3专用检查点；CC BY-NC-ND 4.0声明，未下载",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-006-3.txt",
+          "checked_at": "2026-09-15T10:24:40.768038+00:00"
+        },
+        {
+          "url": "https://huggingface.co/HeverLaw/SurgSLOT",
+          "scope": "README/文件目录/来源声明",
+          "locator": "文件目录或数据说明",
+          "finding": "作者代码公开；未运行；需按各来源许可取得原始数据；本轮未下载；HF模型页列SAM2/SAM3专用检查点；CC BY-NC-ND 4.0声明，未下载",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-006-4.txt",
+          "checked_at": "2026-09-15T10:24:41.149738+00:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2511.16618v1",
+          "scope": "摘要与题录",
+          "locator": "题录与Submission history",
+          "finding": "SurgSLOT以稳定的目标语义身份连接时间语义学习与长期记忆选择，处理目标离开视野后重现时的身份漂移；iSurg整合多术式数据，当前发布提供SAM2及SAM3两种骨干。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-006-v1.txt",
+          "checked_at": "2026-09-15T10:26:27.149346+00:00"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2511.16618",
+          "role": "preprint",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2511.16618",
+          "checked_at": "2026-09-15T10:24:40.010808+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://arxiv.org/html/2511.16618v2",
+          "role": "fulltext_html",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/html/2511.16618v2",
+          "checked_at": "2026-09-15T10:24:40.197313+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://jinlab-imvr.github.io/SurgSLOT/",
+          "role": "project",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://jinlab-imvr.github.io/SurgSLOT/",
+          "checked_at": "2026-09-15T10:24:40.453212+00:00",
+          "identity_match": true,
+          "note": "仅核对项目/演示页面；未测试播放、未确认嵌入许可、未完整观看。"
+        },
+        {
+          "url": "https://github.com/jinlab-imvr/SurgSLOT",
+          "role": "code",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://github.com/jinlab-imvr/SurgSLOT",
+          "checked_at": "2026-09-15T10:24:40.768038+00:00",
+          "identity_match": true,
+          "note": "作者代码页面可访问；仅核对README和文件目录，未运行代码。"
+        },
+        {
+          "url": "https://huggingface.co/HeverLaw/SurgSLOT",
+          "role": "model_weights",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://huggingface.co/HeverLaw/SurgSLOT",
+          "checked_at": "2026-09-15T10:24:41.149738+00:00",
+          "identity_match": true,
+          "note": "仅核对模型/文件目录或元数据；未下载、加载或校验权重。"
+        },
+        {
+          "url": "https://arxiv.org/abs/2511.16618v1",
+          "role": "preprint",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2511.16618v1",
+          "checked_at": "2026-09-15T10:26:27.149346+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        }
+      ],
+      "changes": [
+        "arXiv 2511.16618v1为SAM2S，v2为SurgSLOT；同一版本链，名称、作者列表和基准均有扩展，不能重复计为新论文。"
+      ],
+      "relations": [
+        {
+          "type": "version_of",
+          "source": "arxiv:2511.16618v1",
+          "target": "arxiv:2511.16618v2",
+          "note": "SAM2S更名SurgSLOT，作者与基准有修订"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-007",
+      "kind": "dataset",
+      "title": "Construction and validation of a high-precision annotated dataset for developing intelligent critical vein recognition models in laparoscopic pancreatic surgery",
+      "checked_at": "2026-09-15T10:27:29.423609+00:00",
+      "identity_status": "身份已核实",
+      "fulltext_status": "已取得正文并核对本卡相关方法段落；非逐句精读",
+      "code_status": "本次未确认独立基线代码仓库",
+      "data_status": "作者声明Kaggle公开；页面题名匹配，实际文件下载和许可未核实",
+      "weights_status": "未确认专用权重开放",
+      "sources": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12907359/fullTextXML",
+          "scope": "正文相关段落",
+          "locator": "Methods / Dataset architecture / 初步模型验证 / Data availability",
+          "finding": "VIP20K论文整理腹腔镜胰十二指肠切除与远端胰切除中的关键静脉图像和人工轮廓，标注SMV、PV和脾静脉；以HRNet加FCN输出头建立初步分割基线，属于直接胰腺相关数据研究。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-007-epmc.txt",
+          "checked_at": "2026-09-15T10:26:27.148948+00:00"
+        },
+        {
+          "url": "https://www.kaggle.com/datasets/prohuge/vip20k",
+          "scope": "README/文件目录/来源声明",
+          "locator": "方法/实验段落或作者README",
+          "finding": "本次未确认独立基线代码仓库；作者声明Kaggle公开；页面题名匹配，实际文件下载和许可未核实；未确认专用权重开放",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-007-1.txt",
+          "checked_at": "2026-09-15T10:24:42.474483+00:00"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.3389/fsurg.2026.1711392",
+          "scope": "正式题录",
+          "locator": "Crossref message.title / author / published",
+          "finding": "VIP20K论文整理腹腔镜胰十二指肠切除与远端胰切除中的关键静脉图像和人工轮廓，标注SMV、PV和脾静脉；以HRNet加FCN输出头建立初步分割基线，属于直接胰腺相关数据研究。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-007-doi.txt",
+          "checked_at": "2026-09-15T10:27:29.423609+00:00"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907359/",
+          "role": "fulltext_html",
+          "status": "访问受限/待核对",
+          "http_status": 200,
+          "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907359/",
+          "checked_at": "2026-09-15T10:24:41.309415+00:00",
+          "identity_match": null,
+          "note": "HTTP 200为浏览器验证挑战页，不能作为身份或全文取得证据。"
+        },
+        {
+          "url": "https://www.kaggle.com/datasets/prohuge/vip20k",
+          "role": "dataset",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://www.kaggle.com/datasets/prohuge/vip20k",
+          "checked_at": "2026-09-15T10:24:42.474483+00:00",
+          "identity_match": true,
+          "note": "Kaggle页面题名VIP20K匹配；未验证文件、下载权限或许可证。"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12907359/fullTextXML",
+          "role": "fulltext_html",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12907359/fullTextXML",
+          "checked_at": "2026-09-15T10:26:27.148948+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.3389/fsurg.2026.1711392",
+          "role": "metadata",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://api.crossref.org/works/10.3389/fsurg.2026.1711392",
+          "checked_at": "2026-09-15T10:27:29.423609+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        }
+      ],
+      "changes": [],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-008",
+      "kind": "publication",
+      "title": "ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking",
+      "checked_at": "2026-09-15T10:24:43.849433+00:00",
+      "identity_status": "身份已核实",
+      "fulltext_status": "已取得正文并核对本卡相关方法段落；非逐句精读",
+      "code_status": "作者训练/推理代码可访问；未运行",
+      "data_status": "README提供Ref标注入口；EndoVis原始数据需按官方条件获取",
+      "weights_status": "README列专用Google Drive检查点入口；未独立确认文件下载",
+      "sources": [
+        {
+          "url": "https://arxiv.org/html/2505.08581v1",
+          "scope": "正文相关段落",
+          "locator": "方法/实验段落或作者README",
+          "finding": "ReSurgSAM2用自然语言指定目标，通过可信初始化与长期记忆实现持续掩膜跟踪；作者论文和数据说明确认实验采用Ref-EndoVis17/18。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-008-1.txt",
+          "checked_at": "2026-09-15T10:24:42.542909+00:00"
+        },
+        {
+          "url": "https://papers.miccai.org/miccai-2025/0774-Paper0617.html",
+          "scope": "摘要与题录",
+          "locator": "作者README或官方题录",
+          "finding": "ReSurgSAM2用自然语言指定目标，通过可信初始化与长期记忆实现持续掩膜跟踪；作者论文和数据说明确认实验采用Ref-EndoVis17/18。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-008-2.txt",
+          "checked_at": "2026-09-15T10:24:42.628236+00:00"
+        },
+        {
+          "url": "https://github.com/jinlab-imvr/ReSurgSAM2",
+          "scope": "README/文件目录/来源声明",
+          "locator": "README/文件目录",
+          "finding": "作者训练/推理代码可访问；未运行；README提供Ref标注入口；EndoVis原始数据需按官方条件获取；README列专用Google Drive检查点入口；未独立确认文件下载",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-008-3.txt",
+          "checked_at": "2026-09-15T10:24:42.966442+00:00"
+        },
+        {
+          "url": "https://github.com/jinlab-imvr/ReSurgSAM2/blob/main/datasets/README.md",
+          "scope": "README/文件目录/来源声明",
+          "locator": "文件目录或数据说明",
+          "finding": "支持页面身份或作者报告；核验范围见链接状态。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-008-4.txt",
+          "checked_at": "2026-09-15T10:24:43.213944+00:00"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=z4Ez4TXVQL4",
+          "scope": "README/文件目录/来源声明",
+          "locator": "页面题名（未播放）",
+          "finding": "支持页面身份或作者报告；核验范围见链接状态。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-008-6.txt",
+          "checked_at": "2026-09-15T10:24:43.786543+00:00"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2505.08581",
+          "role": "preprint",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2505.08581",
+          "checked_at": "2026-09-15T10:24:42.487656+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://arxiv.org/html/2505.08581v1",
+          "role": "fulltext_html",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/html/2505.08581v1",
+          "checked_at": "2026-09-15T10:24:42.542909+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://papers.miccai.org/miccai-2025/0774-Paper0617.html",
+          "role": "publication",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://papers.miccai.org/miccai-2025/0774-Paper0617.html",
+          "checked_at": "2026-09-15T10:24:42.628236+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://github.com/jinlab-imvr/ReSurgSAM2",
+          "role": "code",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://github.com/jinlab-imvr/ReSurgSAM2",
+          "checked_at": "2026-09-15T10:24:42.966442+00:00",
+          "identity_match": true,
+          "note": "作者代码页面可访问；仅核对README和文件目录，未运行代码。"
+        },
+        {
+          "url": "https://github.com/jinlab-imvr/ReSurgSAM2/blob/main/datasets/README.md",
+          "role": "source_evidence",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://github.com/jinlab-imvr/ReSurgSAM2/blob/main/datasets/README.md",
+          "checked_at": "2026-09-15T10:24:43.213944+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://heverlaw.github.io/ReSurgSAM2/",
+          "role": "project",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://heverlaw.github.io/ReSurgSAM2/",
+          "checked_at": "2026-09-15T10:24:43.610956+00:00",
+          "identity_match": true,
+          "note": "仅核对项目/演示页面；未测试播放、未确认嵌入许可、未完整观看。"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=z4Ez4TXVQL4",
+          "role": "demo",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://www.youtube.com/watch?v=z4Ez4TXVQL4",
+          "checked_at": "2026-09-15T10:24:43.786543+00:00",
+          "identity_match": true,
+          "note": "仅核对项目/演示页面；未测试播放、未确认嵌入许可、未完整观看。"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1007/978-3-032-05127-1_42",
+          "role": "metadata",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://api.crossref.org/works/10.1007/978-3-032-05127-1_42",
+          "checked_at": "2026-09-15T10:24:43.849433+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        }
+      ],
+      "changes": [],
+      "relations": [
+        {
+          "type": "preprint_of",
+          "source": "arxiv:2505.08581",
+          "target": "doi:10.1007/978-3-032-05127-1_42",
+          "note": "题名、作者与作者/出版元数据共同核对"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-009",
+      "kind": "publication",
+      "title": "Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning",
+      "checked_at": "2026-09-15T10:24:44.430311+00:00",
+      "identity_status": "身份已核实",
+      "fulltext_status": "基于摘要、正式题录和作者仓库；本次未读取论文全文",
+      "code_status": "作者代码可访问；未运行",
+      "data_status": "需从EndoVis官方申请原始数据；README有示例入口",
+      "weights_status": "README列EndoVis18专用权重入口；未下载",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2408.07931",
+          "scope": "摘要与题录",
+          "locator": "题名、Abstract、Methods及Data/Code availability（如页面提供）",
+          "finding": "Surgical SAM 2通过剪除冗余记忆帧改善手术视频分割的计算效率；作者仓库提供EndoVis训练、推理及示例配置。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-009-0.txt",
+          "checked_at": "2026-09-15T10:24:44.076891+00:00"
+        },
+        {
+          "url": "https://github.com/jinlab-imvr/Surgical-SAM-2",
+          "scope": "README/文件目录/来源声明",
+          "locator": "方法/实验段落或作者README",
+          "finding": "作者代码可访问；未运行；需从EndoVis官方申请原始数据；README有示例入口；README列EndoVis18专用权重入口；未下载",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-009-1.txt",
+          "checked_at": "2026-09-15T10:24:44.430311+00:00"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2408.07931",
+          "role": "preprint",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2408.07931",
+          "checked_at": "2026-09-15T10:24:44.076891+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://github.com/jinlab-imvr/Surgical-SAM-2",
+          "role": "code",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://github.com/jinlab-imvr/Surgical-SAM-2",
+          "checked_at": "2026-09-15T10:24:44.430311+00:00",
+          "identity_match": true,
+          "note": "作者代码页面可访问；仅核对README和文件目录，未运行代码。"
+        }
+      ],
+      "changes": [],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-010",
+      "kind": "publication",
+      "title": "Memory-Augmented SAM2 for Training-Free Surgical Video Segmentation",
+      "checked_at": "2026-09-15T10:26:27.149442+00:00",
+      "identity_status": "身份已核实；存在已记录版本/字段差异",
+      "fulltext_status": "已取得正文并核对本卡相关方法段落；非逐句精读",
+      "code_status": "公开仓库可见修改代码；未验证完整复现",
+      "data_status": "采用EndoVis；本轮未下载",
+      "weights_status": "使用SAM2基础权重；未确认额外专用训练权重，方法称免训练",
+      "sources": [
+        {
+          "url": "https://papers.miccai.org/miccai-2025/paper/2634_paper.pdf",
+          "scope": "正文相关段落",
+          "locator": "题录与资源说明",
+          "finding": "MA-SAM2在SAM2上加入上下文感知与抗遮挡记忆选择，研究器械移动、遮挡时的掩膜传播；其方法不新增训练参数，但每类目标首次出现时仍需掩膜提示。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-010-pdf.txt",
+          "checked_at": "2026-09-15T10:26:27.149442+00:00"
+        },
+        {
+          "url": "https://papers.miccai.org/miccai-2025/0556-Paper2634.html",
+          "scope": "摘要与题录",
+          "locator": "题名、Abstract、Methods及Data/Code availability（如页面提供）",
+          "finding": "MA-SAM2在SAM2上加入上下文感知与抗遮挡记忆选择，研究器械移动、遮挡时的掩膜传播；其方法不新增训练参数，但每类目标首次出现时仍需掩膜提示。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-010-0.txt",
+          "checked_at": "2026-09-15T10:24:44.520754+00:00"
+        },
+        {
+          "url": "https://github.com/Fawke108/MA-SAM2",
+          "scope": "README/文件目录/来源声明",
+          "locator": "方法/实验段落或作者README",
+          "finding": "公开仓库可见修改代码；未验证完整复现；采用EndoVis；本轮未下载；使用SAM2基础权重；未确认额外专用训练权重，方法称免训练",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-010-1.txt",
+          "checked_at": "2026-09-15T10:24:44.734562+00:00"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://papers.miccai.org/miccai-2025/0556-Paper2634.html",
+          "role": "publication",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://papers.miccai.org/miccai-2025/0556-Paper2634.html",
+          "checked_at": "2026-09-15T10:24:44.520754+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://github.com/Fawke108/MA-SAM2",
+          "role": "code",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://github.com/Fawke108/MA-SAM2",
+          "checked_at": "2026-09-15T10:24:44.734562+00:00",
+          "identity_match": true,
+          "note": "作者代码页面可访问；仅核对README和文件目录，未运行代码。"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1007/978-3-032-05127-1_32",
+          "role": "metadata",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://api.crossref.org/works/10.1007/978-3-032-05127-1_32",
+          "checked_at": "2026-09-15T10:24:44.923193+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://papers.miccai.org/miccai-2025/paper/2634_paper.pdf",
+          "role": "fulltext_pdf",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://papers.miccai.org/miccai-2025/paper/2634_paper.pdf",
+          "checked_at": "2026-09-15T10:26:27.149442+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        }
+      ],
+      "changes": [
+        "不展示摘要/引言中顺序冲突的提升幅度。"
+      ],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-011",
+      "kind": "publication",
+      "title": "Systematic evaluation and guidelines for segment anything model in surgical video analysis",
+      "checked_at": "2026-09-15T10:24:45.667868+00:00",
+      "identity_status": "身份已核实；存在已记录版本/字段差异",
+      "fulltext_status": "已取得正文并核对本卡相关方法段落；非逐句精读",
+      "code_status": "论文指定代码仓库可访问；未运行",
+      "data_status": "论文说明8个公开来源和1个私人数据集；私人SurgicalLive24受限",
+      "weights_status": "本轮未确认全部微调专用检查点公开",
+      "sources": [
+        {
+          "url": "https://www.nature.com/articles/s44484-025-00002-2",
+          "scope": "正文相关段落",
+          "locator": "题名、Abstract、Methods及Data/Code availability（如页面提供）",
+          "finding": "该技术评估比较SAM2在多种手术数据中的点、框、掩膜提示，以及微调、重新初始化和误差条件；包含CholecSeg8k与Endoscapes等胆囊切除来源数据。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-011-0.txt",
+          "checked_at": "2026-09-15T10:24:45.101157+00:00"
+        },
+        {
+          "url": "https://github.com/Banyutong/SurgicalSAM2",
+          "scope": "README/文件目录/来源声明",
+          "locator": "方法/实验段落或作者README",
+          "finding": "论文指定代码仓库可访问；未运行；论文说明8个公开来源和1个私人数据集；私人SurgicalLive24受限；本轮未确认全部微调专用检查点公开",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-011-1.txt",
+          "checked_at": "2026-09-15T10:24:45.295192+00:00"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.nature.com/articles/s44484-025-00002-2",
+          "role": "fulltext_html",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://www.nature.com/articles/s44484-025-00002-2",
+          "checked_at": "2026-09-15T10:24:45.101157+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://github.com/Banyutong/SurgicalSAM2",
+          "role": "code",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://github.com/Banyutong/SurgicalSAM2",
+          "checked_at": "2026-09-15T10:24:45.295192+00:00",
+          "identity_match": true,
+          "note": "作者代码页面可访问；仅核对README和文件目录，未运行代码。"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1038/s44484-025-00002-2",
+          "role": "metadata",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://api.crossref.org/works/10.1038/s44484-025-00002-2",
+          "checked_at": "2026-09-15T10:24:45.667868+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        }
+      ],
+      "changes": [
+        "按期刊和Crossref采用2026-04-01发表；DOI中的025不代表发表年。"
+      ],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-012",
+      "kind": "publication",
+      "title": "Learning multi-modal representations by watching hundreds of surgical video lectures",
+      "checked_at": "2026-09-15T10:27:32.234252+00:00",
+      "identity_status": "身份已核实",
+      "fulltext_status": "基于摘要、正式题录和作者仓库；本次未读取论文全文",
+      "code_status": "共享推理和训练仓库入口可见；未运行",
+      "data_status": "SVL数据集说明可见；本轮未确认全部原视频可下载",
+      "weights_status": "README列SurgVLP专用权重入口；未下载",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2307.15220",
+          "scope": "摘要与题录",
+          "locator": "方法/实验段落或作者README",
+          "finding": "SurgVLP从手术讲课视频与转录文本学习对齐的视觉语言表征，用于文本视频检索和零样本阶段识别；作者仓库包含Cholec80阶段评估配置。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-012-1.txt",
+          "checked_at": "2026-09-15T10:24:46.082759+00:00"
+        },
+        {
+          "url": "https://github.com/CAMMA-public/SurgVLP",
+          "scope": "README/文件目录/来源声明",
+          "locator": "作者README或官方题录",
+          "finding": "共享推理和训练仓库入口可见；未运行；SVL数据集说明可见；本轮未确认全部原视频可下载；README列SurgVLP专用权重入口；未下载",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-012-2.txt",
+          "checked_at": "2026-09-15T10:24:46.483686+00:00"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1016/j.media.2025.103644",
+          "scope": "正式题录",
+          "locator": "Crossref message.title / author / published",
+          "finding": "SurgVLP从手术讲课视频与转录文本学习对齐的视觉语言表征，用于文本视频检索和零样本阶段识别；作者仓库包含Cholec80阶段评估配置。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-012-doi.txt",
+          "checked_at": "2026-09-15T10:27:32.234252+00:00"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S1361841525001914",
+          "role": "publication",
+          "status": "访问受限/待核对",
+          "http_status": 403,
+          "final_url": "https://www.sciencedirect.com/science/article/pii/S1361841525001914",
+          "checked_at": "2026-09-15T10:24:45.796452+00:00",
+          "identity_match": null,
+          "note": "HTTP 403访问受限；保留原站入口。"
+        },
+        {
+          "url": "https://arxiv.org/abs/2307.15220",
+          "role": "preprint",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2307.15220",
+          "checked_at": "2026-09-15T10:24:46.082759+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://github.com/CAMMA-public/SurgVLP",
+          "role": "code",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://github.com/CAMMA-public/SurgVLP",
+          "checked_at": "2026-09-15T10:24:46.483686+00:00",
+          "identity_match": true,
+          "note": "作者代码页面可访问；仅核对README和文件目录，未运行代码。"
+        },
+        {
+          "url": "https://api.crossref.org/works?query.title=Learning%20multi-modal%20representations%20by%20watching%20hundreds%20of%20surgical%20video%20lectures&rows=1",
+          "role": "metadata",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://api.crossref.org/works?query.title=Learning%20multi-modal%20representations%20by%20watching%20hundreds%20of%20surgical%20video%20lectures&rows=1",
+          "checked_at": "2026-09-15T10:26:28.400672+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1016/j.media.2025.103644",
+          "role": "metadata",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://api.crossref.org/works/10.1016/j.media.2025.103644",
+          "checked_at": "2026-09-15T10:27:32.234252+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        }
+      ],
+      "changes": [],
+      "relations": [
+        {
+          "type": "preprint_of",
+          "source": "arxiv:2307.15220",
+          "target": "doi:10.1016/j.media.2025.103644",
+          "note": "题名、作者与作者/出版元数据共同核对"
+        },
+        {
+          "type": "shares_repository",
+          "target": "HPBAI-013",
+          "url": "https://github.com/CAMMA-public/SurgVLP",
+          "note": "共享模型入口，独立论文身份"
+        },
+        {
+          "type": "shares_repository",
+          "target": "HPBAI-014",
+          "url": "https://github.com/CAMMA-public/SurgVLP",
+          "note": "共享模型入口，独立论文身份"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-013",
+      "kind": "publication",
+      "title": "HecVL: Hierarchical Video-Language Pretraining for Zero-shot Surgical Phase Recognition",
+      "checked_at": "2026-09-15T10:27:30.392290+00:00",
+      "identity_status": "身份已核实",
+      "fulltext_status": "已取得正文并核对本卡相关方法段落；非逐句精读",
+      "code_status": "SurgVLP共享模型入口与PeskaVLP训练仓库可见；未运行",
+      "data_status": "既有视频来源与层级文本说明；完整数据许可未核验",
+      "weights_status": "README列HecVL专用权重入口；未下载",
+      "sources": [
+        {
+          "url": "https://arxiv.org/html/2405.10075v2",
+          "scope": "正文相关段落",
+          "locator": "方法/实验段落或作者README",
+          "finding": "HecVL将片段叙述、阶段概念和整段视频摘要组织为层级视频文本对，以由细到粗的对比学习训练表征；正文评估Cholec80等数据的零样本手术阶段识别。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-013-1.txt",
+          "checked_at": "2026-09-15T10:24:47.005371+00:00"
+        },
+        {
+          "url": "https://github.com/CAMMA-public/SurgVLP",
+          "scope": "README/文件目录/来源声明",
+          "locator": "作者README或官方题录",
+          "finding": "SurgVLP共享模型入口与PeskaVLP训练仓库可见；未运行；既有视频来源与层级文本说明；完整数据许可未核验；README列HecVL专用权重入口；未下载",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-013-2.txt",
+          "checked_at": "2026-09-15T10:24:47.006566+00:00"
+        },
+        {
+          "url": "https://papers.miccai.org/miccai-2024/377-Paper1025.html",
+          "scope": "摘要与题录",
+          "locator": "官方会议题名、作者、摘要、会议年份",
+          "finding": "HecVL将片段叙述、阶段概念和整段视频摘要组织为层级视频文本对，以由细到粗的对比学习训练表征；正文评估Cholec80等数据的零样本手术阶段识别。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-013-formal.txt",
+          "checked_at": "2026-09-15T10:27:30.391543+00:00"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2405.10075",
+          "role": "preprint",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2405.10075",
+          "checked_at": "2026-09-15T10:24:46.588489+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://arxiv.org/html/2405.10075v2",
+          "role": "fulltext_html",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/html/2405.10075v2",
+          "checked_at": "2026-09-15T10:24:47.005371+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://github.com/CAMMA-public/SurgVLP",
+          "role": "code",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://github.com/CAMMA-public/SurgVLP",
+          "checked_at": "2026-09-15T10:24:47.006566+00:00",
+          "identity_match": true,
+          "note": "作者代码页面可访问；仅核对README和文件目录，未运行代码。"
+        },
+        {
+          "url": "https://papers.miccai.org/miccai-2024/377-Paper1025.html",
+          "role": "publication",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://papers.miccai.org/miccai-2024/377-Paper1025.html",
+          "checked_at": "2026-09-15T10:27:30.391543+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1007/978-3-031-72089-5_29",
+          "role": "metadata",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://api.crossref.org/works/10.1007/978-3-031-72089-5_29",
+          "checked_at": "2026-09-15T10:27:30.392290+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        }
+      ],
+      "changes": [],
+      "relations": [
+        {
+          "type": "preprint_of",
+          "source": "arxiv:2405.10075",
+          "target": "doi:10.1007/978-3-031-72089-5_29",
+          "note": "题名、作者与作者/出版元数据共同核对"
+        },
+        {
+          "type": "shares_repository",
+          "target": "HPBAI-012",
+          "url": "https://github.com/CAMMA-public/SurgVLP",
+          "note": "共享模型入口，独立论文身份"
+        },
+        {
+          "type": "shares_repository",
+          "target": "HPBAI-014",
+          "url": "https://github.com/CAMMA-public/SurgVLP",
+          "note": "共享模型入口，独立论文身份"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-014",
+      "kind": "publication",
+      "title": "Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation",
+      "checked_at": "2026-09-15T10:27:31.253014+00:00",
+      "identity_status": "身份已核实；存在已记录版本/字段差异",
+      "fulltext_status": "基于摘要、正式题录和作者仓库；本次未读取论文全文",
+      "code_status": "训练仓库和共享推理仓库可见；未运行",
+      "data_status": "README提供数据准备结构；未确认所有原始视频开放",
+      "weights_status": "共享README列PeskaVLP专用权重入口；未下载",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2410.00263",
+          "scope": "摘要与题录",
+          "locator": "题名、Abstract、Methods及Data/Code availability（如页面提供）",
+          "finding": "PeskaVLP利用LLM整理与扩展层级手术知识，并结合语言监督、视觉自监督及动态时间规整损失改进视频文本对齐；代码包含Cholec80等下游评估配置。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-014-0.txt",
+          "checked_at": "2026-09-15T10:24:47.476568+00:00"
+        },
+        {
+          "url": "https://github.com/CAMMA-public/PeskaVLP",
+          "scope": "README/文件目录/来源声明",
+          "locator": "方法/实验段落或作者README",
+          "finding": "训练仓库和共享推理仓库可见；未运行；README提供数据准备结构；未确认所有原始视频开放；共享README列PeskaVLP专用权重入口；未下载",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-014-1.txt",
+          "checked_at": "2026-09-15T10:24:47.608238+00:00"
+        },
+        {
+          "url": "https://github.com/CAMMA-public/SurgVLP",
+          "scope": "README/文件目录/来源声明",
+          "locator": "作者README或官方题录",
+          "finding": "训练仓库和共享推理仓库可见；未运行；README提供数据准备结构；未确认所有原始视频开放；共享README列PeskaVLP专用权重入口；未下载",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-014-2.txt",
+          "checked_at": "2026-09-15T10:24:48.227900+00:00"
+        },
+        {
+          "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/de0f2a9943b7bd060e5c10c2fb2654f3-Abstract-Conference.html",
+          "scope": "摘要与题录",
+          "locator": "官方会议题名、作者、摘要、会议年份",
+          "finding": "PeskaVLP利用LLM整理与扩展层级手术知识，并结合语言监督、视觉自监督及动态时间规整损失改进视频文本对齐；代码包含Cholec80等下游评估配置。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-014-formal.txt",
+          "checked_at": "2026-09-15T10:27:30.624449+00:00"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2410.00263",
+          "role": "preprint",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2410.00263",
+          "checked_at": "2026-09-15T10:24:47.476568+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://github.com/CAMMA-public/PeskaVLP",
+          "role": "code",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://github.com/CAMMA-public/PeskaVLP",
+          "checked_at": "2026-09-15T10:24:47.608238+00:00",
+          "identity_match": true,
+          "note": "作者代码页面可访问；仅核对README和文件目录，未运行代码。"
+        },
+        {
+          "url": "https://github.com/CAMMA-public/SurgVLP",
+          "role": "code",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://github.com/CAMMA-public/SurgVLP",
+          "checked_at": "2026-09-15T10:24:48.227900+00:00",
+          "identity_match": true,
+          "note": "作者代码页面可访问；仅核对README和文件目录，未运行代码。"
+        },
+        {
+          "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/de0f2a9943b7bd060e5c10c2fb2654f3-Abstract-Conference.html",
+          "role": "publication",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/de0f2a9943b7bd060e5c10c2fb2654f3-Abstract-Conference.html",
+          "checked_at": "2026-09-15T10:27:30.624449+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.52202/079017-3907",
+          "role": "metadata",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://api.crossref.org/works/10.52202/079017-3907",
+          "checked_at": "2026-09-15T10:27:31.253014+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        }
+      ],
+      "changes": [
+        "正式NeurIPS页面确认2024主会；仓库某BibTeX写2025不能覆盖正式会议信息。"
+      ],
+      "relations": [
+        {
+          "type": "preprint_of",
+          "source": "arxiv:2410.00263",
+          "target": "doi:10.52202/079017-3907",
+          "note": "题名、作者与作者/出版元数据共同核对"
+        },
+        {
+          "type": "shares_repository",
+          "target": "HPBAI-012",
+          "url": "https://github.com/CAMMA-public/SurgVLP",
+          "note": "共享模型入口，独立论文身份"
+        },
+        {
+          "type": "shares_repository",
+          "target": "HPBAI-013",
+          "url": "https://github.com/CAMMA-public/SurgVLP",
+          "note": "共享模型入口，独立论文身份"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-015",
+      "kind": "publication",
+      "title": "SurgVidLM: Towards Multi-grained Surgical Video Understanding with Large Language Model",
+      "checked_at": "2026-09-15T10:27:31.939768+00:00",
+      "identity_status": "身份已核实；存在已记录版本/字段差异",
+      "fulltext_status": "已取得正文并核对本卡相关方法段落；非逐句精读",
+      "code_status": "训练和推理代码可见；未运行",
+      "data_status": "HF目录已列训练/测试JSON和视频压缩包；未下载核对",
+      "weights_status": "HF列stage1和stage2目录；未下载验证",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2506.17873",
+          "scope": "摘要与题录",
+          "locator": "题名、Abstract、Methods及Data/Code availability（如页面提供）",
+          "finding": "SurgVidLM构建SVU-31K视频指令数据，利用StageFocus全局到局部机制和多频融合注意力研究整段及细粒度视频理解；正文说明来源包括胰腺手术，但未给本卡所需的具体胰腺术式分项验证。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-015-0.txt",
+          "checked_at": "2026-09-15T10:24:48.260145+00:00"
+        },
+        {
+          "url": "https://arxiv.org/html/2506.17873v3",
+          "scope": "正文相关段落",
+          "locator": "III-A数据构建、StageFocus；v3题名",
+          "finding": "SurgVidLM构建SVU-31K视频指令数据，利用StageFocus全局到局部机制和多频融合注意力研究整段及细粒度视频理解；正文说明来源包括胰腺手术，但未给本卡所需的具体胰腺术式分项验证。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-015-current.txt",
+          "checked_at": "2026-09-15T10:26:27.149244+00:00"
+        },
+        {
+          "url": "https://github.com/gkw0010/SurgVidLM",
+          "scope": "README/文件目录/来源声明",
+          "locator": "作者README或官方题录",
+          "finding": "训练和推理代码可见；未运行；HF目录已列训练/测试JSON和视频压缩包；未下载核对；HF列stage1和stage2目录；未下载验证",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-015-2.txt",
+          "checked_at": "2026-09-15T10:24:48.504083+00:00"
+        },
+        {
+          "url": "https://huggingface.co/datasets/gkw0010/SVU-31K/tree/main",
+          "scope": "README/文件目录/来源声明",
+          "locator": "README/文件目录",
+          "finding": "训练和推理代码可见；未运行；HF目录已列训练/测试JSON和视频压缩包；未下载核对；HF列stage1和stage2目录；未下载验证",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-015-3.txt",
+          "checked_at": "2026-09-15T10:24:48.513720+00:00"
+        },
+        {
+          "url": "https://huggingface.co/jwang01/surgvidlm/tree/main",
+          "scope": "README/文件目录/来源声明",
+          "locator": "文件目录或数据说明",
+          "finding": "训练和推理代码可见；未运行；HF目录已列训练/测试JSON和视频压缩包；未下载核对；HF列stage1和stage2目录；未下载验证",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-015-4.txt",
+          "checked_at": "2026-09-15T10:24:49.230729+00:00"
+        },
+        {
+          "url": "https://frankmowj.github.io/",
+          "scope": "README/文件目录/来源声明",
+          "locator": "Publications / 2026.02接收消息",
+          "finding": "支持页面身份或作者报告；核验范围见链接状态。",
+          "evidence_file": "/Users/xxt/Documents/Codex/2026-09-09/files-pasted-by-the-user-codex/work/hpb/ai-patch-20260915/evidence-01-15/HPBAI-015-author.txt",
+          "checked_at": "2026-09-15T10:27:31.939768+00:00"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2506.17873",
+          "role": "preprint",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2506.17873",
+          "checked_at": "2026-09-15T10:24:48.260145+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://arxiv.org/html/2506.17873v2",
+          "role": "fulltext_html",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/html/2506.17873v2",
+          "checked_at": "2026-09-15T10:24:48.356406+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://github.com/gkw0010/SurgVidLM",
+          "role": "code",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://github.com/gkw0010/SurgVidLM",
+          "checked_at": "2026-09-15T10:24:48.504083+00:00",
+          "identity_match": true,
+          "note": "作者代码页面可访问；仅核对README和文件目录，未运行代码。"
+        },
+        {
+          "url": "https://huggingface.co/datasets/gkw0010/SVU-31K/tree/main",
+          "role": "dataset",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://huggingface.co/datasets/gkw0010/SVU-31K/tree/main",
+          "checked_at": "2026-09-15T10:24:48.513720+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://huggingface.co/jwang01/surgvidlm/tree/main",
+          "role": "model_weights",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://huggingface.co/jwang01/surgvidlm/tree/main",
+          "checked_at": "2026-09-15T10:24:49.230729+00:00",
+          "identity_match": true,
+          "note": "仅核对模型/文件目录或元数据；未下载、加载或校验权重。"
+        },
+        {
+          "url": "https://www.labren.org/mm/news/ren-lab-showcases-robotics-research-at-icra-2026-in-vienna/",
+          "role": "source_evidence",
+          "status": "访问受限/待核对",
+          "http_status": null,
+          "final_url": null,
+          "checked_at": "2026-09-15T10:24:49.566225+00:00",
+          "identity_match": null,
+          "note": "HTTPSConnectionPool(host='www.labren.org', port=443): Max retries exceeded with url: /mm/news/ren-lab-showcases-robotics-research-at-icra-2026-in-vienna/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1028)')))"
+        },
+        {
+          "url": "https://arxiv.org/html/2506.17873v3",
+          "role": "fulltext_html",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/html/2506.17873v3",
+          "checked_at": "2026-09-15T10:26:27.149244+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        },
+        {
+          "url": "https://frankmowj.github.io/",
+          "role": "source_evidence",
+          "status": "已核实页面身份",
+          "http_status": 200,
+          "final_url": "https://frankmowj.github.io/",
+          "checked_at": "2026-09-15T10:27:31.939768+00:00",
+          "identity_match": true,
+          "note": "已读目标页面相关文本；可访问不等于内容全面核实。"
+        }
+      ],
+      "changes": [
+        "同一arXiv记录的当前题录与v3正文题名不同：题录为Surgical Video Understanding，正文为Video Understanding ... in Robot-assisted Surgery；不能仅归因为旧HTML，保留两题名与同一标识。",
+        "训练集状态依据当前HF文件目录，保留README待发布的历史冲突。"
+      ],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-016",
+      "kind": "publication",
+      "title": "SurgCoT: Advancing Spatiotemporal Reasoning in Surgical Videos through a Chain-of-Thought Benchmark",
+      "checked_at": "2026-09-15T10:32:28.917261+00:00",
+      "identity_status": "题名与原始来源对应",
+      "fulltext_status": "预印本 HTML 已取得，核对任务与数据构建段落",
+      "code_status": "作者仓库存在；README 标评估代码将发布",
+      "data_status": "作者链接的数据页已取得；预览报错，未下载核验",
+      "weights_status": "评价基准，不发布自有统一模型权重",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2604.20319",
+          "scope": "预印本题录与摘要",
+          "locator": "citation_title / citation_author / submission history / Abstract",
+          "finding": "核对预印本身份和摘要；此检查本身不代表读过全文。"
+        },
+        {
+          "url": "https://arxiv.org/html/2604.20319v1",
+          "scope": "正文重点核对",
+          "locator": "Benchmark Construction / Evidence Mining / Evaluation",
+          "finding": "三种提示条件及模型辅助空间证据构建；胆囊切除示例可见。"
+        },
+        {
+          "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Wang_SurgCoT_Advancing_Spatiotemporal_Reasoning_in_Surgical_Videos_through_a_Chain-of-Thought_CVPR_2026_paper.html",
+          "scope": "会议身份",
+          "locator": "title / authors / CVPR proceedings",
+          "finding": "CVF 官方记录确认会议论文，作者与预印本对应。"
+        },
+        {
+          "url": "https://github.com/CVI-SZU/SurgCoT",
+          "scope": "代码与数据开放状态",
+          "locator": "News / Dataset Download / repository file list",
+          "finding": "README 标数据已发布、评估代码将发布；顶层文件列表主要为 README 与 assets。"
+        },
+        {
+          "url": "https://huggingface.co/datasets/wanggui/SurgCoT",
+          "scope": "数据入口",
+          "locator": "Dataset Preview",
+          "finding": "作者链接的数据页真实存在；当前预览报字段转换错误，不能声称整套数据可直接加载。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2604.20319",
+          "role": "preprint",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2604.20319",
+          "checked_at": "2026-09-15T10:24:45.939573+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://arxiv.org/html/2604.20319v1",
+          "role": "fulltext_html",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/html/2604.20319v1",
+          "checked_at": "2026-09-15T10:24:45.939829+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Wang_SurgCoT_Advancing_Spatiotemporal_Reasoning_in_Surgical_Videos_through_a_Chain-of-Thought_CVPR_2026_paper.html",
+          "role": "publication",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Wang_SurgCoT_Advancing_Spatiotemporal_Reasoning_in_Surgical_Videos_through_a_Chain-of-Thought_CVPR_2026_paper.html",
+          "checked_at": "2026-09-15T10:24:45.939922+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://github.com/CVI-SZU/SurgCoT",
+          "role": "code",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://github.com/CVI-SZU/SurgCoT",
+          "checked_at": "2026-09-15T10:24:45.940001+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://huggingface.co/datasets/wanggui/SurgCoT",
+          "role": "dataset",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://huggingface.co/datasets/wanggui/SurgCoT",
+          "checked_at": "2026-09-15T10:26:40.303005+00:00",
+          "identity_match": true,
+          "note": "本轮补充官方入口；不代表下载、播放或复现实验通过"
+        }
+      ],
+      "changes": [],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-017",
+      "kind": "publication",
+      "title": "Large-scale self-supervised video foundation model for intelligent surgery",
+      "checked_at": "2026-09-15T10:32:28.917261+00:00",
+      "identity_status": "题名与原始来源对应",
+      "fulltext_status": "期刊 HTML 正文及更正正文已取得；任务与可用性重点核对",
+      "code_status": "作者代码仓库可读取，未运行",
+      "data_status": "公开数据与隐私受限数据并存；完整收集数据仍待发布",
+      "weights_status": "教师参数入口可见；自有最终参数 README 标将发布",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1038/s41746-026-02403-0",
+          "scope": "题录字段",
+          "locator": "title / author / published / article-number",
+          "finding": "题名、作者顺序和出版年份与资源关联文献对应。"
+        },
+        {
+          "url": "https://arxiv.org/abs/2506.02692",
+          "scope": "预印本题录与摘要",
+          "locator": "citation_title / citation_author / submission history / Abstract",
+          "finding": "核对预印本身份和摘要；此检查本身不代表读过全文。"
+        },
+        {
+          "url": "https://www.nature.com/articles/s41746-026-02403-0",
+          "scope": "正文重点核对",
+          "locator": "Abstract / Results / Data availability / Change history",
+          "finding": "核对视频预训练和下游任务；临床私有部分不能公开。"
+        },
+        {
+          "url": "https://www.nature.com/articles/s41746-026-02864-3",
+          "scope": "更正正文",
+          "locator": "Correction to 后首段",
+          "finding": "原作者列表遗漏 Ömer Sümer，现已补正；这是作者更正。"
+        },
+        {
+          "url": "https://github.com/isyangshu/SurgVISTA",
+          "scope": "代码/权重状态",
+          "locator": "Teacher Checkpoint / Parameters / Data",
+          "finding": "教师权重与模型参数区分；自有参数区仍写 Will be released soon。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.nature.com/articles/s41746-026-02403-0",
+          "role": "publication",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://www.nature.com/articles/s41746-026-02403-0",
+          "checked_at": "2026-09-15T10:24:45.940077+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://arxiv.org/abs/2506.02692",
+          "role": "preprint",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2506.02692",
+          "checked_at": "2026-09-15T10:24:45.940143+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://github.com/isyangshu/SurgVISTA",
+          "role": "code",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://github.com/isyangshu/SurgVISTA",
+          "checked_at": "2026-09-15T10:24:46.952658+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://researchportal.hkust.edu.hk/en/publications/large-scale-self-supervised-video-foundation-model-for-intelligen/",
+          "role": "source_evidence",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://researchportal.hkust.edu.hk/en/publications/large-scale-self-supervised-video-foundation-model-for-intelligen/",
+          "checked_at": "2026-09-15T10:24:46.953309+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://www.nature.com/articles/s41746-026-02864-3",
+          "role": "correction",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://www.nature.com/articles/s41746-026-02864-3",
+          "checked_at": "2026-09-15T10:24:47.445391+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://smartx.cse.ust.hk/2026/06/04/surgvista/",
+          "role": "source_evidence",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://smartx.cse.ust.hk/2026/06/04/surgvista/",
+          "checked_at": "2026-09-15T10:24:47.647462+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        }
+      ],
+      "changes": [
+        "本轮取得正式全文与作者更正正文，历史“更正正文未读”不再代表本轮状态。",
+        "更正确认为作者遗漏修订，未发现其要求将结果解释为撤稿。"
+      ],
+      "relations": [
+        {
+          "type": "has_author_correction",
+          "target_doi": "10.1038/s41746-026-02864-3",
+          "evidence_url": "https://www.nature.com/articles/s41746-026-02864-3",
+          "verification_scope": "本轮更正正文与 Crossref update-to 对应"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-018",
+      "kind": "publication",
+      "title": "A generalizable foundation model for intraoperative understanding across surgical procedures",
+      "checked_at": "2026-09-15T10:32:28.917261+00:00",
+      "identity_status": "题名与原始来源对应",
+      "fulltext_status": "预印本 HTML 已取得；数据、任务及可用性重点核对",
+      "code_status": "正文承诺接收后公开，未确认专用代码发布",
+      "data_status": "多种公共数据入口；院内 LLS48 受审批与隐私约束",
+      "weights_status": "正文承诺接收后公开，未确认发布",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2602.13633",
+          "scope": "预印本题录与摘要",
+          "locator": "citation_title / citation_author / submission history / Abstract",
+          "finding": "核对预印本身份和摘要；此检查本身不代表读过全文。"
+        },
+        {
+          "url": "https://arxiv.org/html/2602.13633v1",
+          "scope": "正文重点核对",
+          "locator": "Surgical action triplet recognition / Visual question answering / LLS48 / Code availability",
+          "finding": "LLS48 的术式、五秒片段、视频划分、问答和动作任务可对应；代码权重尚为未来发布承诺。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2602.13633",
+          "role": "preprint",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2602.13633",
+          "checked_at": "2026-09-15T10:24:48.633682+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://arxiv.org/html/2602.13633v1",
+          "role": "fulltext_html",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/html/2602.13633v1",
+          "checked_at": "2026-09-15T10:24:49.362432+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        }
+      ],
+      "changes": [],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-019",
+      "kind": "publication",
+      "title": "General surgery vision transformer: A video pre-trained foundation model for general surgery",
+      "checked_at": "2026-09-15T10:32:28.917261+00:00",
+      "identity_status": "题名与原始来源对应",
+      "fulltext_status": "预印本 HTML v3 已取得；预训练与评价任务重点核对",
+      "code_status": "作者代码仓库可读，未运行",
+      "data_status": "仓库含视频来源清单与脚本；未下载视频",
+      "weights_status": "通用模型外部入口可见但未验证下载；术式专用版本仍待发布",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2403.05949",
+          "scope": "预印本题录与摘要",
+          "locator": "citation_title / citation_author / submission history / Abstract",
+          "finding": "核对预印本身份和摘要；此检查本身不代表读过全文。"
+        },
+        {
+          "url": "https://arxiv.org/html/2403.05949",
+          "scope": "正文重点核对",
+          "locator": "4.1 GenSurgery / 4.2 procedure fine-tuning / phase recognition",
+          "finding": "肝切除预训练/适配与胆囊切除阶段评价分开记录。"
+        },
+        {
+          "url": "https://github.com/SamuelSchmidgall/GSViT",
+          "scope": "开放状态",
+          "locator": "README model download paragraph",
+          "finding": "通用模型 SharePoint 入口可见；专用术式权重尚有发布限制。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/html/2403.05949",
+          "role": "fulltext_html",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/html/2403.05949",
+          "checked_at": "2026-09-15T10:24:49.464419+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://github.com/SamuelSchmidgall/GSViT",
+          "role": "code",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://github.com/SamuelSchmidgall/GSViT",
+          "checked_at": "2026-09-15T10:24:49.577433+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://arxiv.org/abs/2403.05949",
+          "role": "preprint",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2403.05949",
+          "checked_at": "2026-09-15T10:26:39.278862+00:00",
+          "identity_match": true,
+          "note": "本轮补充官方入口；不代表下载、播放或复现实验通过"
+        }
+      ],
+      "changes": [],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-020",
+      "kind": "dataset",
+      "title": "Cholec80 surgical workflow dataset",
+      "checked_at": "2026-09-15T10:32:28.917261+00:00",
+      "identity_status": "题名与原始来源对应",
+      "fulltext_status": "官方数据说明已读；本条不是论文",
+      "code_status": "不适用：数据集",
+      "data_status": "官方目录给下载入口及 CC BY-NC-SA 4.0；未下载核验",
+      "weights_status": "不适用：数据集",
+      "sources": [
+        {
+          "url": "https://camma.unistra.fr/datasets/",
+          "scope": "官方数据说明",
+          "locator": "Cholec80 Dataset",
+          "finding": "80视频、阶段与器械存在标签及许可可确认；关联 EndoNet，未将其出版年份混作新数据发布日。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://camma.unistra.fr/datasets/",
+          "role": "dataset",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://camma.unistra.fr/datasets/",
+          "checked_at": "2026-09-15T10:24:50.630608+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        }
+      ],
+      "changes": [
+        "官方目录关联EndoNet 2016/2017发表记录，但本轮未确认数据首次发布日期；数据资源年份保留未知，避免继承种子年份冒充核验。"
+      ],
+      "relations": [
+        {
+          "type": "overlap_audit",
+          "target_id": "HPBAI-026",
+          "evidence_url": "https://camma.unistra.fr/datasets/",
+          "verification_scope": "本轮官方目录关联"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-021",
+      "kind": "dataset",
+      "title": "CholecSeg8k: A Semantic Segmentation Dataset for Laparoscopic Cholecystectomy Based on Cholec80",
+      "checked_at": "2026-09-15T10:32:28.917261+00:00",
+      "identity_status": "题名与原始来源对应",
+      "fulltext_status": "原始摘要已读；本轮未取论文正文",
+      "code_status": "不适用：数据集",
+      "data_status": "数据入口保留；本次 Kaggle 正文读取受限，未下载",
+      "weights_status": "不适用：数据集",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2012.12453",
+          "scope": "预印本题录与摘要",
+          "locator": "citation_title / citation_author / submission history / Abstract",
+          "finding": "核对预印本身份和摘要；此检查本身不代表读过全文。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2012.12453",
+          "role": "preprint",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2012.12453",
+          "checked_at": "2026-09-15T10:24:50.877965+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://www.kaggle.com/datasets/newslab/cholecseg8k",
+          "role": "dataset",
+          "status": "访问受限或页面正文未取得",
+          "http_status": 200,
+          "final_url": "https://www.kaggle.com/datasets/newslab/cholecseg8k",
+          "checked_at": "2026-09-15T10:24:51.095610+00:00",
+          "identity_match": null,
+          "note": "请求返回状态不等于资源正文可读；保留入口待复核"
+        }
+      ],
+      "changes": [],
+      "relations": [
+        {
+          "type": "derived_from_dataset",
+          "target_id": "HPBAI-020",
+          "evidence_url": "https://arxiv.org/abs/2012.12453",
+          "verification_scope": "本轮原始摘要"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-022",
+      "kind": "dataset",
+      "title": "Endoscapes, a critical view of safety and surgical scene segmentation dataset for laparoscopic cholecystectomy",
+      "checked_at": "2026-09-15T10:32:28.917261+00:00",
+      "identity_status": "题名与原始来源对应",
+      "fulltext_status": "期刊 HTML 及官方数据说明已取得，重点核对标注与公开范围",
+      "code_status": "官方关联基线入口可见，未运行",
+      "data_status": "官方提供下载入口；公开子集与私有完整标注有区别",
+      "weights_status": "官方关联基线入口可见，未逐文件核验",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1038/s41597-025-04642-4",
+          "scope": "题录字段",
+          "locator": "title / author / published / article-number",
+          "finding": "题名、作者顺序和出版年份与资源关联文献对应。"
+        },
+        {
+          "url": "https://arxiv.org/abs/2312.12429",
+          "scope": "预印本题录与摘要",
+          "locator": "citation_title / citation_author / submission history / Abstract",
+          "finding": "核对预印本身份和摘要；此检查本身不代表读过全文。"
+        },
+        {
+          "url": "https://www.nature.com/articles/s41597-025-04642-4",
+          "scope": "正文重点核对",
+          "locator": "Video Editing and Frame Extraction / spatial annotations",
+          "finding": "期刊描述公开Seg50子集和完整分割标注范围；正文将技术报告作为单独来源引用。"
+        },
+        {
+          "url": "https://github.com/CAMMA-public/Endoscapes",
+          "scope": "数据开放与标注说明",
+          "locator": "Contents / Potential overlaps",
+          "finding": "CVS、检测框、分割为不同子集；仅部分密集分割对外公开。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.nature.com/articles/s41597-025-04642-4",
+          "role": "publication",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://www.nature.com/articles/s41597-025-04642-4",
+          "checked_at": "2026-09-15T10:24:51.644958+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://arxiv.org/abs/2312.12429",
+          "role": "preprint",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2312.12429",
+          "checked_at": "2026-09-15T10:24:51.885639+00:00",
+          "identity_match": true,
+          "note": "对应 Endoscapes 配套划分技术报告，题名和第一作者不同于 Scientific Data 描述论文；同一数据资源的关联文献。"
+        },
+        {
+          "url": "https://github.com/CAMMA-public/Endoscapes",
+          "role": "dataset",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://github.com/CAMMA-public/Endoscapes",
+          "checked_at": "2026-09-15T10:24:51.939807+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        }
+      ],
+      "changes": [
+        "arXiv:2312.12429 是标题及第一作者不同的配套划分技术报告；不伪称与期刊描述论文完全同一题录。",
+        "期刊与现仓库将公开分割子集写493帧，技术报告摘要写422帧；保留版本差异并避免混用。"
+      ],
+      "relations": [
+        {
+          "type": "overlap_audit",
+          "target_id": "HPBAI-026",
+          "evidence_url": "https://github.com/CAMMA-public/Endoscapes",
+          "verification_scope": "本轮官方链接"
+        },
+        {
+          "type": "has_technical_report",
+          "target_arxiv": "2312.12429",
+          "evidence_url": "https://www.nature.com/articles/s41597-025-04642-4",
+          "verification_scope": "单独配套技术报告，不标 same_as"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-023",
+      "kind": "dataset",
+      "title": "CholecInstanceSeg: A Tool Instance Segmentation Dataset for Laparoscopic Surgery",
+      "checked_at": "2026-09-15T10:32:28.917261+00:00",
+      "identity_status": "题名与原始来源对应",
+      "fulltext_status": "期刊 HTML 与作者数据说明已取得；标注来源重点核对",
+      "code_status": "格式转换/标签工具可见，未运行",
+      "data_status": "注释与对应图像下载入口可见，未下载核验",
+      "weights_status": "不适用：数据集",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1038/s41597-025-05163-w",
+          "scope": "题录字段",
+          "locator": "title / author / published / article-number",
+          "finding": "题名、作者顺序和出版年份与资源关联文献对应。"
+        },
+        {
+          "url": "https://www.nature.com/articles/s41597-025-05163-w",
+          "scope": "正文重点核对",
+          "locator": "Methods / Annotation workflow / Annotators",
+          "finding": "核对器械实例标注、来源分区及人工质量控制。"
+        },
+        {
+          "url": "https://github.com/cai4cai/cholec_instance_seg",
+          "scope": "数据来源与开放",
+          "locator": "Dataset description / Corresponding Images",
+          "finding": "注释和对应图像入口分开；原图来自既有数据集。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.nature.com/articles/s41597-025-05163-w",
+          "role": "fulltext_html",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://www.nature.com/articles/s41597-025-05163-w",
+          "checked_at": "2026-09-15T10:24:52.053041+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://github.com/cai4cai/cholec_instance_seg",
+          "role": "dataset",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://github.com/cai4cai/cholec_instance_seg",
+          "checked_at": "2026-09-15T10:24:52.151765+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        }
+      ],
+      "changes": [],
+      "relations": [
+        {
+          "type": "derived_from_dataset",
+          "target_id": "HPBAI-020",
+          "evidence_url": "https://github.com/cai4cai/cholec_instance_seg",
+          "verification_scope": "本轮官方数据分区说明"
+        },
+        {
+          "type": "derived_from_dataset",
+          "target_id": "HPBAI-021",
+          "evidence_url": "https://github.com/cai4cai/cholec_instance_seg",
+          "verification_scope": "本轮官方数据分区说明"
+        },
+        {
+          "type": "derived_from_dataset",
+          "target_id": "HPBAI-024",
+          "evidence_url": "https://github.com/cai4cai/cholec_instance_seg",
+          "verification_scope": "本轮官方数据分区说明"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-024",
+      "kind": "dataset",
+      "title": "CholecT50 surgical action triplet dataset",
+      "checked_at": "2026-09-15T10:32:28.917261+00:00",
+      "identity_status": "题名与原始来源对应",
+      "fulltext_status": "官方数据说明与拆分建议已读；本条不是论文",
+      "code_status": "官方数据加载器可见，未运行",
+      "data_status": "公开数据入口及非商业许可可见，未下载",
+      "weights_status": "不适用：数据集",
+      "sources": [
+        {
+          "url": "https://github.com/CAMMA-public/cholect50",
+          "scope": "官方数据说明",
+          "locator": "Dataset / News / Dataset Variants / License",
+          "finding": "确认2023-02-20完整公开、源视频重叠、三元组与稀疏框标注。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://github.com/CAMMA-public/cholect50",
+          "role": "dataset",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://github.com/CAMMA-public/cholect50",
+          "checked_at": "2026-09-15T10:24:52.915243+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://github.com/CAMMA-public/camma_dataset_overlaps",
+          "role": "source_evidence",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://github.com/CAMMA-public/camma_dataset_overlaps",
+          "checked_at": "2026-09-15T10:24:53.424572+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        }
+      ],
+      "changes": [],
+      "relations": [
+        {
+          "type": "shares_source_videos",
+          "target_id": "HPBAI-020",
+          "evidence_url": "https://github.com/CAMMA-public/cholect50",
+          "verification_scope": "45来源视频明确记载"
+        },
+        {
+          "type": "overlap_audit",
+          "target_id": "HPBAI-026",
+          "evidence_url": "https://github.com/CAMMA-public/cholect50",
+          "verification_scope": "本轮官方链接"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-025",
+      "kind": "dataset",
+      "title": "CholecTrack20: A Multi-Perspective Tracking Dataset for Surgical Tools",
+      "checked_at": "2026-09-15T10:32:28.917261+00:00",
+      "identity_status": "题名与原始来源对应",
+      "fulltext_status": "原始摘要及作者数据说明已读；未精读论文全文",
+      "code_status": "官方转换与评估相关脚本入口可见，未运行",
+      "data_status": "需同意DUA、申请访问码并经Synapse访问；未下载",
+      "weights_status": "不适用：数据集",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2312.07352",
+          "scope": "预印本题录与摘要",
+          "locator": "citation_title / citation_author / submission history / Abstract",
+          "finding": "核对预印本身份和摘要；此检查本身不代表读过全文。"
+        },
+        {
+          "url": "https://github.com/CAMMA-public/cholectrack20",
+          "scope": "数据与访问条件",
+          "locator": "Download / Potential Overlap / Publication & Citations",
+          "finding": "访问流程、源视频重叠和CVPR2025论文关联均可确认。"
+        },
+        {
+          "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Nwoye_CholecTrack20_A_Multi-Perspective_Tracking_Dataset_for_Surgical_Tools_CVPR_2025_paper.html",
+          "scope": "会议身份",
+          "locator": "title / authors / Proceedings",
+          "finding": "官方CVF确认同题同作者CVPR2025会议记录。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2312.07352",
+          "role": "preprint",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2312.07352",
+          "checked_at": "2026-09-15T10:24:53.685760+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://github.com/CAMMA-public/cholectrack20",
+          "role": "dataset",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://github.com/CAMMA-public/cholectrack20",
+          "checked_at": "2026-09-15T10:24:54.799808+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Nwoye_CholecTrack20_A_Multi-Perspective_Tracking_Dataset_for_Surgical_Tools_CVPR_2025_paper.html",
+          "role": "publication",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Nwoye_CholecTrack20_A_Multi-Perspective_Tracking_Dataset_for_Surgical_Tools_CVPR_2025_paper.html",
+          "checked_at": "2026-09-15T10:26:40.396841+00:00",
+          "identity_match": true,
+          "note": "本轮补充官方入口；不代表下载、播放或复现实验通过"
+        }
+      ],
+      "changes": [
+        "补充确认 CVPR 2025 正式发表；保留 2023 预印本起始年份而不再仅展示2023。"
+      ],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-026",
+      "kind": "audit_tool",
+      "title": "CAMMA dataset overlaps: Cholec80, CholecT50 and Endoscapes",
+      "checked_at": "2026-09-15T10:32:28.917261+00:00",
+      "identity_status": "题名与原始来源对应",
+      "fulltext_status": "官方README重叠表与建议已读；本条不是论文",
+      "code_status": "官方审计脚本可见，未运行",
+      "data_status": "重叠表公开可读",
+      "weights_status": "不适用",
+      "sources": [
+        {
+          "url": "https://github.com/CAMMA-public/camma_dataset_overlaps",
+          "scope": "官方审计说明",
+          "locator": "Summary / Recommendations",
+          "finding": "原始视频ID、跨划分重叠及组合建议可见。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://github.com/CAMMA-public/camma_dataset_overlaps",
+          "role": "source_evidence",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://github.com/CAMMA-public/camma_dataset_overlaps",
+          "checked_at": "2026-09-15T10:24:53.424572+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        }
+      ],
+      "changes": [],
+      "relations": [
+        {
+          "type": "audits_overlap_of",
+          "target_id": "HPBAI-020",
+          "evidence_url": "https://github.com/CAMMA-public/camma_dataset_overlaps",
+          "verification_scope": "本轮官方表格"
+        },
+        {
+          "type": "audits_overlap_of",
+          "target_id": "HPBAI-022",
+          "evidence_url": "https://github.com/CAMMA-public/camma_dataset_overlaps",
+          "verification_scope": "本轮官方表格"
+        },
+        {
+          "type": "audits_overlap_of",
+          "target_id": "HPBAI-024",
+          "evidence_url": "https://github.com/CAMMA-public/camma_dataset_overlaps",
+          "verification_scope": "本轮官方表格"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-027",
+      "kind": "model_card",
+      "title": "Surgical SAM 3.1",
+      "checked_at": "2026-09-15T10:32:28.917261+00:00",
+      "identity_status": "题名与原始来源对应",
+      "fulltext_status": "当前模型卡及API文件清单已读；无论文全文身份",
+      "code_status": "模型页列配置、补丁与推理脚本，未运行",
+      "data_status": "关联联合数据集有入口；未下载或独立审计",
+      "weights_status": "HF API清单有专用checkpoint且gated=false；仅核文件清单，未下载验证",
+      "sources": [
+        {
+          "url": "https://huggingface.co/mehmetkeremturkcan/SAM3-Joint-Surgical",
+          "scope": "模型卡重点核对",
+          "locator": "Overview / Evaluation protocol / Checkpoint / Intended use",
+          "finding": "当前是SAM3.1检测器适配；保留基础跟踪参数；指标和分组无重叠为作者自报。"
+        },
+        {
+          "url": "https://huggingface.co/api/models/mehmetkeremturkcan/SAM3-Joint-Surgical",
+          "scope": "模型元数据与清单",
+          "locator": "gated / siblings / sha",
+          "finding": "API无访问门控且专用checkpoint文件名可见；未请求权重文件内容。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://huggingface.co/mehmetkeremturkcan/SAM3-Joint-Surgical",
+          "role": "model_card",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://huggingface.co/mehmetkeremturkcan/SAM3-Joint-Surgical",
+          "checked_at": "2026-09-15T10:24:54.857709+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        }
+      ],
+      "changes": [
+        "同一URL当前模型名与seed不同：更新为 Surgical SAM 3.1，保留旧名别名，不新建第二主记录。",
+        "区分微调检测器与沿用的基础跟踪器；未把参数存在写成已验证长视频性能。"
+      ],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-028",
+      "kind": "publication",
+      "title": "More than Segmentation: Benchmarking SAM 3 for Segmentation, 3D Perception, and Reconstruction in Robotic Surgery",
+      "checked_at": "2026-09-15T10:32:28.917261+00:00",
+      "identity_status": "题名与原始来源对应",
+      "fulltext_status": "题录与摘要已读；本轮未取正文",
+      "code_status": "未确认本文专用复现仓库",
+      "data_status": "摘要提及公共基准；本轮未核访问条件",
+      "weights_status": "基础模型与本文专用材料不能混同；专用权重未确认",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2512.07596",
+          "scope": "预印本题录与摘要",
+          "locator": "citation_title / citation_author / submission history / Abstract",
+          "finding": "核对预印本身份和摘要；此检查本身不代表读过全文。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2512.07596",
+          "role": "preprint",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2512.07596",
+          "checked_at": "2026-09-15T10:24:54.858094+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        }
+      ],
+      "changes": [],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-029",
+      "kind": "publication",
+      "title": "Depth-Driven Geometric Prompt Learning for Laparoscopic Liver Landmark Detection",
+      "checked_at": "2026-09-15T10:32:28.917261+00:00",
+      "identity_status": "题名与原始来源对应",
+      "fulltext_status": "摘要、MICCAI官方记录及作者说明已读；本轮未精读PDF正文",
+      "code_status": "作者代码仓库可见，未运行",
+      "data_status": "L3D Google Drive入口可见，未下载验证",
+      "weights_status": "专用D2GPLand权重入口可见；未测试实际文件下载",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2406.17858",
+          "scope": "预印本题录与摘要",
+          "locator": "citation_title / citation_author / submission history / Abstract",
+          "finding": "核对预印本身份和摘要；此检查本身不代表读过全文。"
+        },
+        {
+          "url": "https://papers.miccai.org/miccai-2024/210-Paper0310.html",
+          "scope": "会议身份",
+          "locator": "title / authors / abstract",
+          "finding": "MICCAI 2024官方页面与arXiv身份对应。"
+        },
+        {
+          "url": "https://github.com/PJLallen/D2GPLand",
+          "scope": "版本、代码数据与权重",
+          "locator": "News / Dataset preparation / Pre-trained weights",
+          "finding": "明确指向后续Medical Image Analysis期刊版；L3D与专用参数入口分开。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2406.17858",
+          "role": "preprint",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2406.17858",
+          "checked_at": "2026-09-15T10:24:55.010117+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://github.com/PJLallen/D2GPLand",
+          "role": "code",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://github.com/PJLallen/D2GPLand",
+          "checked_at": "2026-09-15T10:24:55.038375+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        },
+        {
+          "url": "https://papers.miccai.org/miccai-2024/210-Paper0310.html",
+          "role": "publication",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://papers.miccai.org/miccai-2024/210-Paper0310.html",
+          "checked_at": "2026-09-15T10:26:39.279242+00:00",
+          "identity_match": true,
+          "note": "本轮补充官方入口；不代表下载、播放或复现实验通过"
+        }
+      ],
+      "changes": [],
+      "relations": [
+        {
+          "type": "introduces_dataset",
+          "target_id": "HPBAI-040",
+          "evidence_url": "https://github.com/PJLallen/D2GPLand",
+          "verification_scope": "本轮作者README"
+        },
+        {
+          "type": "has_journal_extension",
+          "target_id": "HPBAI-030",
+          "evidence_url": "https://github.com/PJLallen/D2GPLand",
+          "verification_scope": "本轮News明确链接期刊版"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-030",
+      "kind": "publication",
+      "title": "Depth-induced prompt learning for laparoscopic liver landmark detection",
+      "checked_at": "2026-09-15T10:32:28.917261+00:00",
+      "identity_status": "题名与原始来源对应",
+      "fulltext_status": "Europe PMC摘要取得；出版社正文受限",
+      "code_status": "作者专用代码仓库可读，未运行",
+      "data_status": "三个数据源入口可见；未下载核验",
+      "weights_status": "作者明确列专用权重与基础模型权重各自入口；未下载验证",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1016/j.media.2026.103940",
+          "scope": "题录字段",
+          "locator": "title / author / published / article-number",
+          "finding": "题名、作者顺序和出版年份与资源关联文献对应。"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41564631%20AND%20SRC:MED&format=json&resultType=core",
+          "scope": "正式题录与摘要",
+          "locator": "resultList.result[0]: title / authorString / firstPublicationDate / abstractText",
+          "finding": "题名、作者、DOI和在线日期对应；取得摘要，全文链接标订阅受限。"
+        },
+        {
+          "url": "https://github.com/cuiruize/D2GPLand-Plus",
+          "scope": "方法组件与开放状态",
+          "locator": "Dataset preparation / Pre-trained weights / Citation",
+          "finding": "正式论文同题；三个数据入口、自有权重与基础权重分别列出。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41564631/",
+          "role": "publication",
+          "status": "访问受限或页面正文未取得",
+          "http_status": 203,
+          "final_url": "https://pubmed.ncbi.nlm.nih.gov/41564631/",
+          "checked_at": "2026-09-15T10:24:55.432757+00:00",
+          "identity_match": null,
+          "note": "请求返回状态不等于资源正文可读；保留入口待复核"
+        },
+        {
+          "url": "https://doi.org/10.1016/j.media.2026.103940",
+          "role": "publication",
+          "status": "访问受限或页面正文未取得",
+          "http_status": 200,
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1361841526000095",
+          "checked_at": "2026-09-15T10:24:55.872625+00:00",
+          "identity_match": null,
+          "note": "请求返回状态不等于资源正文可读；保留入口待复核"
+        },
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S1361841526000095",
+          "role": "publication",
+          "status": "访问受限或页面正文未取得",
+          "http_status": 403,
+          "final_url": "https://www.sciencedirect.com/science/article/pii/S1361841526000095",
+          "checked_at": "2026-09-15T10:24:55.955723+00:00",
+          "identity_match": null,
+          "note": "请求返回状态不等于资源正文可读；保留入口待复核"
+        },
+        {
+          "url": "https://github.com/cuiruize/D2GPLand-Plus",
+          "role": "code",
+          "status": "页面内容取得，身份对应",
+          "http_status": 200,
+          "final_url": "https://github.com/cuiruize/D2GPLand-Plus",
+          "checked_at": "2026-09-15T10:24:56.174857+00:00",
+          "identity_match": true,
+          "note": "已读取题名及相关说明；非播放、全文精读或复现验收"
+        }
+      ],
+      "changes": [
+        "在线日期由 Europe PMC 确认2026-01-13，卷期年份为2026年3月；不据DOI字符串推算日期。"
+      ],
+      "relations": [
+        {
+          "type": "journal_extension_of",
+          "target_id": "HPBAI-029",
+          "evidence_url": "https://github.com/PJLallen/D2GPLand",
+          "verification_scope": "本轮作者News直接称Journal version并链接本文"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-031",
+      "kind": "publication",
+      "title": "Subsampled randomized Fourier GaLore for adapting foundation models in depth-driven liver landmark segmentation",
+      "checked_at": "2026-09-15T10:35:22.525044+00:00",
+      "identity_status": "题名与原站记录匹配",
+      "fulltext_status": "取得期刊HTML正文；重点核对方法、数据及讨论",
+      "code_status": "作者代码页及文件目录可读；未运行",
+      "data_status": "L3D及LLSD入口已确认；未下载",
+      "weights_status": "未确认专用权重公开",
+      "sources": [
+        {
+          "url": "https://link.springer.com/article/10.1007/s11548-026-03674-4",
+          "scope": "期刊正文重点核对",
+          "locator": "Methods; Datasets; Discussion",
+          "finding": "双编码器、三类标志及外部测试边界与题录一致"
+        },
+        {
+          "url": "https://github.com/mobarakol/SRFTGaLore_LiverLandmark",
+          "scope": "作者README",
+          "locator": "Dataset",
+          "finding": "关联LLSD官方页面和L3D原仓库"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1007/s11548-026-03674-4",
+          "scope": "Crossref元数据",
+          "locator": "title/author/date",
+          "finding": "题名、作者顺序及日期匹配"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://link.springer.com/article/10.1007/s11548-026-03674-4",
+          "role": "fulltext_html",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://link.springer.com/article/10.1007/s11548-026-03674-4",
+          "checked_at": "2026-09-15T10:25:34.897038+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://github.com/mobarakol/SRFTGaLore_LiverLandmark",
+          "role": "code",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://github.com/mobarakol/SRFTGaLore_LiverLandmark",
+          "checked_at": "2026-09-15T10:25:32.231433+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://rdr.ucl.ac.uk/articles/dataset/LLSD/31096477",
+          "role": "dataset",
+          "status": "访问受限或空响应",
+          "http_status": 202,
+          "final_url": "https://rdr.ucl.ac.uk/articles/dataset/LLSD/31096477",
+          "checked_at": "2026-09-15T10:25:35.103242+00:00",
+          "identity_match": null,
+          "note": "本地HTTP202空响应；另经UCL网页读取及官方Figshare API确认数据身份。未下载数据。"
+        }
+      ],
+      "changes": [],
+      "relations": [
+        {
+          "type": "associated_dataset",
+          "target_id": "HPBAI-041",
+          "evidence_url": "https://github.com/mobarakol/SRFTGaLore_LiverLandmark"
+        },
+        {
+          "type": "uses_dataset",
+          "target_id": "HPBAI-040",
+          "evidence_url": "https://link.springer.com/article/10.1007/s11548-026-03674-4"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-032",
+      "kind": "publication",
+      "title": "GroundedSurg: A Multi-Procedure Benchmark for Language-Conditioned Surgical Tool Segmentation",
+      "checked_at": "2026-09-15T10:35:22.525044+00:00",
+      "identity_status": "题名与原站记录匹配",
+      "fulltext_status": "取得arXiv HTML正文；重点核对任务与评测协议",
+      "code_status": "作者评测脚本目录可读；许可待补充，未运行",
+      "data_status": "Hugging Face数据卡与查看器可读；未下载",
+      "weights_status": "通用SAM后端入口，不代表有本研究专用权重",
+      "sources": [
+        {
+          "url": "https://arxiv.org/html/2603.01108v1",
+          "scope": "预印本正文重点核对",
+          "locator": "Task definition; Experiments",
+          "finding": "预测空间提示送入冻结SAM，按图像查询实例评价"
+        },
+        {
+          "url": "https://github.com/gaash-lab/GroundedSurg",
+          "scope": "作者README",
+          "locator": "Covered Procedures; License",
+          "finding": "确认胆囊切除来源与代码许可待补"
+        },
+        {
+          "url": "https://huggingface.co/datasets/GAASH-Lab/GroundedSurg",
+          "scope": "官方数据卡",
+          "locator": "Dataset Statistics; Dataset Viewer; License",
+          "finding": "卡片与查看器数量不同；数据卡声明许可"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2603.01108",
+          "role": "preprint",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2603.01108",
+          "checked_at": "2026-09-15T10:25:29.917274+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://github.com/gaash-lab/GroundedSurg",
+          "role": "code",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://github.com/gaash-lab/GroundedSurg",
+          "checked_at": "2026-09-15T10:25:32.185902+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://huggingface.co/datasets/GAASH-Lab/GroundedSurg",
+          "role": "dataset",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://huggingface.co/datasets/GAASH-Lab/GroundedSurg",
+          "checked_at": "2026-09-15T10:25:33.366890+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://arxiv.org/html/2603.01108v1",
+          "role": "fulltext_html",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/html/2603.01108v1",
+          "checked_at": "2026-09-15T10:25:30.556424+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        }
+      ],
+      "changes": [
+        "不把作者README的MICCAI声明升级为独立会议核验。"
+      ],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-033",
+      "kind": "publication",
+      "title": "Parameter-Efficient Adaptation of SAM3 for Prompt-Driven Surgical Concept Segmentation",
+      "checked_at": "2026-09-15T10:35:22.525044+00:00",
+      "identity_status": "题名与原站记录匹配",
+      "fulltext_status": "取得arXiv HTML正文；重点核对输入、评测和拆分",
+      "code_status": "代码目录可读；未运行",
+      "data_status": "使用既有公开数据集；未下载",
+      "weights_status": "作者README明确专用LoRA权重TBD，尚未发布",
+      "sources": [
+        {
+          "url": "https://arxiv.org/html/2607.23694v1",
+          "scope": "预印本正文重点核对",
+          "locator": "2.1; 3.1",
+          "finding": "图像-类别输入与具体留出编号"
+        },
+        {
+          "url": "https://github.com/ChangjingLiu/SurgSAM3",
+          "scope": "作者README",
+          "locator": "Installation; Pre-trained LoRA weights",
+          "finding": "LoRA权重TBD，基模型权重需独立许可"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2607.23694",
+          "role": "preprint",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2607.23694",
+          "checked_at": "2026-09-15T10:25:29.947614+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://github.com/ChangjingLiu/SurgSAM3",
+          "role": "code",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://github.com/ChangjingLiu/SurgSAM3",
+          "checked_at": "2026-09-15T10:25:31.028232+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://arxiv.org/html/2607.23694v1",
+          "role": "fulltext_html",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/html/2607.23694v1",
+          "checked_at": "2026-09-15T10:25:30.937754+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        }
+      ],
+      "changes": [],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-034",
+      "kind": "publication",
+      "title": "SurgVLM: A Large Vision-Language Model and Systematic Evaluation Benchmark for Surgical Intelligence",
+      "checked_at": "2026-09-15T10:35:22.525044+00:00",
+      "identity_status": "题名与原站记录匹配",
+      "fulltext_status": "取得arXiv HTML正文；重点核对模型与任务",
+      "code_status": "作者仓库可读但当前目录以项目网页为主；未确认论文训练/推理实现完整发布",
+      "data_status": "当前作者README称部分数据通过SurgSigma-DB发布；该Hugging Face页面本轮请求失败，下载权限未确认",
+      "weights_status": "项目页模型按钮未提供有效外部下载地址；仓库仅描述新9B变体，未确认专用权重公开",
+      "sources": [
+        {
+          "url": "https://arxiv.org/html/2506.02555v1",
+          "scope": "预印本正文重点核对",
+          "locator": "2.2 SurgVLM-Bench; model architecture",
+          "finding": "Qwen2.5-VL及Cholec80/CholecT50/Endoscapes任务明确"
+        },
+        {
+          "url": "https://jinlab-imvr.github.io/SurgVLM",
+          "scope": "作者项目页面",
+          "locator": "Header links / Abstract",
+          "finding": "对应2025预印本；模型和数据按钮未给实际下载URL"
+        },
+        {
+          "url": "https://github.com/jinlab-imvr/SurgVLM",
+          "scope": "作者当前README",
+          "locator": "Models / Public Release",
+          "finding": "当前介绍Qwen3.5-9B及部分数据SurgSigma-DB，版本漂移保留待核"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://arxiv.org/abs/2506.02555",
+          "role": "preprint",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2506.02555",
+          "checked_at": "2026-09-15T10:25:29.794996+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://arxiv.org/html/2506.02555v1",
+          "role": "fulltext_html",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/html/2506.02555v1",
+          "checked_at": "2026-09-15T10:25:30.392768+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://jinlab-imvr.github.io/SurgVLM",
+          "role": "project",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://jinlab-imvr.github.io/SurgVLM/",
+          "checked_at": "2026-09-15T10:33:17.966652+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://github.com/jinlab-imvr/SurgVLM",
+          "role": "code",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://github.com/jinlab-imvr/SurgVLM",
+          "checked_at": "2026-09-15T10:33:19.378700+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://huggingface.co/datasets/SurgSigma/SurgSigma-DB",
+          "role": "dataset",
+          "status": "访问受限或空响应",
+          "http_status": null,
+          "final_url": "https://huggingface.co/datasets/SurgSigma/SurgSigma-DB",
+          "checked_at": "2026-09-15T10:34:09.441466+00:00",
+          "identity_match": null,
+          "note": "由作者README链接；本轮请求失败，数据内容与权限未核实。 本地请求未取得目标正文，不以HTTP成功作为内容核实。"
+        }
+      ],
+      "changes": [
+        "维持arXiv 2506.02555独立身份，不与SurgVidLM合并。",
+        "发现作者仓库模型版本漂移；原论文仍记Qwen2.5-VL，新Qwen3.5-9B仅列待核发布变化。"
+      ],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-035",
+      "kind": "publication",
+      "title": "Real-time anatomy recognition in laparoscopic liver resection using video segmentation AI model",
+      "checked_at": "2026-09-15T10:35:22.525044+00:00",
+      "identity_status": "题名与原站记录匹配",
+      "fulltext_status": "已取得作者接收稿PDF；重点核对方法、限制、可用性",
+      "code_status": "正文链接基础Vivim代码；本肝切除训练实现与权重未确认完整发布",
+      "data_status": "正文明确不公开；可向通讯作者合理申请",
+      "weights_status": "未确认肝切除专用权重公开",
+      "sources": [
+        {
+          "url": "https://www.nature.com/articles/s41746-026-02989-5",
+          "scope": "期刊页面",
+          "locator": "Early access notice; Supplementary material",
+          "finding": "接收稿提前公开身份与补充视频入口"
+        },
+        {
+          "url": "https://www.nature.com/articles/s41746-026-02989-5_reference.pdf",
+          "scope": "接收稿PDF重点核对",
+          "locator": "Methods / Dataset / Data annotation / Data availability / Code availability",
+          "finding": "视频取关键片段、遮挡排除、数据申请限制及基础代码关系"
+        },
+        {
+          "url": "https://github.com/scott-yjyang/Vivim",
+          "scope": "基础方法README",
+          "locator": "Overview; Citation",
+          "finding": "仓库对应较早医学视频Vivim基础研究，不是新肝切除专用权重证明"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1038/s41746-026-02989-5",
+          "scope": "Crossref元数据",
+          "locator": "title/author/date",
+          "finding": "题名、作者顺序及日期匹配"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.nature.com/articles/s41746-026-02989-5",
+          "role": "publication",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://www.nature.com/articles/s41746-026-02989-5",
+          "checked_at": "2026-09-15T10:25:35.521059+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://www.nature.com/articles/s41746-026-02989-5_reference.pdf",
+          "role": "fulltext_pdf",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://www.nature.com/articles/s41746-026-02989-5_reference.pdf",
+          "checked_at": "2026-09-15T10:25:36.257749+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://github.com/scott-yjyang/Vivim",
+          "role": "code",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://github.com/scott-yjyang/Vivim",
+          "checked_at": "2026-09-15T10:27:30.935931+00:00",
+          "identity_match": true,
+          "note": "论文引用的基础Vivim实现，不能当作本肝切除实验完整复现包。"
+        }
+      ],
+      "changes": [],
+      "relations": [
+        {
+          "type": "has_demo_entry",
+          "target_id": "HPBAI-042",
+          "evidence_url": "https://www.nature.com/articles/s41746-026-02989-5"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-036",
+      "kind": "publication",
+      "title": "The development of a deep learning model for automated segmentation of the robotic pancreaticojejunostomy",
+      "checked_at": "2026-09-15T10:35:22.525044+00:00",
+      "identity_status": "题名与原站记录匹配",
+      "fulltext_status": "仅取得出版社摘要；正文订阅受限",
+      "code_status": "摘要及可见页面未确认代码",
+      "data_status": "未确认公开数据",
+      "weights_status": "未确认公开权重",
+      "sources": [
+        {
+          "url": "https://link.springer.com/article/10.1007/s00464-024-10725-x",
+          "scope": "出版社摘要",
+          "locator": "Methods; Results; Conclusion",
+          "finding": "3D CNN按任务对视频帧分类，非像素分割"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1007/s00464-024-10725-x",
+          "scope": "Crossref题录",
+          "locator": "title/author/published-online",
+          "finding": "DOI题名作者日期匹配"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38488870/",
+          "role": "publication",
+          "status": "访问受限或空响应",
+          "http_status": 203,
+          "final_url": "https://pubmed.ncbi.nlm.nih.gov/38488870/",
+          "checked_at": "2026-09-15T10:25:35.102880+00:00",
+          "identity_match": null,
+          "note": "本地请求为203挑战页；另经网页工具读到PubMed题录。不能以本地响应视为取得摘要。 本地请求未取得目标正文，不以HTTP成功作为内容核实。"
+        },
+        {
+          "url": "https://link.springer.com/article/10.1007/s00464-024-10725-x",
+          "role": "publication",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://link.springer.com/article/10.1007/s00464-024-10725-x",
+          "checked_at": "2026-09-15T10:25:34.708210+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        }
+      ],
+      "changes": [
+        "明确时间分割分类；不归入空间像素分割。"
+      ],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-037",
+      "kind": "publication",
+      "title": "Automated surgical phase recognition for robotic pancreatoduodenectomy using artificial intelligence",
+      "checked_at": "2026-09-15T10:35:22.525044+00:00",
+      "identity_status": "Crossref题录匹配；出版社直接页面访问受限",
+      "fulltext_status": "直接全文访问受限；仅题录与出版社检索可见正文节选",
+      "code_status": "未确认",
+      "data_status": "未确认",
+      "weights_status": "未确认",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1093/bjs/znaf160",
+          "scope": "Crossref题录",
+          "locator": "title/author/published-online",
+          "finding": "题名身份和2025-07-29在线日期"
+        },
+        {
+          "url": "https://academic.oup.com/bjs/article/112/7/znaf160/8216195",
+          "scope": "出版社检索可见正文节选",
+          "locator": "Introduction; Fig.1 caption; discussion",
+          "finding": "全程RPD、TeCNO、时间阶段/步骤分类；直接打开受限"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://doi.org/10.1093/bjs/znaf160",
+          "role": "publication",
+          "status": "访问受限或空响应",
+          "http_status": 403,
+          "final_url": "https://academic.oup.com/bjs/article/doi/10.1093/bjs/znaf160/8216195",
+          "checked_at": "2026-09-15T10:25:31.012312+00:00",
+          "identity_match": null,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。 本地请求未取得目标正文，不以HTTP成功作为内容核实。"
+        },
+        {
+          "url": "https://academic.oup.com/bjs/article/112/7/znaf160/8216195",
+          "role": "publication",
+          "status": "访问受限或空响应",
+          "http_status": 403,
+          "final_url": "https://academic.oup.com/bjs/article/112/7/znaf160/8216195",
+          "checked_at": "2026-09-15T10:25:28.860386+00:00",
+          "identity_match": null,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。 本地请求未取得目标正文，不以HTTP成功作为内容核实。"
+        },
+        {
+          "url": "https://academic.oup.com/bjs/issue/112/7",
+          "role": "publication",
+          "status": "访问受限或空响应",
+          "http_status": 403,
+          "final_url": "https://academic.oup.com/bjs/issue/112/7",
+          "checked_at": "2026-09-15T10:25:28.860703+00:00",
+          "identity_match": null,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。 本地请求未取得目标正文，不以HTTP成功作为内容核实。"
+        }
+      ],
+      "changes": [
+        "区分Crossref在线2025-07-29与卷期2025-07；不使用第三方显示日期推翻出版社。"
+      ],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-038",
+      "kind": "publication",
+      "title": "UniSurgSAM: A Unified Promptable Model for Reliable Surgical Video Segmentation",
+      "checked_at": "2026-09-15T10:35:22.525044+00:00",
+      "identity_status": "题名与原站记录匹配",
+      "fulltext_status": "取得arXiv HTML正文；重点核对方法、数据和扩展关系",
+      "code_status": "作者仓库为预告，Code Coming Soon；未确认实现已发布",
+      "data_status": "作者声明后续提供；整理后基准未确认可下载",
+      "weights_status": "作者仓库称将发布；尚未确认公开",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2604.03645",
+          "scope": "arXiv题录及备注",
+          "locator": "Title / Authors / Comments",
+          "finding": "明确标识及ReSurgSAM2扩展版"
+        },
+        {
+          "url": "https://arxiv.org/html/2604.03645v1",
+          "scope": "预印本正文重点核对",
+          "locator": "3.3; 4.1.1",
+          "finding": "SAM2跟踪器与四个来源数据集"
+        },
+        {
+          "url": "https://github.com/jinlab-imvr/UniSurgSAM",
+          "scope": "作者README",
+          "locator": "Code Coming Soon / Citation",
+          "finding": "代码和模型尚为预告；Universal旧题名与作者列表和新arXiv有差异，以新题录为准"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://jinlab-imvr.github.io/UniSurgSAM/",
+          "role": "project",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://jinlab-imvr.github.io/UniSurgSAM/",
+          "checked_at": "2026-09-15T10:25:34.018268+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://arxiv.org/abs/2604.03645",
+          "role": "preprint",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/abs/2604.03645",
+          "checked_at": "2026-09-15T10:27:26.128097+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://arxiv.org/html/2604.03645v1",
+          "role": "fulltext_html",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://arxiv.org/html/2604.03645v1",
+          "checked_at": "2026-09-15T10:27:27.274396+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://github.com/jinlab-imvr/UniSurgSAM",
+          "role": "code",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://github.com/jinlab-imvr/UniSurgSAM",
+          "checked_at": "2026-09-15T10:27:29.338393+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        }
+      ],
+      "changes": [
+        "补入已核实arXiv 2604.03645及真实日期；主实体由项目更新为预印本文献，保留资源ID不另建重复记录。",
+        "移除未经来源支持的胰腺标签。"
+      ],
+      "relations": [
+        {
+          "type": "extended_version_of",
+          "target_id": "HPBAI-008",
+          "evidence_url": "https://arxiv.org/abs/2604.03645"
+        },
+        {
+          "type": "has_demo_entry",
+          "target_id": "HPBAI-045",
+          "evidence_url": "https://jinlab-imvr.github.io/UniSurgSAM/"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-039",
+      "kind": "publication",
+      "title": "Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection",
+      "checked_at": "2026-09-15T10:35:22.525044+00:00",
+      "identity_status": "题名与原站记录匹配",
+      "fulltext_status": "仅出版社摘要；正文订阅受限",
+      "code_status": "作者代码与训练/测试文件目录可读；未运行",
+      "data_status": "L3D/P2ILF入口可见；未下载",
+      "weights_status": "README列TopoNet专用权重Google Drive入口；下载权限与文件未测试",
+      "sources": [
+        {
+          "url": "https://link.springer.com/chapter/10.1007/978-3-032-05127-1_56",
+          "scope": "会议章节摘要",
+          "locator": "Abstract",
+          "finding": "双路径CNN、拓扑约束及L3D/P2ILF"
+        },
+        {
+          "url": "https://github.com/cuiruize/TopoNet",
+          "scope": "作者README",
+          "locator": "Dataset preparation; Pre-trained weights; Train",
+          "finding": "深度先验与专用权重入口，未运行或下载"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1007/978-3-032-05127-1_56",
+          "scope": "Crossref元数据",
+          "locator": "title/author/date",
+          "finding": "题名、作者顺序及日期匹配"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://link.springer.com/chapter/10.1007/978-3-032-05127-1_56",
+          "role": "publication",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://link.springer.com/chapter/10.1007/978-3-032-05127-1_56",
+          "checked_at": "2026-09-15T10:25:35.045621+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        },
+        {
+          "url": "https://github.com/cuiruize/TopoNet",
+          "role": "code",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://github.com/cuiruize/TopoNet",
+          "checked_at": "2026-09-15T10:25:31.958511+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        }
+      ],
+      "changes": [
+        "补充基础深度先验边界，避免把TopoNet简单称为纯非基础模型。"
+      ],
+      "relations": [
+        {
+          "type": "uses_dataset",
+          "target_id": "HPBAI-040",
+          "evidence_url": "https://github.com/cuiruize/TopoNet"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-040",
+      "kind": "dataset",
+      "title": "L3D",
+      "checked_at": "2026-09-15T10:35:22.525044+00:00",
+      "identity_status": "题名与原站记录匹配",
+      "fulltext_status": "不适用",
+      "code_status": "共用论文代码仓库；数据自身不计作代码发布",
+      "data_status": "作者README列Google Drive数据入口；未下载或测试文件权限",
+      "weights_status": "不适用",
+      "sources": [
+        {
+          "url": "https://github.com/PJLallen/D2GPLand",
+          "scope": "作者README",
+          "locator": "Dataset preparation; News",
+          "finding": "原L3D入口及后续L3D2K区分"
+        },
+        {
+          "url": "https://link.springer.com/article/10.1007/s11548-026-03674-4",
+          "scope": "关联论文正文",
+          "locator": "Datasets",
+          "finding": "三种肝表面标志及L3D图像来源"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://github.com/PJLallen/D2GPLand",
+          "role": "dataset",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://github.com/PJLallen/D2GPLand",
+          "checked_at": "2026-09-15T10:25:31.054653+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        }
+      ],
+      "changes": [],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-041",
+      "kind": "dataset",
+      "title": "LLSD",
+      "checked_at": "2026-09-15T10:35:22.525044+00:00",
+      "identity_status": "题名与原站记录匹配",
+      "fulltext_status": "不适用",
+      "code_status": "不适用",
+      "data_status": "官方元数据及下载入口可见；CC BY-NC-ND 4.0，未下载",
+      "weights_status": "不适用",
+      "sources": [
+        {
+          "url": "https://rdr.ucl.ac.uk/articles/dataset/LLSD/31096477",
+          "scope": "UCL网页工具读取",
+          "locator": "Description; License",
+          "finding": "题名、来源、三种标志、许可一致；本地直连空响应"
+        },
+        {
+          "url": "https://api.figshare.com/v2/articles/31096477",
+          "scope": "Figshare官方API元数据",
+          "locator": "title/doi/published_date/license/description",
+          "finding": "数据身份与版本逐字段核实"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://rdr.ucl.ac.uk/articles/dataset/LLSD/31096477",
+          "role": "dataset",
+          "status": "访问受限或空响应",
+          "http_status": 202,
+          "final_url": "https://rdr.ucl.ac.uk/articles/dataset/LLSD/31096477",
+          "checked_at": "2026-09-15T10:25:35.103242+00:00",
+          "identity_match": null,
+          "note": "本地HTTP202空响应；另经UCL网页读取及官方Figshare API确认数据身份。未下载数据。"
+        },
+        {
+          "url": "https://api.figshare.com/v2/articles/31096477",
+          "role": "metadata",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://api.figshare.com/v2/articles/31096477",
+          "checked_at": "2026-09-15T10:27:34.307631+00:00",
+          "identity_match": true,
+          "note": "已核对页面身份；未运行代码、下载数据或权重。"
+        }
+      ],
+      "changes": [],
+      "relations": [
+        {
+          "type": "associated_publication",
+          "target_id": "HPBAI-031",
+          "evidence_url": "https://rdr.ucl.ac.uk/articles/dataset/LLSD/31096477"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-042",
+      "kind": "demo_entry",
+      "title": "肝切除Vivim研究：Supplementary Movie 1",
+      "checked_at": "2026-09-15T10:35:22.525044+00:00",
+      "identity_status": "题名与原站记录匹配",
+      "fulltext_status": "不适用；仅演示说明页面",
+      "code_status": "不适用，参见关联研究",
+      "data_status": "不适用",
+      "weights_status": "不适用",
+      "sources": [
+        {
+          "url": "https://www.nature.com/articles/s41746-026-02989-5",
+          "scope": "期刊页面",
+          "locator": "Supplementary information / Supplementary Movie 1",
+          "finding": "页面列补充电影入口"
+        },
+        {
+          "url": "https://www.nature.com/articles/s41746-026-02989-5_reference.pdf",
+          "scope": "接收稿说明",
+          "locator": "Results, before Table 1",
+          "finding": "作者称影片展示Task 1预测，未观看确认"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.nature.com/articles/s41746-026-02989-5",
+          "role": "demo",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://www.nature.com/articles/s41746-026-02989-5",
+          "checked_at": "2026-09-15T10:25:35.521059+00:00",
+          "identity_match": true,
+          "note": "仅页面/身份与关联核对；播放、完整观看和嵌入许可均未测试。"
+        }
+      ],
+      "changes": [],
+      "relations": [
+        {
+          "type": "supplement_entry_of",
+          "target_id": "HPBAI-035",
+          "evidence_url": "https://www.nature.com/articles/s41746-026-02989-5"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-043",
+      "kind": "demo_entry",
+      "title": "SurgSLOT作者项目演示",
+      "checked_at": "2026-09-15T10:35:22.525044+00:00",
+      "identity_status": "题名与原站记录匹配",
+      "fulltext_status": "不适用；仅演示说明页面",
+      "code_status": "不适用，参见关联研究",
+      "data_status": "不适用",
+      "weights_status": "不适用",
+      "sources": [
+        {
+          "url": "https://jinlab-imvr.github.io/SurgSLOT/",
+          "scope": "作者项目页面",
+          "locator": "Covered Surgical Procedures; Citation",
+          "finding": "胆囊切除及其他来源明确；对应SurgSLOT/2511.16618"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://jinlab-imvr.github.io/SurgSLOT/",
+          "role": "demo",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://jinlab-imvr.github.io/SurgSLOT/",
+          "checked_at": "2026-09-15T10:25:33.452132+00:00",
+          "identity_match": true,
+          "note": "仅页面/身份与关联核对；播放、完整观看和嵌入许可均未测试。"
+        }
+      ],
+      "changes": [
+        "种子胰腺器官标签未获当前来源支持，改为胆囊相关。"
+      ],
+      "relations": [
+        {
+          "type": "project_demo_entry_of",
+          "target_id": "HPBAI-006",
+          "evidence_url": "https://jinlab-imvr.github.io/SurgSLOT/"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-044",
+      "kind": "demo_entry",
+      "title": "ReSurgSAM2文字驱动分割演示",
+      "checked_at": "2026-09-15T10:35:22.525044+00:00",
+      "identity_status": "题名与原站记录匹配",
+      "fulltext_status": "不适用；仅演示说明页面",
+      "code_status": "不适用，参见关联研究",
+      "data_status": "不适用",
+      "weights_status": "不适用",
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=z4Ez4TXVQL4",
+          "scope": "YouTube页面题名",
+          "locator": "HTML title",
+          "finding": "ReSurgSAM2 online demo"
+        },
+        {
+          "url": "https://heverlaw.github.io/ReSurgSAM2/",
+          "scope": "作者项目页面",
+          "locator": "embedded YouTube reference",
+          "finding": "项目源页面关联同一视频ID"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=z4Ez4TXVQL4",
+          "role": "demo",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://www.youtube.com/watch?v=z4Ez4TXVQL4",
+          "checked_at": "2026-09-15T10:25:37.532350+00:00",
+          "identity_match": true,
+          "note": "仅页面/身份与关联核对；播放、完整观看和嵌入许可均未测试。"
+        }
+      ],
+      "changes": [
+        "移除种子中没有当前术式证据的胰腺标签。"
+      ],
+      "relations": [
+        {
+          "type": "author_linked_demo_of",
+          "target_id": "HPBAI-008",
+          "evidence_url": "https://heverlaw.github.io/ReSurgSAM2/"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-045",
+      "kind": "demo_entry",
+      "title": "UniSurgSAM多模态提示演示",
+      "checked_at": "2026-09-15T10:35:22.525044+00:00",
+      "identity_status": "题名与原站记录匹配",
+      "fulltext_status": "不适用；仅演示说明页面",
+      "code_status": "不适用，参见关联研究",
+      "data_status": "不适用",
+      "weights_status": "不适用",
+      "sources": [
+        {
+          "url": "https://jinlab-imvr.github.io/UniSurgSAM/",
+          "scope": "作者项目页面",
+          "locator": "Video Demonstrations",
+          "finding": "多个提示模态与粒度的演示标题，未播放"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://jinlab-imvr.github.io/UniSurgSAM/",
+          "role": "demo",
+          "status": "页面已读取",
+          "http_status": 200,
+          "final_url": "https://jinlab-imvr.github.io/UniSurgSAM/",
+          "checked_at": "2026-09-15T10:25:34.018268+00:00",
+          "identity_match": true,
+          "note": "仅页面/身份与关联核对；播放、完整观看和嵌入许可均未测试。"
+        }
+      ],
+      "changes": [
+        "移除未经验证的胰腺标签；按演示合集入口计数。"
+      ],
+      "relations": [
+        {
+          "type": "project_demo_entry_of",
+          "target_id": "HPBAI-038",
+          "evidence_url": "https://jinlab-imvr.github.io/UniSurgSAM/"
+        }
+      ],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    },
+    {
+      "id": "HPBAI-PENDING-001",
+      "kind": "pending_lead",
+      "title": "AI assistance enables surgical residents to accurately annotate anatomical structures in laparoscopic surgery",
+      "checked_at": "2026-09-15T10:34:35.919225+00:00",
+      "identity_status": "出版社与Crossref题名/DOI匹配；专题适用范围待核",
+      "fulltext_status": "本次只读出版社摘要；存在PDF入口，未取得正文",
+      "code_status": "未确认",
+      "data_status": "未确认",
+      "weights_status": "未确认专用权重",
+      "sources": [
+        {
+          "url": "https://www.nature.com/articles/s41598-026-69743-5",
+          "scope": "出版社摘要及出版说明",
+          "locator": "Abstract；提前发表提示；About this article",
+          "finding": "题名、作者、DOI和2026-09-09在线日期匹配；页面提示接收稿仍可进一步编辑。"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1038/s41598-026-69743-5",
+          "scope": "Crossref题录与摘要",
+          "locator": "title / author / published / abstract",
+          "finding": "核心身份一致；不以Crossref替代全文阅读。"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.nature.com/articles/s41598-026-69743-5",
+          "role": "publication",
+          "status": "页面题名与DOI已匹配；当前读取摘要",
+          "http_status": 200,
+          "final_url": "https://www.nature.com/articles/s41598-026-69743-5",
+          "checked_at": "2026-09-15T10:34:35.919225+00:00",
+          "identity_match": true,
+          "note": "全文PDF未取得，播放不适用。"
+        }
+      ],
+      "changes": [
+        "由未经核实线索更新为身份已核对；保持待核区，直至术式与全文范围核实。"
+      ],
+      "relations": [],
+      "video": {
+        "playback_tested": false,
+        "fully_watched": false,
+        "embedding_permission_confirmed": false,
+        "embedding_tested": false
+      }
+    }
+  ],
+  "counts": {
+    "publication": 30,
+    "dataset": 9,
+    "audit_tool": 1,
+    "model_card": 1,
+    "demo_entry": 4,
+    "pending_lead": 1
+  },
+  "links_processed": 150,
+  "not_all_fully_read": true,
+  "playback_tests": 0,
+  "embedding_tests": 0
+}
