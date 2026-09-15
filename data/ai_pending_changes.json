@@ -2,7 +2,7 @@
   "HPBAI-031:metadata:Europe PMC": {
     "id": "HPBAI-031",
     "source": "Europe PMC",
-    "detected_at": "2026-09-15T10:44:51.355861+00:00",
+    "detected_at": "2026-09-15T10:54:41.611553+00:00",
     "changes": {
       "pmid": {
         "before": null,
@@ -15,7 +15,7 @@
   "HPBAI-005:metadata:Europe PMC": {
     "id": "HPBAI-005",
     "source": "Europe PMC",
-    "detected_at": "2026-09-15T10:44:51.355861+00:00",
+    "detected_at": "2026-09-15T10:54:41.611553+00:00",
     "changes": {
       "pmid": {
         "before": null,
@@ -28,7 +28,7 @@
   "HPBAI-017:metadata:Europe PMC": {
     "id": "HPBAI-017",
     "source": "Europe PMC",
-    "detected_at": "2026-09-15T10:44:51.355861+00:00",
+    "detected_at": "2026-09-15T10:54:41.611553+00:00",
     "changes": {
       "pmid": {
         "before": null,
@@ -41,7 +41,7 @@
   "HPBAI-002:metadata:Europe PMC": {
     "id": "HPBAI-002",
     "source": "Europe PMC",
-    "detected_at": "2026-09-15T10:44:51.355861+00:00",
+    "detected_at": "2026-09-15T10:54:41.611553+00:00",
     "changes": {
       "pmid": {
         "before": null,
@@ -54,7 +54,7 @@
   "HPBAI-003:metadata:Europe PMC": {
     "id": "HPBAI-003",
     "source": "Europe PMC",
-    "detected_at": "2026-09-15T10:44:51.355861+00:00",
+    "detected_at": "2026-09-15T10:54:41.611553+00:00",
     "changes": {
       "pmid": {
         "before": null,
@@ -63,5 +63,109 @@
     },
     "status": "题录/版本变化待复核；人工笔记未覆盖",
     "url": "https://europepmc.org/article/MED/40392391"
+  },
+  "HPBAI-036:metadata:Europe PMC": {
+    "id": "HPBAI-036",
+    "source": "Europe PMC",
+    "detected_at": "2026-09-15T10:54:41.611553+00:00",
+    "changes": {
+      "pmid": {
+        "before": null,
+        "after": "38488870"
+      }
+    },
+    "status": "题录/版本变化待复核；人工笔记未覆盖",
+    "url": "https://europepmc.org/article/MED/38488870"
+  },
+  "HPBAI-037:metadata:Europe PMC": {
+    "id": "HPBAI-037",
+    "source": "Europe PMC",
+    "detected_at": "2026-09-15T10:54:41.611553+00:00",
+    "changes": {
+      "pmid": {
+        "before": null,
+        "after": "40728177"
+      }
+    },
+    "status": "题录/版本变化待复核；人工笔记未覆盖",
+    "url": "https://europepmc.org/article/MED/40728177"
+  },
+  "HPBAI-035:metadata:PubMed": {
+    "id": "HPBAI-035",
+    "source": "PubMed",
+    "detected_at": "2026-09-15T10:54:41.611553+00:00",
+    "changes": {
+      "pmid": {
+        "before": null,
+        "after": "42432115"
+      }
+    },
+    "status": "题录/版本变化待复核；人工笔记未覆盖",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42432115/"
+  },
+  "HPBAI-031:metadata:PubMed": {
+    "id": "HPBAI-031",
+    "source": "PubMed",
+    "detected_at": "2026-09-15T10:54:41.611553+00:00",
+    "changes": {
+      "pmid": {
+        "before": null,
+        "after": "42090056"
+      }
+    },
+    "status": "题录/版本变化待复核；人工笔记未覆盖",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42090056/"
+  },
+  "HPBAI-005:metadata:PubMed": {
+    "id": "HPBAI-005",
+    "source": "PubMed",
+    "detected_at": "2026-09-15T10:54:41.611553+00:00",
+    "changes": {
+      "pmid": {
+        "before": null,
+        "after": "40366617"
+      }
+    },
+    "status": "题录/版本变化待复核；人工笔记未覆盖",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40366617/"
+  },
+  "HPBAI-003:metadata:PubMed": {
+    "id": "HPBAI-003",
+    "source": "PubMed",
+    "detected_at": "2026-09-15T10:54:41.611553+00:00",
+    "changes": {
+      "pmid": {
+        "before": null,
+        "after": "40392391"
+      }
+    },
+    "status": "题录/版本变化待复核；人工笔记未覆盖",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40392391/"
+  },
+  "HPBAI-037:metadata:PubMed": {
+    "id": "HPBAI-037",
+    "source": "PubMed",
+    "detected_at": "2026-09-15T10:54:41.611553+00:00",
+    "changes": {
+      "pmid": {
+        "before": null,
+        "after": "40728177"
+      }
+    },
+    "status": "题录/版本变化待复核；人工笔记未覆盖",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40728177/"
+  },
+  "HPBAI-036:metadata:PubMed": {
+    "id": "HPBAI-036",
+    "source": "PubMed",
+    "detected_at": "2026-09-15T10:54:41.611553+00:00",
+    "changes": {
+      "pmid": {
+        "before": null,
+        "after": "38488870"
+      }
+    },
+    "status": "题录/版本变化待复核；人工笔记未覆盖",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38488870/"
   }
 }

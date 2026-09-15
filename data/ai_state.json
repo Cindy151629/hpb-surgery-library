@@ -1,38 +1,855 @@
 {
-  "last_attempt": "2026-09-15T10:44:51.355861+00:00",
+  "last_attempt": "2026-09-15T10:54:41.611553+00:00",
   "status": "partial",
   "errors": [
     {
-      "source": "本地到云端交接",
-      "reason": "未完成来源保留待续查询窗口；下一次云端运行继续。"
+      "source": "Europe PMC:可迁移方法",
+      "reason": "请求、解析或分页未完成；成功进度保留",
+      "query": "(surgical OR surgery OR laparoscopic) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
+    },
+    {
+      "source": "arXiv:肝脏外科",
+      "reason": "请求、解析或分页未完成；成功进度保留",
+      "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
+    },
+    {
+      "source": "arXiv:胆囊与胆道外科",
+      "reason": "请求、解析或分页未完成；成功进度保留",
+      "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
+    },
+    {
+      "source": "arXiv:胰腺外科",
+      "reason": "请求、解析或分页未完成；成功进度保留",
+      "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
+    },
+    {
+      "source": "arXiv:可迁移方法",
+      "reason": "请求、解析或分页未完成；成功进度保留",
+      "query": "(all:surgical OR all:surgery OR all:laparoscopic) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
+    },
+    {
+      "source": "Crossref:10.48550/arxiv.2603.01108",
+      "reason": "request failed"
+    },
+    {
+      "source": "Crossref:10.48550/arxiv.2607.23694",
+      "reason": "request failed"
+    },
+    {
+      "source": "Crossref:10.48550/arxiv.2506.02555",
+      "reason": "request failed"
+    },
+    {
+      "source": "Crossref:10.48550/arxiv.2604.03645",
+      "reason": "request failed"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-002",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-003",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-004",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-006",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-008",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-009",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-012",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-013",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-014",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-015",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-016",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-017",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-018",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-019",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-028",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-029",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-032",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-033",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-034",
+      "reason": "已知版本查询未完成"
+    },
+    {
+      "source": "arXiv-ID:HPBAI-038",
+      "reason": "已知版本查询未完成"
     }
   ],
   "source_progress": {
     "Europe PMC:肝脏外科": {
       "version": "hpb-ai-query-2",
-      "last_attempt": "2026-09-15T10:44:51.355861+00:00",
+      "last_attempt": "2026-09-15T10:54:41.611553+00:00",
       "last_success": "2026-09-15T23:59:59+00:00",
       "completed_window": {
-        "start": null,
+        "start": "2026-06-17",
         "end": "2026-09-15"
       }
     },
     "Europe PMC:胆囊与胆道外科": {
       "version": "hpb-ai-query-2",
-      "last_attempt": "2026-09-15T10:44:51.355861+00:00",
+      "last_attempt": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T23:59:59+00:00",
+      "completed_window": {
+        "start": "2026-06-17",
+        "end": "2026-09-15"
+      }
+    },
+    "Europe PMC:胰腺外科": {
+      "version": "hpb-ai-query-2",
+      "last_attempt": "2026-09-15T10:54:41.611553+00:00",
       "last_success": "2026-09-15T23:59:59+00:00",
       "completed_window": {
         "start": null,
         "end": "2026-09-15"
       }
     },
-    "Europe PMC:胰腺外科": {
+    "Europe PMC:可迁移方法": {
       "version": "hpb-ai-query-2",
       "pending": {
         "start": null,
         "end": "2026-09-15"
       },
-      "last_attempt": "2026-09-15T10:44:51.355861+00:00"
+      "last_attempt": "2026-09-15T10:54:41.611553+00:00"
+    },
+    "PubMed:肝脏外科": {
+      "version": "hpb-ai-query-2",
+      "last_attempt": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T23:59:59+00:00",
+      "completed_window": {
+        "start": null,
+        "end": "2026-09-15"
+      }
+    },
+    "PubMed:胆囊与胆道外科": {
+      "version": "hpb-ai-query-2",
+      "last_attempt": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T23:59:59+00:00",
+      "completed_window": {
+        "start": null,
+        "end": "2026-09-15"
+      }
+    },
+    "PubMed:胰腺外科": {
+      "version": "hpb-ai-query-2",
+      "last_attempt": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T23:59:59+00:00",
+      "completed_window": {
+        "start": null,
+        "end": "2026-09-15"
+      }
+    },
+    "PubMed:可迁移方法": {
+      "version": "hpb-ai-query-2",
+      "last_attempt": "2026-09-15T10:54:41.611553+00:00",
+      "last_success": "2026-09-15T23:59:59+00:00",
+      "completed_window": {
+        "start": null,
+        "end": "2026-09-15"
+      }
+    },
+    "arXiv:肝脏外科": {
+      "version": "hpb-ai-query-2",
+      "pending": {
+        "start": null,
+        "end": "2026-09-15"
+      },
+      "last_attempt": "2026-09-15T10:54:41.611553+00:00"
+    },
+    "arXiv:胆囊与胆道外科": {
+      "version": "hpb-ai-query-2",
+      "pending": {
+        "start": null,
+        "end": "2026-09-15"
+      },
+      "last_attempt": "2026-09-15T10:54:41.611553+00:00"
+    },
+    "arXiv:胰腺外科": {
+      "version": "hpb-ai-query-2",
+      "pending": {
+        "start": null,
+        "end": "2026-09-15"
+      },
+      "last_attempt": "2026-09-15T10:54:41.611553+00:00"
+    },
+    "arXiv:可迁移方法": {
+      "version": "hpb-ai-query-2",
+      "pending": {
+        "start": null,
+        "end": "2026-09-15"
+      },
+      "last_attempt": "2026-09-15T10:54:41.611553+00:00"
+    },
+    "Crossref:10.1007/978-3-032-05114-1_11": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "CholecMamba: A Mamba-Based Multimodal Reasoning Model for Cholecystectomy Surgery"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              21
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              21
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "book-chapter"
+      }
+    },
+    "Crossref:10.1038/s41598-025-11759-4": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "A fine-tuned foundational model SurgiSAM2 for surgical video anatomy segmentation and detection"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              15
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              15
+            ]
+          ]
+        },
+        "published-print": null,
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "journal-article"
+      }
+    },
+    "Crossref:10.1007/s11548-025-03408-y": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "SASVi: segment any surgical video"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              20
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              20
+            ]
+          ]
+        },
+        "published-print": null,
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "journal-article"
+      }
+    },
+    "Crossref:10.1007/978-3-032-05127-1_26": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "HRVVS: A High-Resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              20
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              20
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "book-chapter"
+      }
+    },
+    "Crossref:10.1007/s11548-025-03381-6": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "Automated multimodel segmentation and tracking for AR-guided open liver surgery using scene-aware self-prompting"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              14
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              14
+            ]
+          ]
+        },
+        "published-print": null,
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "journal-article"
+      }
+    },
+    "Crossref:10.1007/978-3-032-05127-1_42": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-Term Tracking"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              20
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              20
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "book-chapter"
+      }
+    },
+    "Crossref:10.1007/978-3-032-05127-1_32": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "Memory-Augmented SAM2 for Training-Free Surgical Video Segmentation"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              20
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              20
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "book-chapter"
+      }
+    },
+    "Crossref:10.1038/s44484-025-00002-2": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "Systematic evaluation and guidelines for segment anything model in surgical video analysis"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              1
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              1
+            ]
+          ]
+        },
+        "published-print": null,
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "journal-article"
+      }
+    },
+    "Crossref:10.1016/j.media.2025.103644": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "Learning multi-modal representations by watching hundreds of surgical video lectures"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              10
+            ]
+          ]
+        },
+        "published-online": null,
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              10
+            ]
+          ]
+        },
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "journal-article"
+      }
+    },
+    "Crossref:10.1007/978-3-031-72089-5_29": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "HecVL: Hierarchical Video-Language Pretraining for Zero-Shot Surgical Phase Recognition"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              3
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "book-chapter"
+      }
+    },
+    "Crossref:10.52202/079017-3907": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "published-online": null,
+        "published-print": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "proceedings-article"
+      }
+    },
+    "Crossref:10.1038/s41746-026-02403-0": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "Large-scale self-supervised video foundation model for intelligent surgery"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              4
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              4
+            ]
+          ]
+        },
+        "published-print": null,
+        "relation": {},
+        "update-to": null,
+        "updated-by": [
+          {
+            "DOI": "10.1038/s41746-026-02864-3",
+            "type": "correction",
+            "label": "Correction",
+            "source": "publisher",
+            "updated": {
+              "date-parts": [
+                [
+                  2026,
+                  6,
+                  16
+                ]
+              ],
+              "date-time": "2026-06-16T00:00:00Z",
+              "timestamp": 1781568000000
+            }
+          }
+        ],
+        "type": "journal-article"
+      }
+    },
+    "Crossref:10.1016/j.media.2026.103940": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "Depth-induced prompt learning for laparoscopic liver landmark detection"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              3
+            ]
+          ]
+        },
+        "published-online": null,
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              3
+            ]
+          ]
+        },
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "journal-article"
+      }
+    },
+    "Crossref:10.1007/s11548-026-03674-4": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "Subsampled randomized Fourier GaLore for adapting foundation models in depth-driven liver landmark segmentation"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              6
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              6
+            ]
+          ]
+        },
+        "published-print": null,
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "journal-article"
+      }
+    },
+    "Crossref:10.1038/s41746-026-02989-5": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "Real-time anatomy recognition in laparoscopic liver resection using video segmentation AI model"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              10
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              10
+            ]
+          ]
+        },
+        "published-print": null,
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "journal-article"
+      }
+    },
+    "Crossref:10.1007/s00464-024-10725-x": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "The development of a deep learning model for automated segmentation of the robotic pancreaticojejunostomy"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              15
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              15
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              5
+            ]
+          ]
+        },
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "journal-article"
+      }
+    },
+    "Crossref:10.1093/bjs/znaf160": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "Automated surgical phase recognition for robotic pancreatoduodenectomy using artificial intelligence"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              7
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              29
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ]
+        },
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "journal-article"
+      }
+    },
+    "Crossref:10.1007/978-3-032-05127-1_56": {
+      "last_success": "2026-09-15T10:54:41.611553+00:00",
+      "metadata": {
+        "title": [
+          "Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              20
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              20
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "relation": {},
+        "update-to": null,
+        "updated-by": null,
+        "type": "book-chapter"
+      }
     }
-  }
+  },
+  "counts": {
+    "added": 3157,
+    "revised": 8,
+    "pending": 5723,
+    "failed": 29
+  },
+  "last_run_id": "ai-2026-09-15T105441-611553+0000"
 }

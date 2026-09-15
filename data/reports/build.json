@@ -1,8 +1,8 @@
 {
-  "data_version": "hpb-ef986f7baeb6e2a5",
-  "generated_at": "2026-09-15T10:49:54.255460+00:00",
+  "data_version": "hpb-1a7a096cbed1c5e9",
+  "generated_at": "2026-09-15T11:09:53.226361+00:00",
   "records": 368,
-  "candidates": 30948,
+  "candidates": 31034,
   "counts": {
     "article": 286,
     "society": 1,
@@ -17,6 +17,6 @@
     "资料受限": 2
   },
   "notes_complete": 285,
-  "html_bytes": 31117385,
+  "html_bytes": 37017070,
   "cloud_deployed": true
 }
