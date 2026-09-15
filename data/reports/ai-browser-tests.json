@@ -11,5 +11,6 @@
   "file_scheme": "blocked by Browser URL safety policy; not passed; no bypass attempted",
   "online_after_deployment": "pending",
   "favorites": "passed:toggle, reload retained, test state restored",
-  "old_namespaced_anchor": "AI-A-R01 navigated to canonical record; browser no console errors"
+  "old_namespaced_anchor": "passed: #AI-A-R01 resolves canonical DOM #HPBAI-003",
+  "old_clinical_anchor": "passed: #resource-L015 resolves DOM #L015"
 }

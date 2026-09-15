@@ -13,29 +13,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -47,29 +25,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -77,31 +33,9 @@
     "model": "多模态大语言模型",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -115,29 +49,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -149,29 +61,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -179,31 +69,9 @@
     "model": "视觉语言预训练",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -211,31 +79,9 @@
     "model": "多模态大语言模型",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -243,31 +89,9 @@
     "model": "常规深度学习/其他",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -279,29 +103,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -313,29 +115,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -343,31 +123,9 @@
     "model": "多模态大语言模型",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -379,29 +137,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -413,29 +149,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -447,29 +161,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -477,31 +169,9 @@
     "model": "多模态大语言模型",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -509,31 +179,9 @@
     "model": "常规深度学习/其他",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -545,29 +193,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -579,29 +205,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -609,31 +213,9 @@
     "model": "多模态大语言模型",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "肝脏外科",
@@ -641,31 +223,9 @@
     "model": "常规深度学习/其他",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:54:52.994515+00:00",
-        "complete": true,
-        "returned": 143,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:58:59.241279+00:00",
-        "complete": true,
-        "returned": 35,
-        "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:29.228213+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -684,29 +244,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -721,29 +259,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -755,29 +271,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -789,29 +283,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -827,29 +299,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -862,29 +312,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -892,31 +320,9 @@
     "model": "多模态大语言模型",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -924,31 +330,9 @@
     "model": "常规深度学习/其他",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -961,29 +345,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -996,29 +358,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -1031,29 +371,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -1065,29 +383,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -1100,29 +396,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -1134,29 +408,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -1168,29 +420,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -1198,31 +428,9 @@
     "model": "常规深度学习/其他",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -1234,29 +442,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -1268,29 +454,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -1304,29 +468,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胆囊与胆道外科",
@@ -1338,29 +480,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:13.081909+00:00",
-        "complete": true,
-        "returned": 418,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-15]"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:02.916703+00:00",
-        "complete": true,
-        "returned": 96,
-        "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:44.920860+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1368,31 +488,9 @@
     "model": "视觉/视频基础模型",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1400,31 +498,9 @@
     "model": "视觉语言预训练",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1432,31 +508,9 @@
     "model": "多模态大语言模型",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1469,29 +523,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1499,31 +531,9 @@
     "model": "视觉/视频基础模型",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1531,31 +541,9 @@
     "model": "视觉语言预训练",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1563,31 +551,9 @@
     "model": "多模态大语言模型",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1595,31 +561,9 @@
     "model": "常规深度学习/其他",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1627,31 +571,9 @@
     "model": "视觉/视频基础模型",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1659,31 +581,9 @@
     "model": "视觉语言预训练",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1691,31 +591,9 @@
     "model": "多模态大语言模型",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1728,29 +606,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1758,31 +614,9 @@
     "model": "视觉/视频基础模型",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1790,31 +624,9 @@
     "model": "视觉语言预训练",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1822,31 +634,9 @@
     "model": "多模态大语言模型",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1854,31 +644,9 @@
     "model": "常规深度学习/其他",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1886,31 +654,9 @@
     "model": "视觉/视频基础模型",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1918,31 +664,9 @@
     "model": "视觉语言预训练",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1954,29 +678,7 @@
     ],
     "status": "已有身份核实资源；证据范围见各条",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   },
   {
     "organ": "胰腺外科",
@@ -1984,30 +686,8 @@
     "model": "常规深度学习/其他",
     "count": 0,
     "ids": [],
-    "status": "访问/检索受限，覆盖未完成",
+    "status": "尚未检索",
     "gap": "查询为器官×任务组×模型组的宽检索，不能证明此交叉格穷尽。常规模型可含基础模型先验；类别可交叉。数据集/演示不是独立临床研究。会议目录全站历史检索仍需人工补查。",
-    "queries": [
-      {
-        "source": "Europe PMC",
-        "checked_at": "2026-09-15T10:55:21.455635+00:00",
-        "complete": true,
-        "returned": 397,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "PubMed",
-        "checked_at": "2026-09-15T10:59:04.933089+00:00",
-        "complete": true,
-        "returned": 27,
-        "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\")"
-      },
-      {
-        "source": "arXiv",
-        "checked_at": "2026-09-15T11:00:50.458767+00:00",
-        "complete": false,
-        "returned": 0,
-        "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")"
-      }
-    ]
+    "queries": []
   }
 ]

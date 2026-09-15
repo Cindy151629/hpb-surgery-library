@@ -116,7 +116,7 @@
     "https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows",
     "https://learn.chatgpt.com/guides/best-practices"
   ],
-  "query_version": "hpb-ai-query-2",
+  "query_version": "hpb-ai-query-3",
   "overlap_days": 21,
   "monthly_lookback_days": 90,
   "page_size": 100,
@@ -135,5 +135,6 @@
     "arXiv": "历史与按lastUpdatedDate检索、已知标识追踪",
     "Crossref": "已确认DOI的题录、正式版和更正关系巡查",
     "author_assets": "已确认作者仓库/模型卡/数据/项目页面定期巡查；不把commit算论文"
-  }
+  },
+  "scope_note": "Europe PMC限定题名/摘要，避免全文引用造成非视频噪声。旧宽检索候选和查询记录保留。Crossref不请求由DataCite登记的arXiv DOI别名。arXiv HTTP429触发6小时冷却，未请求项明确记录为延后。"
 }

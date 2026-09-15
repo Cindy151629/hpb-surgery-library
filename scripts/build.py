@@ -110,7 +110,7 @@ def migrate():
   members=[r for r in records if trial.casefold() in r['title'].casefold()]
   if len(members)>1:
    for r in members:r['article_relations'].append({'type':'同名试验的报告；不得按独立试验重复计数','trial':trial,'ids':[z['id'] for z in members if z['id']!=r['id']]})
- write(ROOT/'data/records.json',records);write(ROOT/'data/reports/record-audit.json',{'audited_at':stamp,'records':audit,'unique_count':len(records),'dimensions':{k:dict(Counter(str(r[k].get('status')) for r in audit)) for k in ['identity','page','fulltext','content']}})
+ write(ROOT/'data/records.json',records);write(ROOT/'data/reports/record-audit.json',{'generated_at':stamp,'scope_note':'汇总已有逐条证据，不表示本次生成重新核验所有记录；实际检查日期见各条。','records':audit,'unique_count':len(records),'dimensions':{k:dict(Counter(str(r[k].get('status')) for r in audit)) for k in ['identity','page','fulltext','content']}})
  original=read(ROOT/'data/inherited.json');oldids=[x['id'] for k in ['articles','videos','portals','pending_videos'] for x in original[k]]
  write(ROOT/'data/reports/preservation.json',{'original_ids':oldids,'current_ids':[r['id'] for r in records],'original_count':len(oldids),'lost_ids':list(set(oldids)-{r['id'] for r in records}),'added_ids':[r['id'] for r in records if r['id'] not in oldids],'source_snapshot':'data/inherited.json','private_manual_content':'Original snapshot kept locally. No raw user notes or attachments enter publication staging.','mappings_preserved':True,'generated_at':stamp})
  return records
@@ -172,7 +172,7 @@ def build(migration=False,output=None):
  public=ROOT/'site';public.mkdir(exist_ok=True);(public/'index.html').write_text(html);write(public/'data.json',envelope);(public/'version.json').write_text(json.dumps({'domain_id':'hpb-surgery','data_version':version,'sha256':envelope['sha256'],'generated_at':stamp}));(public/'.nojekyll').write_text('')
  result={'data_version':version,'generated_at':stamp,'records':len(records),'candidates':len(candidates),'counts':dict(Counter(r['kind'] for r in records)),'reading':dict(Counter(r['note']['read_depth'] for r in records if r.get('note'))),'notes_complete':sum(r.get('note',{}).get('completion')=='substantive' for r in records if r.get('note')),'html_bytes':dest.stat().st_size,'cloud_deployed':bool(dep.get('deployed'))};write(ROOT/'data/reports/build.json',result)
  audit=[{'id':r['id'],'kind':r['kind'],'title':r['title'],**r['audit'],'video':r.get('video'),'prior_check':{'date':r.get('history_date'),'text':r.get('history_text')},'verification_history':r.get('verification_history',[]),'metadata_corrections':r.get('metadata_corrections')} for r in records]
- write(ROOT/'data/reports/record-audit.json',{'audited_at':stamp,'records':audit,'unique_count':len(audit),'dimensions':{k:dict(Counter(str(r[k].get('status')) for r in audit)) for k in ['identity','page','fulltext','content']}})
+ write(ROOT/'data/reports/record-audit.json',{'generated_at':stamp,'scope_note':'汇总已有逐条证据，不表示本次生成重新核验所有记录；实际检查日期见各条。','records':audit,'unique_count':len(audit),'dimensions':{k:dict(Counter(str(r[k].get('status')) for r in audit)) for k in ['identity','page','fulltext','content']}})
  from report import reports
  reports();print(json.dumps(result,ensure_ascii=False));return result
 if __name__=='__main__':

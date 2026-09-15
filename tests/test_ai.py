@@ -79,6 +79,11 @@ class AISourceTests(unittest.TestCase):
         upd.merge([row], candidates, [], pending, 'PubMed', 'liver', 'a')
         added, _ = upd.merge([row], candidates, [], pending, 'Europe PMC', 'liver', 'b')
         self.assertEqual(len(candidates), 1); self.assertFalse(added)
+    def test_arxiv_doi_alias_does_not_duplicate_published_paper(self):
+        old = {'id': 'HPBAI-001', 'kind': 'publication', 'title': 'Paper', 'arxiv': '2501.12345', 'doi': '10.1007/paper'}
+        candidates, pending = {}, {}
+        added, revised = upd.merge([{'title': 'Paper', 'doi': '10.48550/arXiv.2501.12345'}], candidates, [old], pending, 'Europe PMC', 'liver', 'now')
+        self.assertFalse(candidates); self.assertFalse(added); self.assertFalse(revised)
     def test_binary_body_never_read(self):
         response = Mock(status_code=200, headers={'content-type': 'video/mp4'})
         response.__enter__ = Mock(return_value=response); response.__exit__ = Mock(return_value=False)
@@ -139,8 +144,12 @@ class AIPipelineRecoveryTests(unittest.TestCase):
                 self.assertEqual(resumed['window'], pending)
                 restored = read(root / 'data/ai_state.json')['source_progress']['Europe PMC:肝脏外科']
                 self.assertNotIn('pending', restored)
-                # A June retry must not pretend the unsearched July–September interval was searched.
-                self.assertTrue(restored['last_success'].startswith('2026-06-08'))
+                # A June retry is followed by an actual catch-up query through September.
+                self.assertTrue(restored['last_success'].startswith('2026-09-15'))
+                self.assertEqual(restored['covered_through'], '2026-09-15')
+                catchup = [q for q in third['queries'] if q['source'] == 'Europe PMC' and q['organ'] == '肝脏外科']
+                self.assertEqual(len(catchup), 2)
+                self.assertEqual(catchup[1]['window']['end'], '2026-09-15')
 
 
 if __name__ == '__main__': unittest.main()

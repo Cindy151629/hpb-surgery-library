@@ -18,13 +18,24 @@ def build_ai():
         r['clinical_topic_ids'] = [t['id'] for t in clinical_tax['topics'] if t['organ'] in r['organs'] and
                                    any(norm(a) in text for a in t['aliases'] if len(norm(a)) > 3)]
         r['aliases'] = list(dict.fromkeys(r['aliases'] + [x['source_batch'] + ':' + x['id'] for x in r.get('legacy_ids', [])]))
-    candidates = []
-    for row in read(ROOT / 'data/ai_candidates.json', {}).values():
+    candidates = []; resolved_aliases = {}
+    from ai_update import keys
+    raw_candidates = read(ROOT / 'data/ai_candidates.json', {})
+    changed = False
+    for row in raw_candidates.values():
+        identity = keys(row)
+        hits = [r for r in records if r['kind'] == 'publication' and any(identity[k] and identity[k] == keys(r)[k] for k in identity)
+                and not any(identity[k] and keys(r)[k] and identity[k] != keys(r)[k] for k in identity)]
+        if len(hits) == 1:
+            if row.get('resolved_to') != hits[0]['id']: row['resolved_to'] = hits[0]['id']; changed = True
+            resolved_aliases[row['id']] = hits[0]['id']
+            continue
         r = copy.deepcopy(row)
         for key in ['organs', 'procedures', 'approaches', 'tasks', 'model_families', 'section_ids', 'limitations', 'relations']: r.setdefault(key, [])
         r['links'] = [{'url': r['url'], 'role': 'publication', 'status': '数据库返回入口，页面与正文待核对'}] if r.get('url') else []
         r['sources'] = [{'scope': s, 'finding': '固定检索程序发现；不构成内容核验'} for s in r.get('sources', [])]
         candidates.append(r)
+    if changed: write(ROOT / 'data/ai_candidates.json', raw_candidates)
     runs = []
     version = read(ROOT / 'config/ai_sources.json')['query_version']
     for path in sorted((ROOT / 'data/runs').glob('ai-*.json')):
@@ -55,6 +66,6 @@ def build_ai():
              'not_all_fully_read': True, 'playback_tests': 0, 'embedding_tests': 0}
     write(ROOT / 'data/reports/ai-verification.json', audit)
     return {'collection_id': 'hpb-ai-video', 'records': records, 'candidates': candidates, 'taxonomy': tax,
-            'anchor_aliases': aliases.get('anchor_aliases', {}), 'state': read(ROOT / 'data/ai_state.json', {}),
+            'anchor_aliases': {**aliases.get('anchor_aliases', {}), **resolved_aliases}, 'state': read(ROOT / 'data/ai_state.json', {}),
             'pending_changes': read(ROOT / 'data/ai_pending_changes.json', {}), 'asset_checks': read(ROOT / 'data/ai_asset_checks.json', {}),
             'coverage': cells, 'methods': read(ROOT / 'config/ai_sources.json')}

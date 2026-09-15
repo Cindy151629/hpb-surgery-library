@@ -29,13 +29,15 @@ def window(previous, at, version, monthly=False):
     """A pending query is retried verbatim, even after weeks offline."""
     if previous.get('version') == version and previous.get('pending'):
         return dict(previous['pending'])
-    last = previous.get('last_success') if previous.get('version') == version else None
+    last = (previous.get('covered_through') or previous.get('last_success')) if previous.get('version') == version else None
     start = (datetime.fromisoformat(last) - timedelta(days=90 if monthly else 21)).date().isoformat() if last else None
     return {'start': start, 'end': at[:10]}
 
 
 def query_for(source, organ, w):
     q = f'{ORGANS[organ]} AND {VIDEO} AND {TASK} AND {MODEL}'
+    if source == 'Europe PMC':
+        q = ' AND '.join('TITLE_ABS:' + group for group in (ORGANS[organ], VIDEO, TASK, MODEL))
     if source == 'arXiv':
         # arXiv uses explicit field prefixes; group terms stay independently ORed.
         q = re.sub(r'"[^"]+"|[A-Za-z][A-Za-z ]*(?= OR|\))', lambda m: m.group(0), q)
@@ -84,7 +86,11 @@ def arxiv_search(query, config, request=fetch, sleep=time.sleep):
 
 
 def keys(row):
-    return {k: (doi(row.get(k)) if k == 'doi' else str(row.get(k) or '').split('v')[0] if k == 'arxiv' else str(row.get(k) or '')) for k in ('doi', 'pmid', 'arxiv')}
+    result = {k: (doi(row.get(k)) if k == 'doi' else str(row.get(k) or '').split('v')[0] if k == 'arxiv' else str(row.get(k) or '')) for k in ('doi', 'pmid', 'arxiv')}
+    if result['doi'].startswith('10.48550/arxiv.'):
+        result['arxiv'] = result['arxiv'] or result['doi'].split('arxiv.', 1)[1].split('v')[0]
+        result['doi'] = ''  # arXiv's DOI alias is not a conflicting journal DOI.
+    return result
 
 
 def merge(rows, candidates, curated, pending, source, organ, stamp):
@@ -100,7 +106,7 @@ def merge(rows, candidates, curated, pending, source, organ, stamp):
         if hits:
             for old in hits:
                 diff = {k: {'before': old.get(k), 'after': row[k]} for k in ('title', 'doi', 'pmid', 'arxiv', 'journal_ref')
-                        if row.get(k) and norm(old.get(k, '')) != norm(row[k])}
+                        if row.get(k) and (k != 'doi' or ids['doi']) and norm(old.get(k, '')) != norm(row[k])}
                 if diff:
                     pending[old['id'] + ':metadata:' + source] = {'id': old['id'], 'source': source, 'detected_at': stamp,
                         'changes': diff, 'status': '题录/版本变化待复核；人工笔记未覆盖', 'url': row.get('url')}
@@ -165,11 +171,19 @@ def bounded_page(url, max_bytes=1500000, timeout=20):
 
 
 def update(initial=False, request=None, assets=True):
-    request = request or (lambda u, p=None: fetch(u, p, timeout=20, retries=1))
+    transport = request or (lambda u, p=None: fetch(u, p, timeout=20, retries=0 if 'export.arxiv.org' in u else 1))
     config = read(ROOT / 'config/ai_sources.json')
     config.update(epmc_endpoint='https://www.ebi.ac.uk/europepmc/webservices/rest/search',
                   pubmed_endpoint='https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi')
     at = now(); state = read(ROOT / 'data/ai_state.json', {}); previous_success = state.get('last_successful_search')
+    def request(url, params=None):
+        if 'export.arxiv.org' in url and state.get('arxiv_retry_after', '') > at:
+            return None, {'requested_url': url, 'parameters': params, 'attempted_at': now(), 'skipped': True,
+                          'error': 'arXiv限流冷却期；未发起本次网络请求', 'retry_after': state['arxiv_retry_after']}
+        response, log = transport(url, params)
+        if 'export.arxiv.org' in url and response is not None and response.status_code == 429:
+            state['arxiv_retry_after'] = (datetime.fromisoformat(at) + timedelta(hours=6)).isoformat()
+        return response, log
     monthly = state.get('last_monthly_complete') != at[:7]
     state.update(last_attempt=at, status='running', errors=[])
     progress = state.setdefault('source_progress', {})
@@ -184,52 +198,54 @@ def update(initial=False, request=None, assets=True):
     save()
     for source in ('Europe PMC', 'PubMed', 'arXiv'):
         for organ in ORGANS:
-            key = source + ':' + organ; old = progress.get(key, {})
-            w = window(old, at, config['query_version'], monthly)
-            q = query_for(source, organ, w)
-            progress[key] = {**old, 'version': config['query_version'], 'pending': w, 'last_attempt': at}
-            save()
-            rows, logs, complete, total = [], [], False, None
-            try:
-                if source == 'Europe PMC':
-                    items, logs, complete, total = epmc_search(q, config, request, ROOT / 'data/checkpoints')
-                    rows = [{'title': x.get('title'), 'doi': x.get('doi', ''), 'pmid': x.get('id') if x.get('source') == 'MED' else '',
-                             'year': x.get('pubYear'), 'url': 'https://europepmc.org/article/' + x.get('source', 'MED') + '/' + x['id']} for x in items]
-                elif source == 'PubMed':
-                    ids, logs, complete, total = pubmed_search(q, config, request)
-                    for offset in range(0, len(ids), 100):
-                        batch = ids[offset:offset + 100]
-                        r, log = request('https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi', {'db': 'pubmed', 'id': ','.join(batch), 'retmode': 'xml'})
-                        logs.append(log)
-                        if r is None or r.status_code != 200: complete = False; continue
-                        found = parse_pubmed(r.content)
-                        if set(found) != set(batch): complete = False; log['error'] = 'incomplete metadata batch'
-                        rows.extend({**x, 'url': 'https://pubmed.ncbi.nlm.nih.gov/' + pid + '/'} for pid, x in found.items())
-                else: rows, logs, complete, total = arxiv_search(q, config, request)
-            except Exception as error:
-                logs.append({'error': type(error).__name__ + ': ' + str(error)[:200]}); complete = False
-            new, changed = merge(rows, candidates, curated, pending, source, organ, at)
-            added.update(new); revised.update(changed)
-            item = {'source': source, 'organ': organ, 'query': q, 'window': w, 'checked_at': now(),
-                    'complete': complete, 'hit_count': total, 'returned': len(rows), 'pages': logs,
-                    'added': len(new), 'revised': len(changed)}
-            run['queries'].append(item)
-            if complete:
-                progress[key].update(last_success=w['end']+'T23:59:59+00:00', completed_window=w); progress[key].pop('pending', None)
-            else: state['errors'].append({'source': key, 'reason': '请求、解析或分页未完成；成功进度保留', 'query': q})
-            save()
+            for catchup in range(2):
+                key = source + ':' + organ; old = progress.get(key, {})
+                w = window(old, at, config['query_version'], monthly)
+                q = query_for(source, organ, w)
+                progress[key] = {**old, 'version': config['query_version'], 'pending': w, 'last_attempt': at}
+                save()
+                rows, logs, complete, total = [], [], False, None
+                try:
+                    if source == 'Europe PMC':
+                        items, logs, complete, total = epmc_search(q, config, request, ROOT / 'data/checkpoints')
+                        rows = [{'title': x.get('title'), 'doi': x.get('doi', ''), 'pmid': x.get('id') if x.get('source') == 'MED' else '',
+                                 'year': x.get('pubYear'), 'url': 'https://europepmc.org/article/' + x.get('source', 'MED') + '/' + x['id']} for x in items]
+                    elif source == 'PubMed':
+                        ids, logs, complete, total = pubmed_search(q, config, request)
+                        for offset in range(0, len(ids), 100):
+                            batch = ids[offset:offset + 100]
+                            r, log = request('https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi', {'db': 'pubmed', 'id': ','.join(batch), 'retmode': 'xml'})
+                            logs.append(log)
+                            if r is None or r.status_code != 200: complete = False; continue
+                            found = parse_pubmed(r.content)
+                            if set(found) != set(batch): complete = False; log['error'] = 'incomplete metadata batch'
+                            rows.extend({**x, 'url': 'https://pubmed.ncbi.nlm.nih.gov/' + pid + '/'} for pid, x in found.items())
+                    else: rows, logs, complete, total = arxiv_search(q, config, request)
+                except Exception as error:
+                    logs.append({'error': type(error).__name__ + ': ' + str(error)[:200]}); complete = False
+                new, changed = merge(rows, candidates, curated, pending, source, organ, at)
+                added.update(new); revised.update(changed)
+                item = {'source': source, 'organ': organ, 'query': q, 'window': w, 'checked_at': now(),
+                        'complete': complete, 'hit_count': total, 'returned': len(rows), 'pages': logs,
+                        'added': len(new), 'revised': len(changed)}
+                run['queries'].append(item)
+                if complete:
+                    progress[key].update(last_success=now(), covered_through=w['end'], completed_window=w); progress[key].pop('pending', None)
+                else: state['errors'].append({'source': key, 'reason': '请求、解析或分页未完成；成功进度保留', 'query': q})
+                save()
+                if not complete or w['end'] >= at[:10]: break
     # Crossref is an exact-DOI version/correction watcher, not a pretend exhaustive search.
     for r in curated:
-        if not r.get('doi') or r['kind'] != 'publication': continue
+        if not keys(r)['doi'] or r['kind'] != 'publication': continue
         key = 'Crossref:' + doi(r['doi']); response, log = request('https://api.crossref.org/works/' + quote(doi(r['doi']), safe=''))
         log.update(source='Crossref exact DOI', resource_id=r['id'])
         try:
             if response is None or response.status_code != 200: raise ValueError('request failed')
             m = response.json()['message']
             if doi(m.get('DOI')) != doi(r['doi']): raise ValueError('DOI identity conflict')
-            metadata = {k: m.get(k) for k in ('title', 'published', 'published-online', 'published-print', 'relation', 'update-to', 'updated-by', 'type')}
+            metadata = {k: m.get(k) for k in ('title', 'author', 'published', 'published-online', 'published-print', 'relation', 'update-to', 'updated-by', 'type')}
             old = progress.get(key, {})
-            if old.get('metadata') and old['metadata'] != metadata:
+            if old.get('metadata') and any(old['metadata'][k] != metadata.get(k) for k in old['metadata']):
                 pending[key] = {'id': r['id'], 'detected_at': at, 'before': old['metadata'], 'after': metadata, 'status': '出版/更正元数据变化待复核'}
                 revised.add(r['id'])
             progress[key] = {'last_success': at, 'metadata': metadata}; log['complete'] = True
@@ -270,7 +286,7 @@ def update(initial=False, request=None, assets=True):
     elif previous_success: state['last_successful_search'] = previous_success
     any_success = any(q['complete'] for q in run['queries']) or any(q.get('complete') for q in run['source_checks'])
     state['status'] = ('partial' if any_success else 'failed') if state['errors'] else 'success'
-    state['counts'] = {'added': len(added), 'revised': len(revised), 'pending': len(candidates) + len(pending), 'failed': len(state['errors'])}
+    state['counts'] = {'added': len(added), 'revised': len(revised), 'pending': sum(not r.get('resolved_to') for r in candidates.values()) + len(pending), 'failed': len(state['errors'])}
     run.update(status=state['status'], counts=state['counts'], completed_at=now())
     state['last_run_id'] = run['run_id']; save()
     return run
