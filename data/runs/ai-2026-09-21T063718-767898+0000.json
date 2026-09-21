@@ -1,0 +1,1608 @@
+{
+  "run_id": "ai-2026-09-21T063718-767898+0000",
+  "started_at": "2026-09-21T06:37:18.767898+00:00",
+  "query_version": "hpb-ai-query-3",
+  "queries": [
+    {
+      "source": "Europe PMC",
+      "organ": "肝脏外科",
+      "query": "TITLE_ABS:(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND TITLE_ABS:(video OR videos OR laparoscopic OR robotic) AND TITLE_ABS:(segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND TITLE_ABS:(\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-21]",
+      "window": {
+        "start": "2026-06-17",
+        "end": "2026-09-21"
+      },
+      "checked_at": "2026-09-21T06:37:19.694875+00:00",
+      "complete": true,
+      "hit_count": 4,
+      "returned": 4,
+      "pages": [
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+TITLE_ABS%3A%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+TITLE_ABS%3A%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+TITLE_ABS%3A%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+UPDATE_DATE%3A%5B2026-06-17+TO+2026-09-21%5D&format=json&resultType=lite&pageSize=100&cursorMark=%2A",
+          "checked_at": "2026-09-21T06:37:18.957323+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+TITLE_ABS%3A%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+TITLE_ABS%3A%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+TITLE_ABS%3A%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+UPDATE_DATE%3A%5B2026-06-17+TO+2026-09-21%5D&format=json&resultType=lite&pageSize=100&cursorMark=%2A"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+TITLE_ABS%3A%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+TITLE_ABS%3A%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+TITLE_ABS%3A%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+UPDATE_DATE%3A%5B2026-06-17+TO+2026-09-21%5D&format=json&resultType=lite&pageSize=100&cursorMark=%2A",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 4219,
+          "sha256": "4f49219f1bc0f625af43b7f5d51c65655e53534ca3da5f8378b1a732ee6ad8bd",
+          "hit_count": 4,
+          "returned": 4,
+          "cursor": "*",
+          "next_cursor": null
+        }
+      ],
+      "added": 0,
+      "revised": 1
+    },
+    {
+      "source": "Europe PMC",
+      "organ": "胆囊与胆道外科",
+      "query": "TITLE_ABS:(cholecystectomy OR gallbladder OR biliary) AND TITLE_ABS:(video OR videos OR laparoscopic OR robotic) AND TITLE_ABS:(segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND TITLE_ABS:(\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-21]",
+      "window": {
+        "start": "2026-06-17",
+        "end": "2026-09-21"
+      },
+      "checked_at": "2026-09-21T06:37:21.156345+00:00",
+      "complete": true,
+      "hit_count": 21,
+      "returned": 21,
+      "pages": [
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+TITLE_ABS%3A%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+TITLE_ABS%3A%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+TITLE_ABS%3A%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+UPDATE_DATE%3A%5B2026-06-17+TO+2026-09-21%5D&format=json&resultType=lite&pageSize=100&cursorMark=%2A",
+          "checked_at": "2026-09-21T06:37:19.815692+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+TITLE_ABS%3A%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+TITLE_ABS%3A%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+TITLE_ABS%3A%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+UPDATE_DATE%3A%5B2026-06-17+TO+2026-09-21%5D&format=json&resultType=lite&pageSize=100&cursorMark=%2A"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+TITLE_ABS%3A%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+TITLE_ABS%3A%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+TITLE_ABS%3A%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+UPDATE_DATE%3A%5B2026-06-17+TO+2026-09-21%5D&format=json&resultType=lite&pageSize=100&cursorMark=%2A",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 17623,
+          "sha256": "51494986f5bacb5017087d113be64e70653bc5b8b32fcd8b8b0c8c3ac1bcd718",
+          "hit_count": 21,
+          "returned": 21,
+          "cursor": "*",
+          "next_cursor": null
+        }
+      ],
+      "added": 0,
+      "revised": 0
+    },
+    {
+      "source": "Europe PMC",
+      "organ": "胰腺外科",
+      "query": "TITLE_ABS:(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND TITLE_ABS:(video OR videos OR laparoscopic OR robotic) AND TITLE_ABS:(segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND TITLE_ABS:(\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-21]",
+      "window": {
+        "start": "2026-06-17",
+        "end": "2026-09-21"
+      },
+      "checked_at": "2026-09-21T06:37:21.852123+00:00",
+      "complete": true,
+      "hit_count": 1,
+      "returned": 1,
+      "pages": [
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28pancreatectomy+OR+pancreaticoduodenectomy+OR+pancreatoduodenectomy+OR+pancreaticojejunostomy+OR+%22pancreatic+surgery%22%29+AND+TITLE_ABS%3A%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+TITLE_ABS%3A%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+TITLE_ABS%3A%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+UPDATE_DATE%3A%5B2026-06-17+TO+2026-09-21%5D&format=json&resultType=lite&pageSize=100&cursorMark=%2A",
+          "checked_at": "2026-09-21T06:37:21.276656+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28pancreatectomy+OR+pancreaticoduodenectomy+OR+pancreatoduodenectomy+OR+pancreaticojejunostomy+OR+%22pancreatic+surgery%22%29+AND+TITLE_ABS%3A%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+TITLE_ABS%3A%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+TITLE_ABS%3A%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+UPDATE_DATE%3A%5B2026-06-17+TO+2026-09-21%5D&format=json&resultType=lite&pageSize=100&cursorMark=%2A"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28pancreatectomy+OR+pancreaticoduodenectomy+OR+pancreatoduodenectomy+OR+pancreaticojejunostomy+OR+%22pancreatic+surgery%22%29+AND+TITLE_ABS%3A%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+TITLE_ABS%3A%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+TITLE_ABS%3A%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+UPDATE_DATE%3A%5B2026-06-17+TO+2026-09-21%5D&format=json&resultType=lite&pageSize=100&cursorMark=%2A",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 1563,
+          "sha256": "9a85e4b05dfa560518644d0e4ee56c6c5488b0bc02947dca1d39276566d419a4",
+          "hit_count": 1,
+          "returned": 1,
+          "cursor": "*",
+          "next_cursor": null
+        }
+      ],
+      "added": 0,
+      "revised": 0
+    },
+    {
+      "source": "Europe PMC",
+      "organ": "可迁移方法",
+      "query": "TITLE_ABS:(surgical OR surgery OR laparoscopic) AND TITLE_ABS:(video OR videos OR laparoscopic OR robotic) AND TITLE_ABS:(segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND TITLE_ABS:(\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND UPDATE_DATE:[2026-06-17 TO 2026-09-21]",
+      "window": {
+        "start": "2026-06-17",
+        "end": "2026-09-21"
+      },
+      "checked_at": "2026-09-21T06:37:29.225697+00:00",
+      "complete": true,
+      "hit_count": 171,
+      "returned": 171,
+      "pages": [
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28surgical+OR+surgery+OR+laparoscopic%29+AND+TITLE_ABS%3A%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+TITLE_ABS%3A%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+TITLE_ABS%3A%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+UPDATE_DATE%3A%5B2026-06-17+TO+2026-09-21%5D&format=json&resultType=lite&pageSize=100&cursorMark=%2A",
+          "checked_at": "2026-09-21T06:37:21.973637+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28surgical+OR+surgery+OR+laparoscopic%29+AND+TITLE_ABS%3A%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+TITLE_ABS%3A%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+TITLE_ABS%3A%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+UPDATE_DATE%3A%5B2026-06-17+TO+2026-09-21%5D&format=json&resultType=lite&pageSize=100&cursorMark=%2A"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28surgical+OR+surgery+OR+laparoscopic%29+AND+TITLE_ABS%3A%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+TITLE_ABS%3A%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+TITLE_ABS%3A%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+UPDATE_DATE%3A%5B2026-06-17+TO+2026-09-21%5D&format=json&resultType=lite&pageSize=100&cursorMark=%2A",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 83269,
+          "sha256": "52b5ef673831b3b0b7f3e9d512a82967cb751c4c8940ee59d008b8fc23e564b6",
+          "hit_count": 171,
+          "returned": 100,
+          "cursor": "*",
+          "next_cursor": "AoIIQNzf9yg1NDA0NzE0OQ=="
+        },
+        {
+          "requested_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28surgical+OR+surgery+OR+laparoscopic%29+AND+TITLE_ABS%3A%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+TITLE_ABS%3A%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+TITLE_ABS%3A%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+UPDATE_DATE%3A%5B2026-06-17+TO+2026-09-21%5D&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQNzf9yg1NDA0NzE0OQ%3D%3D",
+          "checked_at": "2026-09-21T06:37:24.884576+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28surgical+OR+surgery+OR+laparoscopic%29+AND+TITLE_ABS%3A%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+TITLE_ABS%3A%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+TITLE_ABS%3A%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+UPDATE_DATE%3A%5B2026-06-17+TO+2026-09-21%5D&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQNzf9yg1NDA0NzE0OQ%3D%3D"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28surgical+OR+surgery+OR+laparoscopic%29+AND+TITLE_ABS%3A%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+TITLE_ABS%3A%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+TITLE_ABS%3A%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+UPDATE_DATE%3A%5B2026-06-17+TO+2026-09-21%5D&format=json&resultType=lite&pageSize=100&cursorMark=AoIIQNzf9yg1NDA0NzE0OQ%3D%3D",
+          "content_type": "application/json;charset=UTF-8",
+          "bytes": 59045,
+          "sha256": "0457d195c78a9c796cceef7cbc2879e4e5d29b9a40d75024291db2eb1917084b",
+          "hit_count": 171,
+          "returned": 71,
+          "cursor": "AoIIQNzf9yg1NDA0NzE0OQ==",
+          "next_cursor": "AoIIQAWCkig0NzA4NDUwMg=="
+        }
+      ],
+      "added": 1,
+      "revised": 1
+    },
+    {
+      "source": "PubMed",
+      "organ": "肝脏外科",
+      "query": "(hepatectomy OR \"liver resection\" OR \"liver surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND (\"2026-06-17\"[MDAT] : \"2026-09-21\"[MDAT])",
+      "window": {
+        "start": "2026-06-17",
+        "end": "2026-09-21"
+      },
+      "checked_at": "2026-09-21T06:37:30.534415+00:00",
+      "complete": true,
+      "hit_count": 7,
+      "returned": 7,
+      "pages": [
+        {
+          "requested_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+%28%222026-06-17%22%5BMDAT%5D+%3A+%222026-09-21%22%5BMDAT%5D%29&retmode=json&retmax=1000&retstart=0",
+          "checked_at": "2026-09-21T06:37:29.347692+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+%28%222026-06-17%22%5BMDAT%5D+%3A+%222026-09-21%22%5BMDAT%5D%29&retmode=json&retmax=1000&retstart=0"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28hepatectomy+OR+%22liver+resection%22+OR+%22liver+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+%28%222026-06-17%22%5BMDAT%5D+%3A+%222026-09-21%22%5BMDAT%5D%29&retmode=json&retmax=1000&retstart=0",
+          "content_type": "application/json; charset=UTF-8",
+          "bytes": 4751,
+          "sha256": "2d97320c842df95fbfeaac9059c4d49637598114a4169ffb7ad8fc1f4b48f008",
+          "query_translation": "(\"hepatectomy\"[MeSH Terms] OR \"hepatectomy\"[All Fields] OR \"hepatectomies\"[All Fields] OR \"liver resection\"[All Fields] OR \"liver surgery\"[All Fields]) AND (\"video s\"[All Fields] OR \"videoed\"[All Fields] OR \"videotape recording\"[MeSH Terms] OR (\"videotape\"[All Fields] AND \"recording\"[All Fields]) OR \"videotape recording\"[All Fields] OR \"video\"[All Fields] OR \"videos\"[All Fields] OR (\"video s\"[All Fields] OR \"videoed\"[All Fields] OR \"videotape recording\"[MeSH Terms] OR (\"videotape\"[All Fields] AND \"recording\"[All Fields]) OR \"videotape recording\"[All Fields] OR \"video\"[All Fields] OR \"videos\"[All Fields]) OR (\"laparoscopes\"[MeSH Terms] OR \"laparoscopes\"[All Fields] OR \"laparoscope\"[All Fields] OR \"laparoscopical\"[All Fields] OR \"laparoscopically\"[All Fields] OR \"laparoscopics\"[All Fields] OR \"laparoscopy\"[MeSH Terms] OR \"laparoscopy\"[All Fields] OR \"laparoscopic\"[All Fields]) OR (\"robot\"[All Fields] OR \"robot s\"[All Fields] OR \"robotically\"[All Fields] OR \"robotics\"[MeSH Terms] OR \"robotics\"[All Fields] OR \"robotic\"[All Fields] OR \"robotization\"[All Fields] OR \"robotized\"[All Fields] OR \"robots\"[All Fields])) AND (\"segment\"[All Fields] OR \"segment s\"[All Fields] OR \"segmental\"[All Fields] OR \"segmentally\"[All Fields] OR \"segmentals\"[All Fields] OR \"segmentation\"[All Fields] OR \"segmentation s\"[All Fields] OR \"segmentational\"[All Fields] OR \"segmentations\"[All Fields] OR \"segmented\"[All Fields] OR \"segmenter\"[All Fields] OR \"segmenters\"[All Fields] OR \"segmenting\"[All Fields] OR \"segments\"[All Fields] OR (\"track and field\"[MeSH Terms] OR (\"track\"[All Fields] AND \"field\"[All Fields]) OR \"track and field\"[All Fields] OR \"track\"[All Fields] OR \"tracks\"[All Fields] OR \"tracked\"[All Fields] OR \"tracking\"[All Fields] OR \"tracking s\"[All Fields] OR \"trackings\"[All Fields]) OR \"phase recognition\"[All Fields] OR \"workflow recognition\"[All Fields] OR \"action triplet\"[All Fields] OR \"video question answering\"[All Fields]) AND (\"deep learning\"[All Fields] OR \"foundation model\"[All Fields] OR \"segment anything\"[All Fields] OR \"vision language\"[All Fields] OR \"large language model\"[All Fields] OR (\"transformer\"[All Fields] OR \"transformers\"[All Fields]) OR \"artificial intelligence\"[All Fields]) AND 2026/06/17:2026/09/21[Date - Modification]",
+          "warning_list": null,
+          "hit_count": 7,
+          "returned": 7,
+          "offset": 0
+        },
+        {
+          "requested_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42432115%2C42122417%2C42090056%2C42081379%2C41941098%2C41809333%2C39488186&retmode=xml",
+          "checked_at": "2026-09-21T06:37:29.689051+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42432115%2C42122417%2C42090056%2C42081379%2C41941098%2C41809333%2C39488186&retmode=xml"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42432115%2C42122417%2C42090056%2C42081379%2C41941098%2C41809333%2C39488186&retmode=xml",
+          "content_type": "text/xml; charset=UTF-8",
+          "bytes": 94204,
+          "sha256": "82400f89f6e9fcef898a9540e601c1fb2b1164514f74b9ff87b979b3fabb6a4a"
+        }
+      ],
+      "added": 0,
+      "revised": 2
+    },
+    {
+      "source": "PubMed",
+      "organ": "胆囊与胆道外科",
+      "query": "(cholecystectomy OR gallbladder OR biliary) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND (\"2026-06-17\"[MDAT] : \"2026-09-21\"[MDAT])",
+      "window": {
+        "start": "2026-06-17",
+        "end": "2026-09-21"
+      },
+      "checked_at": "2026-09-21T06:37:32.527323+00:00",
+      "complete": true,
+      "hit_count": 28,
+      "returned": 28,
+      "pages": [
+        {
+          "requested_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+%28%222026-06-17%22%5BMDAT%5D+%3A+%222026-09-21%22%5BMDAT%5D%29&retmode=json&retmax=1000&retstart=0",
+          "checked_at": "2026-09-21T06:37:30.655818+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+%28%222026-06-17%22%5BMDAT%5D+%3A+%222026-09-21%22%5BMDAT%5D%29&retmode=json&retmax=1000&retstart=0"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28cholecystectomy+OR+gallbladder+OR+biliary%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+%28%222026-06-17%22%5BMDAT%5D+%3A+%222026-09-21%22%5BMDAT%5D%29&retmode=json&retmax=1000&retstart=0",
+          "content_type": "application/json; charset=UTF-8",
+          "bytes": 5254,
+          "sha256": "5d399d67e99d7a670f9cbdd31f00d6664f8ba800a6b49e6ea93b1f1a32e78310",
+          "query_translation": "(\"cholecystectomy\"[MeSH Terms] OR \"cholecystectomy\"[All Fields] OR \"cholecystectomies\"[All Fields] OR (\"gallbladder\"[MeSH Terms] OR \"gallbladder\"[All Fields] OR \"gallbladders\"[All Fields] OR \"gallbladder s\"[All Fields]) OR \"biliary\"[All Fields]) AND (\"video s\"[All Fields] OR \"videoed\"[All Fields] OR \"videotape recording\"[MeSH Terms] OR (\"videotape\"[All Fields] AND \"recording\"[All Fields]) OR \"videotape recording\"[All Fields] OR \"video\"[All Fields] OR \"videos\"[All Fields] OR (\"video s\"[All Fields] OR \"videoed\"[All Fields] OR \"videotape recording\"[MeSH Terms] OR (\"videotape\"[All Fields] AND \"recording\"[All Fields]) OR \"videotape recording\"[All Fields] OR \"video\"[All Fields] OR \"videos\"[All Fields]) OR (\"laparoscopes\"[MeSH Terms] OR \"laparoscopes\"[All Fields] OR \"laparoscope\"[All Fields] OR \"laparoscopical\"[All Fields] OR \"laparoscopically\"[All Fields] OR \"laparoscopics\"[All Fields] OR \"laparoscopy\"[MeSH Terms] OR \"laparoscopy\"[All Fields] OR \"laparoscopic\"[All Fields]) OR (\"robot\"[All Fields] OR \"robot s\"[All Fields] OR \"robotically\"[All Fields] OR \"robotics\"[MeSH Terms] OR \"robotics\"[All Fields] OR \"robotic\"[All Fields] OR \"robotization\"[All Fields] OR \"robotized\"[All Fields] OR \"robots\"[All Fields])) AND (\"segment\"[All Fields] OR \"segment s\"[All Fields] OR \"segmental\"[All Fields] OR \"segmentally\"[All Fields] OR \"segmentals\"[All Fields] OR \"segmentation\"[All Fields] OR \"segmentation s\"[All Fields] OR \"segmentational\"[All Fields] OR \"segmentations\"[All Fields] OR \"segmented\"[All Fields] OR \"segmenter\"[All Fields] OR \"segmenters\"[All Fields] OR \"segmenting\"[All Fields] OR \"segments\"[All Fields] OR (\"track and field\"[MeSH Terms] OR (\"track\"[All Fields] AND \"field\"[All Fields]) OR \"track and field\"[All Fields] OR \"track\"[All Fields] OR \"tracks\"[All Fields] OR \"tracked\"[All Fields] OR \"tracking\"[All Fields] OR \"tracking s\"[All Fields] OR \"trackings\"[All Fields]) OR \"phase recognition\"[All Fields] OR \"workflow recognition\"[All Fields] OR \"action triplet\"[All Fields] OR \"video question answering\"[All Fields]) AND (\"deep learning\"[All Fields] OR \"foundation model\"[All Fields] OR \"segment anything\"[All Fields] OR \"vision language\"[All Fields] OR \"large language model\"[All Fields] OR (\"transformer\"[All Fields] OR \"transformers\"[All Fields]) OR \"artificial intelligence\"[All Fields]) AND 2026/06/17:2026/09/21[Date - Modification]",
+          "warning_list": null,
+          "hit_count": 28,
+          "returned": 28,
+          "offset": 0
+        },
+        {
+          "requested_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42682291%2C42645972%2C42638852%2C42606769%2C42595966%2C42570927%2C42547631%2C42525407%2C42488379%2C42429784%2C42399171%2C42326207%2C42289602%2C42185582%2C42162259%2C42146836%2C42122417%2C42081379%2C42050561%2C42030699%2C42010992%2C41708890%2C41564633%2C41335230%2C41120664%2C40673467%2C40569317%2C33196488&retmode=xml",
+          "checked_at": "2026-09-21T06:37:31.192488+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42682291%2C42645972%2C42638852%2C42606769%2C42595966%2C42570927%2C42547631%2C42525407%2C42488379%2C42429784%2C42399171%2C42326207%2C42289602%2C42185582%2C42162259%2C42146836%2C42122417%2C42081379%2C42050561%2C42030699%2C42010992%2C41708890%2C41564633%2C41335230%2C41120664%2C40673467%2C40569317%2C33196488&retmode=xml"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42682291%2C42645972%2C42638852%2C42606769%2C42595966%2C42570927%2C42547631%2C42525407%2C42488379%2C42429784%2C42399171%2C42326207%2C42289602%2C42185582%2C42162259%2C42146836%2C42122417%2C42081379%2C42050561%2C42030699%2C42010992%2C41708890%2C41564633%2C41335230%2C41120664%2C40673467%2C40569317%2C33196488&retmode=xml",
+          "content_type": "text/xml; charset=UTF-8",
+          "bytes": 569081,
+          "sha256": "94fda877e3263e5fa9e8c5a1dceb7dd33b5c52e6752026325fd02039ea5b8725"
+        }
+      ],
+      "added": 0,
+      "revised": 0
+    },
+    {
+      "source": "PubMed",
+      "organ": "胰腺外科",
+      "query": "(pancreatectomy OR pancreaticoduodenectomy OR pancreatoduodenectomy OR pancreaticojejunostomy OR \"pancreatic surgery\") AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND (\"2026-06-17\"[MDAT] : \"2026-09-21\"[MDAT])",
+      "window": {
+        "start": "2026-06-17",
+        "end": "2026-09-21"
+      },
+      "checked_at": "2026-09-21T06:37:33.724691+00:00",
+      "complete": true,
+      "hit_count": 5,
+      "returned": 5,
+      "pages": [
+        {
+          "requested_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28pancreatectomy+OR+pancreaticoduodenectomy+OR+pancreatoduodenectomy+OR+pancreaticojejunostomy+OR+%22pancreatic+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+%28%222026-06-17%22%5BMDAT%5D+%3A+%222026-09-21%22%5BMDAT%5D%29&retmode=json&retmax=1000&retstart=0",
+          "checked_at": "2026-09-21T06:37:32.648321+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28pancreatectomy+OR+pancreaticoduodenectomy+OR+pancreatoduodenectomy+OR+pancreaticojejunostomy+OR+%22pancreatic+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+%28%222026-06-17%22%5BMDAT%5D+%3A+%222026-09-21%22%5BMDAT%5D%29&retmode=json&retmax=1000&retstart=0"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28pancreatectomy+OR+pancreaticoduodenectomy+OR+pancreatoduodenectomy+OR+pancreaticojejunostomy+OR+%22pancreatic+surgery%22%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+%28%222026-06-17%22%5BMDAT%5D+%3A+%222026-09-21%22%5BMDAT%5D%29&retmode=json&retmax=1000&retstart=0",
+          "content_type": "application/json; charset=UTF-8",
+          "bytes": 5698,
+          "sha256": "c2fb9c162988ab9fa836b8f397751556fa544dc10f95f1490161942a4887211a",
+          "query_translation": "(\"pancreatectomy\"[MeSH Terms] OR \"pancreatectomy\"[All Fields] OR \"pancreatectomies\"[All Fields] OR (\"pancreaticoduodenectomy\"[MeSH Terms] OR \"pancreaticoduodenectomy\"[All Fields] OR \"pancreaticoduodenectomies\"[All Fields]) OR (\"pancreaticoduodenectomy\"[MeSH Terms] OR \"pancreaticoduodenectomy\"[All Fields] OR \"pancreatoduodenectomies\"[All Fields] OR \"pancreatoduodenectomy\"[All Fields]) OR (\"pancreaticojejunostomy\"[MeSH Terms] OR \"pancreaticojejunostomy\"[All Fields] OR \"pancreaticojejunostomies\"[All Fields]) OR \"pancreatic surgery\"[All Fields]) AND (\"video s\"[All Fields] OR \"videoed\"[All Fields] OR \"videotape recording\"[MeSH Terms] OR (\"videotape\"[All Fields] AND \"recording\"[All Fields]) OR \"videotape recording\"[All Fields] OR \"video\"[All Fields] OR \"videos\"[All Fields] OR (\"video s\"[All Fields] OR \"videoed\"[All Fields] OR \"videotape recording\"[MeSH Terms] OR (\"videotape\"[All Fields] AND \"recording\"[All Fields]) OR \"videotape recording\"[All Fields] OR \"video\"[All Fields] OR \"videos\"[All Fields]) OR (\"laparoscopes\"[MeSH Terms] OR \"laparoscopes\"[All Fields] OR \"laparoscope\"[All Fields] OR \"laparoscopical\"[All Fields] OR \"laparoscopically\"[All Fields] OR \"laparoscopics\"[All Fields] OR \"laparoscopy\"[MeSH Terms] OR \"laparoscopy\"[All Fields] OR \"laparoscopic\"[All Fields]) OR (\"robot\"[All Fields] OR \"robot s\"[All Fields] OR \"robotically\"[All Fields] OR \"robotics\"[MeSH Terms] OR \"robotics\"[All Fields] OR \"robotic\"[All Fields] OR \"robotization\"[All Fields] OR \"robotized\"[All Fields] OR \"robots\"[All Fields])) AND (\"segment\"[All Fields] OR \"segment s\"[All Fields] OR \"segmental\"[All Fields] OR \"segmentally\"[All Fields] OR \"segmentals\"[All Fields] OR \"segmentation\"[All Fields] OR \"segmentation s\"[All Fields] OR \"segmentational\"[All Fields] OR \"segmentations\"[All Fields] OR \"segmented\"[All Fields] OR \"segmenter\"[All Fields] OR \"segmenters\"[All Fields] OR \"segmenting\"[All Fields] OR \"segments\"[All Fields] OR (\"track and field\"[MeSH Terms] OR (\"track\"[All Fields] AND \"field\"[All Fields]) OR \"track and field\"[All Fields] OR \"track\"[All Fields] OR \"tracks\"[All Fields] OR \"tracked\"[All Fields] OR \"tracking\"[All Fields] OR \"tracking s\"[All Fields] OR \"trackings\"[All Fields]) OR \"phase recognition\"[All Fields] OR \"workflow recognition\"[All Fields] OR \"action triplet\"[All Fields] OR \"video question answering\"[All Fields]) AND (\"deep learning\"[All Fields] OR \"foundation model\"[All Fields] OR \"segment anything\"[All Fields] OR \"vision language\"[All Fields] OR \"large language model\"[All Fields] OR (\"transformer\"[All Fields] OR \"transformers\"[All Fields]) OR \"artificial intelligence\"[All Fields]) AND 2026/06/17:2026/09/21[Date - Modification]",
+          "warning_list": null,
+          "hit_count": 5,
+          "returned": 5,
+          "offset": 0
+        },
+        {
+          "requested_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42638852%2C42207157%2C42050561%2C41704439%2C38608641&retmode=xml",
+          "checked_at": "2026-09-21T06:37:32.866130+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42638852%2C42207157%2C42050561%2C41704439%2C38608641&retmode=xml"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42638852%2C42207157%2C42050561%2C41704439%2C38608641&retmode=xml",
+          "content_type": "text/xml; charset=UTF-8",
+          "bytes": 112244,
+          "sha256": "f542a89d107129c8df484cae04a4fc86ad50dd25753c7574e406e46d264a4332"
+        }
+      ],
+      "added": 0,
+      "revised": 0
+    },
+    {
+      "source": "PubMed",
+      "organ": "可迁移方法",
+      "query": "(surgical OR surgery OR laparoscopic) AND (video OR videos OR laparoscopic OR robotic) AND (segmentation OR tracking OR \"phase recognition\" OR \"workflow recognition\" OR \"action triplet\" OR \"video question answering\") AND (\"deep learning\" OR \"foundation model\" OR \"segment anything\" OR \"vision language\" OR \"large language model\" OR transformer OR \"artificial intelligence\") AND (\"2026-06-17\"[MDAT] : \"2026-09-21\"[MDAT])",
+      "window": {
+        "start": "2026-06-17",
+        "end": "2026-09-21"
+      },
+      "checked_at": "2026-09-21T06:37:46.278206+00:00",
+      "complete": true,
+      "hit_count": 303,
+      "returned": 303,
+      "pages": [
+        {
+          "requested_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28surgical+OR+surgery+OR+laparoscopic%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+%28%222026-06-17%22%5BMDAT%5D+%3A+%222026-09-21%22%5BMDAT%5D%29&retmode=json&retmax=1000&retstart=0",
+          "checked_at": "2026-09-21T06:37:33.848502+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28surgical+OR+surgery+OR+laparoscopic%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+%28%222026-06-17%22%5BMDAT%5D+%3A+%222026-09-21%22%5BMDAT%5D%29&retmode=json&retmax=1000&retstart=0"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28surgical+OR+surgery+OR+laparoscopic%29+AND+%28video+OR+videos+OR+laparoscopic+OR+robotic%29+AND+%28segmentation+OR+tracking+OR+%22phase+recognition%22+OR+%22workflow+recognition%22+OR+%22action+triplet%22+OR+%22video+question+answering%22%29+AND+%28%22deep+learning%22+OR+%22foundation+model%22+OR+%22segment+anything%22+OR+%22vision+language%22+OR+%22large+language+model%22+OR+transformer+OR+%22artificial+intelligence%22%29+AND+%28%222026-06-17%22%5BMDAT%5D+%3A+%222026-09-21%22%5BMDAT%5D%29&retmode=json&retmax=1000&retstart=0",
+          "content_type": "application/json; charset=UTF-8",
+          "bytes": 9542,
+          "sha256": "0852ea4fb209c0bb4ac120c88136703d2408952ee3a676aacd66e25f7a2d4ff5",
+          "query_translation": "(\"surgical procedures, operative\"[MeSH Terms] OR (\"surgical\"[All Fields] AND \"procedures\"[All Fields] AND \"operative\"[All Fields]) OR \"operative surgical procedures\"[All Fields] OR \"surgical\"[All Fields] OR \"surgically\"[All Fields] OR \"surgicals\"[All Fields] OR (\"surgery\"[MeSH Subheading] OR \"surgery\"[All Fields] OR \"surgical procedures, operative\"[MeSH Terms] OR (\"surgical\"[All Fields] AND \"procedures\"[All Fields] AND \"operative\"[All Fields]) OR \"operative surgical procedures\"[All Fields] OR \"general surgery\"[MeSH Terms] OR (\"general\"[All Fields] AND \"surgery\"[All Fields]) OR \"general surgery\"[All Fields] OR \"surgery s\"[All Fields] OR \"surgerys\"[All Fields] OR \"surgeries\"[All Fields]) OR (\"laparoscopes\"[MeSH Terms] OR \"laparoscopes\"[All Fields] OR \"laparoscope\"[All Fields] OR \"laparoscopical\"[All Fields] OR \"laparoscopically\"[All Fields] OR \"laparoscopics\"[All Fields] OR \"laparoscopy\"[MeSH Terms] OR \"laparoscopy\"[All Fields] OR \"laparoscopic\"[All Fields])) AND (\"video s\"[All Fields] OR \"videoed\"[All Fields] OR \"videotape recording\"[MeSH Terms] OR (\"videotape\"[All Fields] AND \"recording\"[All Fields]) OR \"videotape recording\"[All Fields] OR \"video\"[All Fields] OR \"videos\"[All Fields] OR (\"video s\"[All Fields] OR \"videoed\"[All Fields] OR \"videotape recording\"[MeSH Terms] OR (\"videotape\"[All Fields] AND \"recording\"[All Fields]) OR \"videotape recording\"[All Fields] OR \"video\"[All Fields] OR \"videos\"[All Fields]) OR (\"laparoscopes\"[MeSH Terms] OR \"laparoscopes\"[All Fields] OR \"laparoscope\"[All Fields] OR \"laparoscopical\"[All Fields] OR \"laparoscopically\"[All Fields] OR \"laparoscopics\"[All Fields] OR \"laparoscopy\"[MeSH Terms] OR \"laparoscopy\"[All Fields] OR \"laparoscopic\"[All Fields]) OR (\"robot\"[All Fields] OR \"robot s\"[All Fields] OR \"robotically\"[All Fields] OR \"robotics\"[MeSH Terms] OR \"robotics\"[All Fields] OR \"robotic\"[All Fields] OR \"robotization\"[All Fields] OR \"robotized\"[All Fields] OR \"robots\"[All Fields])) AND (\"segment\"[All Fields] OR \"segment s\"[All Fields] OR \"segmental\"[All Fields] OR \"segmentally\"[All Fields] OR \"segmentals\"[All Fields] OR \"segmentation\"[All Fields] OR \"segmentation s\"[All Fields] OR \"segmentational\"[All Fields] OR \"segmentations\"[All Fields] OR \"segmented\"[All Fields] OR \"segmenter\"[All Fields] OR \"segmenters\"[All Fields] OR \"segmenting\"[All Fields] OR \"segments\"[All Fields] OR (\"track and field\"[MeSH Terms] OR (\"track\"[All Fields] AND \"field\"[All Fields]) OR \"track and field\"[All Fields] OR \"track\"[All Fields] OR \"tracks\"[All Fields] OR \"tracked\"[All Fields] OR \"tracking\"[All Fields] OR \"tracking s\"[All Fields] OR \"trackings\"[All Fields]) OR \"phase recognition\"[All Fields] OR \"workflow recognition\"[All Fields] OR \"action triplet\"[All Fields] OR \"video question answering\"[All Fields]) AND (\"deep learning\"[All Fields] OR \"foundation model\"[All Fields] OR \"segment anything\"[All Fields] OR \"vision language\"[All Fields] OR \"large language model\"[All Fields] OR (\"transformer\"[All Fields] OR \"transformers\"[All Fields]) OR \"artificial intelligence\"[All Fields]) AND 2026/06/17:2026/09/21[Date - Modification]",
+          "warning_list": null,
+          "hit_count": 303,
+          "returned": 303,
+          "offset": 0
+        },
+        {
+          "requested_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42762598%2C42762153%2C42760595%2C42744293%2C42742868%2C42737582%2C42732165%2C42730268%2C42728383%2C42713309%2C42712969%2C42709364%2C42709337%2C42704405%2C42699128%2C42698441%2C42696816%2C42685340%2C42683131%2C42682291%2C42675993%2C42668693%2C42663719%2C42658447%2C42647691%2C42645972%2C42645724%2C42643674%2C42640529%2C42638852%2C42632640%2C42631886%2C42631223%2C42629349%2C42618847%2C42616577%2C42616309%2C42613500%2C42608710%2C42606769%2C42595966%2C42595333%2C42587664%2C42579258%2C42551940%2C42562108%2C42560246%2C42559101%2C42557484%2C42547631%2C42536309%2C42533186%2C42532524%2C42531703%2C42528228%2C42525407%2C42515295%2C42509496%2C42507084%2C42503977%2C42503526%2C42503033%2C42500776%2C42496894%2C42496586%2C42495660%2C42488379%2C42488139%2C42484935%2C42481251%2C42474865%2C42474842%2C42451337%2C42434073%2C42432115%2C42430567%2C42429784%2C42429020%2C42423778%2C42421132%2C42414567%2C42412657%2C42398281%2C42390781%2C42367411%2C42358667%2C42352544%2C42351886%2C42345936%2C42342992%2C42341153%2C42332308%2C42326207%2C42319158%2C42311640%2C42310913%2C42303896%2C42302641%2C42289602%2C42288098&retmode=xml",
+          "checked_at": "2026-09-21T06:37:34.463123+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42762598%2C42762153%2C42760595%2C42744293%2C42742868%2C42737582%2C42732165%2C42730268%2C42728383%2C42713309%2C42712969%2C42709364%2C42709337%2C42704405%2C42699128%2C42698441%2C42696816%2C42685340%2C42683131%2C42682291%2C42675993%2C42668693%2C42663719%2C42658447%2C42647691%2C42645972%2C42645724%2C42643674%2C42640529%2C42638852%2C42632640%2C42631886%2C42631223%2C42629349%2C42618847%2C42616577%2C42616309%2C42613500%2C42608710%2C42606769%2C42595966%2C42595333%2C42587664%2C42579258%2C42551940%2C42562108%2C42560246%2C42559101%2C42557484%2C42547631%2C42536309%2C42533186%2C42532524%2C42531703%2C42528228%2C42525407%2C42515295%2C42509496%2C42507084%2C42503977%2C42503526%2C42503033%2C42500776%2C42496894%2C42496586%2C42495660%2C42488379%2C42488139%2C42484935%2C42481251%2C42474865%2C42474842%2C42451337%2C42434073%2C42432115%2C42430567%2C42429784%2C42429020%2C42423778%2C42421132%2C42414567%2C42412657%2C42398281%2C42390781%2C42367411%2C42358667%2C42352544%2C42351886%2C42345936%2C42342992%2C42341153%2C42332308%2C42326207%2C42319158%2C42311640%2C42310913%2C42303896%2C42302641%2C42289602%2C42288098&retmode=xml"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42762598%2C42762153%2C42760595%2C42744293%2C42742868%2C42737582%2C42732165%2C42730268%2C42728383%2C42713309%2C42712969%2C42709364%2C42709337%2C42704405%2C42699128%2C42698441%2C42696816%2C42685340%2C42683131%2C42682291%2C42675993%2C42668693%2C42663719%2C42658447%2C42647691%2C42645972%2C42645724%2C42643674%2C42640529%2C42638852%2C42632640%2C42631886%2C42631223%2C42629349%2C42618847%2C42616577%2C42616309%2C42613500%2C42608710%2C42606769%2C42595966%2C42595333%2C42587664%2C42579258%2C42551940%2C42562108%2C42560246%2C42559101%2C42557484%2C42547631%2C42536309%2C42533186%2C42532524%2C42531703%2C42528228%2C42525407%2C42515295%2C42509496%2C42507084%2C42503977%2C42503526%2C42503033%2C42500776%2C42496894%2C42496586%2C42495660%2C42488379%2C42488139%2C42484935%2C42481251%2C42474865%2C42474842%2C42451337%2C42434073%2C42432115%2C42430567%2C42429784%2C42429020%2C42423778%2C42421132%2C42414567%2C42412657%2C42398281%2C42390781%2C42367411%2C42358667%2C42352544%2C42351886%2C42345936%2C42342992%2C42341153%2C42332308%2C42326207%2C42319158%2C42311640%2C42310913%2C42303896%2C42302641%2C42289602%2C42288098&retmode=xml",
+          "content_type": "text/xml; charset=UTF-8",
+          "bytes": 2031280,
+          "sha256": "72ac27a7fd9600777aeaf09e232cc672b1e28bc14b5b928bd4ddc44f120016fe"
+        },
+        {
+          "requested_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42284416%2C42272586%2C42250470%2C42238390%2C42225519%2C42224114%2C42215575%2C42207157%2C42203652%2C42194817%2C42194313%2C42189372%2C42185582%2C42182800%2C42179771%2C42177680%2C42174321%2C42174030%2C42173959%2C42171654%2C42166865%2C42162259%2C42159157%2C42146836%2C42122417%2C42122313%2C42115697%2C42105745%2C42095429%2C42092786%2C42090056%2C42082915%2C42081379%2C42079941%2C42074167%2C42050561%2C42044985%2C42043651%2C42036142%2C42030699%2C42029588%2C42022895%2C42022164%2C42010992%2C41985737%2C41981972%2C41981030%2C41973355%2C41973177%2C41963397%2C41952533%2C41948160%2C41941098%2C41933401%2C41899815%2C41899151%2C41899094%2C41892936%2C41891368%2C41883526%2C41866407%2C41865530%2C41864316%2C41863886%2C41861933%2C41845188%2C41843322%2C41836341%2C41834555%2C41832216%2C41827351%2C41827286%2C41809333%2C41803602%2C41803398%2C41797017%2C41787080%2C41772300%2C41757246%2C41753197%2C41745364%2C41745362%2C41739357%2C41720113%2C41719833%2C41708890%2C41704439%2C41691750%2C41680105%2C41673340%2C41671345%2C41669767%2C41667903%2C41651534%2C41646670%2C41645000%2C41642312%2C41623203%2C41620263%2C41616878&retmode=xml",
+          "checked_at": "2026-09-21T06:37:35.981350+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42284416%2C42272586%2C42250470%2C42238390%2C42225519%2C42224114%2C42215575%2C42207157%2C42203652%2C42194817%2C42194313%2C42189372%2C42185582%2C42182800%2C42179771%2C42177680%2C42174321%2C42174030%2C42173959%2C42171654%2C42166865%2C42162259%2C42159157%2C42146836%2C42122417%2C42122313%2C42115697%2C42105745%2C42095429%2C42092786%2C42090056%2C42082915%2C42081379%2C42079941%2C42074167%2C42050561%2C42044985%2C42043651%2C42036142%2C42030699%2C42029588%2C42022895%2C42022164%2C42010992%2C41985737%2C41981972%2C41981030%2C41973355%2C41973177%2C41963397%2C41952533%2C41948160%2C41941098%2C41933401%2C41899815%2C41899151%2C41899094%2C41892936%2C41891368%2C41883526%2C41866407%2C41865530%2C41864316%2C41863886%2C41861933%2C41845188%2C41843322%2C41836341%2C41834555%2C41832216%2C41827351%2C41827286%2C41809333%2C41803602%2C41803398%2C41797017%2C41787080%2C41772300%2C41757246%2C41753197%2C41745364%2C41745362%2C41739357%2C41720113%2C41719833%2C41708890%2C41704439%2C41691750%2C41680105%2C41673340%2C41671345%2C41669767%2C41667903%2C41651534%2C41646670%2C41645000%2C41642312%2C41623203%2C41620263%2C41616878&retmode=xml"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42284416%2C42272586%2C42250470%2C42238390%2C42225519%2C42224114%2C42215575%2C42207157%2C42203652%2C42194817%2C42194313%2C42189372%2C42185582%2C42182800%2C42179771%2C42177680%2C42174321%2C42174030%2C42173959%2C42171654%2C42166865%2C42162259%2C42159157%2C42146836%2C42122417%2C42122313%2C42115697%2C42105745%2C42095429%2C42092786%2C42090056%2C42082915%2C42081379%2C42079941%2C42074167%2C42050561%2C42044985%2C42043651%2C42036142%2C42030699%2C42029588%2C42022895%2C42022164%2C42010992%2C41985737%2C41981972%2C41981030%2C41973355%2C41973177%2C41963397%2C41952533%2C41948160%2C41941098%2C41933401%2C41899815%2C41899151%2C41899094%2C41892936%2C41891368%2C41883526%2C41866407%2C41865530%2C41864316%2C41863886%2C41861933%2C41845188%2C41843322%2C41836341%2C41834555%2C41832216%2C41827351%2C41827286%2C41809333%2C41803602%2C41803398%2C41797017%2C41787080%2C41772300%2C41757246%2C41753197%2C41745364%2C41745362%2C41739357%2C41720113%2C41719833%2C41708890%2C41704439%2C41691750%2C41680105%2C41673340%2C41671345%2C41669767%2C41667903%2C41651534%2C41646670%2C41645000%2C41642312%2C41623203%2C41620263%2C41616878&retmode=xml",
+          "content_type": "text/xml; charset=UTF-8",
+          "bytes": 2189766,
+          "sha256": "a58b2cc1e0dbe311783e4b3b4f51ed576e15abce41f57583044160d753665a82"
+        },
+        {
+          "requested_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=41616576%2C41613948%2C41604894%2C41584051%2C41566138%2C41564633%2C41563474%2C41548482%2C41548402%2C41540778%2C41540667%2C41530034%2C41528749%2C41495165%2C41489952%2C41486277%2C41458100%2C41428176%2C41427529%2C41396240%2C41372209%2C41350780%2C41345354%2C41335230%2C41331654%2C41312297%2C41297512%2C41284458%2C41267884%2C41249940%2C41247638%2C41240795%2C41136711%2C41120664%2C41099978%2C41092720%2C41073813%2C41055831%2C41046271%2C41031839%2C41023213%2C41001536%2C40994261%2C40987960%2C40965805%2C40936019%2C40906531%2C40847589%2C40813778%2C40775217%2C40774098%2C40769094%2C40762931%2C40673467%2C40668896%2C40569317%2C40541088%2C40528143%2C40481276%2C40468304%2C40458868%2C40439827%2C40381257%2C40322003%2C40304484%2C40205315%2C39999763%2C39939476%2C39878275%2C42527453%2C39854817%2C39832608%2C41775984%2C39788389%2C42592383%2C39708509%2C39550795%2C39505514%2C39488186%2C39418831%2C39363661%2C39298861%2C39260033%2C39189669%2C39182302%2C39029903%2C38972945%2C38943835%2C38940891%2C38922721%2C38848990%2C38608641%2C38347140%2C38325497%2C38195336%2C37956905%2C37844472%2C37774560%2C37591704%2C37435094&retmode=xml",
+          "checked_at": "2026-09-21T06:37:37.418699+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=41616576%2C41613948%2C41604894%2C41584051%2C41566138%2C41564633%2C41563474%2C41548482%2C41548402%2C41540778%2C41540667%2C41530034%2C41528749%2C41495165%2C41489952%2C41486277%2C41458100%2C41428176%2C41427529%2C41396240%2C41372209%2C41350780%2C41345354%2C41335230%2C41331654%2C41312297%2C41297512%2C41284458%2C41267884%2C41249940%2C41247638%2C41240795%2C41136711%2C41120664%2C41099978%2C41092720%2C41073813%2C41055831%2C41046271%2C41031839%2C41023213%2C41001536%2C40994261%2C40987960%2C40965805%2C40936019%2C40906531%2C40847589%2C40813778%2C40775217%2C40774098%2C40769094%2C40762931%2C40673467%2C40668896%2C40569317%2C40541088%2C40528143%2C40481276%2C40468304%2C40458868%2C40439827%2C40381257%2C40322003%2C40304484%2C40205315%2C39999763%2C39939476%2C39878275%2C42527453%2C39854817%2C39832608%2C41775984%2C39788389%2C42592383%2C39708509%2C39550795%2C39505514%2C39488186%2C39418831%2C39363661%2C39298861%2C39260033%2C39189669%2C39182302%2C39029903%2C38972945%2C38943835%2C38940891%2C38922721%2C38848990%2C38608641%2C38347140%2C38325497%2C38195336%2C37956905%2C37844472%2C37774560%2C37591704%2C37435094&retmode=xml"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=41616576%2C41613948%2C41604894%2C41584051%2C41566138%2C41564633%2C41563474%2C41548482%2C41548402%2C41540778%2C41540667%2C41530034%2C41528749%2C41495165%2C41489952%2C41486277%2C41458100%2C41428176%2C41427529%2C41396240%2C41372209%2C41350780%2C41345354%2C41335230%2C41331654%2C41312297%2C41297512%2C41284458%2C41267884%2C41249940%2C41247638%2C41240795%2C41136711%2C41120664%2C41099978%2C41092720%2C41073813%2C41055831%2C41046271%2C41031839%2C41023213%2C41001536%2C40994261%2C40987960%2C40965805%2C40936019%2C40906531%2C40847589%2C40813778%2C40775217%2C40774098%2C40769094%2C40762931%2C40673467%2C40668896%2C40569317%2C40541088%2C40528143%2C40481276%2C40468304%2C40458868%2C40439827%2C40381257%2C40322003%2C40304484%2C40205315%2C39999763%2C39939476%2C39878275%2C42527453%2C39854817%2C39832608%2C41775984%2C39788389%2C42592383%2C39708509%2C39550795%2C39505514%2C39488186%2C39418831%2C39363661%2C39298861%2C39260033%2C39189669%2C39182302%2C39029903%2C38972945%2C38943835%2C38940891%2C38922721%2C38848990%2C38608641%2C38347140%2C38325497%2C38195336%2C37956905%2C37844472%2C37774560%2C37591704%2C37435094&retmode=xml",
+          "content_type": "text/xml; charset=UTF-8",
+          "bytes": 1980750,
+          "sha256": "84a59db6c004edec6ebc68027037ef0e4c9d6fdd941416b934a2aedc6ad980f1"
+        },
+        {
+          "requested_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=36284402%2C33196488%2C37637444&retmode=xml",
+          "checked_at": "2026-09-21T06:37:40.947697+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=36284402%2C33196488%2C37637444&retmode=xml"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=36284402%2C33196488%2C37637444&retmode=xml",
+          "content_type": "text/xml; charset=UTF-8",
+          "bytes": 56587,
+          "sha256": "2e137c48a297b64ce40e3087dc36bed49bdf2690ee53bfabecee0d92f2dc4fc1"
+        }
+      ],
+      "added": 6,
+      "revised": 2
+    },
+    {
+      "source": "arXiv",
+      "organ": "肝脏外科",
+      "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")",
+      "window": {
+        "start": null,
+        "end": "2026-09-15"
+      },
+      "checked_at": "2026-09-21T06:37:51.937377+00:00",
+      "complete": true,
+      "hit_count": 8,
+      "returned": 8,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?search_query=%28all%3Ahepatectomy+OR+all%3A%22liver+resection%22+OR+all%3A%22liver+surgery%22%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "checked_at": "2026-09-21T06:37:49.406996+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?search_query=%28all%3Ahepatectomy+OR+all%3A%22liver+resection%22+OR+all%3A%22liver+surgery%22%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?search_query=%28all%3Ahepatectomy+OR+all%3A%22liver+resection%22+OR+all%3A%22liver+surgery%22%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 24853,
+          "sha256": "8831a85cd7eb6976bd90d14c53fd19dae1972e797a31de415e158947ba4a0398",
+          "offset": 0,
+          "returned": 8,
+          "hit_count": 8
+        }
+      ],
+      "added": 7,
+      "revised": 0
+    },
+    {
+      "source": "arXiv",
+      "organ": "肝脏外科",
+      "query": "(all:hepatectomy OR all:\"liver resection\" OR all:\"liver surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\") AND lastUpdatedDate:[202606170000 TO 202609212359]",
+      "window": {
+        "start": "2026-06-17",
+        "end": "2026-09-21"
+      },
+      "checked_at": "2026-09-21T06:37:55.611610+00:00",
+      "complete": true,
+      "hit_count": 0,
+      "returned": 0,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?search_query=%28all%3Ahepatectomy+OR+all%3A%22liver+resection%22+OR+all%3A%22liver+surgery%22%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29+AND+lastUpdatedDate%3A%5B202606170000+TO+202609212359%5D&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "checked_at": "2026-09-21T06:37:55.068599+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?search_query=%28all%3Ahepatectomy+OR+all%3A%22liver+resection%22+OR+all%3A%22liver+surgery%22%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29+AND+lastUpdatedDate%3A%5B202606170000+TO+202609212359%5D&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?search_query=%28all%3Ahepatectomy+OR+all%3A%22liver+resection%22+OR+all%3A%22liver+surgery%22%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29+AND+lastUpdatedDate%3A%5B202606170000+TO+202609212359%5D&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 1795,
+          "sha256": "768c84866ea6ad328c99db84aa757941acdad0b710a883a5b5100d93ebce6a3c",
+          "offset": 0,
+          "returned": 0,
+          "hit_count": 0
+        }
+      ],
+      "added": 0,
+      "revised": 0
+    },
+    {
+      "source": "arXiv",
+      "organ": "胆囊与胆道外科",
+      "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")",
+      "window": {
+        "start": null,
+        "end": "2026-09-15"
+      },
+      "checked_at": "2026-09-21T06:38:03.897669+00:00",
+      "complete": true,
+      "hit_count": 26,
+      "returned": 26,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?search_query=%28all%3Acholecystectomy+OR+all%3Agallbladder+OR+all%3Abiliary%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "checked_at": "2026-09-21T06:37:58.745895+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?search_query=%28all%3Acholecystectomy+OR+all%3Agallbladder+OR+all%3Abiliary%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?search_query=%28all%3Acholecystectomy+OR+all%3Agallbladder+OR+all%3Abiliary%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 71089,
+          "sha256": "278c726fdc15a718fa7b4a9fe923101f17b46fde9f356ae0e0ecbdd49ec03883",
+          "offset": 0,
+          "returned": 26,
+          "hit_count": 26
+        }
+      ],
+      "added": 22,
+      "revised": 0
+    },
+    {
+      "source": "arXiv",
+      "organ": "胆囊与胆道外科",
+      "query": "(all:cholecystectomy OR all:gallbladder OR all:biliary) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\") AND lastUpdatedDate:[202606170000 TO 202609212359]",
+      "window": {
+        "start": "2026-06-17",
+        "end": "2026-09-21"
+      },
+      "checked_at": "2026-09-21T06:38:10.223195+00:00",
+      "complete": true,
+      "hit_count": 5,
+      "returned": 5,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?search_query=%28all%3Acholecystectomy+OR+all%3Agallbladder+OR+all%3Abiliary%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29+AND+lastUpdatedDate%3A%5B202606170000+TO+202609212359%5D&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "checked_at": "2026-09-21T06:38:07.022221+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?search_query=%28all%3Acholecystectomy+OR+all%3Agallbladder+OR+all%3Abiliary%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29+AND+lastUpdatedDate%3A%5B202606170000+TO+202609212359%5D&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?search_query=%28all%3Acholecystectomy+OR+all%3Agallbladder+OR+all%3Abiliary%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29+AND+lastUpdatedDate%3A%5B202606170000+TO+202609212359%5D&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 15318,
+          "sha256": "498eb61e7ca9964f4167129d7792ca053db54456354c183e81b654e7ef64a773",
+          "offset": 0,
+          "returned": 5,
+          "hit_count": 5
+        }
+      ],
+      "added": 0,
+      "revised": 0
+    },
+    {
+      "source": "arXiv",
+      "organ": "胰腺外科",
+      "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")",
+      "window": {
+        "start": null,
+        "end": "2026-09-15"
+      },
+      "checked_at": "2026-09-21T06:38:17.114039+00:00",
+      "complete": true,
+      "hit_count": 1,
+      "returned": 1,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?search_query=%28all%3Apancreatectomy+OR+all%3Apancreaticoduodenectomy+OR+all%3Apancreatoduodenectomy+OR+all%3Apancreaticojejunostomy+OR+all%3A%22pancreatic+surgery%22%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "checked_at": "2026-09-21T06:38:13.343160+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?search_query=%28all%3Apancreatectomy+OR+all%3Apancreaticoduodenectomy+OR+all%3Apancreatoduodenectomy+OR+all%3Apancreaticojejunostomy+OR+all%3A%22pancreatic+surgery%22%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?search_query=%28all%3Apancreatectomy+OR+all%3Apancreaticoduodenectomy+OR+all%3Apancreatoduodenectomy+OR+all%3Apancreaticojejunostomy+OR+all%3A%22pancreatic+surgery%22%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 4986,
+          "sha256": "5fb49e88eea64b441dee4058bf698fa83a3fb2afcd4ac10b81615d9784b64fc9",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ],
+      "added": 0,
+      "revised": 0
+    },
+    {
+      "source": "arXiv",
+      "organ": "胰腺外科",
+      "query": "(all:pancreatectomy OR all:pancreaticoduodenectomy OR all:pancreatoduodenectomy OR all:pancreaticojejunostomy OR all:\"pancreatic surgery\") AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\") AND lastUpdatedDate:[202606170000 TO 202609212359]",
+      "window": {
+        "start": "2026-06-17",
+        "end": "2026-09-21"
+      },
+      "checked_at": "2026-09-21T06:38:20.944434+00:00",
+      "complete": true,
+      "hit_count": 0,
+      "returned": 0,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?search_query=%28all%3Apancreatectomy+OR+all%3Apancreaticoduodenectomy+OR+all%3Apancreatoduodenectomy+OR+all%3Apancreaticojejunostomy+OR+all%3A%22pancreatic+surgery%22%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29+AND+lastUpdatedDate%3A%5B202606170000+TO+202609212359%5D&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "checked_at": "2026-09-21T06:38:20.234642+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?search_query=%28all%3Apancreatectomy+OR+all%3Apancreaticoduodenectomy+OR+all%3Apancreatoduodenectomy+OR+all%3Apancreaticojejunostomy+OR+all%3A%22pancreatic+surgery%22%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29+AND+lastUpdatedDate%3A%5B202606170000+TO+202609212359%5D&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?search_query=%28all%3Apancreatectomy+OR+all%3Apancreaticoduodenectomy+OR+all%3Apancreatoduodenectomy+OR+all%3Apancreaticojejunostomy+OR+all%3A%22pancreatic+surgery%22%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29+AND+lastUpdatedDate%3A%5B202606170000+TO+202609212359%5D&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 1941,
+          "sha256": "3bd2cf639df149269550970273a97aa87255d189ad5705cb10bea25898623ca1",
+          "offset": 0,
+          "returned": 0,
+          "hit_count": 0
+        }
+      ],
+      "added": 0,
+      "revised": 0
+    },
+    {
+      "source": "arXiv",
+      "organ": "可迁移方法",
+      "query": "(all:surgical OR all:surgery OR all:laparoscopic) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\")",
+      "window": {
+        "start": null,
+        "end": "2026-09-15"
+      },
+      "checked_at": "2026-09-21T06:39:14.290009+00:00",
+      "complete": true,
+      "hit_count": 514,
+      "returned": 514,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "checked_at": "2026-09-21T06:38:24.064248+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 277123,
+          "sha256": "e67058c054737a68b64a14ea1b91f4eb926d2f55b17532d311143f228879a6cd",
+          "offset": 0,
+          "returned": 100,
+          "hit_count": 514
+        },
+        {
+          "requested_url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=100&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "checked_at": "2026-09-21T06:38:32.961830+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=100&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=100&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 266582,
+          "sha256": "7c03df6767d701e21b5cd3e95f388535f3ae8a2b3be4f396350457d3098fde04",
+          "offset": 100,
+          "returned": 100,
+          "hit_count": 514
+        },
+        {
+          "requested_url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=200&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "checked_at": "2026-09-21T06:38:40.782664+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=200&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=200&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 265549,
+          "sha256": "56c1a6805a6cbe5d147c7fe40c9548001f293a48a065ebea88035b82761a4088",
+          "offset": 200,
+          "returned": 100,
+          "hit_count": 514
+        },
+        {
+          "requested_url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=300&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "checked_at": "2026-09-21T06:38:50.413515+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=300&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=300&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 285758,
+          "sha256": "b1ce4083f4536ffbce081f300788d4706bdcf3c07c4351d34e889961b4885b23",
+          "offset": 300,
+          "returned": 100,
+          "hit_count": 514
+        },
+        {
+          "requested_url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=400&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "checked_at": "2026-09-21T06:38:58.243643+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=400&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=400&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 275336,
+          "sha256": "34e8ef32a078a1be506f8732f43b18bebcc74f4077f16f6cf2aa313d4fda4e63",
+          "offset": 400,
+          "returned": 100,
+          "hit_count": 514
+        },
+        {
+          "requested_url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=500&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "checked_at": "2026-09-21T06:39:06.624491+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=500&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29&start=500&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 36945,
+          "sha256": "1fdd236990e15c48d3e3e82bb818eabccf11726a0b6bfb97a0a51ff4e697a4ad",
+          "offset": 500,
+          "returned": 14,
+          "hit_count": 514
+        }
+      ],
+      "added": 448,
+      "revised": 1
+    },
+    {
+      "source": "arXiv",
+      "organ": "可迁移方法",
+      "query": "(all:surgical OR all:surgery OR all:laparoscopic) AND (all:video OR all:videos OR all:laparoscopic OR all:robotic) AND (all:segmentation OR all:tracking OR all:\"phase recognition\" OR all:\"workflow recognition\" OR all:\"action triplet\" OR all:\"video question answering\") AND (all:\"deep learning\" OR all:\"foundation model\" OR all:\"segment anything\" OR all:\"vision language\" OR all:\"large language model\" OR all:transformer OR all:\"artificial intelligence\") AND lastUpdatedDate:[202606170000 TO 202609212359]",
+      "window": {
+        "start": "2026-06-17",
+        "end": "2026-09-21"
+      },
+      "checked_at": "2026-09-21T06:39:19.142857+00:00",
+      "complete": true,
+      "hit_count": 29,
+      "returned": 29,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29+AND+lastUpdatedDate%3A%5B202606170000+TO+202609212359%5D&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "checked_at": "2026-09-21T06:39:17.415798+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29+AND+lastUpdatedDate%3A%5B202606170000+TO+202609212359%5D&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?search_query=%28all%3Asurgical+OR+all%3Asurgery+OR+all%3Alaparoscopic%29+AND+%28all%3Avideo+OR+all%3Avideos+OR+all%3Alaparoscopic+OR+all%3Arobotic%29+AND+%28all%3Asegmentation+OR+all%3Atracking+OR+all%3A%22phase+recognition%22+OR+all%3A%22workflow+recognition%22+OR+all%3A%22action+triplet%22+OR+all%3A%22video+question+answering%22%29+AND+%28all%3A%22deep+learning%22+OR+all%3A%22foundation+model%22+OR+all%3A%22segment+anything%22+OR+all%3A%22vision+language%22+OR+all%3A%22large+language+model%22+OR+all%3Atransformer+OR+all%3A%22artificial+intelligence%22%29+AND+lastUpdatedDate%3A%5B202606170000+TO+202609212359%5D&start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 81301,
+          "sha256": "cdd76e8eca32463452051c4b5dd7b35d655deb270a25fd45b46e84c41d223bcf",
+          "offset": 0,
+          "returned": 29,
+          "hit_count": 29
+        }
+      ],
+      "added": 0,
+      "revised": 0
+    }
+  ],
+  "source_checks": [
+    {
+      "requested_url": "https://api.crossref.org/works/10.1007%2F978-3-032-05114-1_11",
+      "checked_at": "2026-09-21T06:39:19.205769+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1007%2F978-3-032-05114-1_11"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1007%2F978-3-032-05114-1_11",
+      "content_type": "application/json",
+      "bytes": 13220,
+      "sha256": "89d0199c89265ec7f233af7da6f96a666db07e7defd92a40519c280003aacfd2",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-001",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1038%2Fs41598-025-11759-4",
+      "checked_at": "2026-09-21T06:39:19.783429+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1038%2Fs41598-025-11759-4"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1038%2Fs41598-025-11759-4",
+      "content_type": "application/json",
+      "bytes": 15924,
+      "sha256": "e3cd4ce3d64e177cf4025d41155e6568af32aabfee0becad1d8ff11c11e7d585",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-002",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1007%2Fs11548-025-03408-y",
+      "checked_at": "2026-09-21T06:39:20.417395+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1007%2Fs11548-025-03408-y"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1007%2Fs11548-025-03408-y",
+      "content_type": "application/json",
+      "bytes": 15629,
+      "sha256": "0bbff2f4f1ecc07fcf9bd1eb3e0e8e6363bf6b80bd59be75b058cd250f6ac69e",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-003",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1007%2F978-3-032-05127-1_26",
+      "checked_at": "2026-09-21T06:39:21.013983+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1007%2F978-3-032-05127-1_26"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1007%2F978-3-032-05127-1_26",
+      "content_type": "application/json",
+      "bytes": 16290,
+      "sha256": "aef60c904f8ac34b87b926bf42cae1b68b12a74daf0f55ea91a2f8bff7cbe68c",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-004",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1007%2Fs11548-025-03381-6",
+      "checked_at": "2026-09-21T06:39:21.695613+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1007%2Fs11548-025-03381-6"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1007%2Fs11548-025-03381-6",
+      "content_type": "application/json",
+      "bytes": 15649,
+      "sha256": "98e1334e14efa2043357a9bdf67c208aa657afe53d4fd4a0ef487f836d1b21d4",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-005",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1007%2F978-3-032-05127-1_42",
+      "checked_at": "2026-09-21T06:39:22.311909+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1007%2F978-3-032-05127-1_42"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1007%2F978-3-032-05127-1_42",
+      "content_type": "application/json",
+      "bytes": 13980,
+      "sha256": "3c1ada91ecb29b417910393daff3eece849c4cb3edfa0975d12b94aeaf038768",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-008",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1007%2F978-3-032-05127-1_32",
+      "checked_at": "2026-09-21T06:39:22.910236+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1007%2F978-3-032-05127-1_32"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1007%2F978-3-032-05127-1_32",
+      "content_type": "application/json",
+      "bytes": 12952,
+      "sha256": "9f9f010650912a53340d5890671bd8a56abfd6b759bbf7adee451d0c903f84db",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-010",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1038%2Fs44484-025-00002-2",
+      "checked_at": "2026-09-21T06:39:23.502615+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1038%2Fs44484-025-00002-2"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1038%2Fs44484-025-00002-2",
+      "content_type": "application/json",
+      "bytes": 16782,
+      "sha256": "5bd66ae7db688dba1f88e8eb0b3c11864e1645dfe3b9bc81995da962ba4095c7",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-011",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1016%2Fj.media.2025.103644",
+      "checked_at": "2026-09-21T06:39:24.116500+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1016%2Fj.media.2025.103644"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1016%2Fj.media.2025.103644",
+      "content_type": "application/json",
+      "bytes": 37508,
+      "sha256": "69bd49b3f17a2000fc179aca773a082d84c2a3963a86a2350d6d79df417574d2",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-012",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1007%2F978-3-031-72089-5_29",
+      "checked_at": "2026-09-21T06:39:24.716826+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1007%2F978-3-031-72089-5_29"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1007%2F978-3-031-72089-5_29",
+      "content_type": "application/json",
+      "bytes": 14840,
+      "sha256": "a3c7091a8cdc7830d435318b54eae2cd5cca9be30cf92cea0aef95807c77f9ab",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-013",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.52202%2F079017-3907",
+      "checked_at": "2026-09-21T06:39:25.327911+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.52202%2F079017-3907"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.52202%2F079017-3907",
+      "content_type": "application/json",
+      "bytes": 2149,
+      "sha256": "1392df194d1b7e3a589ca9b661cd54e3ec17874bf8ff632ab73c6c09f6a0e573",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-014",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1038%2Fs41746-026-02403-0",
+      "checked_at": "2026-09-21T06:39:25.930425+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1038%2Fs41746-026-02403-0"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1038%2Fs41746-026-02403-0",
+      "content_type": "application/json",
+      "bytes": 29757,
+      "sha256": "2e2667223271a1251633cd45adc1a6b8dee7f7d9b08afb3d8dc8c2c170ca0688",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-017",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1016%2Fj.media.2026.103940",
+      "checked_at": "2026-09-21T06:39:26.523604+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1016%2Fj.media.2026.103940"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1016%2Fj.media.2026.103940",
+      "content_type": "application/json",
+      "bytes": 21647,
+      "sha256": "68662535591c0ec6a6a0bb90de5f5baff04140cf176c16ed4e640dfe667ce7dc",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-030",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1007%2Fs11548-026-03674-4",
+      "checked_at": "2026-09-21T06:39:27.119102+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1007%2Fs11548-026-03674-4"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1007%2Fs11548-026-03674-4",
+      "content_type": "application/json",
+      "bytes": 16390,
+      "sha256": "73dbf2aaea60e8d5d1393c05680aa8413c1201ca34ea99dbbab5192c21859a4c",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-031",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1038%2Fs41746-026-02989-5",
+      "checked_at": "2026-09-21T06:39:27.726616+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1038%2Fs41746-026-02989-5"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1038%2Fs41746-026-02989-5",
+      "content_type": "application/json",
+      "bytes": 7211,
+      "sha256": "deb8f759e50a7f1f6e21725f80d33ae6a19b145e1495a4c3ac26f62655339bf4",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-035",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1007%2Fs00464-024-10725-x",
+      "checked_at": "2026-09-21T06:39:28.339594+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1007%2Fs00464-024-10725-x"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1007%2Fs00464-024-10725-x",
+      "content_type": "application/json",
+      "bytes": 21573,
+      "sha256": "3e78577c2c970f2ed6ce6ac4882d2aa83c5a041ba613ec5a334866773709f654",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-036",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1093%2Fbjs%2Fznaf160",
+      "checked_at": "2026-09-21T06:39:28.956615+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1093%2Fbjs%2Fznaf160"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1093%2Fbjs%2Fznaf160",
+      "content_type": "application/json",
+      "bytes": 6839,
+      "sha256": "582636418f428c2ea40110c717c41aa767d507740a5940bc97499bd242868c71",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-037",
+      "complete": true
+    },
+    {
+      "requested_url": "https://api.crossref.org/works/10.1007%2F978-3-032-05127-1_56",
+      "checked_at": "2026-09-21T06:39:29.554067+00:00",
+      "attempts": [
+        {
+          "status": 200,
+          "url": "https://api.crossref.org/works/10.1007%2F978-3-032-05127-1_56"
+        }
+      ],
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1007%2F978-3-032-05127-1_56",
+      "content_type": "application/json",
+      "bytes": 12537,
+      "sha256": "25447d1813c68c73b28e26a8f082bcdee9cf8031dfea9c8064dd275d8e919cfa",
+      "source": "Crossref exact DOI",
+      "resource_id": "HPBAI-039",
+      "complete": true
+    },
+    {
+      "source": "arXiv-ID:HPBAI-002",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2503.03942",
+          "checked_at": "2026-09-21T06:39:33.171276+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2503.03942"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2503.03942",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3522,
+          "sha256": "fc6bd8646960999b83b60030f07e19efcc05f901843e34d79400017951550ddc",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-003",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2502.09653",
+          "checked_at": "2026-09-21T06:39:36.445387+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2502.09653"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2502.09653",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3460,
+          "sha256": "2d8c6f784a9810bebe82dbee36407582219ae9b6a9fbd98d50977893c1b333d5",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-004",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2507.22530",
+          "checked_at": "2026-09-21T06:39:39.702289+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2507.22530"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2507.22530",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3144,
+          "sha256": "a0e342a472b468bd5a47ad23883dad4e6163086b896f3d0cd95cc96b7938d0bd",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-006",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2511.16618",
+          "checked_at": "2026-09-21T06:39:42.994775+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2511.16618"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2511.16618",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3979,
+          "sha256": "8603195faa22317c8beda8af358358c2d060fad77e48b84da4454c7f4f56c572",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-008",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2505.08581",
+          "checked_at": "2026-09-21T06:39:46.347183+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2505.08581"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2505.08581",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3370,
+          "sha256": "e7b0ef9027a945e12a3e0c958f41765114afdb237a7e7a7e0504aeaf9f0b07f9",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-009",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2408.07931",
+          "checked_at": "2026-09-21T06:39:49.651048+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2408.07931"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2408.07931",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3278,
+          "sha256": "0178e92f385f1535af5a0ca7b3de627186b2cb24b972cdfd62b1a7edb1bdfe02",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-012",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2307.15220",
+          "checked_at": "2026-09-21T06:39:52.961916+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2307.15220"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2307.15220",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3581,
+          "sha256": "11313cd750fa0dfd45e96c6dd293d7bb9a8f89f146929f25af17300274e65117",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-013",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2405.10075",
+          "checked_at": "2026-09-21T06:39:56.257241+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2405.10075"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2405.10075",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3162,
+          "sha256": "d67a7ccbc21366503d2f7e959ea3516d5ca39f80ba9cc2d45e2529d2b03b2cd5",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-014",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2410.00263",
+          "checked_at": "2026-09-21T06:39:59.553881+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2410.00263"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2410.00263",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3011,
+          "sha256": "2d092b62bbd4f4359006f3233385a9e74ace6d9928ad23ec4f39f4f448090945",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-015",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2506.17873",
+          "checked_at": "2026-09-21T06:40:02.811514+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2506.17873"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2506.17873",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3847,
+          "sha256": "4c335be9bd1ac4efb1865c1710dbdd4846e2bb48fc0ce073afe3c88f099e2747",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-016",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2604.20319",
+          "checked_at": "2026-09-21T06:40:06.090524+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2604.20319"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2604.20319",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 2938,
+          "sha256": "9556ee9673c283386de925e240493fafbdd3e5b2d45b27ea9688411946faec83",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-017",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2506.02692",
+          "checked_at": "2026-09-21T06:40:09.357756+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2506.02692"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2506.02692",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 4141,
+          "sha256": "c4d678fefe30c3569784f3c95859466b50573fb3ac0360b3a38a244815820109",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-018",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2602.13633",
+          "checked_at": "2026-09-21T06:40:12.616211+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2602.13633"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2602.13633",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3194,
+          "sha256": "149b16019d13b43ff00ea2ba823421b561c9f957584d3c894e76222b82b98951",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-019",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2403.05949",
+          "checked_at": "2026-09-21T06:40:15.890507+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2403.05949"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2403.05949",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 2552,
+          "sha256": "2c63b43e201ab59ea52927534c83bf7e2325b56747ed5c7fdef4e643f070aaf8",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-028",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2512.07596",
+          "checked_at": "2026-09-21T06:40:19.188399+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2512.07596"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2512.07596",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3385,
+          "sha256": "1d3953617491c52bf3fb91aea073eb59f014a02f9a7f42a407502e02e95688f3",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-029",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2406.17858",
+          "checked_at": "2026-09-21T06:40:22.461831+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2406.17858"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2406.17858",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3217,
+          "sha256": "b2561a566a1f733367c5d075d96ea6d3f4f3bbbd2ea209813f5066051c6ad762",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-032",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2603.01108",
+          "checked_at": "2026-09-21T06:40:25.759014+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2603.01108"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2603.01108",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3388,
+          "sha256": "5a4728e905ac6b635441ce9e26a71a7a4274782a5f3af830e938dc7b9c5975a3",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-033",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2607.23694",
+          "checked_at": "2026-09-21T06:40:29.018057+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2607.23694"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2607.23694",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3051,
+          "sha256": "e22d024120aebc96046d563534277d920c47f2a1447bce1ff0975105264fea70",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-034",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2506.02555",
+          "checked_at": "2026-09-21T06:40:32.290702+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2506.02555"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2506.02555",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 4051,
+          "sha256": "b19dac6217f7afb5ecd6fb07e2302aa1c5549900f80701a8d03fb576ff29d191",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    },
+    {
+      "source": "arXiv-ID:HPBAI-038",
+      "complete": true,
+      "pages": [
+        {
+          "requested_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2604.03645",
+          "checked_at": "2026-09-21T06:40:35.649541+00:00",
+          "attempts": [
+            {
+              "status": 200,
+              "url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2604.03645"
+            }
+          ],
+          "status": 200,
+          "final_url": "https://export.arxiv.org/api/query?start=0&max_results=100&sortBy=lastUpdatedDate&sortOrder=descending&id_list=2604.03645",
+          "content_type": "application/atom+xml; charset=utf-8",
+          "bytes": 3726,
+          "sha256": "ae8029c0dc80276b9ae1938fa9cb066e060e4a56f5efd54c9c1e08d69106aa53",
+          "offset": 0,
+          "returned": 1,
+          "hit_count": 1
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "asset_checks": 49,
+  "counts": {
+    "added": 484,
+    "revised": 37,
+    "pending": 6267,
+    "failed": 0
+  },
+  "completed_at": "2026-09-21T06:40:46.783642+00:00"
+}
