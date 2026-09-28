@@ -1436,71 +1436,10 @@
     "2026-09-15T111836-676925+0000",
     "2026-09-21T062522-161507+0000"
   ],
-  "last_attempt_status": "partial",
-  "last_errors": [
-    {
-      "source": "Europe PMC:liver-hcc",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:liver-crlm",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:liver-benign",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:biliary-chole",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:biliary-difficult",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:biliary-stones",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:biliary-repair",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:pancreas-whipple",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:pancreas-local",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:pancreas-anastomosis",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:pancreas-vessel",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:pancreas-cancer",
-      "reason": "request, parsing or pagination incomplete"
-    }
-  ],
-  "last_attempt": "2026-09-21T06:25:22.161507+00:00",
-  "last_counts": {
-    "added": 615,
-    "revised": 449,
-    "existing": 9,
-    "duplicates": 2137,
-    "pending_total": 31644,
-    "canonical_revised": 0,
-    "pending_changes": 0,
-    "link_checks": 0,
-    "main_link_checks": 0,
-    "fulltext_link_checks": 0,
-    "link_unconfirmed": 0
-  },
+  "last_attempt_status": "running",
+  "last_errors": [],
+  "last_attempt": "2026-09-28T06:59:10.912982+00:00",
+  "last_counts": {},
   "last_run_id": "2026-09-21T062522-161507+0000",
   "last_partial_search": "2026-09-21T06:37:13.556255+00:00",
   "initial_link_sweep_evidence": {

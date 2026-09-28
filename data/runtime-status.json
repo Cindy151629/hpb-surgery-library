@@ -1,146 +1,17 @@
 {
   "domain_id": "hpb-surgery",
   "schema_version": 1,
-  "status": "partial",
-  "started_at": "2026-09-21T06:25:12.249031+00:00",
-  "finished_at": "2026-09-21T06:41:39.832684+00:00",
+  "status": "running",
+  "started_at": "2026-09-28T06:59:10.912982+00:00",
+  "finished_at": null,
   "event": "schedule",
-  "run_id": "35568382174",
-  "run_url": "https://github.com/Cindy151629/hpb-surgery-library/actions/runs/35568382174",
-  "observed_scheduled_run": "2026-09-21T06:25:12.249031+00:00",
-  "steps": {
-    "authorization": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "started": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "start_saved": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "dependencies": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "node": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "recovery": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "update": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "tests": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "pages_config": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "upload": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "deployment": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "verification": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "pin": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "recovery_upload": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    },
-    "rollback": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    },
-    "rollback_check": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    }
-  },
+  "run_id": "36389187773",
+  "run_url": "https://github.com/Cindy151629/hpb-surgery-library/actions/runs/36389187773",
+  "observed_scheduled_run": "2026-09-28T06:59:10.912982+00:00",
+  "steps": {},
   "rollback": {
-    "available": true,
-    "status": "ready",
-    "commit": "c57134b57af5a2b5de730d620836e225a34d0ae0",
-    "data_version": "hpb-6bd6d32ea4a7d850"
+    "status": "not_checked"
   },
-  "last_errors": [
-    {
-      "source": "Europe PMC:liver-hcc",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:liver-crlm",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:liver-benign",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:biliary-chole",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:biliary-difficult",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:biliary-stones",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:biliary-repair",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:pancreas-whipple",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:pancreas-local",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:pancreas-anastomosis",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:pancreas-vessel",
-      "reason": "request, parsing or pagination incomplete"
-    },
-    {
-      "source": "Europe PMC:pancreas-cancer",
-      "reason": "request, parsing or pagination incomplete"
-    }
-  ],
-  "last_counts": {
-    "added": 615,
-    "revised": 449,
-    "existing": 9,
-    "duplicates": 2137,
-    "pending_total": 31644,
-    "canonical_revised": 0,
-    "pending_changes": 0,
-    "link_checks": 0,
-    "main_link_checks": 0,
-    "fulltext_link_checks": 0,
-    "link_unconfirmed": 0
-  }
+  "last_errors": [],
+  "last_counts": {}
 }
