@@ -1,130 +1,130 @@
 {
-  "last_attempt": "2026-09-21T06:37:18.767898+00:00",
+  "last_attempt": "2026-09-28T07:07:30.551481+00:00",
   "status": "success",
   "errors": [],
   "source_progress": {
     "Europe PMC:肝脏外科": {
       "version": "hpb-ai-query-3",
-      "last_attempt": "2026-09-21T06:37:18.767898+00:00",
-      "last_success": "2026-09-21T06:37:19.694897+00:00",
+      "last_attempt": "2026-09-28T07:07:30.551481+00:00",
+      "last_success": "2026-09-28T07:07:37.872141+00:00",
       "completed_window": {
-        "start": "2026-06-17",
-        "end": "2026-09-21"
+        "start": "2026-08-31",
+        "end": "2026-09-28"
       },
-      "covered_through": "2026-09-21"
+      "covered_through": "2026-09-28"
     },
     "Europe PMC:胆囊与胆道外科": {
       "version": "hpb-ai-query-3",
-      "last_attempt": "2026-09-21T06:37:18.767898+00:00",
-      "last_success": "2026-09-21T06:37:21.156378+00:00",
+      "last_attempt": "2026-09-28T07:07:30.551481+00:00",
+      "last_success": "2026-09-28T07:07:44.358403+00:00",
       "completed_window": {
-        "start": "2026-06-17",
-        "end": "2026-09-21"
+        "start": "2026-08-31",
+        "end": "2026-09-28"
       },
-      "covered_through": "2026-09-21"
+      "covered_through": "2026-09-28"
     },
     "Europe PMC:胰腺外科": {
       "version": "hpb-ai-query-3",
-      "last_attempt": "2026-09-21T06:37:18.767898+00:00",
-      "last_success": "2026-09-21T06:37:21.852142+00:00",
+      "last_attempt": "2026-09-28T07:07:30.551481+00:00",
+      "last_success": "2026-09-28T07:07:54.184090+00:00",
       "completed_window": {
-        "start": "2026-06-17",
-        "end": "2026-09-21"
+        "start": "2026-08-31",
+        "end": "2026-09-28"
       },
-      "covered_through": "2026-09-21"
+      "covered_through": "2026-09-28"
     },
     "Europe PMC:可迁移方法": {
       "version": "hpb-ai-query-3",
-      "last_attempt": "2026-09-21T06:37:18.767898+00:00",
-      "last_success": "2026-09-21T06:37:29.225718+00:00",
-      "covered_through": "2026-09-21",
+      "last_attempt": "2026-09-28T07:07:30.551481+00:00",
+      "last_success": "2026-09-28T07:07:56.041947+00:00",
+      "covered_through": "2026-09-28",
       "completed_window": {
-        "start": "2026-06-17",
-        "end": "2026-09-21"
+        "start": "2026-08-31",
+        "end": "2026-09-28"
       }
     },
     "PubMed:肝脏外科": {
       "version": "hpb-ai-query-3",
-      "last_attempt": "2026-09-21T06:37:18.767898+00:00",
-      "last_success": "2026-09-21T06:37:30.534435+00:00",
+      "last_attempt": "2026-09-28T07:07:30.551481+00:00",
+      "last_success": "2026-09-28T07:07:57.292273+00:00",
       "completed_window": {
-        "start": "2026-06-17",
-        "end": "2026-09-21"
+        "start": "2026-08-31",
+        "end": "2026-09-28"
       },
-      "covered_through": "2026-09-21"
+      "covered_through": "2026-09-28"
     },
     "PubMed:胆囊与胆道外科": {
       "version": "hpb-ai-query-3",
-      "last_attempt": "2026-09-21T06:37:18.767898+00:00",
-      "last_success": "2026-09-21T06:37:32.527344+00:00",
+      "last_attempt": "2026-09-28T07:07:30.551481+00:00",
+      "last_success": "2026-09-28T07:07:59.075730+00:00",
       "completed_window": {
-        "start": "2026-06-17",
-        "end": "2026-09-21"
+        "start": "2026-08-31",
+        "end": "2026-09-28"
       },
-      "covered_through": "2026-09-21"
+      "covered_through": "2026-09-28"
     },
     "PubMed:胰腺外科": {
       "version": "hpb-ai-query-3",
-      "last_attempt": "2026-09-21T06:37:18.767898+00:00",
-      "last_success": "2026-09-21T06:37:33.724712+00:00",
+      "last_attempt": "2026-09-28T07:07:30.551481+00:00",
+      "last_success": "2026-09-28T07:08:00.292915+00:00",
       "completed_window": {
-        "start": "2026-06-17",
-        "end": "2026-09-21"
+        "start": "2026-08-31",
+        "end": "2026-09-28"
       },
-      "covered_through": "2026-09-21"
+      "covered_through": "2026-09-28"
     },
     "PubMed:可迁移方法": {
       "version": "hpb-ai-query-3",
-      "last_attempt": "2026-09-21T06:37:18.767898+00:00",
-      "last_success": "2026-09-21T06:37:46.278229+00:00",
+      "last_attempt": "2026-09-28T07:07:30.551481+00:00",
+      "last_success": "2026-09-28T07:08:05.770026+00:00",
       "completed_window": {
-        "start": "2026-06-17",
-        "end": "2026-09-21"
+        "start": "2026-08-31",
+        "end": "2026-09-28"
       },
-      "covered_through": "2026-09-21"
+      "covered_through": "2026-09-28"
     },
     "arXiv:肝脏外科": {
       "version": "hpb-ai-query-3",
-      "last_attempt": "2026-09-21T06:37:18.767898+00:00",
-      "last_success": "2026-09-21T06:37:55.611626+00:00",
-      "covered_through": "2026-09-21",
+      "last_attempt": "2026-09-28T07:07:30.551481+00:00",
+      "last_success": "2026-09-28T07:08:09.447552+00:00",
+      "covered_through": "2026-09-28",
       "completed_window": {
-        "start": "2026-06-17",
-        "end": "2026-09-21"
+        "start": "2026-08-31",
+        "end": "2026-09-28"
       }
     },
     "arXiv:胆囊与胆道外科": {
       "version": "hpb-ai-query-3",
-      "last_attempt": "2026-09-21T06:37:18.767898+00:00",
-      "last_success": "2026-09-21T06:38:10.223211+00:00",
-      "covered_through": "2026-09-21",
+      "last_attempt": "2026-09-28T07:07:30.551481+00:00",
+      "last_success": "2026-09-28T07:08:13.105477+00:00",
+      "covered_through": "2026-09-28",
       "completed_window": {
-        "start": "2026-06-17",
-        "end": "2026-09-21"
+        "start": "2026-08-31",
+        "end": "2026-09-28"
       }
     },
     "arXiv:胰腺外科": {
       "version": "hpb-ai-query-3",
-      "last_attempt": "2026-09-21T06:37:18.767898+00:00",
-      "last_success": "2026-09-21T06:38:20.944450+00:00",
-      "covered_through": "2026-09-21",
+      "last_attempt": "2026-09-28T07:07:30.551481+00:00",
+      "last_success": "2026-09-28T07:08:16.672246+00:00",
+      "covered_through": "2026-09-28",
       "completed_window": {
-        "start": "2026-06-17",
-        "end": "2026-09-21"
+        "start": "2026-08-31",
+        "end": "2026-09-28"
       }
     },
     "arXiv:可迁移方法": {
       "version": "hpb-ai-query-3",
-      "last_attempt": "2026-09-21T06:37:18.767898+00:00",
-      "last_success": "2026-09-21T06:39:19.142877+00:00",
-      "covered_through": "2026-09-21",
+      "last_attempt": "2026-09-28T07:07:30.551481+00:00",
+      "last_success": "2026-09-28T07:08:20.681623+00:00",
+      "covered_through": "2026-09-28",
       "completed_window": {
-        "start": "2026-06-17",
-        "end": "2026-09-21"
+        "start": "2026-08-31",
+        "end": "2026-09-28"
       }
     },
     "Crossref:10.1007/978-3-032-05114-1_11": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "CholecMamba: A Mamba-Based Multimodal Reasoning Model for Cholecystectomy Surgery"
@@ -137,8 +137,8 @@
             "affiliation": [],
             "role": [
               {
-                "role": "author",
-                "vocabulary": "crossref"
+                "vocabulary": "crossref",
+                "role": "author"
               }
             ]
           },
@@ -149,8 +149,8 @@
             "affiliation": [],
             "role": [
               {
-                "role": "author",
-                "vocabulary": "crossref"
+                "vocabulary": "crossref",
+                "role": "author"
               }
             ]
           },
@@ -161,8 +161,8 @@
             "affiliation": [],
             "role": [
               {
-                "role": "author",
-                "vocabulary": "crossref"
+                "vocabulary": "crossref",
+                "role": "author"
               }
             ]
           },
@@ -173,8 +173,8 @@
             "affiliation": [],
             "role": [
               {
-                "role": "author",
-                "vocabulary": "crossref"
+                "vocabulary": "crossref",
+                "role": "author"
               }
             ]
           },
@@ -187,8 +187,8 @@
             "affiliation": [],
             "role": [
               {
-                "role": "author",
-                "vocabulary": "crossref"
+                "vocabulary": "crossref",
+                "role": "author"
               }
             ]
           },
@@ -201,8 +201,8 @@
             "affiliation": [],
             "role": [
               {
-                "role": "author",
-                "vocabulary": "crossref"
+                "vocabulary": "crossref",
+                "role": "author"
               }
             ]
           }
@@ -239,7 +239,7 @@
       }
     },
     "Crossref:10.1038/s41598-025-11759-4": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "A fine-tuned foundational model SurgiSAM2 for surgical video anatomy segmentation and detection"
@@ -368,7 +368,7 @@
       }
     },
     "Crossref:10.1007/s11548-025-03408-y": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "SASVi: segment any surgical video"
@@ -451,7 +451,7 @@
       }
     },
     "Crossref:10.1007/978-3-032-05127-1_26": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "HRVVS: A High-Resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors"
@@ -602,7 +602,7 @@
       }
     },
     "Crossref:10.1007/s11548-025-03381-6": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "Automated multimodel segmentation and tracking for AR-guided open liver surgery using scene-aware self-prompting"
@@ -721,7 +721,7 @@
       }
     },
     "Crossref:10.1007/978-3-032-05127-1_42": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-Term Tracking"
@@ -844,7 +844,7 @@
       }
     },
     "Crossref:10.1007/978-3-032-05127-1_32": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "Memory-Augmented SAM2 for Training-Free Surgical Video Segmentation"
@@ -943,7 +943,7 @@
       }
     },
     "Crossref:10.1038/s44484-025-00002-2": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "Systematic evaluation and guidelines for segment anything model in surgical video analysis"
@@ -1144,7 +1144,7 @@
       }
     },
     "Crossref:10.1016/j.media.2025.103644": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "Learning multi-modal representations by watching hundreds of surgical video lectures"
@@ -1285,7 +1285,7 @@
       }
     },
     "Crossref:10.1007/978-3-031-72089-5_29": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "HecVL: Hierarchical Video-Language Pretraining for Zero-Shot Surgical Phase Recognition"
@@ -1370,7 +1370,7 @@
       }
     },
     "Crossref:10.52202/079017-3907": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation"
@@ -1447,7 +1447,7 @@
       }
     },
     "Crossref:10.1038/s41746-026-02403-0": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "Large-scale self-supervised video foundation model for intelligent surgery"
@@ -1726,7 +1726,7 @@
       }
     },
     "Crossref:10.1016/j.media.2026.103940": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "Depth-induced prompt learning for laparoscopic liver landmark detection"
@@ -1855,7 +1855,7 @@
       }
     },
     "Crossref:10.1007/s11548-026-03674-4": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "Subsampled randomized Fourier GaLore for adapting foundation models in depth-driven liver landmark segmentation"
@@ -1962,7 +1962,7 @@
       }
     },
     "Crossref:10.1038/s41746-026-02989-5": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "Real-time anatomy recognition in laparoscopic liver resection using video segmentation AI model"
@@ -2115,7 +2115,7 @@
       }
     },
     "Crossref:10.1007/s00464-024-10725-x": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "The development of a deep learning model for automated segmentation of the robotic pancreaticojejunostomy"
@@ -2290,7 +2290,7 @@
       }
     },
     "Crossref:10.1093/bjs/znaf160": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "Automated surgical phase recognition for robotic pancreatoduodenectomy using artificial intelligence"
@@ -2526,7 +2526,7 @@
       }
     },
     "Crossref:10.1007/978-3-032-05127-1_56": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00",
+      "last_success": "2026-09-28T07:07:30.551481+00:00",
       "metadata": {
         "title": [
           "Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection"
@@ -2637,74 +2637,74 @@
       }
     },
     "arXiv-ID:HPBAI-002": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-003": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-004": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-006": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-008": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-009": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-012": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-013": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-014": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-015": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-016": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-017": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-018": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-019": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-028": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-029": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-032": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-033": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-034": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     },
     "arXiv-ID:HPBAI-038": {
-      "last_success": "2026-09-21T06:37:18.767898+00:00"
+      "last_success": "2026-09-28T07:07:30.551481+00:00"
     }
   },
   "counts": {
-    "added": 484,
+    "added": 12,
     "revised": 37,
-    "pending": 6267,
+    "pending": 6279,
     "failed": 0
   },
-  "last_run_id": "ai-2026-09-21T063718-767898+0000",
+  "last_run_id": "ai-2026-09-28T070730-551481+0000",
   "arxiv_retry_after": "2026-09-15T17:21:05.466797+00:00",
-  "last_successful_search": "2026-09-21T06:37:18.767898+00:00",
+  "last_successful_search": "2026-09-28T07:07:30.551481+00:00",
   "last_monthly_complete": "2026-09"
 }

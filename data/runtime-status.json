@@ -1,17 +1,2398 @@
 {
   "domain_id": "hpb-surgery",
   "schema_version": 1,
-  "status": "running",
+  "status": "partial",
   "started_at": "2026-09-28T06:59:10.912982+00:00",
-  "finished_at": null,
+  "finished_at": "2026-09-28T07:10:42.541231+00:00",
   "event": "schedule",
   "run_id": "36389187773",
   "run_url": "https://github.com/Cindy151629/hpb-surgery-library/actions/runs/36389187773",
   "observed_scheduled_run": "2026-09-28T06:59:10.912982+00:00",
-  "steps": {},
-  "rollback": {
-    "status": "not_checked"
+  "steps": {
+    "authorization": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "started": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "start_saved": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "dependencies": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "node": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "recovery": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "update": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "tests": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "pages_config": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "upload": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "deployment": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "verification": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "pin": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "recovery_upload": {
+      "outcome": "skipped",
+      "conclusion": "skipped"
+    },
+    "rollback": {
+      "outcome": "skipped",
+      "conclusion": "skipped"
+    },
+    "rollback_check": {
+      "outcome": "skipped",
+      "conclusion": "skipped"
+    }
   },
-  "last_errors": [],
-  "last_counts": {}
+  "rollback": {
+    "available": true,
+    "status": "ready",
+    "commit": "c9386482b550aa961871bfdab999eaf24adc84ef",
+    "data_version": "hpb-056907461d80bf9f"
+  },
+  "last_errors": [
+    {
+      "source": "Europe PMC:liver-hcc",
+      "reason": "request, parsing or pagination incomplete"
+    },
+    {
+      "source": "L036",
+      "record_id": "L036",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28902669/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L036_full_5f95aa779f5a53b6",
+      "record_id": "L036",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5916470/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L037",
+      "record_id": "L037",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32049675/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L061_full_a4424954e78dbe83",
+      "record_id": "L061",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12008670/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L038",
+      "record_id": "L038",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22330038/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L041_full_dcdde15852263945",
+      "record_id": "L041",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8370912/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L061",
+      "record_id": "L061",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40255933/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L041",
+      "record_id": "L041",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32839889/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L015_full_33c403714f6d6764",
+      "record_id": "L015",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13161259/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L064",
+      "record_id": "L064",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11088072/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L014_full_142917ea50457520",
+      "record_id": "L014",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12148447/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L050",
+      "record_id": "L050",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16858181/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L015",
+      "record_id": "L015",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41803352/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L014",
+      "record_id": "L014",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40491830/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L013_full_a1b936624e968302",
+      "record_id": "L013",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11889631/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L012",
+      "record_id": "L012",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38640453/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L035",
+      "record_id": "L035",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37442562/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L004_full_7cf2ff19a553ede1",
+      "record_id": "L004",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9726826/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L013",
+      "record_id": "L013",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40060302/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L004",
+      "record_id": "L004",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36310325/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L003_full_7ef4bfc9602962fa",
+      "record_id": "L003",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12199258/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L055",
+      "record_id": "L055",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37553574/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L070",
+      "record_id": "L070",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28138958/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L003",
+      "record_id": "L003",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40568914/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L001",
+      "record_id": "L001",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29064908/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L002",
+      "record_id": "L002",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25742461/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L069_full_864d4e1d17d176b4",
+      "record_id": "L069",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5299460/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L005",
+      "record_id": "L005",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19916210/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L065",
+      "record_id": "L065",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39774661/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L069",
+      "record_id": "L069",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28156078/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L044",
+      "record_id": "L044",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21316725/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L018_full_74354cb5959cc523",
+      "record_id": "L018",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11661729/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L017",
+      "record_id": "L017",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38482665/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L018",
+      "record_id": "L018",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39711656/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L067",
+      "record_id": "L067",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39210947/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L019_full_6c2c7f52a0a9ebf8",
+      "record_id": "L019",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10129897/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L008",
+      "record_id": "L008",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37701136/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L019",
+      "record_id": "L019",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37124684/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L010",
+      "record_id": "L010",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33197213/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L011",
+      "record_id": "L011",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30962136/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L016",
+      "record_id": "L016",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30701365/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L009",
+      "record_id": "L009",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28657937/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L032",
+      "record_id": "L032",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39848272/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L033",
+      "record_id": "L033",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32635230/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L029_full_d9adb5d7a60ed11b",
+      "record_id": "L029",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7052737/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L034",
+      "record_id": "L034",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23297719/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L029",
+      "record_id": "L029",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32014119/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L027_full_87b84496df528566",
+      "record_id": "L027",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2277487/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L028",
+      "record_id": "L028",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24120480/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L027",
+      "record_id": "L027",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18358928/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L031",
+      "record_id": "L031",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41564372/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L030",
+      "record_id": "L030",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34520230/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L062",
+      "record_id": "L062",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10493478/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L056_full_034cb8219ed88d55",
+      "record_id": "L056",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8899757/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L060",
+      "record_id": "L060",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39158894/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L045_full_479e77addb3e6209",
+      "record_id": "L045",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3163274/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L056",
+      "record_id": "L056",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35284117/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L047_full_a489baf206ae5edb",
+      "record_id": "L047",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6120608/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L045",
+      "record_id": "L045",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21762295/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L047",
+      "record_id": "L047",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30181871/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L053_full_24c613f0ea4c51c4",
+      "record_id": "L053",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6394680/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L043",
+      "record_id": "L043",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21236455/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "CN005_full_efc77b8c2747e7e8",
+      "record_id": "CN005",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/cms/news/info/764232d3-30d8-4c4d-bfcb-e6d291e33b20.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "L053",
+      "record_id": "L053",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30334152/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L048",
+      "record_id": "L048",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16327491/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L063",
+      "record_id": "L063",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17197963/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L023",
+      "record_id": "L023",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40554738/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L022",
+      "record_id": "L022",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35949295/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L021",
+      "record_id": "L021",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36849753/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L020",
+      "record_id": "L020",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29172949/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L058",
+      "record_id": "L058",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41151697/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L025",
+      "record_id": "L025",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39992051/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L024_full_2864228c0d59625b",
+      "record_id": "L024",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/10663390/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L026",
+      "record_id": "L026",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39690085/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L057_full_af3caea217f06828",
+      "record_id": "L057",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8866082/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L024",
+      "record_id": "L024",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37199193/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L057",
+      "record_id": "L057",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34801630/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L049",
+      "record_id": "L049",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10077049/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L054_full_e4c3e3ba6934ee0d",
+      "record_id": "L054",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9366102/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L054",
+      "record_id": "L054",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35965862/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L052",
+      "record_id": "L052",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27085809/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "CN022",
+      "record_id": "CN022",
+      "scope": "main",
+      "url": "https://cmab.yiigle.com/uploads/guide_html/%E8%85%B9%E8%85%94%E9%95%9C%E8%82%9D%E5%88%87%E9%99%A4%E6%9C%AF%E6%B2%BB%E7%96%97%E8%82%9D%E7%BB%86%E8%83%9E%E7%99%8C%E4%B8%AD%E5%9B%BD%E4%B8%93%E5%AE%B6%E5%85%B1%E8%AF%86%282020%E7%89%88%29%20-%20%E4%B8%AD%E5%8D%8E%E6%B6%88%E5%8C%96%E5%A4%96%E7%A7%91%E6%9D%82%E5%BF%97.html",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "L052_full_d8faef616d46f03e",
+      "record_id": "L052",
+      "scope": "fulltext",
+      "url": "https://www.journal-of-hepatology.eu/article/S0168-8278%2816%2930101-5/fulltext",
+      "reason": "受限或请求失败"
+    },
+    {
+      "source": "L066",
+      "record_id": "L066",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36781468/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L066_full_e08d27bcc8c792b0",
+      "record_id": "L066",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10017637/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L068",
+      "record_id": "L068",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33351457/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L051",
+      "record_id": "L051",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19326450/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L007",
+      "record_id": "L007",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16258801/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L007_full_29efcbbbd3c13147",
+      "record_id": "L007",
+      "scope": "fulltext",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1007/s00534-005-0999-7",
+      "reason": "受限或请求失败"
+    },
+    {
+      "source": "L006",
+      "record_id": "L006",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34866349/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L059",
+      "record_id": "L059",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28499749/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L042",
+      "record_id": "L042",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29502872/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L052_full_3318329fbcf3a2d9",
+      "record_id": "L052",
+      "scope": "fulltext",
+      "url": "https://easl.eu/wp-content/uploads/2016/10/EASL-CPG-on-Management-of-benign-liver-tumours.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "L039",
+      "record_id": "L039",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22806245/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "L040",
+      "record_id": "L040",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38884781/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B051",
+      "record_id": "B051",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10818783/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B052",
+      "record_id": "B052",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32661708/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B025",
+      "record_id": "B025",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5800764/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B027",
+      "record_id": "B027",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42432235/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B055",
+      "record_id": "B055",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5900735/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B028",
+      "record_id": "B028",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36257874/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B053",
+      "record_id": "B053",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4332770/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B054",
+      "record_id": "B054",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25923827/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B010",
+      "record_id": "B010",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10162495/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "CN002_full_22ec49a9dba4f894",
+      "record_id": "CN002",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/cms/news/info/zngs/8451.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "B044",
+      "record_id": "B044",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28606484/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B011",
+      "record_id": "B011",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10201064/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B045",
+      "record_id": "B045",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26521077/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B046",
+      "record_id": "B046",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6397793/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B043",
+      "record_id": "B043",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25548894/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B003",
+      "record_id": "B003",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7643471/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B001",
+      "record_id": "B001",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32404658/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B007",
+      "record_id": "B007",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6174331/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B004",
+      "record_id": "B004",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29095575/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B005",
+      "record_id": "B005",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29045062/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B006",
+      "record_id": "B006",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28941329/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B042",
+      "record_id": "B042",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10512167/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B041",
+      "record_id": "B041",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42201711/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B030",
+      "record_id": "B030",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40179530/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B029",
+      "record_id": "B029",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11650219/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "CN012_full_bce4e46bd66a4d87",
+      "record_id": "CN012",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/cms/news/info/de95bc07-7a69-4940-8e7e-e0d0843880f6.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "B057",
+      "record_id": "B057",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41709362/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B023",
+      "record_id": "B023",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40478744/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B023_full_771edc2e3c00b804",
+      "record_id": "B023",
+      "scope": "fulltext",
+      "url": "https://viszeralchirurgie-zurich.ch/wp-content/uploads/2026/03/Publication_pCCA-Consensus-Conference.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "B019",
+      "record_id": "B019",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4527854/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B056",
+      "record_id": "B056",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23059502/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B038",
+      "record_id": "B038",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36376222/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B039",
+      "record_id": "B039",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30122355/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B059",
+      "record_id": "B059",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34160742/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "CN008_full_39e40f602f878bb3",
+      "record_id": "CN008",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/cms/news/info/92c2bb60-221c-4f6d-815f-4b4bdce96896.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "CN011_full_1ed8f08e42510d4a",
+      "record_id": "CN011",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/cms/news/info/0ae864ce-8044-4147-b1b3-d252783f04e8.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "B034",
+      "record_id": "B034",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39820601/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B035",
+      "record_id": "B035",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36849564/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B008",
+      "record_id": "B008",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10698555/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B047",
+      "record_id": "B047",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31036336/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B026",
+      "record_id": "B026",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9038818/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B017",
+      "record_id": "B017",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29339660/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B018",
+      "record_id": "B018",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4527853/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B058",
+      "record_id": "B058",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21617582/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B012",
+      "record_id": "B012",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8594622/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B013",
+      "record_id": "B013",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30943551/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B014",
+      "record_id": "B014",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28122906/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B016",
+      "record_id": "B016",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27085810/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "CN013_full_b434d76323b87227",
+      "record_id": "CN013",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/cms/news/info/zngs/9151.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "B060",
+      "record_id": "B060",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41266841/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B061",
+      "record_id": "B061",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41193912/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B016_full_b984dc9ace24cdcb",
+      "record_id": "B016",
+      "scope": "fulltext",
+      "url": "https://easl.eu/wp-content/uploads/2016/10/EASL-CPG-Gallstones.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "B037",
+      "record_id": "B037",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33268245/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B036",
+      "record_id": "B036",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7528508/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "CN016_full_8f1fa280ec6fe5e6",
+      "record_id": "CN016",
+      "scope": "fulltext",
+      "url": "https://www.sciengine.com/doi/pdf/B04E829A0021469FBB0EBC0A5F5CEE0E",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "B032",
+      "record_id": "B032",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40543448/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B031",
+      "record_id": "B031",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12975648/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B033",
+      "record_id": "B033",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37259749/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B062_full_5d5cd57eb5db75f6",
+      "record_id": "B062",
+      "scope": "fulltext",
+      "url": "https://tjhlib.yuntsg.com/web/detail?id=18626&tid=0&type=service",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "CN015_full_326ac59e0081d8ba",
+      "record_id": "CN015",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/cms/news/info/zngs/6311.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "B048",
+      "record_id": "B048",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42619444/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B049",
+      "record_id": "B049",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41663752/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "CN009_full_4e4e1a77ec6aa636",
+      "record_id": "CN009",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/cms/news/info/11a0db00-ab73-4fcf-9337-982a19e23d99.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "B040",
+      "record_id": "B040",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30922733/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B024",
+      "record_id": "B024",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40348685/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B021",
+      "record_id": "B021",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39238075/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "B022",
+      "record_id": "B022",
+      "scope": "main",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10715509/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "CN021",
+      "record_id": "CN021",
+      "scope": "main",
+      "url": "https://www.nhc.gov.cn/yzygj/c100067/202604/3371c9cb2f7f4f55b18c709ff2c53ab8/files/%E5%8E%9F%E5%8F%91%E6%80%A7%E8%82%9D%E7%99%8C%E8%AF%8A%E7%96%97%E6%8C%87%E5%8D%97%EF%BC%882026%E7%89%88%EF%BC%89.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "P022",
+      "record_id": "P022",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38182527/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P024",
+      "record_id": "P024",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28735806/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P063",
+      "record_id": "P063",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12773980/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P020",
+      "record_id": "P020",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24856119/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P016",
+      "record_id": "P016",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27692778/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P062",
+      "record_id": "P062",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17461439/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P062_full_c1833dcb3a9eb4a5",
+      "record_id": "P062",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4146889/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P061",
+      "record_id": "P061",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8909526/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P060",
+      "record_id": "P060",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3358679/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P069",
+      "record_id": "P069",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36687559/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P069_full_72793b2c31c874cb",
+      "record_id": "P069",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9850868/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P067",
+      "record_id": "P067",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31502658/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P029",
+      "record_id": "P029",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35580661/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P030",
+      "record_id": "P030",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30452918/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P028",
+      "record_id": "P028",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29108721/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "CN003_full_9dcd78ef87b73b1f",
+      "record_id": "CN003",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/cms/news/info/5cf42a19-276a-4c7b-8a97-2328ed6fcc3d.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "P027",
+      "record_id": "P027",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30391468/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P026",
+      "record_id": "P026",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20410514/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P021",
+      "record_id": "P021",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38407228/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P054",
+      "record_id": "P054",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20622661/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P071",
+      "record_id": "P071",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41288428/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P002",
+      "record_id": "P002",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30685489/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P001",
+      "record_id": "P001",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30080726/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P068_full_8e7c5fe27dab35ff",
+      "record_id": "P068",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10389377/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P068",
+      "record_id": "P068",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37485920/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P010_full_b47e6946b22a4edd",
+      "record_id": "P010",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10727198/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P010",
+      "record_id": "P010",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37450702/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P009",
+      "record_id": "P009",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31567509/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P032",
+      "record_id": "P032",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37450701/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P031",
+      "record_id": "P031",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34614330/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P037",
+      "record_id": "P037",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31870802/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P038",
+      "record_id": "P038",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28344786/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P035",
+      "record_id": "P035",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39565607/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P034",
+      "record_id": "P034",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31961419/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P073",
+      "record_id": "P073",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28901935/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P036",
+      "record_id": "P036",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17301298/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P014",
+      "record_id": "P014",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17629996/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P017",
+      "record_id": "P017",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34596077/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P006",
+      "record_id": "P006",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42386316/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P005_full_96c019b0a4d773b1",
+      "record_id": "P005",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10899052/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P005",
+      "record_id": "P005",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38420108/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P015",
+      "record_id": "P015",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17981197/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "CN007_full_537ac4533ee2c1c3",
+      "record_id": "CN007",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/cms/news/info/2043d596-a3cd-45ee-aaf2-216f3b256711.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "P053",
+      "record_id": "P053",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24374513/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P052",
+      "record_id": "P052",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27513157/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P066_full_47d29da0f16b4d53",
+      "record_id": "P066",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12500762/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P012",
+      "record_id": "P012",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28040257/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P011",
+      "record_id": "P011",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16003309/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P013",
+      "record_id": "P013",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38926000/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P057",
+      "record_id": "P057",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24849084/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P018",
+      "record_id": "P018",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33914473/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P045",
+      "record_id": "P045",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29240007/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P044",
+      "record_id": "P044",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23122535/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "CN014_full_2ac23f044999833a",
+      "record_id": "CN014",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/cms/news/info/zngs/9011.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "P059",
+      "record_id": "P059",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21368658/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P051",
+      "record_id": "P051",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40747945/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P049_full_b3c3828042377700",
+      "record_id": "P049",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508971/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P049",
+      "record_id": "P049",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36199490/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P050_full_95a30414b30c103f",
+      "record_id": "P050",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6325750/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P050",
+      "record_id": "P050",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29697455/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P064_full_9094caa11ff16d46",
+      "record_id": "P064",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10389642/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P064",
+      "record_id": "P064",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37300889/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P023",
+      "record_id": "P023",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29574408/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P041",
+      "record_id": "P041",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38237621/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P042",
+      "record_id": "P042",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36521500/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P040",
+      "record_id": "P040",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35084987/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P043",
+      "record_id": "P043",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35834226/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P039",
+      "record_id": "P039",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32105518/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P019",
+      "record_id": "P019",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25061003/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P004",
+      "record_id": "P004",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41060640/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P003",
+      "record_id": "P003",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37457332/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P003_full_2b0a704fb5b0bea3",
+      "record_id": "P003",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10339208/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P025",
+      "record_id": "P025",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31856076/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P025_full_26e4e667f9c334db",
+      "record_id": "P025",
+      "scope": "fulltext",
+      "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC7029300/unicode",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "P065",
+      "record_id": "P065",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35155544/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P065_full_b990c37424350909",
+      "record_id": "P065",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8825491/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P008",
+      "record_id": "P008",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39172725/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P008_full_65211f6fc7757aec",
+      "record_id": "P008",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11573048/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P007",
+      "record_id": "P007",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33915091/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P056",
+      "record_id": "P056",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39907004/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P055",
+      "record_id": "P055",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38499019/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P047",
+      "record_id": "P047",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40114539/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P046",
+      "record_id": "P046",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35983583/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P046_full_460a8326221103b8",
+      "record_id": "P046",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10364701/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P058",
+      "record_id": "P058",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21529927/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P033",
+      "record_id": "P033",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31210778/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C005",
+      "record_id": "C005",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40957230/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C005_full_66a8f8f217bcce23",
+      "record_id": "C005",
+      "scope": "fulltext",
+      "url": "https://www.espen.org/files/ESPEN-Guidelines/ESPEN-guideline-on-clinical-nutrition-in-surgery-Update-2025.pdf",
+      "reason": "受限或请求失败"
+    },
+    {
+      "source": "CN004_full_e62a82da6264a80b",
+      "record_id": "CN004",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/cms/news/info/fa241448-90ac-4f54-ab9d-398c190ec80e.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "C004",
+      "record_id": "C004",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34242915/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C015",
+      "record_id": "C015",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15273542/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C015_full_169475e6b0c7479e",
+      "record_id": "C015",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360123/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C004_full_5bb2107f327cb07a",
+      "record_id": "C004",
+      "scope": "fulltext",
+      "url": "https://www.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Clinical_nutrition_in_surgery.pdf",
+      "reason": "受限或请求失败"
+    },
+    {
+      "source": "C016",
+      "record_id": "C016",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23728278/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C002",
+      "record_id": "C002",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27549599/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C014",
+      "record_id": "C014",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25059275/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C014_full_3afd46e9f510832a",
+      "record_id": "C014",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4266440/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C008",
+      "record_id": "C008",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39826234/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C007",
+      "record_id": "C007",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26864728/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C006",
+      "record_id": "C006",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33213977/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C006_full_50ecb083c295d3f7",
+      "record_id": "C006",
+      "scope": "fulltext",
+      "url": "https://www.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Clinical_nutrition_in_liver_disease.pdf",
+      "reason": "受限或请求失败"
+    },
+    {
+      "source": "C009",
+      "record_id": "C009",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38755033/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P070",
+      "record_id": "P070",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32161987/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C018",
+      "record_id": "C018",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37078771/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C018_full_1eab7ca339109244",
+      "record_id": "C018",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10119777/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "P074",
+      "record_id": "P074",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20071702/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C010",
+      "record_id": "C010",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31232076/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "CN006_full_bc53d021d7bb970d",
+      "record_id": "CN006",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/cms/news/info/088689fd-40fa-4c80-9941-6f14c34672b8.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "C030",
+      "record_id": "C030",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34506756/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C029",
+      "record_id": "C029",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31188200/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C028",
+      "record_id": "C028",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23360920/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C025",
+      "record_id": "C025",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11391528/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C024",
+      "record_id": "C024",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8594428/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C026",
+      "record_id": "C026",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32615109/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C038",
+      "record_id": "C038",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39669074/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C037",
+      "record_id": "C037",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33332874/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C037_full_149e56749c29a81d",
+      "record_id": "C037",
+      "scope": "fulltext",
+      "url": "https://research.dial.uclouvain.be/bitstreams/7abee265-5969-4463-8a55-4cf948c26a02/download",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "C037_full_9f4f14d258e1e1ff",
+      "record_id": "C037",
+      "scope": "fulltext",
+      "url": "https://research.dial.uclouvain.be/server/api/core/bitstreams/7abee265-5969-4463-8a55-4cf948c26a02/content",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "C039",
+      "record_id": "C039",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37635285/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C040",
+      "record_id": "C040",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37749812/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C041",
+      "record_id": "C041",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37749813/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C045",
+      "record_id": "C045",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36495912/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C044",
+      "record_id": "C044",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33966024/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C022",
+      "record_id": "C022",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24716201/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C033",
+      "record_id": "C033",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38990358/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C033_full_37b61fb47f568580",
+      "record_id": "C033",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11573112/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C034",
+      "record_id": "C034",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34985503/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "CN018_full_331d4a872af2db6e",
+      "record_id": "CN018",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/journal/article/file/2fee16d4-d34b-49a4-bccc-9fb9a23a1582.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "C032",
+      "record_id": "C032",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33626248/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C036",
+      "record_id": "C036",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33760791/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C035",
+      "record_id": "C035",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32546694/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C031",
+      "record_id": "C031",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29670285/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C020",
+      "record_id": "C020",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39487043/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C021",
+      "record_id": "C021",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26597456/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C020_full_805371edf03dbecd",
+      "record_id": "C020",
+      "scope": "fulltext",
+      "url": "https://easlcampus.eu/sites/default/files/2024-11/EASL_CPGs_liver_transplantation_2024.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "C023",
+      "record_id": "C023",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23281277/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C023_full_caf04084e1bd9d1e",
+      "record_id": "C023",
+      "scope": "fulltext",
+      "url": "https://www.aasld.org/sites/default/files/2022-07/Long-Term%20Management%20of%20the%20Successful%20Adult%20Liver%20Transplant.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "C042",
+      "record_id": "C042",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34245223/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C043",
+      "record_id": "C043",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34245116/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "C021_full_e96dc0a60b633c95",
+      "record_id": "C021",
+      "scope": "fulltext",
+      "url": "https://easl.eu/wp-content/uploads/2018/10/Liver-Transplantation-English-report.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "C043_full_c43acc16e160cb42",
+      "record_id": "C043",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8519053/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "NEW-LT-001",
+      "record_id": "NEW-LT-001",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41405234/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "NEW-LT-001_full_c9ae10842c0437e2",
+      "record_id": "NEW-LT-001",
+      "scope": "fulltext",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13070310/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "NEW-NICE-001",
+      "record_id": "NEW-NICE-001",
+      "scope": "main",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK618150/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "NEW-LT-002",
+      "record_id": "NEW-LT-002",
+      "scope": "main",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41405235/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "NEW-NICE-001_full_86886e7b1ea3cc2f",
+      "record_id": "NEW-NICE-001",
+      "scope": "fulltext",
+      "url": "https://www.ncbi.nlm.nih.gov/books/n/nicecg188guid/pdf/",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "NEW-NICE-001_full_0824f67ba3d1f195",
+      "record_id": "NEW-NICE-001",
+      "scope": "fulltext",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK618150/pdf/Bookshelf_NBK618150.pdf",
+      "reason": "访问验证或限制页面"
+    },
+    {
+      "source": "CN001_full_bf614e75128f7c40",
+      "record_id": "CN001",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/cms/news/info/zngs/9777.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "CN010_full_9fa0211c2f355f43",
+      "record_id": "CN010",
+      "scope": "fulltext",
+      "url": "https://www.lcgdbzz.com/fileLCGDBZZ/cms/news/info/56565cde-77c7-40ea-b6f8-6d64f64956c5.pdf",
+      "reason": "取得PDF；身份待核对"
+    },
+    {
+      "source": "VT001",
+      "record_id": "VT001",
+      "scope": "main",
+      "url": "https://www.youtube.com/watch?v=C-MqFEWHl2M",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "VLB005",
+      "record_id": "VLB005",
+      "scope": "main",
+      "url": "https://pie.med.utoronto.ca/TVASurg/browse_anatomy/liver/",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "VP020",
+      "record_id": "VP020",
+      "scope": "main",
+      "url": "https://watch.giblib.com/specialty/667/pancreatic-surgery",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "VLB007",
+      "record_id": "VLB007",
+      "scope": "main",
+      "url": "https://www.sages.org/video/",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "VP019",
+      "record_id": "VP019",
+      "scope": "main",
+      "url": "https://jomi.com/categories/general-surgery",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "PORT001",
+      "record_id": "PORT001",
+      "scope": "main",
+      "url": "https://med.stanford.edu/hpb-library.html",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "PORT002",
+      "record_id": "PORT002",
+      "scope": "main",
+      "url": "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "VLB006",
+      "record_id": "VLB006",
+      "scope": "main",
+      "url": "https://pie.med.utoronto.ca/TVASurg/browse_anatomy/gallbladder_bileducts/",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "PORT003",
+      "record_id": "PORT003",
+      "scope": "main",
+      "url": "https://www.webop.com/general-and-visceral-surgery/pancreas-and-spleen",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "VP010",
+      "record_id": "VP010",
+      "scope": "main",
+      "url": "https://websurg.com/en/doi/vd01en5898",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "VP011",
+      "record_id": "VP011",
+      "scope": "main",
+      "url": "https://www.youtube.com/watch?v=zFIOojtG7dM",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "VP017",
+      "record_id": "VP017",
+      "scope": "main",
+      "url": "https://pie.med.utoronto.ca/TVASurg/browse_anatomy/pancreas/page/2/",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "VP012",
+      "record_id": "VP012",
+      "scope": "main",
+      "url": "https://www.youtube.com/watch?v=4Zxvm3MSb8k",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "VR007",
+      "record_id": "VR007",
+      "scope": "main",
+      "url": "https://profed.olympuschina.com/gs/laphpb/",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "VP015",
+      "record_id": "VP015",
+      "scope": "main",
+      "url": "https://www.youtube.com/watch?v=9p1Erx1aaTg",
+      "reason": "页面取得；身份待核对"
+    },
+    {
+      "source": "VP014",
+      "record_id": "VP014",
+      "scope": "main",
+      "url": "https://www.youtube.com/watch?v=Ot4XRcPObwI",
+      "reason": "页面取得；身份待核对"
+    }
+  ],
+  "last_counts": {
+    "added": 970,
+    "revised": 512,
+    "existing": 19,
+    "duplicates": 3405,
+    "pending_total": 32614,
+    "canonical_revised": 226,
+    "pending_changes": 0,
+    "link_checks": 342,
+    "main_link_checks": 258,
+    "fulltext_link_checks": 84,
+    "link_unconfirmed": 328
+  }
 }
