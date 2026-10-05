@@ -1,1 +1,2101 @@
-{}
+{
+  "J016": {
+    "detected_at": "2026-10-05T07:11:59.204148+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/485/robotic-hepatectomy-for-a-segment-vvi-suspected-hcc-lesion-with-cholecystectomy-and-evaluation-by-ultrasound-and-excisional-biopsy-of-a-segment-ivb-lesion": {
+        "scope": "main",
+        "before": "8fe0da0eac2180212a2dbe45455c9833f10fe718d89c5a19dc0efec6357d884e",
+        "after": "07e60b05dab1bbdcb2b2d7918f336d9dd11feaec9b96228ce188733a748a3884",
+        "previous_checked_at": "2026-09-14T12:58:29.728911+00:00",
+        "checked_at": "2026-10-05T07:11:59.204148+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:11:59.204148+00:00",
+    "source": "https://jomi.com/article/485/robotic-hepatectomy-for-a-segment-vvi-suspected-hcc-lesion-with-cholecystectomy-and-evaluation-by-ultrasound-and-excisional-biopsy-of-a-segment-ivb-lesion",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "L012": {
+    "detected_at": "2026-10-05T07:12:04.222597+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11107897/": {
+        "scope": "fulltext",
+        "before": "5e2501123755a4b53caf62bbc0ac7a0019fda1d631ad2a49d8d62dafa5b59d06",
+        "after": "3e5b1ef0cd3ec00d1875453d37ca68f5793be9356075bc36c31765eeb650eec6",
+        "previous_checked_at": "2026-09-14T14:41:19.609572+00:00",
+        "checked_at": "2026-10-05T07:12:04.222597+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:12:04.222597+00:00",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11107897/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "L015": {
+    "detected_at": "2026-10-05T07:12:02.627261+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13161259/fullTextXML": {
+        "scope": "fulltext",
+        "before": "394f703b6406d4c10a00e96f97a7c9530c9dc7724505e9b2d5882ea929b2d453",
+        "after": "6cd677978c1db82c4aabf38991544805e6d1765e16a76f430484416572375073",
+        "previous_checked_at": "2026-09-14T14:41:16.374286+00:00",
+        "checked_at": "2026-10-05T07:12:02.627261+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:12:02.627261+00:00",
+    "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13161259/fullTextXML",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "L055": {
+    "detected_at": "2026-10-05T07:12:10.682978+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10408219/": {
+        "scope": "fulltext",
+        "before": "8dfd7e698f61f7caa50136fe20e5520cb10af44ec41a8cde2e605134776cefd1",
+        "after": "e11037a703a2afbf419df28b685c32ed6b8e9493a740f3b521d2f652f77d711e",
+        "previous_checked_at": "2026-09-14T14:41:29.952724+00:00",
+        "checked_at": "2026-10-05T07:12:10.682978+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:12:10.682978+00:00",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10408219/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "L003": {
+    "detected_at": "2026-10-05T07:12:14.184409+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12199258/fullTextXML": {
+        "scope": "fulltext",
+        "before": "5f3d96daaf8c7b6250a8d104f8e5d27b92aa84575e982be53a02e0fac6fbd1bf",
+        "after": "2980c7ceb35ee69eec2344e5c59e8197f2867b4f1bf78a3983b854f3f6ab9f52",
+        "previous_checked_at": "2026-09-14T14:41:34.567429+00:00",
+        "checked_at": "2026-10-05T07:12:14.184409+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:12:14.184409+00:00",
+    "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12199258/fullTextXML",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN005": {
+    "detected_at": "2026-10-05T07:12:16.991429+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/en/custom/news/id/0498fe7b-3e8b-4d6a-936d-1577c5a521f1": {
+        "scope": "main",
+        "before": "6079a55392677f959d045801ba0e7b0a5e32381a24f42038b5cf2349e4a3883e",
+        "after": "36b352bcca2524334ef60c9c716ac7b93d1b00ba81cfb9da33576a60cd49e288",
+        "previous_checked_at": "2026-09-14T12:58:51.529218+00:00",
+        "checked_at": "2026-10-05T07:12:16.991429+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:12:16.991429+00:00",
+    "source": "https://www.lcgdbzz.com/en/custom/news/id/0498fe7b-3e8b-4d6a-936d-1577c5a521f1",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "L008": {
+    "detected_at": "2026-10-05T07:12:20.570334+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10494765/": {
+        "scope": "fulltext",
+        "before": "e6a61293f1cbe591ea6ff60cb991de8daad65d4f759115e716f201a678b88fd8",
+        "after": "dfd9ddc3a4609ca6296b81e661fd16d6270d07205e5d9774348d7d2d941e0d03",
+        "previous_checked_at": "2026-09-14T14:41:49.739539+00:00",
+        "checked_at": "2026-10-05T07:12:20.570334+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:12:20.570334+00:00",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10494765/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "L033": {
+    "detected_at": "2026-10-05T07:12:24.553311+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7407587/": {
+        "scope": "fulltext",
+        "before": "4d4dcaa911867cc331a002ffbd9c5c5e46bc12c60781170e8b366b792e98b5d8",
+        "after": "eb4abf89f5c8fd1aaa2a9acadb8723233c036334f1909a30d1d657b1945abe89",
+        "previous_checked_at": "2026-09-28T07:03:41.016432+00:00",
+        "checked_at": "2026-10-05T07:12:24.553311+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      },
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7407587/fullTextXML": {
+        "scope": "fulltext",
+        "before": "8de95488176f65b9d3820ea8a7a5d1d9d3f7246aa89c93a1461e58cdbf905384",
+        "after": "10270abefc297ff5e97533afc16b585bc71fb1492f7bb859e9025a7e2e2679e8",
+        "previous_checked_at": "2026-09-14T14:41:53.965936+00:00",
+        "checked_at": "2026-10-05T07:12:24.882209+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:12:24.882209+00:00",
+    "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7407587/fullTextXML",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "L060": {
+    "detected_at": "2026-10-05T07:12:30.663702+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11334013/": {
+        "scope": "fulltext",
+        "before": "6613f2069ebfaa93335e405dc8833ad5cca462a657a86edfb92124c03d58b6c6",
+        "after": "6caf7b8215a3aa71d39092bcdb82794762b1e69bfe11adcadaf4ff786366750d",
+        "previous_checked_at": "2026-09-14T14:42:01.078386+00:00",
+        "checked_at": "2026-10-05T07:12:30.663702+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:12:30.663702+00:00",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11334013/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J014": {
+    "detected_at": "2026-10-05T07:12:33.722345+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/500/hepatic-artery-infusion-hai-pump-placement-for-unresectable-intrahepatic-cholangiocarcinoma-with-vessel-abutment-and-intrahepatic-metastasis": {
+        "scope": "main",
+        "before": "198066baad4a14e17113a20c72fd92a76672d8354c3de27335d927eb922b2dda",
+        "after": "a4198c64a1dc0fa2f010108b45f364d4c188f4fa8546d6f0d6f194512aa07ce3",
+        "previous_checked_at": "2026-09-14T12:59:25.909031+00:00",
+        "checked_at": "2026-10-05T07:12:33.722345+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:12:33.722345+00:00",
+    "source": "https://jomi.com/article/500/hepatic-artery-infusion-hai-pump-placement-for-unresectable-intrahepatic-cholangiocarcinoma-with-vessel-abutment-and-intrahepatic-metastasis",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN002": {
+    "detected_at": "2026-10-05T07:12:44.905622+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/en/custom/news/id/8451": {
+        "scope": "main",
+        "before": "adf1f12aaa8fc398493e973ed0799c3a4e5438d6def20580b155ba8ef64a1c7f",
+        "after": "712d225e0bab264dc1b6b2d8dc081da62faa4d2cb24bb79614e2f83ab41ed827",
+        "previous_checked_at": "2026-09-14T12:59:48.404769+00:00",
+        "checked_at": "2026-10-05T07:12:44.905622+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:12:44.905622+00:00",
+    "source": "https://www.lcgdbzz.com/en/custom/news/id/8451",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J005": {
+    "detected_at": "2026-10-05T07:13:21.941153+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/442/laparoscopic-subtotal-fenestrating-cholecystectomy-in-a-cirrhotic-patient": {
+        "scope": "main",
+        "before": "f6832e22e035a37d45ac7bfce2cb4b301c8e5689d41af81a476620352c7d5243",
+        "after": "eb7cca5a4122dfb6ee605949a00f0709e3f11027da52a6a8269fcff4a2b5ed9e",
+        "previous_checked_at": "2026-09-14T13:00:07.513930+00:00",
+        "checked_at": "2026-10-05T07:13:21.941153+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:13:21.941153+00:00",
+    "source": "https://jomi.com/article/442/laparoscopic-subtotal-fenestrating-cholecystectomy-in-a-cirrhotic-patient",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J007": {
+    "detected_at": "2026-10-05T07:13:24.403858+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/524/robotic-cholecystectomy-for-chronic-cholecystitis-for-a-patient-with-recurrent-gallstone-pancreatitis-and-a-percutaneous-cholecystostomy-tube": {
+        "scope": "main",
+        "before": "c47d4d11e6f8ebcede3cf4568ef28208336deea90a63d5c1dc335f60d753afa5",
+        "after": "8093e4af7266d658ef2612a2484a7155eba0002b1a81ed6aecf342cf03458af8",
+        "previous_checked_at": "2026-09-14T13:00:10.629621+00:00",
+        "checked_at": "2026-10-05T07:13:24.403858+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:13:24.403858+00:00",
+    "source": "https://jomi.com/article/524/robotic-cholecystectomy-for-chronic-cholecystitis-for-a-patient-with-recurrent-gallstone-pancreatitis-and-a-percutaneous-cholecystostomy-tube",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "B001": {
+    "detected_at": "2026-10-05T07:13:27.144823+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/publications/guidelines/safe-cholecystectomy-multi-society-practice-guideline/": {
+        "scope": "fulltext",
+        "before": "65044eded51b5bef2103e8d0d0a7a826f230baa5b8b64a1e3d010c784f4a583d",
+        "after": "96ebe30835411f3a3fb74d6a27464a1cf03fd5a009c21344b0722946c4dbf8e4",
+        "previous_checked_at": "2026-09-14T14:42:31.335407+00:00",
+        "checked_at": "2026-10-05T07:13:27.144823+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:13:27.144823+00:00",
+    "source": "https://www.sages.org/publications/guidelines/safe-cholecystectomy-multi-society-practice-guideline/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J001": {
+    "detected_at": "2026-10-05T07:13:30.426281+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/290.12/open-cholecystectomy-for-gallbladder-disease": {
+        "scope": "main",
+        "before": "6745816e516cd9386c66826627afa5b40240f97d430f7911eb684c1142736b56",
+        "after": "88b403099ba643bc68f9c01acfbe07d96f442dcb1942d847df54f8b6929b0862",
+        "previous_checked_at": "2026-09-14T13:00:14.097799+00:00",
+        "checked_at": "2026-10-05T07:13:30.426281+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:13:30.426281+00:00",
+    "source": "https://jomi.com/article/290.12/open-cholecystectomy-for-gallbladder-disease",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J002": {
+    "detected_at": "2026-10-05T07:13:31.024726+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/278.3/open-cholecystectomy-for-gallstone-disease": {
+        "scope": "main",
+        "before": "17ae24b2cde3591b50f6a56fef182defa674cc8e107f90c3d9a6d35d7bf6ba94",
+        "after": "53e13087b75b506b43e85fa3cb80a7be4bd774727cb77136fdf124e8ee81f8c3",
+        "previous_checked_at": "2026-09-14T13:00:14.192057+00:00",
+        "checked_at": "2026-10-05T07:13:31.024726+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:13:31.024726+00:00",
+    "source": "https://jomi.com/article/278.3/open-cholecystectomy-for-gallstone-disease",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J009": {
+    "detected_at": "2026-10-05T07:13:37.924721+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/523/robotic-cholecystectomy-for-recurrent-gallstone-pancreatitis-in-a-patient-with-prior-distal-pancreatectomy-and-splenectomy-for-acinar-cell-carcinoma": {
+        "scope": "main",
+        "before": "a2d4646f12629f308ad11bcb2d7bd2fac90d4f3bfe809f3f28930a699296fa32",
+        "after": "3966b66038de63807df8eedf0e265aa5fd9ac1b4ea8d6a9a30a1ac4adfce6c9f",
+        "previous_checked_at": "2026-09-14T13:00:16.777894+00:00",
+        "checked_at": "2026-10-05T07:13:37.924721+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:13:37.924721+00:00",
+    "source": "https://jomi.com/article/523/robotic-cholecystectomy-for-recurrent-gallstone-pancreatitis-in-a-patient-with-prior-distal-pancreatectomy-and-splenectomy-for-acinar-cell-carcinoma",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN012": {
+    "detected_at": "2026-10-05T07:13:38.586313+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/custom/news/id/8d811f80-eeef-4d63-8c6a-2994f695c288": {
+        "scope": "main",
+        "before": "83a42715901f2715d2796a821928f38b71f5d67578a7ca38bf4be6c7c40d9f9b",
+        "after": "891874290f45d752b8703ab12651565e44964205d17930324c8db2798598f080",
+        "previous_checked_at": "2026-09-14T13:00:17.070352+00:00",
+        "checked_at": "2026-10-05T07:13:38.586313+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:13:38.586313+00:00",
+    "source": "https://www.lcgdbzz.com/custom/news/id/8d811f80-eeef-4d63-8c6a-2994f695c288",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J008": {
+    "detected_at": "2026-10-05T07:13:48.571852+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/501/robotic-cholecystectomy-for-porcelain-gallbladder-and-a-68-cm-stone": {
+        "scope": "main",
+        "before": "a6da55c1b55c000489761ff3e575c7aeefad010ed7420f3f2a7d36dc3bfd1541",
+        "after": "cdca9d848cf1f14146ec39c5c3bf6484f4f30b3e9cc1134ab8e9689f67c9dcae",
+        "previous_checked_at": "2026-09-14T13:00:20.460430+00:00",
+        "checked_at": "2026-10-05T07:13:48.571852+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:13:48.571852+00:00",
+    "source": "https://jomi.com/article/501/robotic-cholecystectomy-for-porcelain-gallbladder-and-a-68-cm-stone",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J011": {
+    "detected_at": "2026-10-05T07:13:49.169270+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/544/robotic-assisted-transcystic-endoscopic-common-bile-duct-exploration": {
+        "scope": "main",
+        "before": "781148bb380d1314ac7b8d5aebcb64fc249f23ce4b473cd1b1dbecc3c6fa8cc5",
+        "after": "71e46b0b13257ce533b66fa7bfea9fd50e6ee4c650692d80c54603fb57b4c55e",
+        "previous_checked_at": "2026-09-14T13:00:21.343771+00:00",
+        "checked_at": "2026-10-05T07:13:49.169270+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:13:49.169270+00:00",
+    "source": "https://jomi.com/article/544/robotic-assisted-transcystic-endoscopic-common-bile-duct-exploration",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN008": {
+    "detected_at": "2026-10-05T07:13:43.205729+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/en/custom/news/id/39e67013-2c47-4d7b-b706-72a63190560f": {
+        "scope": "main",
+        "before": "74b3bcc2057f7a85ec97fd2c65e098921d8d740be379ac8639d8842ff4f01335",
+        "after": "6f3edb541578479a2a8074c8b9b2e0f4d80af550e78d68d1853a08c2ddc6d614",
+        "previous_checked_at": "2026-09-14T13:00:19.610753+00:00",
+        "checked_at": "2026-10-05T07:13:43.205729+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:13:43.205729+00:00",
+    "source": "https://www.lcgdbzz.com/en/custom/news/id/39e67013-2c47-4d7b-b706-72a63190560f",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN011": {
+    "detected_at": "2026-10-05T07:13:51.252691+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/custom/news/id/5ef9241c-353b-466f-814d-af36606ac460": {
+        "scope": "main",
+        "before": "812092c0112e2daeab57fe849f1201204cb9425166965cfc9d0a50d2f0fc5c1e",
+        "after": "6e098228c6e2fd274a7a804881bf29fc1b4ff6fd8384ce453e6c27a2be4eebda",
+        "previous_checked_at": "2026-09-14T13:00:22.763941+00:00",
+        "checked_at": "2026-10-05T07:13:51.252691+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:13:51.252691+00:00",
+    "source": "https://www.lcgdbzz.com/custom/news/id/5ef9241c-353b-466f-814d-af36606ac460",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J017": {
+    "detected_at": "2026-10-05T07:14:08.862467+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/251/laparoscopic-cholecystectomy": {
+        "scope": "main",
+        "before": "71a59f7e6a5df2075784c5b2dfc4636a73811204f28d038edaaf73381144540f",
+        "after": "d68c722132021dd2a489e1fcebe6455a0028f917e99db1deab22a2607fff4ccf",
+        "previous_checked_at": "2026-09-14T13:00:29.299530+00:00",
+        "checked_at": "2026-10-05T07:14:08.862467+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:14:08.862467+00:00",
+    "source": "https://jomi.com/article/251/laparoscopic-cholecystectomy",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "B009": {
+    "detected_at": "2026-10-05T07:14:30.657766+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11339699/": {
+        "scope": "main",
+        "before": "b2b2dfe13431e2cc674606c2af47e70791ebce395a35d721fce6e110227bbbbd",
+        "after": "1beaf273fb041806aac5c6cebaddc1cf0448323601cb9c1363737096b789d08d",
+        "previous_checked_at": "2026-09-14T13:00:32.105893+00:00",
+        "checked_at": "2026-10-05T07:14:30.657766+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:14:30.657766+00:00",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11339699/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN016": {
+    "detected_at": "2026-10-05T07:13:58.856349+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/cn/article/doi/10.12449/JCH241007?viewType=HTML": {
+        "scope": "main",
+        "before": "8eb5061c1c5f8f0052a96f1542c0fde835d67d2285f0cdf7d6f233c74daebf16",
+        "after": "179f3b1f4406b1379b3c1197231db1cd3e893c7f87e0a9a415e585b1ae93db19",
+        "previous_checked_at": "2026-09-14T13:00:29.064557+00:00",
+        "checked_at": "2026-10-05T07:13:58.856349+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:13:58.856349+00:00",
+    "source": "https://www.lcgdbzz.com/cn/article/doi/10.12449/JCH241007?viewType=HTML",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN013": {
+    "detected_at": "2026-10-05T07:14:09.010657+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/en/custom/news/id/9151": {
+        "scope": "main",
+        "before": "c7053d638e62828813bfc2d261876c95641027a40c278858b4034d85113b007c",
+        "after": "feff17e5b371728dd7dedb15ae2c97b3e0bca50182e3879360da8a781fcf452a",
+        "previous_checked_at": "2026-09-14T13:00:30.058028+00:00",
+        "checked_at": "2026-10-05T07:14:09.010657+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:14:09.010657+00:00",
+    "source": "https://www.lcgdbzz.com/en/custom/news/id/9151",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J015": {
+    "detected_at": "2026-10-05T07:14:35.111829+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/279/open-radical-cholecystectomy-with-partial-hepatectomy-for-gallbladder-cancer": {
+        "scope": "main",
+        "before": "8f321f6db70d03d765fe86a4d5566d37d159a6f5517191cd15084509e17eb611",
+        "after": "5003f5ce2f24487d4edd23df30fc4a0c9a2cc727387eaf81bbf5db10362eaa3c",
+        "previous_checked_at": "2026-09-14T13:00:36.106607+00:00",
+        "checked_at": "2026-10-05T07:14:35.111829+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:14:35.111829+00:00",
+    "source": "https://jomi.com/article/279/open-radical-cholecystectomy-with-partial-hepatectomy-for-gallbladder-cancer",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "B060": {
+    "detected_at": "2026-10-05T07:14:38.156542+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/publications/guidelines/guideline-for-the-management-of-bdi-following-cholecystectomy/": {
+        "scope": "fulltext",
+        "before": "8622ceeb350a19c6ace862031ab786befade8953431571527d6ec8c222102b67",
+        "after": "851c2430a7e6f5106a60656d2d1579eddcbe65ab575223dfce70cdfc19f687d6",
+        "previous_checked_at": "2026-09-14T14:43:01.837453+00:00",
+        "checked_at": "2026-10-05T07:14:38.156542+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:14:38.156542+00:00",
+    "source": "https://www.sages.org/publications/guidelines/guideline-for-the-management-of-bdi-following-cholecystectomy/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN017": {
+    "detected_at": "2026-10-05T07:14:34.030327+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/cn/article/doi/10.12449/JCH241205?viewType=HTML": {
+        "scope": "main",
+        "before": "f7ec15517f7bfe933de2a0ac8a55427e3cea041c29e460a0104e467dcc96a9cb",
+        "after": "b49d1005ae982cd5b4edacddbc02f71a5fd5ef5160d7f918e94a9fc8d3fa9206",
+        "previous_checked_at": "2026-09-14T13:00:35.801622+00:00",
+        "checked_at": "2026-10-05T07:14:34.030327+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:14:34.030327+00:00",
+    "source": "https://www.lcgdbzz.com/cn/article/doi/10.12449/JCH241205?viewType=HTML",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "B031": {
+    "detected_at": "2026-10-05T07:14:45.449327+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12975648/fullTextXML": {
+        "scope": "fulltext",
+        "before": "5f71866ec59e0fdf4f99fc2e6698dc900cc48467de6656842f414c800a9074ce",
+        "after": "2e867f7d930f69b120049c2085f430954f19cae1988839edb9dd840c7d19424c",
+        "previous_checked_at": "2026-09-14T14:43:08.664597+00:00",
+        "checked_at": "2026-10-05T07:14:45.449327+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:14:45.449327+00:00",
+    "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12975648/fullTextXML",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN015": {
+    "detected_at": "2026-10-05T07:14:41.055749+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/custom/news/id/6311": {
+        "scope": "main",
+        "before": "b187289ff5a8a59fbebbf1a26077744baaad5aa52761438db6094446113a846f",
+        "after": "852a8ac4705ff7d8ab0a5b268c2f644a6ead7394b2145f111dacc5340bd7fb50",
+        "previous_checked_at": "2026-09-14T13:00:42.054581+00:00",
+        "checked_at": "2026-10-05T07:14:41.055749+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:14:41.055749+00:00",
+    "source": "https://www.lcgdbzz.com/custom/news/id/6311",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "B062": {
+    "detected_at": "2026-10-05T07:14:46.839961+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://ccj.pku.edu.cn/article/info?id=387860072": {
+        "scope": "main",
+        "before": "13301268e04ab9886b6c041a619b7318dd619f95852678443037afdba0f724fe",
+        "after": "ab608b52f0f804e10b73cc26a75d7bec26b1762978fa7642705d0669fd0eb30f",
+        "previous_checked_at": "2026-09-14T13:00:45.633347+00:00",
+        "checked_at": "2026-10-05T07:14:46.839961+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:14:46.839961+00:00",
+    "source": "https://ccj.pku.edu.cn/article/info?id=387860072",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN019": {
+    "detected_at": "2026-10-05T07:14:43.598458+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/cn/article/doi/10.3969/j.issn.1001-5256.2017.02.009?viewType=HTML": {
+        "scope": "main",
+        "before": "2120b35da64246e267c943d34ebada63bfa2bd12c8a9d0d102e8c956f0861065",
+        "after": "9b8e955b88cf5997f2c3a388d2e5960ea0fee6839fc4e53ad684efd7d272b50d",
+        "previous_checked_at": "2026-09-14T13:00:43.172648+00:00",
+        "checked_at": "2026-10-05T07:14:43.598458+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:14:43.598458+00:00",
+    "source": "https://www.lcgdbzz.com/cn/article/doi/10.3969/j.issn.1001-5256.2017.02.009?viewType=HTML",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN009": {
+    "detected_at": "2026-10-05T07:14:51.915025+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/custom/news/id/e0706ae3-f49b-4c95-a2c6-d5e58aa82bd2": {
+        "scope": "main",
+        "before": "9a81a97445d4a09c738ff0a5d067af702a14f39d39b7a146d42ff64e398d4232",
+        "after": "c42c0a956e44cf2860f80bf29574ed28d5c438e842db43cf7bccff80b4b0b80f",
+        "previous_checked_at": "2026-09-14T13:00:45.827771+00:00",
+        "checked_at": "2026-10-05T07:14:51.915025+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:14:51.915025+00:00",
+    "source": "https://www.lcgdbzz.com/custom/news/id/e0706ae3-f49b-4c95-a2c6-d5e58aa82bd2",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN003": {
+    "detected_at": "2026-10-05T07:14:58.929908+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/en/custom/news/id/75afa7f2-4284-4690-af09-017a2a66202b": {
+        "scope": "main",
+        "before": "c5e12c23d283fb36dc8549d008ff3cdb0c2b7607d35a154ed411dff75cdb587b",
+        "after": "d7b38ae8878cca6de3e4837a48ccad78804598d4422c301522b9bb536bb42b76",
+        "previous_checked_at": "2026-09-14T13:00:46.992698+00:00",
+        "checked_at": "2026-10-05T07:14:58.929908+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:14:58.929908+00:00",
+    "source": "https://www.lcgdbzz.com/en/custom/news/id/75afa7f2-4284-4690-af09-017a2a66202b",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "B020": {
+    "detected_at": "2026-10-05T07:15:22.445355+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11128785/": {
+        "scope": "main",
+        "before": "3d7808a9ef39882f18db6f38786d8017465efb8e3000b99104dde45f74853d94",
+        "after": "9f15cc517a19550b4616ee1ebded989fe1a0b1fab7be9ceb993d16303002b4e3",
+        "previous_checked_at": "2026-09-14T13:00:51.905395+00:00",
+        "checked_at": "2026-10-05T07:15:22.445355+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:15:22.445355+00:00",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11128785/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "B022": {
+    "detected_at": "2026-10-05T07:15:27.278348+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10715509/fullTextXML": {
+        "scope": "fulltext",
+        "before": "eaf65570d947ef86853ca4ed92b6aad572e404a78de3bc3b583d02ee96e1be21",
+        "after": "15294deaeea8c295b291ce2808859a1c98ce99b1a53e7f8784c8fbc938f73596",
+        "previous_checked_at": "2026-09-14T14:43:24.554936+00:00",
+        "checked_at": "2026-10-05T07:15:27.278348+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:15:27.278348+00:00",
+    "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10715509/fullTextXML",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN007": {
+    "detected_at": "2026-10-05T07:15:16.138857+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/en/custom/news/id/355919ef-3c0e-463c-be2b-dbc038d9cd92": {
+        "scope": "main",
+        "before": "ff707c416cd7e1004ed58f9ed298fd81e4299338b58dfaf7c43b51dbbbf7dbcf",
+        "after": "415b65786b862b199485202d0eebf54b686a8020299c13d844c12dc6e1a7869e",
+        "previous_checked_at": "2026-09-14T13:00:50.078236+00:00",
+        "checked_at": "2026-10-05T07:15:16.138857+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:15:16.138857+00:00",
+    "source": "https://www.lcgdbzz.com/en/custom/news/id/355919ef-3c0e-463c-be2b-dbc038d9cd92",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "W001": {
+    "detected_at": "2026-10-05T07:15:37.009899+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/publications/guidelines/clinical-spotlight-review-laparoscopic-common-bile-duct-exploration/": {
+        "scope": "main",
+        "before": "ac40717ae08b7a48065e66b71a33e27d2ec606a19b2df9f686105b35e78ab875",
+        "after": "c0b0ae1ef0076985d238de1623697afdd2d45ded71ea99aa967989b4421c9d2b",
+        "previous_checked_at": "2026-09-14T13:00:55.743551+00:00",
+        "checked_at": "2026-10-05T07:15:37.009899+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:15:37.009899+00:00",
+    "source": "https://www.sages.org/publications/guidelines/clinical-spotlight-review-laparoscopic-common-bile-duct-exploration/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J010": {
+    "detected_at": "2026-10-05T07:15:37.198956+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/408/robotic-assisted-laparoscopic-interval-cholecystectomy": {
+        "scope": "main",
+        "before": "aead4fdb6954bba43ea09059b3be0f33215c87e956b2747337aff0f3eaff1a30",
+        "after": "f639914d1305b87aa1f7500652ac6a1420f13aa1d41192b0aea2fe0112b423e5",
+        "previous_checked_at": "2026-09-14T13:00:56.237007+00:00",
+        "checked_at": "2026-10-05T07:15:37.198956+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:15:37.198956+00:00",
+    "source": "https://jomi.com/article/408/robotic-assisted-laparoscopic-interval-cholecystectomy",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN014": {
+    "detected_at": "2026-10-05T07:15:28.916140+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/custom/news/id/9011": {
+        "scope": "main",
+        "before": "2c29d121b45820090cb4927038705d9b09d59889702879e10cb31117d0220d38",
+        "after": "0b6a72994a819dd1e7e2dd0bf0f16ea448a4246a5eadb3baa67cc0390a334c26",
+        "previous_checked_at": "2026-09-14T13:00:54.307780+00:00",
+        "checked_at": "2026-10-05T07:15:28.916140+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:15:28.916140+00:00",
+    "source": "https://www.lcgdbzz.com/custom/news/id/9011",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN020": {
+    "detected_at": "2026-10-05T07:15:40.089302+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/cn/article/doi/10.3969/j.issn.1001-5256.2016.05.010?viewType=HTML": {
+        "scope": "main",
+        "before": "a9b580a69c6bc5038cab4b65a84009ae35c4decfa477ec880ef55c79c3cd270c",
+        "after": "2e346c58baf9dad97c084e82341e3537becb38be85f6958ee964752bab66c0e2",
+        "previous_checked_at": "2026-09-14T13:01:00.818010+00:00",
+        "checked_at": "2026-10-05T07:15:40.089302+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:15:40.089302+00:00",
+    "source": "https://www.lcgdbzz.com/cn/article/doi/10.3969/j.issn.1001-5256.2016.05.010?viewType=HTML",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "P032": {
+    "detected_at": "2026-10-05T07:16:30.217554+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10922655/": {
+        "scope": "fulltext",
+        "before": "a94fd157767b65e81895ba813aa2df04c6986a00bffc55fdd7802d07135f51a3",
+        "after": "5de773648733fb9c78b474784ef1f6e5a29248e2aab1227a7d1a74f7d2223015",
+        "previous_checked_at": "2026-09-14T14:43:40.972897+00:00",
+        "checked_at": "2026-10-05T07:16:30.217554+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:16:30.217554+00:00",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10922655/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "P038": {
+    "detected_at": "2026-10-05T07:16:31.861439+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5349368/": {
+        "scope": "fulltext",
+        "before": "a6c337089fe124ecb37e740f488318ebf40a026c4abe4ce63cce134669a0551d",
+        "after": "925a4bf7314f524bb5e0266bb9bf164b1dfa4361d2256b70e05bb9ce41a896d8",
+        "previous_checked_at": "2026-09-14T14:43:42.111734+00:00",
+        "checked_at": "2026-10-05T07:16:31.861439+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:16:31.861439+00:00",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5349368/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J003": {
+    "detected_at": "2026-10-05T07:16:38.342414+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/505/robotic-whipple-procedure-for-an-ampullary-intramucosal-carcinoma": {
+        "scope": "main",
+        "before": "8a9c5cd2ec62ed67911b07b743563f48506b10de9ea6424e20eb6eda31a3fd6e",
+        "after": "5660b491e92973835676a36230d4959b95fe31a9f0f9407d03be0d1e3e21f68b",
+        "previous_checked_at": "2026-09-14T13:01:44.814266+00:00",
+        "checked_at": "2026-10-05T07:16:38.342414+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:16:38.342414+00:00",
+    "source": "https://jomi.com/article/505/robotic-whipple-procedure-for-an-ampullary-intramucosal-carcinoma",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J004": {
+    "detected_at": "2026-10-05T07:16:38.669375+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/15/whipple-procedure-for-carcinoma-of-the-pancreas": {
+        "scope": "main",
+        "before": "be1ff9a2ffb0177660f18aed6d8cfcf35f384950ead68a902214f5c412cb3316",
+        "after": "6eea65dfcb2517e8360d41702cd3090d0e8acaf57a3604305c43a062e187c780",
+        "previous_checked_at": "2026-09-14T13:01:45.974431+00:00",
+        "checked_at": "2026-10-05T07:16:38.669375+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:16:38.669375+00:00",
+    "source": "https://jomi.com/article/15/whipple-procedure-for-carcinoma-of-the-pancreas",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J013": {
+    "detected_at": "2026-10-05T07:16:38.890164+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/16/whipple-procedure-for-multiple-endocrine-neoplasia-of-the-pancreas": {
+        "scope": "main",
+        "before": "017adba981da76bce3deb881e9d54830b92d0daef1b777f1ec65d0362559dd18",
+        "after": "ab93f17a4ee9ced50eff01b697ec25a49d81359ca3142e16c86a8decc50d7df2",
+        "previous_checked_at": "2026-09-14T13:01:46.021778+00:00",
+        "checked_at": "2026-10-05T07:16:38.890164+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:16:38.890164+00:00",
+    "source": "https://jomi.com/article/16/whipple-procedure-for-multiple-endocrine-neoplasia-of-the-pancreas",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN004": {
+    "detected_at": "2026-10-05T07:16:37.246674+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/en/custom/news/id/b95a3254-3a27-4dfb-8722-e93ddf88f014": {
+        "scope": "main",
+        "before": "386087e16b1a36e9b3a612920eae50dbb06ba75a4c7acff73a7a348be753f7b9",
+        "after": "9f3893bab3b0a5797619f0341b1c15e45cff973cbee2b534396d158bc051da8a",
+        "previous_checked_at": "2026-09-14T13:01:42.950703+00:00",
+        "checked_at": "2026-10-05T07:16:37.246674+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:16:37.246674+00:00",
+    "source": "https://www.lcgdbzz.com/en/custom/news/id/b95a3254-3a27-4dfb-8722-e93ddf88f014",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J006": {
+    "detected_at": "2026-10-05T07:16:58.393230+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/250/pancreatic-debridement-via-sinus-tract-endoscopy": {
+        "scope": "main",
+        "before": "675649cad8c7aaaaa05b68601fa7dac3e8da054a397d24a03895c5d23b4adae8",
+        "after": "0e44537e383ee2c6bd4b19ddeaf8544fc1c553bfc7e412646b9a8b5c019674fd",
+        "previous_checked_at": "2026-09-14T13:02:12.103979+00:00",
+        "checked_at": "2026-10-05T07:16:58.393230+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:16:58.393230+00:00",
+    "source": "https://jomi.com/article/250/pancreatic-debridement-via-sinus-tract-endoscopy",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN006": {
+    "detected_at": "2026-10-05T07:16:39.258950+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/en/custom/news/id/716b1e15-a541-4637-a506-b65b680dde65": {
+        "scope": "main",
+        "before": "1dfbdbfea2ecf5891111b1042a494b3ccde1cc1c12a4a6eddc91c2ccbb1926c0",
+        "after": "c9e53ca0d27622a711d6c944d435677ed5284f88ee0915cfa03ee16783d03352",
+        "previous_checked_at": "2026-09-14T13:01:46.758408+00:00",
+        "checked_at": "2026-10-05T07:16:39.258950+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:16:39.258950+00:00",
+    "source": "https://www.lcgdbzz.com/en/custom/news/id/716b1e15-a541-4637-a506-b65b680dde65",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "P043": {
+    "detected_at": "2026-10-05T07:17:03.020462+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9284408/": {
+        "scope": "fulltext",
+        "before": "b2a6f24c04d7fd8dc6c61515bf6577423ee9de9b70c1233b229bea34896f8211",
+        "after": "8aa86f4746edf056f43bb8fa6f5f665dc0cec96535dbca4e795e4838da8f08ae",
+        "previous_checked_at": "2026-09-28T07:06:22.297937+00:00",
+        "checked_at": "2026-10-05T07:17:03.020462+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:17:03.020462+00:00",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9284408/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "J012": {
+    "detected_at": "2026-10-05T07:17:17.683602+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/339/open-distal-pancreatectomy-for-pancreatic-cancer": {
+        "scope": "main",
+        "before": "f4b1cc57ff7578d9f563fc3c267995c32f78aed8dedd5fe6edcfb7f2afe28321",
+        "after": "34fe783b4d4cca046728e3d240fce977d429ccc054c79643cbf0d686ca079713",
+        "previous_checked_at": "2026-09-14T13:02:26.322261+00:00",
+        "checked_at": "2026-10-05T07:17:17.683602+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:17:17.683602+00:00",
+    "source": "https://jomi.com/article/339/open-distal-pancreatectomy-for-pancreatic-cancer",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "P033": {
+    "detected_at": "2026-10-05T07:17:22.227894+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6567462/": {
+        "scope": "fulltext",
+        "before": "8779996c0c5eb767ade3cb28a6c15fa4e2288eee350884988dfa5bc92a2057fe",
+        "after": "eb74bddf421d979a4c3d2117ea335a6762da650013b55afb036d4807982f362d",
+        "previous_checked_at": "2026-09-28T07:06:30.439169+00:00",
+        "checked_at": "2026-10-05T07:17:22.227894+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:17:22.227894+00:00",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6567462/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN018": {
+    "detected_at": "2026-10-05T07:16:58.581471+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/cn/article/doi/10.3969/j.issn.1001-5256.2022.05.007?viewType=HTML": {
+        "scope": "main",
+        "before": "74c6174198bc4f6fe298190b3a22775d31f1ff18108ce2143fc7ba2a65d1a76f",
+        "after": "8756cd800639edfa3621b5d63fcd01eeecda425ba119f652ed5e30520fe19687",
+        "previous_checked_at": "2026-09-14T13:02:12.718931+00:00",
+        "checked_at": "2026-10-05T07:16:58.581471+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:16:58.581471+00:00",
+    "source": "https://www.lcgdbzz.com/cn/article/doi/10.3969/j.issn.1001-5256.2022.05.007?viewType=HTML",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN010": {
+    "detected_at": "2026-10-05T07:17:24.476367+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/en/custom/news/id/31defed0-4606-4f63-906f-f0bd6e1eaaf1": {
+        "scope": "main",
+        "before": "4b80abe04aa25730e50e24279fdbe6d702669fad7d9ced6ddc7345c685611460",
+        "after": "bbca7926fb90a2edd42a7843de5e914ea87e5210d8bbf036caa8c9c76a9c3d8a",
+        "previous_checked_at": "2026-09-14T13:02:43.838918+00:00",
+        "checked_at": "2026-10-05T07:17:24.476367+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:17:24.476367+00:00",
+    "source": "https://www.lcgdbzz.com/en/custom/news/id/31defed0-4606-4f63-906f-f0bd6e1eaaf1",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "C038": {
+    "detected_at": "2026-10-05T07:17:46.523577+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://hbsn.amegroups.org/article/view/131171/html": {
+        "scope": "fulltext",
+        "before": "ba007b8a7bf3df4304d2159e66a89d37eca8cc13dddb582d47f66e764d61635c",
+        "after": "7d40e314a4102466711b6f3e4392895565690e8e2522781d701c4a66838465da",
+        "previous_checked_at": "2026-09-14T14:44:50.489849+00:00",
+        "checked_at": "2026-10-05T07:17:46.523577+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:17:46.523577+00:00",
+    "source": "https://hbsn.amegroups.org/article/view/131171/html",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "CN001": {
+    "detected_at": "2026-10-05T07:17:30.299685+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.lcgdbzz.com/en/custom/news/id/9777": {
+        "scope": "main",
+        "before": "d8d24af73d6522e63c345783c3dad97f0ae0c2e445438224b6acb62111c2371b",
+        "after": "fd5e8d38a8aa34c0d02d11e13ef80a6a50f283955d3cc843e4115371eabd3b6e",
+        "previous_checked_at": "2026-09-14T13:02:57.222393+00:00",
+        "checked_at": "2026-10-05T07:17:30.299685+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:17:30.299685+00:00",
+    "source": "https://www.lcgdbzz.com/en/custom/news/id/9777",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "C042": {
+    "detected_at": "2026-10-05T07:18:21.464031+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8518376/": {
+        "scope": "fulltext",
+        "before": "72763e75cc557b3687306402493cb7bd4773aa0cab8b025052605b9360dbb292",
+        "after": "f2f14e73e66364cd7247bc8892f97a50c7e8f7c02158f909cd2f2e4e7bec1c36",
+        "previous_checked_at": "2026-09-28T07:07:10.833458+00:00",
+        "checked_at": "2026-10-05T07:18:21.464031+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:21.464031+00:00",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8518376/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VT003": {
+    "detected_at": "2026-10-05T07:18:26.207379+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.youtube.com/watch?v=9B74dZE7GXI": {
+        "scope": "main",
+        "before": "13fc6d0d24008fa503e3bd96ded50be0e3223053835c97a86f7a86d6373a4585",
+        "after": "d260df873a01b544a691b7bf7af010f04d958bc5d7db1a4b8e80a2edf43720d5",
+        "previous_checked_at": "2026-09-28T07:07:15.104589+00:00",
+        "checked_at": "2026-10-05T07:18:26.207379+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:26.207379+00:00",
+    "source": "https://www.youtube.com/watch?v=9B74dZE7GXI",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VW007": {
+    "detected_at": "2026-10-05T07:18:26.782563+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/right-hemihepatectomy": {
+        "scope": "main",
+        "before": "f8d24cd62a17757b1041df62e5245abc478482736cbaae0f252462a64a281750",
+        "after": "48a1b8eed83cbca6048a08b482a142846066074f5d4a7c79859d0580b3cb982e",
+        "previous_checked_at": "2026-09-14T13:03:35.119783+00:00",
+        "checked_at": "2026-10-05T07:18:26.782563+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:26.782563+00:00",
+    "source": "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/right-hemihepatectomy",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VR005": {
+    "detected_at": "2026-10-05T07:18:26.897587+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://profed.olympuschina.com/gs/laphpb/8976/": {
+        "scope": "main",
+        "before": "a9d9cbb85aa30a02f9c89b5d3f7c20041b1bf9ebf275381741e9919e7dce0685",
+        "after": "36db4dd921580c44a2f96bae9a9c90eced568b55e90e18dff034e5c271ee5877",
+        "previous_checked_at": "2026-09-14T13:03:35.978486+00:00",
+        "checked_at": "2026-10-05T07:18:26.897587+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:26.897587+00:00",
+    "source": "https://profed.olympuschina.com/gs/laphpb/8976/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VW005": {
+    "detected_at": "2026-10-05T07:18:36.074763+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/liver-resection-left-lateral-laparoscopic": {
+        "scope": "main",
+        "before": "2a57f523045f805ddc96f46a2d4280c0199487c961ddc697cab1f254f083b3f0",
+        "after": "0e3980391db056e4e3e1eb0762a74edbc4bc327963c80cfdc3203c30398f1d24",
+        "previous_checked_at": "2026-09-14T13:03:36.945724+00:00",
+        "checked_at": "2026-10-05T07:18:36.074763+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:36.074763+00:00",
+    "source": "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/liver-resection-left-lateral-laparoscopic",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VR004": {
+    "detected_at": "2026-10-05T07:18:28.488742+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://profed.olympuschina.com/gs/laphpb/21736/": {
+        "scope": "main",
+        "before": "caed075de3b362503905197416327c0ec218cc651cf98693bae7f08d868a1d69",
+        "after": "73e3917c508a4122152013cf8aad469107a5d6d48b07ae58640e815710474567",
+        "previous_checked_at": "2026-09-14T13:03:36.844670+00:00",
+        "checked_at": "2026-10-05T07:18:28.488742+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:28.488742+00:00",
+    "source": "https://profed.olympuschina.com/gs/laphpb/21736/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VW006": {
+    "detected_at": "2026-10-05T07:18:37.400003+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/liver-resection-left-lateral": {
+        "scope": "main",
+        "before": "207293d8366cba25eae6bc431a2412c3519a4976c183f8f270ebed3a53d6c7d2",
+        "after": "d4a7fe38e92911774c6ac27b0dcd8901ad8fee36425cbaba9d9851440bf13681",
+        "previous_checked_at": "2026-09-14T13:03:38.196122+00:00",
+        "checked_at": "2026-10-05T07:18:37.400003+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:37.400003+00:00",
+    "source": "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/liver-resection-left-lateral",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VLB003": {
+    "detected_at": "2026-10-05T07:18:39.202515+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/485/robotic-hepatectomy-for-a-segment-vvi-suspected-hcc-lesion-with-cholecystectomy-and-evaluation-by-ultrasound-and-excisional-biopsy-of-a-segment-ivb-lesion": {
+        "scope": "main",
+        "before": "8fe0da0eac2180212a2dbe45455c9833f10fe718d89c5a19dc0efec6357d884e",
+        "after": "07e60b05dab1bbdcb2b2d7918f336d9dd11feaec9b96228ce188733a748a3884",
+        "previous_checked_at": "2026-09-14T13:03:39.120210+00:00",
+        "checked_at": "2026-10-05T07:18:39.202515+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:39.202515+00:00",
+    "source": "https://jomi.com/article/485/robotic-hepatectomy-for-a-segment-vvi-suspected-hcc-lesion-with-cholecystectomy-and-evaluation-by-ultrasound-and-excisional-biopsy-of-a-segment-ivb-lesion",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VS012": {
+    "detected_at": "2026-10-05T07:18:39.302057+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/masters-at-work-pre-recorded-live-surgery-robotic-right-hepatectomy/": {
+        "scope": "main",
+        "before": "81f085597058c1c06b24917065088e7fef444af205693ebf22523754dc15d719",
+        "after": "1841a8fae95af9a4ac04ef4b2b3d507a4a5ad6e953f4ab7a6d98938dcc816656",
+        "previous_checked_at": "2026-09-14T13:03:39.702812+00:00",
+        "checked_at": "2026-10-05T07:18:39.302057+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:39.302057+00:00",
+    "source": "https://www.sages.org/video/masters-at-work-pre-recorded-live-surgery-robotic-right-hepatectomy/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VS014": {
+    "detected_at": "2026-10-05T07:18:39.461434+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/robotic-right-hepatectomy-using-monopolar-energy-perfecting-the-procedure-without-using-advanced-energy-instruments/": {
+        "scope": "main",
+        "before": "7f6a1693333f2ef6bbf2b70c4166ce947afb95e78fbaf2d310bff4e6a9d0679b",
+        "after": "896411c2616fe23c055efb45ce9469a41920dc94d1e8129005444b508d139652",
+        "previous_checked_at": "2026-09-14T13:03:41.002364+00:00",
+        "checked_at": "2026-10-05T07:18:39.461434+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:39.461434+00:00",
+    "source": "https://www.sages.org/video/robotic-right-hepatectomy-using-monopolar-energy-perfecting-the-procedure-without-using-advanced-energy-instruments/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VLB001": {
+    "detected_at": "2026-10-05T07:18:41.116406+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/500/hepatic-artery-infusion-hai-pump-placement-for-unresectable-intrahepatic-cholangiocarcinoma-with-vessel-abutment-and-intrahepatic-metastasis": {
+        "scope": "main",
+        "before": "198066baad4a14e17113a20c72fd92a76672d8354c3de27335d927eb922b2dda",
+        "after": "a4198c64a1dc0fa2f010108b45f364d4c188f4fa8546d6f0d6f194512aa07ce3",
+        "previous_checked_at": "2026-09-14T13:03:42.942072+00:00",
+        "checked_at": "2026-10-05T07:18:41.116406+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:41.116406+00:00",
+    "source": "https://jomi.com/article/500/hepatic-artery-infusion-hai-pump-placement-for-unresectable-intrahepatic-cholangiocarcinoma-with-vessel-abutment-and-intrahepatic-metastasis",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VW001": {
+    "detected_at": "2026-10-05T07:18:41.273506+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/endocystectomy-for-echinococcus-granulosus-infection-of-the-liver": {
+        "scope": "main",
+        "before": "5c661001c8b3205006705fd3c03806efc6c49178e1bb2503c2f73c301cb9517b",
+        "after": "a800061d5363a93c07980c4458b3b4a1afe37aeb45e6cf7ce19ad3028799a886",
+        "previous_checked_at": "2026-09-14T13:03:43.414399+00:00",
+        "checked_at": "2026-10-05T07:18:41.273506+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:41.273506+00:00",
+    "source": "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/endocystectomy-for-echinococcus-granulosus-infection-of-the-liver",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VS016": {
+    "detected_at": "2026-10-05T07:18:39.601490+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/nationwide-outcomes-costs-of-laparoscopic-and-robotic-vs-open-hepatectomies/": {
+        "scope": "main",
+        "before": "b621405b2f7b2d79b1894d70f1ae98641d488a220324477e5a7eb5f3c2a0dd76",
+        "after": "72a10616ba0ba5e459e88d761b6054ac1bd6e44a40ef52435005c2c6368bbf69",
+        "previous_checked_at": "2026-09-14T13:03:41.814881+00:00",
+        "checked_at": "2026-10-05T07:18:39.601490+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:39.601490+00:00",
+    "source": "https://www.sages.org/video/nationwide-outcomes-costs-of-laparoscopic-and-robotic-vs-open-hepatectomies/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VW004": {
+    "detected_at": "2026-10-05T07:18:42.855377+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/liver-cyst-deroofing-laparoscopic": {
+        "scope": "main",
+        "before": "e530954a10c00d9910c730d93a749a7113a800430bd8f17d567bb1cc765ead3f",
+        "after": "db787c9bac039a26c60076f79dd59bedf046a94f4be4870f32fe878015698d77",
+        "previous_checked_at": "2026-09-14T13:03:43.490539+00:00",
+        "checked_at": "2026-10-05T07:18:42.855377+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:42.855377+00:00",
+    "source": "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/liver-cyst-deroofing-laparoscopic",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VW003": {
+    "detected_at": "2026-10-05T07:18:43.097750+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/liver-resection-for-recurrent-liver-metastasis": {
+        "scope": "main",
+        "before": "60e8765515113db9a88d08030363950db02007efd28d2f7aac0cc24426b91a55",
+        "after": "e64f09b5c38eabcd33c957655c350f415d1c7074ed92b7b8f4ce099fec73829e",
+        "previous_checked_at": "2026-09-14T13:03:45.450847+00:00",
+        "checked_at": "2026-10-05T07:18:43.097750+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:43.097750+00:00",
+    "source": "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/liver-resection-for-recurrent-liver-metastasis",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VR002": {
+    "detected_at": "2026-10-05T07:18:44.256615+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://profed.olympuschina.com/gs/laphpb/21760/": {
+        "scope": "main",
+        "before": "5325f6db806d7d1483379b8879419681987e3cc3cb8913280d4b6ad5ae449f28",
+        "after": "58e6c1886264cbe1f93197de44cef35706dc7274e11c86d8f2c88dc682ae4f47",
+        "previous_checked_at": "2026-09-14T13:03:47.557302+00:00",
+        "checked_at": "2026-10-05T07:18:44.256615+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:44.256615+00:00",
+    "source": "https://profed.olympuschina.com/gs/laphpb/21760/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VR001": {
+    "detected_at": "2026-10-05T07:18:45.691158+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://profed.olympuschina.com/gs/laphpb/23285/": {
+        "scope": "main",
+        "before": "2536ca8b2a8d4f211171d598d2345970ff6984f89a8b93e6317f5a7c88248f3b",
+        "after": "b636b2953285f4b1869d895978bb7727842fb97c19712328b64ec662d8883855",
+        "previous_checked_at": "2026-09-14T13:03:48.401754+00:00",
+        "checked_at": "2026-10-05T07:18:45.691158+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:45.691158+00:00",
+    "source": "https://profed.olympuschina.com/gs/laphpb/23285/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VW010": {
+    "detected_at": "2026-10-05T07:18:50.100566+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/anastomosis-technique-biliodigestive-according-to-hepp-couinaud": {
+        "scope": "main",
+        "before": "b7de5ea240c42378cadcfb01c748c71a87ca123b656be558fc883b9e95983851",
+        "after": "0b0e8c968d16dfd2ddb3f99d637297317a2415ae62c2d1e8db2ed9c12b599931",
+        "previous_checked_at": "2026-09-14T13:03:50.920277+00:00",
+        "checked_at": "2026-10-05T07:18:50.100566+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:50.100566+00:00",
+    "source": "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/anastomosis-technique-biliodigestive-according-to-hepp-couinaud",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VJ005": {
+    "detected_at": "2026-10-05T07:18:51.660911+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/442/laparoscopic-subtotal-fenestrating-cholecystectomy-in-a-cirrhotic-patient": {
+        "scope": "main",
+        "before": "f6832e22e035a37d45ac7bfce2cb4b301c8e5689d41af81a476620352c7d5243",
+        "after": "eb7cca5a4122dfb6ee605949a00f0709e3f11027da52a6a8269fcff4a2b5ed9e",
+        "previous_checked_at": "2026-09-14T13:03:51.688170+00:00",
+        "checked_at": "2026-10-05T07:18:51.660911+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:51.660911+00:00",
+    "source": "https://jomi.com/article/442/laparoscopic-subtotal-fenestrating-cholecystectomy-in-a-cirrhotic-patient",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VR006": {
+    "detected_at": "2026-10-05T07:18:47.508573+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://profed.olympuschina.com/gs/laphpb/997/": {
+        "scope": "main",
+        "before": "cbcdd5a94f03d78ccba42f3f94a350e4753aa6e528e0365a70e05820f5eaff1a",
+        "after": "b1b97fd10eab3c9c4b442409058a82e3429a767d9e3ac0bb516ea0572f8beb11",
+        "previous_checked_at": "2026-09-14T13:03:49.679015+00:00",
+        "checked_at": "2026-10-05T07:18:47.508573+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:47.508573+00:00",
+    "source": "https://profed.olympuschina.com/gs/laphpb/997/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VS005": {
+    "detected_at": "2026-10-05T07:18:52.213885+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/robotic-completion-cholecystectomy-following-laparoscopic-reconstitutive-subtotal-cholecystectomy/": {
+        "scope": "main",
+        "before": "d029c7a4f4f745e0f4f7ff3e84916c17cc2af46c9cdc0fc239f4447ff1fb2e5d",
+        "after": "3bb36b3626429f01ba14802d7ac0ea6077d3c18c6064c40a74af6ea58c3f6dba",
+        "previous_checked_at": "2026-09-14T13:03:53.003250+00:00",
+        "checked_at": "2026-10-05T07:18:52.213885+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:52.213885+00:00",
+    "source": "https://www.sages.org/video/robotic-completion-cholecystectomy-following-laparoscopic-reconstitutive-subtotal-cholecystectomy/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VJ007": {
+    "detected_at": "2026-10-05T07:18:51.854180+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/524/robotic-cholecystectomy-for-chronic-cholecystitis-for-a-patient-with-recurrent-gallstone-pancreatitis-and-a-percutaneous-cholecystostomy-tube": {
+        "scope": "main",
+        "before": "c47d4d11e6f8ebcede3cf4568ef28208336deea90a63d5c1dc335f60d753afa5",
+        "after": "8093e4af7266d658ef2612a2484a7155eba0002b1a81ed6aecf342cf03458af8",
+        "previous_checked_at": "2026-09-14T13:03:52.139896+00:00",
+        "checked_at": "2026-10-05T07:18:51.854180+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:51.854180+00:00",
+    "source": "https://jomi.com/article/524/robotic-cholecystectomy-for-chronic-cholecystitis-for-a-patient-with-recurrent-gallstone-pancreatitis-and-a-percutaneous-cholecystostomy-tube",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VS007": {
+    "detected_at": "2026-10-05T07:18:52.373307+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/laparoscopic-reconstituting-subtotal-cholecystectomy-when-the-critical-view-of-safety-cannot-be-obtained/": {
+        "scope": "main",
+        "before": "6548f0a0a7e5eaf6d1049ae601eec7576a375d2add0359d96d511d633827695f",
+        "after": "bb0dae5ca61082c576fa34561654dd43cb73267f267615c906fd48079acf787b",
+        "previous_checked_at": "2026-09-14T13:03:53.402254+00:00",
+        "checked_at": "2026-10-05T07:18:52.373307+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:52.373307+00:00",
+    "source": "https://www.sages.org/video/laparoscopic-reconstituting-subtotal-cholecystectomy-when-the-critical-view-of-safety-cannot-be-obtained/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VJ001": {
+    "detected_at": "2026-10-05T07:18:53.718228+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/290.12/open-cholecystectomy-for-gallbladder-disease": {
+        "scope": "main",
+        "before": "6745816e516cd9386c66826627afa5b40240f97d430f7911eb684c1142736b56",
+        "after": "88b403099ba643bc68f9c01acfbe07d96f442dcb1942d847df54f8b6929b0862",
+        "previous_checked_at": "2026-09-14T13:03:54.295550+00:00",
+        "checked_at": "2026-10-05T07:18:53.718228+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:53.718228+00:00",
+    "source": "https://jomi.com/article/290.12/open-cholecystectomy-for-gallbladder-disease",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VS010": {
+    "detected_at": "2026-10-05T07:18:52.428113+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/i-cant-get-the-critical-view-of-safety-now-what/": {
+        "scope": "main",
+        "before": "df6e88a4a46e8045949bd93b296dd78fae8996f7924acf1f91ad1fbe975e5dc5",
+        "after": "09ac06accdb25f7e14f8ea193707e735afebdaf5e0cbc236e310af5de63daa4f",
+        "previous_checked_at": "2026-09-14T13:03:54.014603+00:00",
+        "checked_at": "2026-10-05T07:18:52.428113+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:52.428113+00:00",
+    "source": "https://www.sages.org/video/i-cant-get-the-critical-view-of-safety-now-what/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VJ002": {
+    "detected_at": "2026-10-05T07:18:53.908452+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/278.3/open-cholecystectomy-for-gallstone-disease": {
+        "scope": "main",
+        "before": "17ae24b2cde3591b50f6a56fef182defa674cc8e107f90c3d9a6d35d7bf6ba94",
+        "after": "53e13087b75b506b43e85fa3cb80a7be4bd774727cb77136fdf124e8ee81f8c3",
+        "previous_checked_at": "2026-09-14T13:03:54.754050+00:00",
+        "checked_at": "2026-10-05T07:18:53.908452+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:53.908452+00:00",
+    "source": "https://jomi.com/article/278.3/open-cholecystectomy-for-gallstone-disease",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VJ009": {
+    "detected_at": "2026-10-05T07:18:54.458747+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/523/robotic-cholecystectomy-for-recurrent-gallstone-pancreatitis-in-a-patient-with-prior-distal-pancreatectomy-and-splenectomy-for-acinar-cell-carcinoma": {
+        "scope": "main",
+        "before": "a2d4646f12629f308ad11bcb2d7bd2fac90d4f3bfe809f3f28930a699296fa32",
+        "after": "3966b66038de63807df8eedf0e265aa5fd9ac1b4ea8d6a9a30a1ac4adfce6c9f",
+        "previous_checked_at": "2026-09-14T13:03:55.588377+00:00",
+        "checked_at": "2026-10-05T07:18:54.458747+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:54.458747+00:00",
+    "source": "https://jomi.com/article/523/robotic-cholecystectomy-for-recurrent-gallstone-pancreatitis-in-a-patient-with-prior-distal-pancreatectomy-and-splenectomy-for-acinar-cell-carcinoma",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VW008": {
+    "detected_at": "2026-10-05T07:18:54.274218+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/cholecystectomy-open": {
+        "scope": "main",
+        "before": "6a2deb91d5efb474ae6a779c9fbce4ddd9fbb62025f7ed270660c7e57b53795b",
+        "after": "1ec2ea16724d2344dbd56f3ff42e712f219c85938584ea627a4680ebe80586cb",
+        "previous_checked_at": "2026-09-14T13:03:55.079193+00:00",
+        "checked_at": "2026-10-05T07:18:54.274218+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:54.274218+00:00",
+    "source": "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/cholecystectomy-open",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VJ008": {
+    "detected_at": "2026-10-05T07:18:55.006071+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/501/robotic-cholecystectomy-for-porcelain-gallbladder-and-a-68-cm-stone": {
+        "scope": "main",
+        "before": "a6da55c1b55c000489761ff3e575c7aeefad010ed7420f3f2a7d36dc3bfd1541",
+        "after": "cdca9d848cf1f14146ec39c5c3bf6484f4f30b3e9cc1134ab8e9689f67c9dcae",
+        "previous_checked_at": "2026-09-14T13:03:55.955586+00:00",
+        "checked_at": "2026-10-05T07:18:55.006071+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:55.006071+00:00",
+    "source": "https://jomi.com/article/501/robotic-cholecystectomy-for-porcelain-gallbladder-and-a-68-cm-stone",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VJ011": {
+    "detected_at": "2026-10-05T07:18:55.444511+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/544/robotic-assisted-transcystic-endoscopic-common-bile-duct-exploration": {
+        "scope": "main",
+        "before": "781148bb380d1314ac7b8d5aebcb64fc249f23ce4b473cd1b1dbecc3c6fa8cc5",
+        "after": "71e46b0b13257ce533b66fa7bfea9fd50e6ee4c650692d80c54603fb57b4c55e",
+        "previous_checked_at": "2026-09-14T13:03:56.481592+00:00",
+        "checked_at": "2026-10-05T07:18:55.444511+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:55.444511+00:00",
+    "source": "https://jomi.com/article/544/robotic-assisted-transcystic-endoscopic-common-bile-duct-exploration",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VLB004": {
+    "detected_at": "2026-10-05T07:18:56.153314+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/251/laparoscopic-cholecystectomy": {
+        "scope": "main",
+        "before": "71a59f7e6a5df2075784c5b2dfc4636a73811204f28d038edaaf73381144540f",
+        "after": "d68c722132021dd2a489e1fcebe6455a0028f917e99db1deab22a2607fff4ccf",
+        "previous_checked_at": "2026-09-14T13:03:58.309305+00:00",
+        "checked_at": "2026-10-05T07:18:56.153314+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:56.153314+00:00",
+    "source": "https://jomi.com/article/251/laparoscopic-cholecystectomy",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VS013": {
+    "detected_at": "2026-10-05T07:18:56.765822+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/laparoscopic-radical-cholecystectomy-for-gallbladder-carcinoma/": {
+        "scope": "main",
+        "before": "ba4877fe05a0ebfed5b752a7c8a6287107a9c2acfd297b130147207f53bea2b8",
+        "after": "7bbc5980c9694f728af7656452c01c4e69fa713962e95485facb80359c18de8f",
+        "previous_checked_at": "2026-09-14T13:03:59.295483+00:00",
+        "checked_at": "2026-10-05T07:18:56.765822+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:56.765822+00:00",
+    "source": "https://www.sages.org/video/laparoscopic-radical-cholecystectomy-for-gallbladder-carcinoma/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VW002": {
+    "detected_at": "2026-10-05T07:18:55.563131+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/central-liver-resection-mesohepatectomy-for-klatskin-tumor": {
+        "scope": "main",
+        "before": "0b4ec691b128b82bd2b159a6feb446992b9c015b0aa445ad32510d738d1aacce",
+        "after": "e0be96418681e81a2d4e163a3c8f4f316c3d2de46327887c893547d342d28cc9",
+        "previous_checked_at": "2026-09-14T13:03:57.404228+00:00",
+        "checked_at": "2026-10-05T07:18:55.563131+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:55.563131+00:00",
+    "source": "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/central-liver-resection-mesohepatectomy-for-klatskin-tumor",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VLB002": {
+    "detected_at": "2026-10-05T07:18:56.932290+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/279/open-radical-cholecystectomy-with-partial-hepatectomy-for-gallbladder-cancer": {
+        "scope": "main",
+        "before": "8f321f6db70d03d765fe86a4d5566d37d159a6f5517191cd15084509e17eb611",
+        "after": "5003f5ce2f24487d4edd23df30fc4a0c9a2cc727387eaf81bbf5db10362eaa3c",
+        "previous_checked_at": "2026-09-14T13:04:00.379726+00:00",
+        "checked_at": "2026-10-05T07:18:56.932290+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:56.932290+00:00",
+    "source": "https://jomi.com/article/279/open-radical-cholecystectomy-with-partial-hepatectomy-for-gallbladder-cancer",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VS002": {
+    "detected_at": "2026-10-05T07:18:57.022789+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/laparoscopic-common-bile-duct-exploration-with-balloon-sphincteroplasty-and-biliary-stent-placement/": {
+        "scope": "main",
+        "before": "3b9911f4a7987253f62a63590557385491b560f40c318ffc7319554302f7b365",
+        "after": "1863d564680b2dcf02f54c410b176a530431d8841f864054e64213f5696e724b",
+        "previous_checked_at": "2026-09-14T13:04:00.736483+00:00",
+        "checked_at": "2026-10-05T07:18:57.022789+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:57.022789+00:00",
+    "source": "https://www.sages.org/video/laparoscopic-common-bile-duct-exploration-with-balloon-sphincteroplasty-and-biliary-stent-placement/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VW009": {
+    "detected_at": "2026-10-05T07:18:56.229627+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/cholecystectomy-laparoscopic": {
+        "scope": "main",
+        "before": "af21a12dc57d8b54ddc67f31aeacaf2265e9a126fac6dcb13cd933afdf851378",
+        "after": "b3b0763dd3524a17848439e530d3c78f42ebe3149475375e38a9f0d469f9cc0e",
+        "previous_checked_at": "2026-09-14T13:03:58.425168+00:00",
+        "checked_at": "2026-10-05T07:18:56.229627+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:56.229627+00:00",
+    "source": "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/cholecystectomy-laparoscopic",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VS006": {
+    "detected_at": "2026-10-05T07:18:57.301802+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/robot-assisted-laparoscopic-subtotal-cholecystectomy-and-common-bile-duct-exploration/": {
+        "scope": "main",
+        "before": "beb313e3626fbd67541840ed7b2661cd9139255cb8834139453ad266461ef622",
+        "after": "b9a54113fb20f5b594432efe10cd77f44d0f001e4d537a88e38f82d91fd187f9",
+        "previous_checked_at": "2026-09-14T13:04:00.836783+00:00",
+        "checked_at": "2026-10-05T07:18:57.301802+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:57.301802+00:00",
+    "source": "https://www.sages.org/video/robot-assisted-laparoscopic-subtotal-cholecystectomy-and-common-bile-duct-exploration/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VS011": {
+    "detected_at": "2026-10-05T07:18:57.474639+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/robotic-assisted-common-bile-duct-exploration-for-choledocholithiasis/": {
+        "scope": "main",
+        "before": "118be0bab5329a0045b4ad533577abbffa9a5342134a4aa57b3504c8b1cdddd5",
+        "after": "4bff42552b595273490b1c4789b7800c0245c00fb695c8eabd96aea75693de35",
+        "previous_checked_at": "2026-09-14T13:04:02.135881+00:00",
+        "checked_at": "2026-10-05T07:18:57.474639+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:57.474639+00:00",
+    "source": "https://www.sages.org/video/robotic-assisted-common-bile-duct-exploration-for-choledocholithiasis/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VW011": {
+    "detected_at": "2026-10-05T07:19:00.288476+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/anastomosis-technique-biliodigestive-classical": {
+        "scope": "main",
+        "before": "3319eeeb3b62875fcf44a84bad1a69ff14e5e9f5fac9286246b05787235dce1b",
+        "after": "2397a723fa16a1a5826892d671b94fdfd539d72165e326d6e91829a7e9efcdc7",
+        "previous_checked_at": "2026-09-14T13:04:04.496965+00:00",
+        "checked_at": "2026-10-05T07:19:00.288476+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:00.288476+00:00",
+    "source": "https://www.webop.com/general-and-visceral-surgery/hepatobiliary-surgery/anastomosis-technique-biliodigestive-classical",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VS009": {
+    "detected_at": "2026-10-05T07:18:58.482025+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/common-bile-duct-exploration-never-laparoscopically/": {
+        "scope": "main",
+        "before": "ee9a3de94d88ec2f0358edc3f330353adf7a121273d83ee48bde8cf3ad3990f4",
+        "after": "4f9a78c481c9b304a702fb4ca26fb88b566920ff2d36bca6dc00f583035a1274",
+        "previous_checked_at": "2026-09-14T13:04:03.193175+00:00",
+        "checked_at": "2026-10-05T07:18:58.482025+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:58.482025+00:00",
+    "source": "https://www.sages.org/video/common-bile-duct-exploration-never-laparoscopically/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VS004": {
+    "detected_at": "2026-10-05T07:18:58.951750+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/ss15-best-of-video-v033-laparoendoscopic-single-site-common-bile-duct-exploration/": {
+        "scope": "main",
+        "before": "92503d343a1779e5abc0b6b4d23b2c6c147fb7c76f87c3d7b48e71103afd23eb",
+        "after": "18aa2d85e6f9b5d2a8e022660d6355d4bbd7b05df86f413f4f5b19bcb7641e12",
+        "previous_checked_at": "2026-09-14T13:04:03.668082+00:00",
+        "checked_at": "2026-10-05T07:18:58.951750+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:18:58.951750+00:00",
+    "source": "https://www.sages.org/video/ss15-best-of-video-v033-laparoendoscopic-single-site-common-bile-duct-exploration/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VS001": {
+    "detected_at": "2026-10-05T07:19:01.481757+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/robotic-hepaticojejunostomy-for-common-bile-duct-injury/": {
+        "scope": "main",
+        "before": "de3face04b4c7ad848c3da410eff8e5fc110b096665bfb331a5b5278e5b95f48",
+        "after": "46126779cfac3199730686592bc52ee80a31d06cb29cad9322bebb481a1d69b4",
+        "previous_checked_at": "2026-09-14T13:04:05.308257+00:00",
+        "checked_at": "2026-10-05T07:19:01.481757+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:01.481757+00:00",
+    "source": "https://www.sages.org/video/robotic-hepaticojejunostomy-for-common-bile-duct-injury/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VJ010": {
+    "detected_at": "2026-10-05T07:19:03.379988+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/408/robotic-assisted-laparoscopic-interval-cholecystectomy": {
+        "scope": "main",
+        "before": "aead4fdb6954bba43ea09059b3be0f33215c87e956b2747337aff0f3eaff1a30",
+        "after": "f639914d1305b87aa1f7500652ac6a1420f13aa1d41192b0aea2fe0112b423e5",
+        "previous_checked_at": "2026-09-14T13:04:08.554494+00:00",
+        "checked_at": "2026-10-05T07:19:03.379988+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:03.379988+00:00",
+    "source": "https://jomi.com/article/408/robotic-assisted-laparoscopic-interval-cholecystectomy",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VT002": {
+    "detected_at": "2026-10-05T07:19:03.612696+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.youtube.com/watch?v=1zm2EAoBKzw": {
+        "scope": "main",
+        "before": "c3e3881ff598355452880f0b74d2f8b275a34f1f0b46b7003b24537067b85f30",
+        "after": "760fde9633629922358a334e1c04f532a2d3f4a67ae21a8a60b7eea70ef21e05",
+        "previous_checked_at": "2026-09-28T07:07:15.709273+00:00",
+        "checked_at": "2026-10-05T07:19:03.612696+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:03.612696+00:00",
+    "source": "https://www.youtube.com/watch?v=1zm2EAoBKzw",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VP004": {
+    "detected_at": "2026-10-05T07:19:04.253287+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/16/whipple-procedure-for-multiple-endocrine-neoplasia-of-the-pancreas": {
+        "scope": "main",
+        "before": "017adba981da76bce3deb881e9d54830b92d0daef1b777f1ec65d0362559dd18",
+        "after": "ab93f17a4ee9ced50eff01b697ec25a49d81359ca3142e16c86a8decc50d7df2",
+        "previous_checked_at": "2026-09-14T13:04:10.020595+00:00",
+        "checked_at": "2026-10-05T07:19:04.253287+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:04.253287+00:00",
+    "source": "https://jomi.com/article/16/whipple-procedure-for-multiple-endocrine-neoplasia-of-the-pancreas",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VS003": {
+    "detected_at": "2026-10-05T07:19:01.556670+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/laparoscopic-treatment-of-choledochal-cyst-with-stapled-hepaticojejunostomy/": {
+        "scope": "main",
+        "before": "00a4e12c710f3778c8cad2e4e3cc76ce25513db197ecfe1958485b43bad8bd56",
+        "after": "5060e5e98f10a958150376644b77897e92ba73ad819cb51633b7d9194a465712",
+        "previous_checked_at": "2026-09-14T13:04:06.623304+00:00",
+        "checked_at": "2026-10-05T07:19:01.556670+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:01.556670+00:00",
+    "source": "https://www.sages.org/video/laparoscopic-treatment-of-choledochal-cyst-with-stapled-hepaticojejunostomy/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VS008": {
+    "detected_at": "2026-10-05T07:19:02.826798+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/laparoscopic-redo-hepaticojejunostomy-biliary-strictures-after-laparoscopic-pancreaticoduodenectomy/": {
+        "scope": "main",
+        "before": "f7bb19ba8ad063cd6f347935ab163d555209e27681751df6ec445059ec048d20",
+        "after": "1f1c74a233c9f18a95ea3ae3454556a6c85222b5941305598149db7036782827",
+        "previous_checked_at": "2026-09-14T13:04:07.040668+00:00",
+        "checked_at": "2026-10-05T07:19:02.826798+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:02.826798+00:00",
+    "source": "https://www.sages.org/video/laparoscopic-redo-hepaticojejunostomy-biliary-strictures-after-laparoscopic-pancreaticoduodenectomy/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VP001": {
+    "detected_at": "2026-10-05T07:19:04.408543+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/video-presentation-laparoscopic-central-pancreatectomy-with-pancreaticogastrostomy/": {
+        "scope": "main",
+        "before": "fd26b93986e61e328f14db685551b3427de4c465c395e36c657a36d60c10ab8a",
+        "after": "9322b79c5dc6892f70b54018fe127ca2e24234dc147bcc924458bd8922de9fb1",
+        "previous_checked_at": "2026-09-14T13:04:10.222120+00:00",
+        "checked_at": "2026-10-05T07:19:04.408543+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:04.408543+00:00",
+    "source": "https://www.sages.org/video/video-presentation-laparoscopic-central-pancreatectomy-with-pancreaticogastrostomy/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VW015": {
+    "detected_at": "2026-10-05T07:19:06.460888+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.webop.com/general-and-visceral-surgery/pancreas-and-spleen/pancreaticoduodenectomy-pylorus-preserving-partial-op-according-to-traverso": {
+        "scope": "main",
+        "before": "6f637a4a9f7380cbca3ddbf6b74f967c405c4e342a1f569dd66694a6f128cb7e",
+        "after": "ac1a590aa73b9ffcd2dcd9f28512c66341a8215878a1b78a302ae83efc7cb7f8",
+        "previous_checked_at": "2026-09-14T13:04:11.775301+00:00",
+        "checked_at": "2026-10-05T07:19:06.460888+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:06.460888+00:00",
+    "source": "https://www.webop.com/general-and-visceral-surgery/pancreas-and-spleen/pancreaticoduodenectomy-pylorus-preserving-partial-op-according-to-traverso",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VP006": {
+    "detected_at": "2026-10-05T07:19:07.785957+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/565/setup-for-an-open-pancreatectomy-eastwick-college-ramsey-nj": {
+        "scope": "main",
+        "before": "de7bafa9e4d1f6d402f8a4618097768e719a255013a7d43db3bf9fd3fde9087a",
+        "after": "b30237562b98c81e3d4d24d76d496976b0c15536db0e10f0784110feaf292adc",
+        "previous_checked_at": "2026-09-14T13:04:13.315105+00:00",
+        "checked_at": "2026-10-05T07:19:07.785957+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:07.785957+00:00",
+    "source": "https://jomi.com/article/565/setup-for-an-open-pancreatectomy-eastwick-college-ramsey-nj",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VP008": {
+    "detected_at": "2026-10-05T07:19:04.855792+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/robotic-pylorus-preserving-pancreaticoduodenectomy-and-cholecystectomy/": {
+        "scope": "main",
+        "before": "5f745902b1ff9a06266b08cb7ff846e6803557fb19bed700ef25d99afcd4cd26",
+        "after": "75a1d1e59b9fd036ae8b17c63c9c611e389159160981542a93b07636ef7b5165",
+        "previous_checked_at": "2026-09-14T13:04:10.448940+00:00",
+        "checked_at": "2026-10-05T07:19:04.855792+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:04.855792+00:00",
+    "source": "https://www.sages.org/video/robotic-pylorus-preserving-pancreaticoduodenectomy-and-cholecystectomy/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VJ003": {
+    "detected_at": "2026-10-05T07:19:08.342636+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/505/robotic-whipple-procedure-for-an-ampullary-intramucosal-carcinoma": {
+        "scope": "main",
+        "before": "8a9c5cd2ec62ed67911b07b743563f48506b10de9ea6424e20eb6eda31a3fd6e",
+        "after": "5660b491e92973835676a36230d4959b95fe31a9f0f9407d03be0d1e3e21f68b",
+        "previous_checked_at": "2026-09-14T13:04:14.962622+00:00",
+        "checked_at": "2026-10-05T07:19:08.342636+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:08.342636+00:00",
+    "source": "https://jomi.com/article/505/robotic-whipple-procedure-for-an-ampullary-intramucosal-carcinoma",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VJ004": {
+    "detected_at": "2026-10-05T07:19:08.648982+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/15/whipple-procedure-for-carcinoma-of-the-pancreas": {
+        "scope": "main",
+        "before": "be1ff9a2ffb0177660f18aed6d8cfcf35f384950ead68a902214f5c412cb3316",
+        "after": "6eea65dfcb2517e8360d41702cd3090d0e8acaf57a3604305c43a062e187c780",
+        "previous_checked_at": "2026-09-14T13:04:15.455981+00:00",
+        "checked_at": "2026-10-05T07:19:08.648982+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:08.648982+00:00",
+    "source": "https://jomi.com/article/15/whipple-procedure-for-carcinoma-of-the-pancreas",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VW013": {
+    "detected_at": "2026-10-05T07:19:08.081836+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.webop.com/general-and-visceral-surgery/pancreas-and-spleen/necrosectomy-and-continuous-closed-irrigation-in-infected-hemorrhagic-necrotizing-pancreatitis": {
+        "scope": "main",
+        "before": "77511db897d82a0ed7aa234d62c0392b6e6c010973333817a84383805074d6af",
+        "after": "59b3015bfbce4013a0ba2ce03c591125e7be8753f3e5a2df0752f35634c086b4",
+        "previous_checked_at": "2026-09-14T13:04:14.190662+00:00",
+        "checked_at": "2026-10-05T07:19:08.081836+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:08.081836+00:00",
+    "source": "https://www.webop.com/general-and-visceral-surgery/pancreas-and-spleen/necrosectomy-and-continuous-closed-irrigation-in-infected-hemorrhagic-necrotizing-pancreatitis",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VP005": {
+    "detected_at": "2026-10-05T07:19:08.022533+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/complications-of-laparoscopic-pancreas-surgery-current-data/": {
+        "scope": "main",
+        "before": "8688db8c277536f7e10d5f30cb26154c6e704ca6860087fba353a7957d3e3ac4",
+        "after": "4b49bd23f0e20737553430e5e15c1d7c67c7b1b1151029651bd7064953622362",
+        "previous_checked_at": "2026-09-14T13:04:14.148824+00:00",
+        "checked_at": "2026-10-05T07:19:08.022533+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:08.022533+00:00",
+    "source": "https://www.sages.org/video/complications-of-laparoscopic-pancreas-surgery-current-data/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VW014": {
+    "detected_at": "2026-10-05T07:19:09.549859+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.webop.com/general-and-visceral-surgery/pancreas-and-spleen/duodenohemipancreatectomy-with-blumgart-anastomosis-and-biliopancreatic-separation": {
+        "scope": "main",
+        "before": "82cccf4195beaefa890c96937c0ab6f1c8b43f09d49e8ffb93fdaef0c62e0432",
+        "after": "e06b787bf680f230b4a8068585a0133850a5312c4201107d6391e9215237c186",
+        "previous_checked_at": "2026-09-14T13:04:16.314114+00:00",
+        "checked_at": "2026-10-05T07:19:09.549859+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:09.549859+00:00",
+    "source": "https://www.webop.com/general-and-visceral-surgery/pancreas-and-spleen/duodenohemipancreatectomy-with-blumgart-anastomosis-and-biliopancreatic-separation",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VP002": {
+    "detected_at": "2026-10-05T07:19:09.230382+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/robotic-pancreaticoduodenectomy/": {
+        "scope": "main",
+        "before": "6637b2ac1476b8608ed91475a4c10c7019a3cb22f8efb0dadc19f3663f7033fc",
+        "after": "c4b9886efdd28645d16c59866c96aab63fc64fbb177cd78189486632b6f8ef3f",
+        "previous_checked_at": "2026-09-14T13:04:15.791727+00:00",
+        "checked_at": "2026-10-05T07:19:09.230382+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:09.230382+00:00",
+    "source": "https://www.sages.org/video/robotic-pancreaticoduodenectomy/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VW012": {
+    "detected_at": "2026-10-05T07:19:11.053701+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.webop.com/general-and-visceral-surgery/pancreas-and-spleen/pancreatogastrostomy": {
+        "scope": "main",
+        "before": "6dbf97a399ba66636955178a6de1aaab3457e883e8c3f1f2a6ed915defc8b636",
+        "after": "b2b1ef322e9408fd4f7e92f4ee77736455f67a7b818026a8b65581661cfc0196",
+        "previous_checked_at": "2026-09-14T13:04:17.487258+00:00",
+        "checked_at": "2026-10-05T07:19:11.053701+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:11.053701+00:00",
+    "source": "https://www.webop.com/general-and-visceral-surgery/pancreas-and-spleen/pancreatogastrostomy",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VR003": {
+    "detected_at": "2026-10-05T07:19:09.740879+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://profed.olympuschina.com/gs/laphpb/21756/": {
+        "scope": "main",
+        "before": "9115c125252d10edff3709766cf5493b1b188167148243070e6315786e68f1f5",
+        "after": "a373be9add8720bb538390112c1f70d928bd646dcd4a656958170b795df14ba0",
+        "previous_checked_at": "2026-09-14T13:04:16.525550+00:00",
+        "checked_at": "2026-10-05T07:19:09.740879+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:09.740879+00:00",
+    "source": "https://profed.olympuschina.com/gs/laphpb/21756/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VJ006": {
+    "detected_at": "2026-10-05T07:19:12.240022+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/250/pancreatic-debridement-via-sinus-tract-endoscopy": {
+        "scope": "main",
+        "before": "675649cad8c7aaaaa05b68601fa7dac3e8da054a397d24a03895c5d23b4adae8",
+        "after": "0e44537e383ee2c6bd4b19ddeaf8544fc1c553bfc7e412646b9a8b5c019674fd",
+        "previous_checked_at": "2026-09-14T13:04:19.104482+00:00",
+        "checked_at": "2026-10-05T07:19:12.240022+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:12.240022+00:00",
+    "source": "https://jomi.com/article/250/pancreatic-debridement-via-sinus-tract-endoscopy",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VP003": {
+    "detected_at": "2026-10-05T07:19:10.841366+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/ss03-best-of-video-i-v014-laparoscopic-whippleprocedure-with-a-2-layered-pancreatojejunostomy/": {
+        "scope": "main",
+        "before": "8c93c4551af36b784c31c5c48031429a9ed967438fc242393aa058f031ea5a5c",
+        "after": "4082f9f7f4dc872e240665cd32d550565eee53c28ac5c3aaf5c9c9ac23eece47",
+        "previous_checked_at": "2026-09-14T13:04:17.447518+00:00",
+        "checked_at": "2026-10-05T07:19:10.841366+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:10.841366+00:00",
+    "source": "https://www.sages.org/video/ss03-best-of-video-i-v014-laparoscopic-whippleprocedure-with-a-2-layered-pancreatojejunostomy/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VP007": {
+    "detected_at": "2026-10-05T07:19:12.395107+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://jomi.com/article/339/open-distal-pancreatectomy-for-pancreatic-cancer": {
+        "scope": "main",
+        "before": "f4b1cc57ff7578d9f563fc3c267995c32f78aed8dedd5fe6edcfb7f2afe28321",
+        "after": "34fe783b4d4cca046728e3d240fce977d429ccc054c79643cbf0d686ca079713",
+        "previous_checked_at": "2026-09-14T13:04:19.637955+00:00",
+        "checked_at": "2026-10-05T07:19:12.395107+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:12.395107+00:00",
+    "source": "https://jomi.com/article/339/open-distal-pancreatectomy-for-pancreatic-cancer",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VP009": {
+    "detected_at": "2026-10-05T07:19:12.333434+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.sages.org/video/panel-discussion-pancreas/": {
+        "scope": "main",
+        "before": "eac4cd74e9070c6f8740fbeabfd6657920fb21182694f0536c31b651d3edc453",
+        "after": "2978754e1e78d56e2270afffbe0bf0355f6c18c271d563e0fdc736a70d15ee91",
+        "previous_checked_at": "2026-09-14T13:04:19.133087+00:00",
+        "checked_at": "2026-10-05T07:19:12.333434+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:12.333434+00:00",
+    "source": "https://www.sages.org/video/panel-discussion-pancreas/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VP021": {
+    "detected_at": "2026-10-05T07:19:14.945709+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.ircad.fr/online-courses-and-webinars/websurg-free-online-university/": {
+        "scope": "main",
+        "before": "028e2da45e7a5a6d8b050edf20fb33bc0b71b960f86739f1a4160c7ff4a35836",
+        "after": "e2e47745a1267b20b434e6f66da8520dabaa76aa8c33fce115163e2960ea37bb",
+        "previous_checked_at": "2026-09-14T13:04:28.119913+00:00",
+        "checked_at": "2026-10-05T07:19:14.945709+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:14.945709+00:00",
+    "source": "https://www.ircad.fr/online-courses-and-webinars/websurg-free-online-university/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VP016": {
+    "detected_at": "2026-10-05T07:19:18.200357+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://pie.med.utoronto.ca/TVASurg/browse_anatomy/pancreas/": {
+        "scope": "main",
+        "before": "a5c9de1972060cc8078f766cd8ccd8d0036a9749181b9e9d8c36cdd4549e5cd4",
+        "after": "6815669d6f9672bcf124ddf05478ec8ed4e69fb4eb4b414eb37e99fca3d33829",
+        "previous_checked_at": "2026-09-14T13:04:32.457354+00:00",
+        "checked_at": "2026-10-05T07:19:18.200357+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:18.200357+00:00",
+    "source": "https://pie.med.utoronto.ca/TVASurg/browse_anatomy/pancreas/",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  },
+  "VP013": {
+    "detected_at": "2026-10-05T07:19:21.162436+00:00",
+    "changes": {},
+    "page_changes": {
+      "https://www.youtube.com/watch?v=v3_d7dXIOe4": {
+        "scope": "main",
+        "before": "95d5dfc6d9694afe30569597bc6f9eb3747f8beab641fd509d415da8d6707b19",
+        "after": "2c09dfa5816d7e64b1101d0ce0aec0f4d5583ebdccd2a71a71455780afa35bfa",
+        "previous_checked_at": "2026-09-28T07:07:26.390543+00:00",
+        "checked_at": "2026-10-05T07:19:21.162436+00:00",
+        "reason": "页面字节变化，可能排版/广告，科学内容待复核"
+      }
+    },
+    "last_detected_at": "2026-10-05T07:19:21.162436+00:00",
+    "source": "https://www.youtube.com/watch?v=v3_d7dXIOe4",
+    "status": "页面字节变化，可能排版/广告，科学内容待复核；保留现有阅读笔记"
+  }
+}
