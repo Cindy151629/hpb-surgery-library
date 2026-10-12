@@ -2,7 +2,7 @@
   "HPBAI-031:metadata:Europe PMC": {
     "id": "HPBAI-031",
     "source": "Europe PMC",
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "changes": {
       "pmid": {
         "before": null,
@@ -54,7 +54,7 @@
   "HPBAI-003:metadata:Europe PMC": {
     "id": "HPBAI-003",
     "source": "Europe PMC",
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "changes": {
       "pmid": {
         "before": null,
@@ -93,7 +93,7 @@
   "HPBAI-035:metadata:PubMed": {
     "id": "HPBAI-035",
     "source": "PubMed",
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "changes": {
       "pmid": {
         "before": null,
@@ -106,7 +106,7 @@
   "HPBAI-031:metadata:PubMed": {
     "id": "HPBAI-031",
     "source": "PubMed",
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "changes": {
       "pmid": {
         "before": null,
@@ -132,7 +132,7 @@
   "HPBAI-003:metadata:PubMed": {
     "id": "HPBAI-003",
     "source": "PubMed",
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "changes": {
       "pmid": {
         "before": null,
@@ -158,7 +158,7 @@
   "HPBAI-036:metadata:PubMed": {
     "id": "HPBAI-036",
     "source": "PubMed",
-    "detected_at": "2026-09-15T11:21:05.466797+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "changes": {
       "pmid": {
         "before": null,
@@ -172,22 +172,9 @@
     "ids": [
       "HPBAI-011"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/Banyutong/SurgicalSAM2",
     "before": {
-      "url": "https://github.com/Banyutong/SurgicalSAM2",
-      "checked_at": "2026-09-28T07:09:37.900373+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/Banyutong/SurgicalSAM2",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "03fece33f530ee986e7f9a2d4d2ee1e253bddbd78e8620d68acbc7d12e1e73b3",
-      "title": "GitHub - Banyutong/SurgicalSAM2 · GitHub",
-      "bytes": 412062
-    },
-    "after": {
       "url": "https://github.com/Banyutong/SurgicalSAM2",
       "checked_at": "2026-10-05T07:22:02.699625+00:00",
       "identity_match": null,
@@ -200,28 +187,28 @@
       "title": "GitHub - Banyutong/SurgicalSAM2 · GitHub",
       "bytes": 412754
     },
+    "after": {
+      "url": "https://github.com/Banyutong/SurgicalSAM2",
+      "checked_at": "2026-10-12T07:38:21.657391+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/Banyutong/SurgicalSAM2",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "017faacd1edcff4b0b4cdb060ff69bcc8a5fa3037e2147cf5f791ee854f2eb46",
+      "title": "GitHub - Banyutong/SurgicalSAM2 · GitHub",
+      "bytes": 414630
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:ce4a04a89f73022c": {
     "ids": [
       "HPBAI-022"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/CAMMA-public/Endoscapes",
     "before": {
-      "url": "https://github.com/CAMMA-public/Endoscapes",
-      "checked_at": "2026-09-28T07:09:38.493224+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/CAMMA-public/Endoscapes",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "f568a2c1c63314de00c1ad11e9d9d4b0e499a799fe99b8fc442f07dc92dc9e4d",
-      "title": "GitHub - CAMMA-public/Endoscapes: Official Repository for the Endoscapes Dataset for Surgical Scene Segmentation, Object Detection, and Critical View of Safety Assessment · GitHub",
-      "bytes": 326856
-    },
-    "after": {
       "url": "https://github.com/CAMMA-public/Endoscapes",
       "checked_at": "2026-10-05T07:22:03.260312+00:00",
       "identity_match": null,
@@ -234,28 +221,28 @@
       "title": "GitHub - CAMMA-public/Endoscapes: Official Repository for the Endoscapes Dataset for Surgical Scene Segmentation, Object Detection, and Critical View of Safety Assessment · GitHub",
       "bytes": 327548
     },
+    "after": {
+      "url": "https://github.com/CAMMA-public/Endoscapes",
+      "checked_at": "2026-10-12T07:38:22.097046+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/CAMMA-public/Endoscapes",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "fe49b34f1ae6da454b4545f8ca08bbf9d54ecd50b5174ec2587e465589c59488",
+      "title": "GitHub - CAMMA-public/Endoscapes: Official Repository for the Endoscapes Dataset for Surgical Scene Segmentation, Object Detection, and Critical View of Safety Assessment · GitHub",
+      "bytes": 332668
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:c3edbe2658fe7ca6": {
     "ids": [
       "HPBAI-014"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/CAMMA-public/PeskaVLP",
     "before": {
-      "url": "https://github.com/CAMMA-public/PeskaVLP",
-      "checked_at": "2026-09-28T07:09:38.788035+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/CAMMA-public/PeskaVLP",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "1045d60dcff0f9621e4f9c700e4aaa655ef966c4e5fb50ab181765cf284d5dcd",
-      "title": "GitHub - CAMMA-public/PeskaVLP: [NeurIPS&#39;24 Spotlight] Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation · GitHub",
-      "bytes": 289753
-    },
-    "after": {
       "url": "https://github.com/CAMMA-public/PeskaVLP",
       "checked_at": "2026-10-05T07:22:03.756359+00:00",
       "identity_match": null,
@@ -268,6 +255,19 @@
       "title": "GitHub - CAMMA-public/PeskaVLP: [NeurIPS&#39;24 Spotlight] Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation · GitHub",
       "bytes": 290446
     },
+    "after": {
+      "url": "https://github.com/CAMMA-public/PeskaVLP",
+      "checked_at": "2026-10-12T07:38:22.181626+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/CAMMA-public/PeskaVLP",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "a72c5276511d50deade88c8ee89a36c8795f02fbacfea5dba19f4b62583ec09a",
+      "title": "GitHub - CAMMA-public/PeskaVLP: [NeurIPS&#39;24 Spotlight] Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation · GitHub",
+      "bytes": 293620
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:c86ceb5ddaf9ee93": {
@@ -276,22 +276,9 @@
       "HPBAI-013",
       "HPBAI-014"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/CAMMA-public/SurgVLP",
     "before": {
-      "url": "https://github.com/CAMMA-public/SurgVLP",
-      "checked_at": "2026-09-28T07:09:39.159531+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/CAMMA-public/SurgVLP",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "e6520e18c9ba3d3438c09b4fb44cc007642b12bcc3a77990e5319006de160f6c",
-      "title": "GitHub - CAMMA-public/SurgVLP: [MedIA&#39;25] Learning multi-modal representations by watching hundreds of surgical video lectures · GitHub",
-      "bytes": 348425
-    },
-    "after": {
       "url": "https://github.com/CAMMA-public/SurgVLP",
       "checked_at": "2026-10-05T07:22:03.920872+00:00",
       "identity_match": null,
@@ -304,28 +291,28 @@
       "title": "GitHub - CAMMA-public/SurgVLP: [MedIA&#39;25] Learning multi-modal representations by watching hundreds of surgical video lectures · GitHub",
       "bytes": 349117
     },
+    "after": {
+      "url": "https://github.com/CAMMA-public/SurgVLP",
+      "checked_at": "2026-10-12T07:38:22.709669+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/CAMMA-public/SurgVLP",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "77b0356826df801e0bad8c9757a6545fea2ede28326c9bdb691f65adb8349442",
+      "title": "GitHub - CAMMA-public/SurgVLP: [MedIA&#39;25] Learning multi-modal representations by watching hundreds of surgical video lectures · GitHub",
+      "bytes": 352488
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:d10c2795f576c5ca": {
     "ids": [
       "HPBAI-024"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/CAMMA-public/cholect50",
     "before": {
-      "url": "https://github.com/CAMMA-public/cholect50",
-      "checked_at": "2026-09-28T07:09:39.462142+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/CAMMA-public/cholect50",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "3f9439c61d4f0cbab4b478ef987a9023e4bf3c50cbd0558a43ca2642a354ef81",
-      "title": "GitHub - CAMMA-public/cholect50: A repository for surgical action triplet dataset. Data are videos of laparoscopic cholecystectomy that have been annotated with &lt;instrument, verb, target&gt; labels for every surgical fine-grained activity. · GitHub",
-      "bytes": 328479
-    },
-    "after": {
       "url": "https://github.com/CAMMA-public/cholect50",
       "checked_at": "2026-10-05T07:22:04.088715+00:00",
       "identity_match": null,
@@ -338,28 +325,28 @@
       "title": "GitHub - CAMMA-public/cholect50: A repository for surgical action triplet dataset. Data are videos of laparoscopic cholecystectomy that have been annotated with &lt;instrument, verb, target&gt; labels for every surgical fine-grained activity. · GitHub",
       "bytes": 329167
     },
+    "after": {
+      "url": "https://github.com/CAMMA-public/cholect50",
+      "checked_at": "2026-10-12T07:38:22.763591+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/CAMMA-public/cholect50",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "581383a83b19d3fd5845e3316b08eb955ed3a101456bf0d00ff37cd1b717eda2",
+      "title": "GitHub - CAMMA-public/cholect50: A repository for surgical action triplet dataset. Data are videos of laparoscopic cholecystectomy that have been annotated with &lt;instrument, verb, target&gt; labels for every surgical fine-grained activity. · GitHub",
+      "bytes": 336888
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:4dcaeb2d8cb1bd13": {
     "ids": [
       "HPBAI-025"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/CAMMA-public/cholectrack20",
     "before": {
-      "url": "https://github.com/CAMMA-public/cholectrack20",
-      "checked_at": "2026-09-28T07:09:39.523025+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/CAMMA-public/cholectrack20",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "6604d748104cce3935886b891fea76a161d3d51fc03146e40cdc34ca21a9e186",
-      "title": "GitHub - CAMMA-public/cholectrack20: Dataset for multi-perspective surgical tool tracking · GitHub",
-      "bytes": 383817
-    },
-    "after": {
       "url": "https://github.com/CAMMA-public/cholectrack20",
       "checked_at": "2026-10-05T07:22:04.300697+00:00",
       "identity_match": null,
@@ -372,28 +359,28 @@
       "title": "GitHub - CAMMA-public/cholectrack20: Dataset for multi-perspective surgical tool tracking · GitHub",
       "bytes": 384509
     },
+    "after": {
+      "url": "https://github.com/CAMMA-public/cholectrack20",
+      "checked_at": "2026-10-12T07:38:23.115667+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/CAMMA-public/cholectrack20",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "b334f770ecb61346d2e7ece79f2016e1c118aaca98928cbbc7106f06879e765a",
+      "title": "GitHub - CAMMA-public/cholectrack20: Dataset for multi-perspective surgical tool tracking · GitHub",
+      "bytes": 389404
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:24a96d29815dbd9d": {
     "ids": [
       "HPBAI-016"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/CVI-SZU/SurgCoT",
     "before": {
-      "url": "https://github.com/CVI-SZU/SurgCoT",
-      "checked_at": "2026-09-28T07:09:39.798799+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/CVI-SZU/SurgCoT",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "64efcc207d037ffe68c0abb5feb1401813dc8e88c9873a8b28b0fec3f15ddedd",
-      "title": "GitHub - CVI-SZU/SurgCoT: SurgCoT constructs a diagnostic chain-of-thought by progressively decomposing a flawed baseline (BL) into clinical sub-questions, correcting semantics with knowledge (KE), and refining evidence with spatiotemporal clues (FC). · GitHub",
-      "bytes": 339122
-    },
-    "after": {
       "url": "https://github.com/CVI-SZU/SurgCoT",
       "checked_at": "2026-10-05T07:22:04.391781+00:00",
       "identity_match": null,
@@ -406,28 +393,28 @@
       "title": "GitHub - CVI-SZU/SurgCoT: SurgCoT constructs a diagnostic chain-of-thought by progressively decomposing a flawed baseline (BL) into clinical sub-questions, correcting semantics with knowledge (KE), and refining evidence with spatiotemporal clues (FC). · GitHub",
       "bytes": 339814
     },
+    "after": {
+      "url": "https://github.com/CVI-SZU/SurgCoT",
+      "checked_at": "2026-10-12T07:38:23.147327+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/CVI-SZU/SurgCoT",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "2557c37a60818673a4a293d8e1c84245d15404ebb0d38b281b71d5b25a9075bb",
+      "title": "GitHub - CVI-SZU/SurgCoT: SurgCoT constructs a diagnostic chain-of-thought by progressively decomposing a flawed baseline (BL) into clinical sub-questions, correcting semantics with knowledge (KE), and refining evidence with spatiotemporal clues (FC). · GitHub",
+      "bytes": 343515
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:0a94f5d2f054e99a": {
     "ids": [
       "HPBAI-033"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/ChangjingLiu/SurgSAM3",
     "before": {
-      "url": "https://github.com/ChangjingLiu/SurgSAM3",
-      "checked_at": "2026-09-28T07:09:40.189760+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/ChangjingLiu/SurgSAM3",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "0873f4e0d3b2e493f4f98ff5e011fd6c0f13216eeae42c79f9d4f6c446e2ef2e",
-      "title": "GitHub - ChangjingLiu/SurgSAM3: [MICCAI2026 EMA4MICCAI workshop] Parameter-Efficient Adaptation of SAM3 for Prompt-Driven Surgical Concept Segmentation · GitHub",
-      "bytes": 302632
-    },
-    "after": {
       "url": "https://github.com/ChangjingLiu/SurgSAM3",
       "checked_at": "2026-10-05T07:22:04.901791+00:00",
       "identity_match": null,
@@ -440,28 +427,28 @@
       "title": "GitHub - ChangjingLiu/SurgSAM3: [MICCAI2026 EMA4MICCAI workshop] Parameter-Efficient Adaptation of SAM3 for Prompt-Driven Surgical Concept Segmentation · GitHub",
       "bytes": 303325
     },
+    "after": {
+      "url": "https://github.com/ChangjingLiu/SurgSAM3",
+      "checked_at": "2026-10-12T07:38:23.263147+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/ChangjingLiu/SurgSAM3",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "88aadb63ea5a91ec7f7ddd685c0f0ac1328a657b3620fc366e5609d0e6fc99cd",
+      "title": "GitHub - ChangjingLiu/SurgSAM3: [MICCAI2026 EMA4MICCAI workshop] Parameter-Efficient Adaptation of SAM3 for Prompt-Driven Surgical Concept Segmentation · GitHub",
+      "bytes": 305578
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:53712e7971d03953": {
     "ids": [
       "HPBAI-002"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/Devanish31/SurgiSAM2",
     "before": {
-      "url": "https://github.com/Devanish31/SurgiSAM2",
-      "checked_at": "2026-09-28T07:09:40.298746+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/Devanish31/SurgiSAM2",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "4c379fc3449d52e16c48e1a06e9aac61ca08c3ffe4b389c7c78175ad2c0c6d71",
-      "title": "GitHub - Devanish31/SurgiSAM2 · GitHub",
-      "bytes": 255757
-    },
-    "after": {
       "url": "https://github.com/Devanish31/SurgiSAM2",
       "checked_at": "2026-10-05T07:22:04.983196+00:00",
       "identity_match": null,
@@ -474,28 +461,28 @@
       "title": "GitHub - Devanish31/SurgiSAM2 · GitHub",
       "bytes": 266246
     },
+    "after": {
+      "url": "https://github.com/Devanish31/SurgiSAM2",
+      "checked_at": "2026-10-12T07:38:23.707422+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/Devanish31/SurgiSAM2",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "55e3ac441fb438b02cb5ab41eba9ff1711128f4619160fc36c3e0d1918ec5f07",
+      "title": "GitHub - Devanish31/SurgiSAM2 · GitHub",
+      "bytes": 270002
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:110e1ef51aae860a": {
     "ids": [
       "HPBAI-010"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/Fawke108/MA-SAM2",
     "before": {
-      "url": "https://github.com/Fawke108/MA-SAM2",
-      "checked_at": "2026-09-28T07:09:40.471704+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/Fawke108/MA-SAM2",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "7b22f4dcbe9459aee9dc2e4e38df4591796ea7c71e326199838439bfc2cadf56",
-      "title": "GitHub - Fawke108/MA-SAM2: MICCAI 2025: Memory-Augmented SAM2 for Training-Free Surgical Video Segmentation · GitHub",
-      "bytes": 250615
-    },
-    "after": {
       "url": "https://github.com/Fawke108/MA-SAM2",
       "checked_at": "2026-10-05T07:22:05.100005+00:00",
       "identity_match": null,
@@ -508,28 +495,28 @@
       "title": "GitHub - Fawke108/MA-SAM2: MICCAI 2025: Memory-Augmented SAM2 for Training-Free Surgical Video Segmentation · GitHub",
       "bytes": 251307
     },
+    "after": {
+      "url": "https://github.com/Fawke108/MA-SAM2",
+      "checked_at": "2026-10-12T07:38:23.798014+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/Fawke108/MA-SAM2",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "5a10d90852c7435b4496c966b7af65eda24332abf42973838f1ad8f3a6f2a15a",
+      "title": "GitHub - Fawke108/MA-SAM2: MICCAI 2025: Memory-Augmented SAM2 for Training-Free Surgical Video Segmentation · GitHub",
+      "bytes": 255262
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:a92d9e2ad0c2483e": {
     "ids": [
       "HPBAI-004"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/LoDeResearch/HRVVS",
     "before": {
-      "url": "https://github.com/LoDeResearch/HRVVS",
-      "checked_at": "2026-09-28T07:09:40.985168+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/LoDeResearch/HRVVS",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "e3268b8daf4e3edcd6911deddbc9e9ca7fcfcc0cfccda4086557e40cc4aad4b8",
-      "title": "GitHub - LoDeResearch/HRVVS: [MICCAI 2025] HRVVS: A High-resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors · GitHub",
-      "bytes": 283641
-    },
-    "after": {
       "url": "https://github.com/LoDeResearch/HRVVS",
       "checked_at": "2026-10-05T07:22:05.605453+00:00",
       "identity_match": null,
@@ -542,28 +529,28 @@
       "title": "GitHub - LoDeResearch/HRVVS: [MICCAI 2025] HRVVS: A High-resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors · GitHub",
       "bytes": 284333
     },
+    "after": {
+      "url": "https://github.com/LoDeResearch/HRVVS",
+      "checked_at": "2026-10-12T07:38:23.881304+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/LoDeResearch/HRVVS",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "9f45808ec949a51388e1407e6ccf8348308d69256d9f16ccf770d9007bac50ed",
+      "title": "GitHub - LoDeResearch/HRVVS: [MICCAI 2025] HRVVS: A High-resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors · GitHub",
+      "bytes": 287778
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:5f9ae9a6c98cdcfe": {
     "ids": [
       "HPBAI-003"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/MECLabTUDA/SASVi",
     "before": {
-      "url": "https://github.com/MECLabTUDA/SASVi",
-      "checked_at": "2026-09-28T07:09:41.046086+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/MECLabTUDA/SASVi",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "eb329f6241954289e159ee29ec80e5f2a8a3c2c8824d478cfa171499641aba4b",
-      "title": "GitHub - MECLabTUDA/SASVi: SASVi - Segment Any Surgical Video (IPCAI 2025) · GitHub",
-      "bytes": 295153
-    },
-    "after": {
       "url": "https://github.com/MECLabTUDA/SASVi",
       "checked_at": "2026-10-05T07:22:05.637321+00:00",
       "identity_match": null,
@@ -576,6 +563,19 @@
       "title": "GitHub - MECLabTUDA/SASVi: SASVi - Segment Any Surgical Video (IPCAI 2025) · GitHub",
       "bytes": 295846
     },
+    "after": {
+      "url": "https://github.com/MECLabTUDA/SASVi",
+      "checked_at": "2026-10-12T07:38:24.366120+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/MECLabTUDA/SASVi",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "135352a9de7bb658adf2caff00521a2143c4134b9da99ffcfcb3702393f53291",
+      "title": "GitHub - MECLabTUDA/SASVi: SASVi - Segment Any Surgical Video (IPCAI 2025) · GitHub",
+      "bytes": 301254
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:ff957ac245642424": {
@@ -583,22 +583,9 @@
       "HPBAI-029",
       "HPBAI-040"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/PJLallen/D2GPLand",
     "before": {
-      "url": "https://github.com/PJLallen/D2GPLand",
-      "checked_at": "2026-09-28T07:09:41.190000+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/PJLallen/D2GPLand",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "1976c177ab629c5b4da031ab58973765ccc8cd2952aaa851bdf8d19697837c5b",
-      "title": "GitHub - PJLallen/D2GPLand: Official Implementation of MICCAI 2024 paper &quot;Depth-Driven Geometric Prompt Learning for Laparoscopic Liver Landmark Detection&quot; · GitHub",
-      "bytes": 293859
-    },
-    "after": {
       "url": "https://github.com/PJLallen/D2GPLand",
       "checked_at": "2026-10-05T07:22:05.714895+00:00",
       "identity_match": null,
@@ -611,28 +598,28 @@
       "title": "GitHub - PJLallen/D2GPLand: Official Implementation of MICCAI 2024 paper &quot;Depth-Driven Geometric Prompt Learning for Laparoscopic Liver Landmark Detection&quot; · GitHub",
       "bytes": 294553
     },
+    "after": {
+      "url": "https://github.com/PJLallen/D2GPLand",
+      "checked_at": "2026-10-12T07:38:24.449442+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/PJLallen/D2GPLand",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "0b94c268efd123e7e5e0aea9928def522f9b5d46ad75998fa09a3277f9996203",
+      "title": "GitHub - PJLallen/D2GPLand: Official Implementation of MICCAI 2024 paper &quot;Depth-Driven Geometric Prompt Learning for Laparoscopic Liver Landmark Detection&quot; · GitHub",
+      "bytes": 298390
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:c6af41c046161372": {
     "ids": [
       "HPBAI-019"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/SamuelSchmidgall/GSViT",
     "before": {
-      "url": "https://github.com/SamuelSchmidgall/GSViT",
-      "checked_at": "2026-09-28T07:09:41.746753+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/SamuelSchmidgall/GSViT",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "290777d8713da004d40b43287649ccdc2c218279221fb4c34eed3406c981687f",
-      "title": "GitHub - SamuelSchmidgall/GSViT: Code repository for paper: &quot;General surgery vision transformer: A video pre-trained foundation model for general surgery&quot; · GitHub",
-      "bytes": 255408
-    },
-    "after": {
       "url": "https://github.com/SamuelSchmidgall/GSViT",
       "checked_at": "2026-10-05T07:22:06.277129+00:00",
       "identity_match": null,
@@ -645,28 +632,28 @@
       "title": "GitHub - SamuelSchmidgall/GSViT: Code repository for paper: &quot;General surgery vision transformer: A video pre-trained foundation model for general surgery&quot; · GitHub",
       "bytes": 256101
     },
+    "after": {
+      "url": "https://github.com/SamuelSchmidgall/GSViT",
+      "checked_at": "2026-10-12T07:38:24.464946+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/SamuelSchmidgall/GSViT",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "a90216fddf134b890ccbf7f65c1af7a4c8735d6f162ccd41c7fdfe8409e188dc",
+      "title": "GitHub - SamuelSchmidgall/GSViT: Code repository for paper: &quot;General surgery vision transformer: A video pre-trained foundation model for general surgery&quot; · GitHub",
+      "bytes": 259157
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:fade12d61a987a7d": {
     "ids": [
       "HPBAI-023"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/cai4cai/cholec_instance_seg",
     "before": {
-      "url": "https://github.com/cai4cai/cholec_instance_seg",
-      "checked_at": "2026-09-28T07:09:41.861753+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/cai4cai/cholec_instance_seg",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "90aee0b26294124b26d826ff1ce8d7303b46ab94be0c4f90bfab222fd8f78cf5",
-      "title": "GitHub - cai4cai/cholec_instance_seg: CholecInstanceSeg: A Tool Instance Segmentation Dataset for Laparoscopic Surgery · GitHub",
-      "bytes": 289041
-    },
-    "after": {
       "url": "https://github.com/cai4cai/cholec_instance_seg",
       "checked_at": "2026-10-05T07:22:06.356835+00:00",
       "identity_match": null,
@@ -679,28 +666,28 @@
       "title": "GitHub - cai4cai/cholec_instance_seg: CholecInstanceSeg: A Tool Instance Segmentation Dataset for Laparoscopic Surgery · GitHub",
       "bytes": 289732
     },
+    "after": {
+      "url": "https://github.com/cai4cai/cholec_instance_seg",
+      "checked_at": "2026-10-12T07:38:24.992606+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/cai4cai/cholec_instance_seg",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "9507f6ab6b7e42ca3d46950aeb495cf187ab61b5ed62f10ca08cfeced531c135",
+      "title": "GitHub - cai4cai/cholec_instance_seg: CholecInstanceSeg: A Tool Instance Segmentation Dataset for Laparoscopic Surgery · GitHub",
+      "bytes": 296798
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:811a466c7f3f249f": {
     "ids": [
       "HPBAI-030"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/cuiruize/D2GPLand-Plus",
     "before": {
-      "url": "https://github.com/cuiruize/D2GPLand-Plus",
-      "checked_at": "2026-09-28T07:09:42.059759+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/cuiruize/D2GPLand-Plus",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "7fc22e3ffb2c145b6e3bc8cedaff38d543164d11410ee2328216b169fa1ac52f",
-      "title": "GitHub - cuiruize/D2GPLand-Plus: Official Implementation of paper Depth-Induced Prompt Learning for Laparoscopic Liver Landmark Detection · GitHub",
-      "bytes": 296029
-    },
-    "after": {
       "url": "https://github.com/cuiruize/D2GPLand-Plus",
       "checked_at": "2026-10-05T07:22:06.453681+00:00",
       "identity_match": null,
@@ -713,28 +700,28 @@
       "title": "GitHub - cuiruize/D2GPLand-Plus: Official Implementation of paper Depth-Induced Prompt Learning for Laparoscopic Liver Landmark Detection · GitHub",
       "bytes": 296721
     },
+    "after": {
+      "url": "https://github.com/cuiruize/D2GPLand-Plus",
+      "checked_at": "2026-10-12T07:38:25.005850+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/cuiruize/D2GPLand-Plus",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "5849082bf40998268773d50f61a9c0dee12d095dcecfbf881677cac0a20b4773",
+      "title": "GitHub - cuiruize/D2GPLand-Plus: Official Implementation of paper Depth-Induced Prompt Learning for Laparoscopic Liver Landmark Detection · GitHub",
+      "bytes": 300523
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:7426fa7609da7832": {
     "ids": [
       "HPBAI-039"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/cuiruize/TopoNet",
     "before": {
-      "url": "https://github.com/cuiruize/TopoNet",
-      "checked_at": "2026-09-28T07:09:42.667928+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/cuiruize/TopoNet",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "f0489b81750ddf18be501cb569fa15dd30baa8426473be6ae1da35bedba7dbb4",
-      "title": "GitHub - cuiruize/TopoNet: Official Implementation of MICCAI 2025 paper &quot;Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection&quot; · GitHub",
-      "bytes": 298594
-    },
-    "after": {
       "url": "https://github.com/cuiruize/TopoNet",
       "checked_at": "2026-10-05T07:22:06.996959+00:00",
       "identity_match": null,
@@ -747,28 +734,28 @@
       "title": "GitHub - cuiruize/TopoNet: Official Implementation of MICCAI 2025 paper &quot;Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection&quot; · GitHub",
       "bytes": 299293
     },
+    "after": {
+      "url": "https://github.com/cuiruize/TopoNet",
+      "checked_at": "2026-10-12T07:38:25.134761+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/cuiruize/TopoNet",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "17b2c3238583730a42f01653fa3f8d9bf472ee5ae097d394dc9b739d8278e666",
+      "title": "GitHub - cuiruize/TopoNet: Official Implementation of MICCAI 2025 paper &quot;Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection&quot; · GitHub",
+      "bytes": 303392
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:d98695f2b809de52": {
     "ids": [
       "HPBAI-001"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/displaywz/CholecMamba",
     "before": {
-      "url": "https://github.com/displaywz/CholecMamba",
-      "checked_at": "2026-09-28T07:09:42.919435+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/displaywz/CholecMamba",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "dd7d66f0d6e598ed82ff748388f65cb58dbdec36a16680deed094f533ef9d15c",
-      "title": "GitHub - displaywz/CholecMamba · GitHub",
-      "bytes": 274811
-    },
-    "after": {
       "url": "https://github.com/displaywz/CholecMamba",
       "checked_at": "2026-10-05T07:22:07.028099+00:00",
       "identity_match": null,
@@ -781,28 +768,28 @@
       "title": "GitHub - displaywz/CholecMamba · GitHub",
       "bytes": 275504
     },
+    "after": {
+      "url": "https://github.com/displaywz/CholecMamba",
+      "checked_at": "2026-10-12T07:38:25.484490+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/displaywz/CholecMamba",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "eaa328924cbb06a3fd86671a8d1f3a4cbfe2a68ab55f9b490b60c96d91bb0fb5",
+      "title": "GitHub - displaywz/CholecMamba · GitHub",
+      "bytes": 277644
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:9e6d1a3b7e96c3c8": {
     "ids": [
       "HPBAI-032"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/gaash-lab/GroundedSurg",
     "before": {
-      "url": "https://github.com/gaash-lab/GroundedSurg",
-      "checked_at": "2026-09-28T07:09:42.932248+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/gaash-lab/GroundedSurg",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "24ed6b53db7f0c48b9371c0a4b0b2efcb3aeddc6cc78cd9cd2e8c1579522e772",
-      "title": "GitHub - gaash-lab/GroundedSurg · GitHub",
-      "bytes": 320776
-    },
-    "after": {
       "url": "https://github.com/gaash-lab/GroundedSurg",
       "checked_at": "2026-10-05T07:22:07.172272+00:00",
       "identity_match": null,
@@ -815,28 +802,28 @@
       "title": "GitHub - gaash-lab/GroundedSurg · GitHub",
       "bytes": 321473
     },
+    "after": {
+      "url": "https://github.com/gaash-lab/GroundedSurg",
+      "checked_at": "2026-10-12T07:38:25.567677+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/gaash-lab/GroundedSurg",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "d2e1da154b38133a121fb487202d9ef631cf13afccd4bfdc02ba528a774fae0f",
+      "title": "GitHub - gaash-lab/GroundedSurg · GitHub",
+      "bytes": 324554
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:586492eae07659b9": {
     "ids": [
       "HPBAI-015"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/gkw0010/SurgVidLM",
     "before": {
-      "url": "https://github.com/gkw0010/SurgVidLM",
-      "checked_at": "2026-09-28T07:09:43.460796+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/gkw0010/SurgVidLM",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "60e7368c0c2ab784ac08fcef7229a33cf94c5ec83031e294827467a4ca659d5f",
-      "title": "GitHub - gkw0010/SurgVidLM · GitHub",
-      "bytes": 295338
-    },
-    "after": {
       "url": "https://github.com/gkw0010/SurgVidLM",
       "checked_at": "2026-10-05T07:22:07.652375+00:00",
       "identity_match": null,
@@ -849,28 +836,28 @@
       "title": "GitHub - gkw0010/SurgVidLM · GitHub",
       "bytes": 296036
     },
+    "after": {
+      "url": "https://github.com/gkw0010/SurgVidLM",
+      "checked_at": "2026-10-12T07:38:25.807941+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/gkw0010/SurgVidLM",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "01aa68eba222e6a8f941e6600b50df4389a25349ae2d2a4a3aecdb9c091a5bc2",
+      "title": "GitHub - gkw0010/SurgVidLM · GitHub",
+      "bytes": 298143
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:41e9bec14dbe25b4": {
     "ids": [
       "HPBAI-017"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/isyangshu/SurgVISTA",
     "before": {
-      "url": "https://github.com/isyangshu/SurgVISTA",
-      "checked_at": "2026-09-28T07:09:43.747272+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/isyangshu/SurgVISTA",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "f62c46a11121fc2794b98c4dc5c2dd5aeae920f4a73354b01f2fcab8a903645a",
-      "title": "GitHub - isyangshu/SurgVISTA: Official Code for &quot;Large-scale Self-supervised Video Foundation Model for Intelligent Surgery&quot; · GitHub",
-      "bytes": 339831
-    },
-    "after": {
       "url": "https://github.com/isyangshu/SurgVISTA",
       "checked_at": "2026-10-05T07:22:07.806287+00:00",
       "identity_match": null,
@@ -883,28 +870,28 @@
       "title": "GitHub - isyangshu/SurgVISTA: Official Code for &quot;Large-scale Self-supervised Video Foundation Model for Intelligent Surgery&quot; · GitHub",
       "bytes": 340525
     },
+    "after": {
+      "url": "https://github.com/isyangshu/SurgVISTA",
+      "checked_at": "2026-10-12T07:38:26.024902+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/isyangshu/SurgVISTA",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "c0d06fd3fd6ae3b4cb7738bc18dad6229361fa122a990effce81219a3174c472",
+      "title": "GitHub - isyangshu/SurgVISTA: Official Code for &quot;Large-scale Self-supervised Video Foundation Model for Intelligent Surgery&quot; · GitHub",
+      "bytes": 342958
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:863bf12879e66895": {
     "ids": [
       "HPBAI-008"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/jinlab-imvr/ReSurgSAM2",
     "before": {
-      "url": "https://github.com/jinlab-imvr/ReSurgSAM2",
-      "checked_at": "2026-09-28T07:09:43.782730+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/jinlab-imvr/ReSurgSAM2",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "85a8360d899983883983eed64f1595b23a689ac05fe080e77b70e4ccb74a4840",
-      "title": "GitHub - jinlab-imvr/ReSurgSAM2: [MICCAI 2025] Official code implementation for paper: ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking · GitHub",
-      "bytes": 316906
-    },
-    "after": {
       "url": "https://github.com/jinlab-imvr/ReSurgSAM2",
       "checked_at": "2026-10-05T07:22:07.885001+00:00",
       "identity_match": null,
@@ -917,28 +904,28 @@
       "title": "GitHub - jinlab-imvr/ReSurgSAM2: [MICCAI 2025] Official code implementation for paper: ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking · GitHub",
       "bytes": 317598
     },
+    "after": {
+      "url": "https://github.com/jinlab-imvr/ReSurgSAM2",
+      "checked_at": "2026-10-12T07:38:26.123078+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/jinlab-imvr/ReSurgSAM2",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "a40af55155aa649cc588aae77e291842c258cfe4654d7917fe879c21cd019a5f",
+      "title": "GitHub - jinlab-imvr/ReSurgSAM2: [MICCAI 2025] Official code implementation for paper: ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking · GitHub",
+      "bytes": 322889
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:edb95506d6f26a2b": {
     "ids": [
       "HPBAI-006"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/jinlab-imvr/SurgSLOT",
     "before": {
-      "url": "https://github.com/jinlab-imvr/SurgSLOT",
-      "checked_at": "2026-09-28T07:09:44.075455+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/jinlab-imvr/SurgSLOT",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "2686521ff000df61b79bf4a269e96e7533defe17f00ee76d291ce41b61f6703e",
-      "title": "GitHub - jinlab-imvr/SurgSLOT: Official code implementation for paper &quot;SurgSLOT: Segment Anything in Surgical Videos via Semantic Long-term Tracking&quot; · GitHub",
-      "bytes": 361441
-    },
-    "after": {
       "url": "https://github.com/jinlab-imvr/SurgSLOT",
       "checked_at": "2026-10-05T07:22:08.307666+00:00",
       "identity_match": null,
@@ -951,28 +938,28 @@
       "title": "GitHub - jinlab-imvr/SurgSLOT: Official code implementation for paper &quot;SurgSLOT: Segment Anything in Surgical Videos via Semantic Long-term Tracking&quot; · GitHub",
       "bytes": 362135
     },
+    "after": {
+      "url": "https://github.com/jinlab-imvr/SurgSLOT",
+      "checked_at": "2026-10-12T07:38:26.258595+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/jinlab-imvr/SurgSLOT",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "769bed70dc3849596a348dc10b259e8c27cf9a93930f4f5c97079fcb4bec36bb",
+      "title": "GitHub - jinlab-imvr/SurgSLOT: Official code implementation for paper &quot;SurgSLOT: Segment Anything in Surgical Videos via Semantic Long-term Tracking&quot; · GitHub",
+      "bytes": 366983
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:4bbb673b400408f7": {
     "ids": [
       "HPBAI-034"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/jinlab-imvr/SurgVLM",
     "before": {
-      "url": "https://github.com/jinlab-imvr/SurgVLM",
-      "checked_at": "2026-09-28T07:09:44.418210+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/jinlab-imvr/SurgVLM",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "2402dab7b899fc56b18fec5d1187399c968e4a13d70127bdada912275539d955",
-      "title": "GitHub - jinlab-imvr/SurgVLM · GitHub",
-      "bytes": 286287
-    },
-    "after": {
       "url": "https://github.com/jinlab-imvr/SurgVLM",
       "checked_at": "2026-10-05T07:22:08.388550+00:00",
       "identity_match": null,
@@ -985,28 +972,28 @@
       "title": "GitHub - jinlab-imvr/SurgVLM · GitHub",
       "bytes": 286981
     },
+    "after": {
+      "url": "https://github.com/jinlab-imvr/SurgVLM",
+      "checked_at": "2026-10-12T07:38:26.506598+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/jinlab-imvr/SurgVLM",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "bc93967d414806a28efd022d08068a815f0a7e4cfd07c6ab00a0449b20e8073c",
+      "title": "GitHub - jinlab-imvr/SurgVLM · GitHub",
+      "bytes": 291679
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:71244e283719a056": {
     "ids": [
       "HPBAI-009"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/jinlab-imvr/Surgical-SAM-2",
     "before": {
-      "url": "https://github.com/jinlab-imvr/Surgical-SAM-2",
-      "checked_at": "2026-09-28T07:09:44.495103+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/jinlab-imvr/Surgical-SAM-2",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "96fa8c6bd92dcdab0bfb26115dec373b59cd3d2bddf5d4c1ee43939b8ccafb17",
-      "title": "GitHub - jinlab-imvr/Surgical-SAM-2: [NeurIPS 2024 Workshop AIM-FM] Official code implementation for paper: Surgical SAM 2 · GitHub",
-      "bytes": 307731
-    },
-    "after": {
       "url": "https://github.com/jinlab-imvr/Surgical-SAM-2",
       "checked_at": "2026-10-05T07:22:08.471291+00:00",
       "identity_match": null,
@@ -1019,28 +1006,28 @@
       "title": "GitHub - jinlab-imvr/Surgical-SAM-2: [NeurIPS 2024 Workshop AIM-FM] Official code implementation for paper: Surgical SAM 2 · GitHub",
       "bytes": 308425
     },
+    "after": {
+      "url": "https://github.com/jinlab-imvr/Surgical-SAM-2",
+      "checked_at": "2026-10-12T07:38:26.591191+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/jinlab-imvr/Surgical-SAM-2",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "36bf51ecae00a54f9da4216cdd6e26c50cf793da10b20fd472e0536b9e2dd639",
+      "title": "GitHub - jinlab-imvr/Surgical-SAM-2: [NeurIPS 2024 Workshop AIM-FM] Official code implementation for paper: Surgical SAM 2 · GitHub",
+      "bytes": 314001
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:dcddaa00203d1415": {
     "ids": [
       "HPBAI-038"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/jinlab-imvr/UniSurgSAM",
     "before": {
-      "url": "https://github.com/jinlab-imvr/UniSurgSAM",
-      "checked_at": "2026-09-28T07:09:44.704898+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/jinlab-imvr/UniSurgSAM",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "f81cecf067de217cd803345451fb66cf91f6a4c4d430bc8c04eaec4fd1ffcb4e",
-      "title": "GitHub - jinlab-imvr/UniSurgSAM: Official code implementation for paper &quot;UniSurgSAM: A Universal Promptable Model for Reliable Surgical Video Segmentation&quot; · GitHub",
-      "bytes": 260245
-    },
-    "after": {
       "url": "https://github.com/jinlab-imvr/UniSurgSAM",
       "checked_at": "2026-10-05T07:22:08.962684+00:00",
       "identity_match": null,
@@ -1053,28 +1040,28 @@
       "title": "GitHub - jinlab-imvr/UniSurgSAM: Official code implementation for paper &quot;UniSurgSAM: A Universal Promptable Model for Reliable Surgical Video Segmentation&quot; · GitHub",
       "bytes": 260937
     },
+    "after": {
+      "url": "https://github.com/jinlab-imvr/UniSurgSAM",
+      "checked_at": "2026-10-12T07:38:26.690063+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/jinlab-imvr/UniSurgSAM",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "273c29a7d5c27c18f4ea164549d311d73590c17229f7385be00781a1775706c7",
+      "title": "GitHub - jinlab-imvr/UniSurgSAM: Official code implementation for paper &quot;UniSurgSAM: A Universal Promptable Model for Reliable Surgical Video Segmentation&quot; · GitHub",
+      "bytes": 264469
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:a29a0390d895bb40": {
     "ids": [
       "HPBAI-031"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/mobarakol/SRFTGaLore_LiverLandmark",
     "before": {
-      "url": "https://github.com/mobarakol/SRFTGaLore_LiverLandmark",
-      "checked_at": "2026-09-28T07:09:45.270230+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/mobarakol/SRFTGaLore_LiverLandmark",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "68d1b258804d359b5f5f925cc7c61a8de3b974bf81a2c398551a381cf1591027",
-      "title": "GitHub - mobarakol/SRFTGaLore_LiverLandmark: SRFTGaLore for Liver Landmark Segmentation · GitHub",
-      "bytes": 265779
-    },
-    "after": {
       "url": "https://github.com/mobarakol/SRFTGaLore_LiverLandmark",
       "checked_at": "2026-10-05T07:22:08.976571+00:00",
       "identity_match": null,
@@ -1087,28 +1074,28 @@
       "title": "GitHub - mobarakol/SRFTGaLore_LiverLandmark: SRFTGaLore for Liver Landmark Segmentation · GitHub",
       "bytes": 266470
     },
+    "after": {
+      "url": "https://github.com/mobarakol/SRFTGaLore_LiverLandmark",
+      "checked_at": "2026-10-12T07:38:27.152414+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/mobarakol/SRFTGaLore_LiverLandmark",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "722bdb1e8a72e33bbd7b009a1a04281182e2900bcfcb448a404de0935bbb88e6",
+      "title": "GitHub - mobarakol/SRFTGaLore_LiverLandmark: SRFTGaLore for Liver Landmark Segmentation · GitHub",
+      "bytes": 268598
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:e14c1a9c0c9e27ac": {
     "ids": [
       "HPBAI-035"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://github.com/scott-yjyang/Vivim",
     "before": {
-      "url": "https://github.com/scott-yjyang/Vivim",
-      "checked_at": "2026-09-28T07:09:45.336885+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://github.com/scott-yjyang/Vivim",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "0418caedaa750fdae0e004f7c6deb31f5ac829b8d0640d6786e4f1b8f4e4da3a",
-      "title": "GitHub - scott-yjyang/Vivim: [IEEE TCSVT] Vivim: a Video Vision Mamba for Medical Video Segmentation · GitHub",
-      "bytes": 290226
-    },
-    "after": {
       "url": "https://github.com/scott-yjyang/Vivim",
       "checked_at": "2026-10-05T07:22:08.992365+00:00",
       "identity_match": null,
@@ -1121,28 +1108,28 @@
       "title": "GitHub - scott-yjyang/Vivim: [IEEE TCSVT] Vivim: a Video Vision Mamba for Medical Video Segmentation · GitHub",
       "bytes": 290919
     },
+    "after": {
+      "url": "https://github.com/scott-yjyang/Vivim",
+      "checked_at": "2026-10-12T07:38:27.234976+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://github.com/scott-yjyang/Vivim",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "3fed3041e8e8dcbf24c8998115996dd0964a384a09df8a1267d719ce709f8e49",
+      "title": "GitHub - scott-yjyang/Vivim: [IEEE TCSVT] Vivim: a Video Vision Mamba for Medical Video Segmentation · GitHub",
+      "bytes": 294867
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:7d497549f4c531bd": {
     "ids": [
       "HPBAI-006"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://huggingface.co/HeverLaw/SurgSLOT",
     "before": {
-      "url": "https://huggingface.co/HeverLaw/SurgSLOT",
-      "checked_at": "2026-09-28T07:09:45.671082+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://huggingface.co/HeverLaw/SurgSLOT",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "85c06538b0252c71ff3e9899d89342b114a58d9b98f5e4b74280e05a2cb6949f",
-      "title": "HeverLaw/SurgSLOT · Hugging Face",
-      "bytes": 85250
-    },
-    "after": {
       "url": "https://huggingface.co/HeverLaw/SurgSLOT",
       "checked_at": "2026-10-05T07:22:09.738472+00:00",
       "identity_match": null,
@@ -1155,28 +1142,28 @@
       "title": "HeverLaw/SurgSLOT · Hugging Face",
       "bytes": 85339
     },
+    "after": {
+      "url": "https://huggingface.co/HeverLaw/SurgSLOT",
+      "checked_at": "2026-10-12T07:38:27.438039+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://huggingface.co/HeverLaw/SurgSLOT",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "06d0f48c57ace46d3e84e98b3da8bd8a6b9057c854c5be992de02630c177f669",
+      "title": "HeverLaw/SurgSLOT · Hugging Face",
+      "bytes": 85280
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:d54b7ca674a3fbc5": {
     "ids": [
       "HPBAI-003"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/checkpoints",
     "before": {
-      "url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/checkpoints",
-      "checked_at": "2026-09-28T07:09:45.825362+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/checkpoints",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "eeafcd144bac280a9d25465ff46f8180a6ba6e18309b39ec0e0c30c80aeb261f",
-      "title": "SsharvienKumar/SASVi at main",
-      "bytes": 86529
-    },
-    "after": {
       "url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/checkpoints",
       "checked_at": "2026-10-05T07:22:09.796886+00:00",
       "identity_match": null,
@@ -1189,28 +1176,28 @@
       "title": "SsharvienKumar/SASVi at main",
       "bytes": 86640
     },
+    "after": {
+      "url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/checkpoints",
+      "checked_at": "2026-10-12T07:38:27.694429+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/checkpoints",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "050aa205f0c453323df173361985bf8505f2be9dd11a156c2263b55804f3281c",
+      "title": "SsharvienKumar/SASVi at main",
+      "bytes": 86543
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:bd3e5e810cddb218": {
     "ids": [
       "HPBAI-003"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/dataset",
     "before": {
-      "url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/dataset",
-      "checked_at": "2026-09-28T07:09:46.072777+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/dataset",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "171d97182f184bc7cb328c0a20d65d54d7075f99018338296f57e3bde50777f7",
-      "title": "SsharvienKumar/SASVi at main",
-      "bytes": 91807
-    },
-    "after": {
       "url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/dataset",
       "checked_at": "2026-10-05T07:22:09.836979+00:00",
       "identity_match": null,
@@ -1223,28 +1210,28 @@
       "title": "SsharvienKumar/SASVi at main",
       "bytes": 91875
     },
+    "after": {
+      "url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/dataset",
+      "checked_at": "2026-10-12T07:38:27.748466+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://huggingface.co/SsharvienKumar/SASVi/tree/main/dataset",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "9f7aa9301132a54c37a4899855eb7386da028aabde84e379348ebb2b0bf9c04b",
+      "title": "SsharvienKumar/SASVi at main",
+      "bytes": 92134
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:b9c5077194f7932c": {
     "ids": [
       "HPBAI-032"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://huggingface.co/datasets/GAASH-Lab/GroundedSurg",
     "before": {
-      "url": "https://huggingface.co/datasets/GAASH-Lab/GroundedSurg",
-      "checked_at": "2026-09-28T07:09:46.098579+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://huggingface.co/datasets/GAASH-Lab/GroundedSurg",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "68c5f51ea0449d74c870afa028e3f4f0ebe697b386f3d59c8bd31541238db41f",
-      "title": "GAASH-Lab/GroundedSurg · Datasets at Hugging Face",
-      "bytes": 437648
-    },
-    "after": {
       "url": "https://huggingface.co/datasets/GAASH-Lab/GroundedSurg",
       "checked_at": "2026-10-05T07:22:09.878354+00:00",
       "identity_match": null,
@@ -1257,28 +1244,28 @@
       "title": "GAASH-Lab/GroundedSurg · Datasets at Hugging Face",
       "bytes": 437967
     },
+    "after": {
+      "url": "https://huggingface.co/datasets/GAASH-Lab/GroundedSurg",
+      "checked_at": "2026-10-12T07:38:27.761611+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://huggingface.co/datasets/GAASH-Lab/GroundedSurg",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "d75fcc002871aca1a2601864d0e3fc84e8a2442cf483a1d3cdc74ab3c577984f",
+      "title": "GAASH-Lab/GroundedSurg · Datasets at Hugging Face",
+      "bytes": 437908
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:a324e7e2a3f9fd0a": {
     "ids": [
       "HPBAI-034"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://huggingface.co/datasets/SurgSigma/SurgSigma-DB",
     "before": {
-      "url": "https://huggingface.co/datasets/SurgSigma/SurgSigma-DB",
-      "checked_at": "2026-09-28T07:09:46.231402+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://huggingface.co/datasets/SurgSigma/SurgSigma-DB",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "7638b63bb68bb502c8ac700377dc611fe01963b184d0059d4084f4f24dae543f",
-      "title": "SurgSigma/SurgSigma-DB · Datasets at Hugging Face",
-      "bytes": 172638
-    },
-    "after": {
       "url": "https://huggingface.co/datasets/SurgSigma/SurgSigma-DB",
       "checked_at": "2026-10-05T07:22:10.086738+00:00",
       "identity_match": null,
@@ -1291,28 +1278,28 @@
       "title": "SurgSigma/SurgSigma-DB · Datasets at Hugging Face",
       "bytes": 172967
     },
+    "after": {
+      "url": "https://huggingface.co/datasets/SurgSigma/SurgSigma-DB",
+      "checked_at": "2026-10-12T07:38:27.907143+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://huggingface.co/datasets/SurgSigma/SurgSigma-DB",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "488b443c1e5cb00f9781c5bce63d13905118b6e995cd66d0c4f6fb3cae20745d",
+      "title": "SurgSigma/SurgSigma-DB · Datasets at Hugging Face",
+      "bytes": 172908
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:f4d5432e3c5444a4": {
     "ids": [
       "HPBAI-015"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://huggingface.co/datasets/gkw0010/SVU-31K/tree/main",
     "before": {
-      "url": "https://huggingface.co/datasets/gkw0010/SVU-31K/tree/main",
-      "checked_at": "2026-09-28T07:09:46.450985+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://huggingface.co/datasets/gkw0010/SVU-31K/tree/main",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "9c838aa360c1920dced8ad2897a60692ea9e21cd777d4ce77707fa0016a4054b",
-      "title": "gkw0010/SVU-31K at main",
-      "bytes": 142866
-    },
-    "after": {
       "url": "https://huggingface.co/datasets/gkw0010/SVU-31K/tree/main",
       "checked_at": "2026-10-05T07:22:10.112298+00:00",
       "identity_match": null,
@@ -1325,28 +1312,28 @@
       "title": "gkw0010/SVU-31K at main",
       "bytes": 144191
     },
+    "after": {
+      "url": "https://huggingface.co/datasets/gkw0010/SVU-31K/tree/main",
+      "checked_at": "2026-10-12T07:38:28.001914+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://huggingface.co/datasets/gkw0010/SVU-31K/tree/main",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "1f255e05a03e39187b2e02ab2b2e48b8e8e0cd2a51c76238e34833a3c8855515",
+      "title": "gkw0010/SVU-31K at main",
+      "bytes": 144436
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:f3a69b24a4f66578": {
     "ids": [
       "HPBAI-016"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://huggingface.co/datasets/wanggui/SurgCoT",
     "before": {
-      "url": "https://huggingface.co/datasets/wanggui/SurgCoT",
-      "checked_at": "2026-09-28T07:09:46.531841+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://huggingface.co/datasets/wanggui/SurgCoT",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "69a4668ddaf889881ecffdb1ebbe36ca962a378b58523ad434e41dad52edc81e",
-      "title": "wanggui/SurgCoT · Datasets at Hugging Face",
-      "bytes": 668275
-    },
-    "after": {
       "url": "https://huggingface.co/datasets/wanggui/SurgCoT",
       "checked_at": "2026-10-05T07:22:10.119318+00:00",
       "identity_match": null,
@@ -1359,28 +1346,28 @@
       "title": "wanggui/SurgCoT · Datasets at Hugging Face",
       "bytes": 668540
     },
+    "after": {
+      "url": "https://huggingface.co/datasets/wanggui/SurgCoT",
+      "checked_at": "2026-10-12T07:38:28.079574+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://huggingface.co/datasets/wanggui/SurgCoT",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "0242972cf5e05aefb93ab1c5ea8323f06ee6af629a0b1e18eb1fee7d3dc624b2",
+      "title": "wanggui/SurgCoT · Datasets at Hugging Face",
+      "bytes": 668478
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:96bd983894ea7781": {
     "ids": [
       "HPBAI-015"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://huggingface.co/jwang01/surgvidlm/tree/main",
     "before": {
-      "url": "https://huggingface.co/jwang01/surgvidlm/tree/main",
-      "checked_at": "2026-09-28T07:09:46.601972+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://huggingface.co/jwang01/surgvidlm/tree/main",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "a9434426be57241694859fd268dafc8f33d96abd5abfa430cba70df862ad2223",
-      "title": "jwang01/surgvidlm at main",
-      "bytes": 85984
-    },
-    "after": {
       "url": "https://huggingface.co/jwang01/surgvidlm/tree/main",
       "checked_at": "2026-10-05T07:22:10.262576+00:00",
       "identity_match": null,
@@ -1393,28 +1380,28 @@
       "title": "jwang01/surgvidlm at main",
       "bytes": 86493
     },
+    "after": {
+      "url": "https://huggingface.co/jwang01/surgvidlm/tree/main",
+      "checked_at": "2026-10-12T07:38:28.156869+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://huggingface.co/jwang01/surgvidlm/tree/main",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "d29be1b67fd0409e697c48cd35db9e441d8ca7343463e25b1f5412d3979debd9",
+      "title": "jwang01/surgvidlm at main",
+      "bytes": 86084
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:afe324e9e503e444": {
     "ids": [
       "HPBAI-027"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://huggingface.co/mehmetkeremturkcan/SAM3-Joint-Surgical",
     "before": {
-      "url": "https://huggingface.co/mehmetkeremturkcan/SAM3-Joint-Surgical",
-      "checked_at": "2026-09-28T07:09:46.806277+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://huggingface.co/mehmetkeremturkcan/SAM3-Joint-Surgical",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "cdbab31c222989f2fa53426ca9245b801559f98cc0369b168a0591c1da57469a",
-      "title": "mehmetkeremturkcan/SAM3-Joint-Surgical · Hugging Face",
-      "bytes": 151504
-    },
-    "after": {
       "url": "https://huggingface.co/mehmetkeremturkcan/SAM3-Joint-Surgical",
       "checked_at": "2026-10-05T07:22:10.432339+00:00",
       "identity_match": null,
@@ -1427,6 +1414,19 @@
       "title": "mehmetkeremturkcan/SAM3-Joint-Surgical · Hugging Face",
       "bytes": 151621
     },
+    "after": {
+      "url": "https://huggingface.co/mehmetkeremturkcan/SAM3-Joint-Surgical",
+      "checked_at": "2026-10-12T07:38:28.331109+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://huggingface.co/mehmetkeremturkcan/SAM3-Joint-Surgical",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "77c2e3312f52d30d2e7471eb9679beb4ad03c299d8322ed0347df5b41ca847af",
+      "title": "mehmetkeremturkcan/SAM3-Joint-Surgical · Hugging Face",
+      "bytes": 151558
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:cee442241aaceceb": {
@@ -1434,22 +1434,9 @@
       "HPBAI-031",
       "HPBAI-041"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://rdr.ucl.ac.uk/articles/dataset/LLSD/31096477",
     "before": {
-      "url": "https://rdr.ucl.ac.uk/articles/dataset/LLSD/31096477",
-      "checked_at": "2026-09-28T07:09:47.198336+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://rdr.ucl.ac.uk/articles/dataset/LLSD/31096477",
-      "content_type": "text/html",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "66314f471873c0ab709d2833f6d689f73dfa93e16de18ab203f509113b9730c6",
-      "title": "Item - LLSD - University College London - Figshare",
-      "bytes": 152428
-    },
-    "after": {
       "url": "https://rdr.ucl.ac.uk/articles/dataset/LLSD/31096477",
       "checked_at": "2026-10-05T07:22:10.665150+00:00",
       "identity_match": null,
@@ -1462,28 +1449,28 @@
       "title": "Item - LLSD - University College London - Figshare",
       "bytes": 152428
     },
+    "after": {
+      "url": "https://rdr.ucl.ac.uk/articles/dataset/LLSD/31096477",
+      "checked_at": "2026-10-12T07:38:28.642627+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://rdr.ucl.ac.uk/articles/dataset/LLSD/31096477",
+      "content_type": "text/html",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "f3e234414774314a961820d1f131054b769d910e8ab18c666a52dc08556ee7b8",
+      "title": "Item - LLSD - University College London - Figshare",
+      "bytes": 152428
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:7ab6a26415f6e416": {
     "ids": [
       "HPBAI-021"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://www.kaggle.com/datasets/newslab/cholecseg8k",
     "before": {
-      "url": "https://www.kaggle.com/datasets/newslab/cholecseg8k",
-      "checked_at": "2026-09-28T07:09:47.368052+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://www.kaggle.com/datasets/newslab/cholecseg8k",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "589619c20c09f2f039c328bb888b9d95a014a9093483c699477e063b0db2e4b1",
-      "title": "CholecSeg8k | Kaggle",
-      "bytes": 14111
-    },
-    "after": {
       "url": "https://www.kaggle.com/datasets/newslab/cholecseg8k",
       "checked_at": "2026-10-05T07:22:10.802535+00:00",
       "identity_match": null,
@@ -1496,28 +1483,28 @@
       "title": "CholecSeg8k | Kaggle",
       "bytes": 14374
     },
+    "after": {
+      "url": "https://www.kaggle.com/datasets/newslab/cholecseg8k",
+      "checked_at": "2026-10-12T07:38:28.651572+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://www.kaggle.com/datasets/newslab/cholecseg8k",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "d021a2d86a794140f6aba52aa776e88cae2aa3b082f78e1162e4a6bed7b2f958",
+      "title": "CholecSeg8k | Kaggle",
+      "bytes": 14437
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:9fa5e94f17c3f205": {
     "ids": [
       "HPBAI-007"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://www.kaggle.com/datasets/prohuge/vip20k",
     "before": {
-      "url": "https://www.kaggle.com/datasets/prohuge/vip20k",
-      "checked_at": "2026-09-28T07:09:47.446246+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://www.kaggle.com/datasets/prohuge/vip20k",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "dbf9b21c7d27b57b639899bb59e123fbea4bac118dd6d776feaed4e52483ab4d",
-      "title": "VIP20K | Kaggle",
-      "bytes": 9644
-    },
-    "after": {
       "url": "https://www.kaggle.com/datasets/prohuge/vip20k",
       "checked_at": "2026-10-05T07:22:10.943676+00:00",
       "identity_match": null,
@@ -1530,28 +1517,28 @@
       "title": "VIP20K | Kaggle",
       "bytes": 9907
     },
+    "after": {
+      "url": "https://www.kaggle.com/datasets/prohuge/vip20k",
+      "checked_at": "2026-10-12T07:38:28.799595+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://www.kaggle.com/datasets/prohuge/vip20k",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "a06a754ff384e19fa478c460f7db5959096604e57ef756f7e1c1ca6712ea7d34",
+      "title": "VIP20K | Kaggle",
+      "bytes": 9905
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:f4a0729b301dbc07": {
     "ids": [
       "HPBAI-017"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://www.nature.com/articles/s41746-026-02864-3",
     "before": {
-      "url": "https://www.nature.com/articles/s41746-026-02864-3",
-      "checked_at": "2026-09-28T07:09:47.675568+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://www.nature.com/articles/s41746-026-02864-3?error=cookies_not_supported&code=e0f0b388-1950-48dd-903a-bb542a7334e2",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "010e76e0b1305300cf85e0cbd64e5e3b0e95048200a99c40fa35efe5a463d569",
-      "title": "Author Correction: Large-scale self-supervised video foundation model for intelligent surgery | npj Digital Medicine",
-      "bytes": 251533
-    },
-    "after": {
       "url": "https://www.nature.com/articles/s41746-026-02864-3",
       "checked_at": "2026-10-05T07:22:11.009791+00:00",
       "identity_match": null,
@@ -1564,6 +1551,19 @@
       "title": "Author Correction: Large-scale self-supervised video foundation model for intelligent surgery | npj Digital Medicine",
       "bytes": 252714
     },
+    "after": {
+      "url": "https://www.nature.com/articles/s41746-026-02864-3",
+      "checked_at": "2026-10-12T07:38:28.876085+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://www.nature.com/articles/s41746-026-02864-3?error=cookies_not_supported&code=93dfe643-1a3b-4a82-b92b-875899ee836e",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "94f2611f1f26946bf18a30138304bed19f5c9fa2851490a48d8f0f267381f8ab",
+      "title": "Author Correction: Large-scale self-supervised video foundation model for intelligent surgery | npj Digital Medicine",
+      "bytes": 253684
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:c088d7e40f9beef7": {
@@ -1571,22 +1571,9 @@
       "HPBAI-035",
       "HPBAI-042"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://www.nature.com/articles/s41746-026-02989-5",
     "before": {
-      "url": "https://www.nature.com/articles/s41746-026-02989-5",
-      "checked_at": "2026-09-28T07:09:47.736294+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://www.nature.com/articles/s41746-026-02989-5?error=cookies_not_supported&code=918eb1e1-32a5-4afd-a2b6-b2eff3991d75",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "820f3a0e766b54fc8c59055fa00651ff1c635707084b7040e234556d3001ad61",
-      "title": "Real-time anatomy recognition in laparoscopic liver resection using video segmentation AI model | npj Digital Medicine",
-      "bytes": 246518
-    },
-    "after": {
       "url": "https://www.nature.com/articles/s41746-026-02989-5",
       "checked_at": "2026-10-05T07:22:11.320029+00:00",
       "identity_match": null,
@@ -1599,6 +1586,19 @@
       "title": "Real-time anatomy recognition in laparoscopic liver resection using video segmentation AI model | npj Digital Medicine",
       "bytes": 247703
     },
+    "after": {
+      "url": "https://www.nature.com/articles/s41746-026-02989-5",
+      "checked_at": "2026-10-12T07:38:28.991776+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://www.nature.com/articles/s41746-026-02989-5?error=cookies_not_supported&code=a18e8622-5e72-4820-8def-80145e36b838",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "d64d804cba0af37ccc0d18cb01da269bed49bd68b52970d04c6e50bfcc6da453",
+      "title": "Real-time anatomy recognition in laparoscopic liver resection using video segmentation AI model | npj Digital Medicine",
+      "bytes": 248060
+    },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
   "asset:42417603ebf337dc": {
@@ -1606,22 +1606,9 @@
       "HPBAI-008",
       "HPBAI-044"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://www.youtube.com/watch?v=z4Ez4TXVQL4",
     "before": {
-      "url": "https://www.youtube.com/watch?v=z4Ez4TXVQL4",
-      "checked_at": "2026-09-28T07:09:48.343603+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://www.youtube.com/watch?v=z4Ez4TXVQL4",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "3bbe41dcbfca046f5864bd311dae006557bd2f1d2aba9559cce79f2da5e83569",
-      "title": "- YouTube",
-      "bytes": 1093721
-    },
-    "after": {
       "url": "https://www.youtube.com/watch?v=z4Ez4TXVQL4",
       "checked_at": "2026-10-05T07:22:11.651483+00:00",
       "identity_match": null,
@@ -1633,6 +1620,19 @@
       "sha256": "43f1213dc1e90d9c197d097bacd5f1db80cc2ba9ccb3b9ca468834b4fc566519",
       "title": "- YouTube",
       "bytes": 1153659
+    },
+    "after": {
+      "url": "https://www.youtube.com/watch?v=z4Ez4TXVQL4",
+      "checked_at": "2026-10-12T07:38:29.434008+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://www.youtube.com/watch?v=z4Ez4TXVQL4",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "61cb8b88f674aa20ca43bb7d0320e247b30579d512f3799030b141e313c95116",
+      "title": "- YouTube",
+      "bytes": 1188851
     },
     "status": "页面/访问条件变化；代码提交不计为新论文，内容待复核"
   },
@@ -1652,7 +1652,7 @@
   "HPBAI-002:metadata:arXiv known ID": {
     "id": "HPBAI-002",
     "source": "arXiv known ID",
-    "detected_at": "2026-09-28T07:07:30.551481+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "changes": {
       "title": {
         "before": "A fine-tuned foundational model SurgiSAM2 for surgical video anatomy segmentation and detection",
@@ -1666,22 +1666,9 @@
     "ids": [
       "HPBAI-020"
     ],
-    "detected_at": "2026-10-05T07:19:25.871904+00:00",
+    "detected_at": "2026-10-12T07:36:00.763663+00:00",
     "url": "https://camma.unistra.fr/datasets/",
     "before": {
-      "url": "https://camma.unistra.fr/datasets/",
-      "checked_at": "2026-09-28T07:09:37.900122+00:00",
-      "identity_match": null,
-      "playback_tested": false,
-      "http_status": 200,
-      "final_url": "https://camma.unistra.fr/datasets/",
-      "content_type": "text/html; charset=utf-8",
-      "status": "文本页面取得；不等于内容已复核",
-      "sha256": "8c5180785cf257bb9ca708faa58cef0d20705902fe347fec08a4c1da194ca904",
-      "title": "Datasets &#8211; Research Group CAMMA",
-      "bytes": 59227
-    },
-    "after": {
       "url": "https://camma.unistra.fr/datasets/",
       "checked_at": "2026-10-05T07:22:02.699361+00:00",
       "identity_match": null,
@@ -1691,6 +1678,19 @@
       "content_type": "text/html; charset=utf-8",
       "status": "文本页面取得；不等于内容已复核",
       "sha256": "6921bbbe597278c10b2da52676b3ff8d44328945ff38b8011791ae3c222f0c34",
+      "title": "Datasets &#8211; Research Group CAMMA",
+      "bytes": 59227
+    },
+    "after": {
+      "url": "https://camma.unistra.fr/datasets/",
+      "checked_at": "2026-10-12T07:38:21.656709+00:00",
+      "identity_match": null,
+      "playback_tested": false,
+      "http_status": 200,
+      "final_url": "https://camma.unistra.fr/datasets/",
+      "content_type": "text/html; charset=utf-8",
+      "status": "文本页面取得；不等于内容已复核",
+      "sha256": "565b032e9174afa0b0beb05787fd8f639a56453ff7f6abc0db73dfc9340eceaa",
       "title": "Datasets &#8211; Research Group CAMMA",
       "bytes": 59227
     },
