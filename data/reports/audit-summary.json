@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T08:24:35.197728+00:00",
-  "data_version": "hpb-cb62c800b08dcd06",
+  "generated_at": "2026-11-16T08:23:20.512003+00:00",
+  "data_version": "hpb-4ce0911ff8f0f2fd",
   "counts": {
     "article": 286,
     "society": 1,
@@ -16,7 +16,7 @@
   },
   "current_page_attempts": 368,
   "core_identity_confirmed": 260,
-  "page_title_matched": 271,
+  "page_title_matched": 283,
   "matched_fulltext_obtained": 73,
   "substantive_notes": 285,
   "source_limited": [
@@ -26,5 +26,5 @@
   "videos_playback_passed": 0,
   "embeds_passed": 0,
   "last_successful_search": "2026-11-09T08:08:11.883664+00:00",
-  "last_successful_publish": "2026-11-02T08:28:26.266915+00:00"
+  "last_successful_publish": "2026-11-09T08:24:55.664073+00:00"
 }

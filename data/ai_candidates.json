@@ -2888,7 +2888,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:39:58.330322+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -2947,7 +2947,7 @@
       "entrez": "2024-11-18"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.587423+00:00"
+    "checked_at": "2026-11-16T08:20:50.580175+00:00"
   },
   "HPBAI-CAND-ed02ae28688b00e9": {
     "title": "Reducing invasiveness in liver surgery-where is the limit?",
@@ -3019,7 +3019,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:39:58.330322+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -3078,7 +3078,7 @@
       "entrez": "2024-1-12"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.588731+00:00"
+    "checked_at": "2026-11-16T08:20:50.581550+00:00"
   },
   "HPBAI-CAND-39064089349d056a": {
     "title": "Artificial Intelligence in Hepatocellular Carcinoma: Current Applications, Clinical Performance, and Barriers to Implementation.",
@@ -3148,7 +3148,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:39:58.330322+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -3200,7 +3200,7 @@
       "entrez": "2025-9-23"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678665+00:00"
+    "checked_at": "2026-11-16T08:20:49.322313+00:00"
   },
   "HPBAI-CAND-7161240172557754": {
     "title": "Turning the Tide-Artificial Intelligence in the Evolving Landscape of Liver Cancer.",
@@ -20798,7 +20798,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:39:58.330322+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -20851,7 +20851,7 @@
       "pmc-release": "2017-4-11"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.590894+00:00"
+    "checked_at": "2026-11-16T08:20:50.583489+00:00"
   },
   "HPBAI-CAND-15d9d92353f1e9cd": {
     "title": "Potential of Radiomics, Dosiomics, and Dose Volume Histograms for Tumor Response Prediction in Hepatocellular Carcinoma following &lt;sup&gt;90&lt;/sup&gt;Y-SIRT.",
@@ -30675,7 +30675,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:44:51.355861+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -30730,7 +30730,7 @@
       "pmc-release": "2026-7-15"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677012+00:00"
+    "checked_at": "2026-11-16T08:20:49.320008+00:00"
   },
   "HPBAI-CAND-8d658b9162adc179": {
     "title": "Applications of Reinforcement Learning for Autonomous Surgical Robotics: A Systematic Review.",
@@ -31187,7 +31187,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:44:51.355861+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -31223,7 +31223,7 @@
       "entrez": "2026-2-19"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678010+00:00"
+    "checked_at": "2026-11-16T08:20:49.321382+00:00"
   },
   "HPBAI-CAND-b8ea4483fb761b40": {
     "title": "Intraoperative surgical anatomy through the eyes of artificial intelligence: the silent tutor.",
@@ -31712,7 +31712,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:44:51.355861+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -31762,7 +31762,7 @@
       "pmc-release": "2026-10-21"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.675013+00:00"
+    "checked_at": "2026-11-16T08:20:49.317931+00:00"
   },
   "HPBAI-CAND-6c9f1ae206328a5a": {
     "title": "A Novel Dual-Modal Deep Learning Approach for Real-Time Removal of Hepatic Fluorescence in Indocyanine Green-Guided Laparoscopic Cholecystectomy.",
@@ -31829,7 +31829,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:44:51.355861+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC"
     ],
@@ -32415,7 +32415,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:44:51.355861+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -32463,7 +32463,7 @@
       "entrez": "2026-5-25"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677496+00:00"
+    "checked_at": "2026-11-16T08:20:49.320663+00:00"
   },
   "HPBAI-CAND-c8536ca4fb7f1903": {
     "title": "Deep learning-based surgical phase recognition in laparoscopic cholecystectomy.",
@@ -33672,7 +33672,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:44:51.355861+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -33720,7 +33720,7 @@
       "entrez": "2026-6-14"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677398+00:00"
+    "checked_at": "2026-11-16T08:20:49.320543+00:00"
   },
   "HPBAI-CAND-6bbb294064ca82e3": {
     "title": "Surgeons vs. Computer Vision: A comparative analysis on surgical phase recognition capabilities",
@@ -33801,7 +33801,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:44:51.355861+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -33850,7 +33850,7 @@
       "entrez": "2026-2-18"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678060+00:00"
+    "checked_at": "2026-11-16T08:20:49.321446+00:00"
   },
   "HPBAI-CAND-59f280a047dea354": {
     "title": "A surgical activity model of laparoscopic cholecystectomy for co-operation with collaborative robots.",
@@ -33999,7 +33999,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:44:51.355861+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -34055,7 +34055,7 @@
       "entrez": "2025-7-3"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.679103+00:00"
+    "checked_at": "2026-11-16T08:20:49.322823+00:00"
   },
   "HPBAI-CAND-4cd3c751515f896d": {
     "title": "The Intraoperative Role of Artificial Intelligence Within General Surgery: A Systematic Review.",
@@ -35506,7 +35506,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:44:51.355861+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -35543,7 +35543,7 @@
       "entrez": "2025-12-3"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678463+00:00"
+    "checked_at": "2026-11-16T08:20:49.322055+00:00"
   },
   "HPBAI-CAND-2f041732af019a4b": {
     "title": "Colour-Guided Surgery: A Conceptual Framework for Multimodal Intraoperative Visualisation-A Narrative Review.",
@@ -39623,7 +39623,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:44:51.355861+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -39675,7 +39675,7 @@
       "entrez": "2022-12-21"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589782+00:00"
+    "checked_at": "2026-11-16T08:20:50.582700+00:00"
   },
   "HPBAI-CAND-0a1240ecfae36dca": {
     "title": "LapEx: A new multimodal dataset for context recognition and practice assessment in laparoscopic surgery.",
@@ -40457,7 +40457,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:44:51.355861+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -40510,7 +40510,7 @@
       "entrez": "2023-11-9"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.588916+00:00"
+    "checked_at": "2026-11-16T08:20:50.581735+00:00"
   },
   "HPBAI-CAND-92855038b7d49df5": {
     "title": "A novel high accuracy model for automatic surgical workflow recognition using artificial intelligence in laparoscopic totally extraperitoneal inguinal hernia repair (TEP).",
@@ -41797,7 +41797,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:44:51.355861+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -41845,7 +41845,7 @@
       "entrez": "2023-7-26"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589082+00:00"
+    "checked_at": "2026-11-16T08:20:50.581910+00:00"
   },
   "HPBAI-CAND-c928cfe5252d91f8": {
     "title": "Ultrasonographic-guided robotic-assisted percutaneous nephrolithotomy.",
@@ -42503,7 +42503,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:44:51.355861+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -42554,7 +42554,7 @@
       "entrez": "2024-6-24"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.587833+00:00"
+    "checked_at": "2026-11-16T08:20:50.580603+00:00"
   },
   "HPBAI-CAND-47b201c2eab046f6": {
     "title": "Beyond Da Vinci: Comparative Review of Next-Generation Robotic Platforms in Urologic Surgery.",
@@ -57699,7 +57699,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -57754,7 +57754,7 @@
       "entrez": "2024-7-3"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.587762+00:00"
+    "checked_at": "2026-11-16T08:20:50.580546+00:00"
   },
   "HPBAI-CAND-d91bb60ae94e00ca": {
     "title": "Accuracy and Reliability of Artificial Intelligence in Surgical Decision-Making: A Literature Review.",
@@ -59818,7 +59818,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -59880,7 +59880,7 @@
       "entrez": "2026-6-22"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677343+00:00"
+    "checked_at": "2026-11-16T08:20:49.320486+00:00"
   },
   "HPBAI-CAND-040900fe88804ada": {
     "title": "A High-Quality Endoscopic Image Dataset with Annotated Recurrent Laryngeal Nerve for AI-Assisted Thyroid Surgery.",
@@ -60022,7 +60022,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -60081,7 +60081,7 @@
       "entrez": "2026-7-27"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.676791+00:00"
+    "checked_at": "2026-11-16T08:20:49.319822+00:00"
   },
   "HPBAI-CAND-2d7e5882386352aa": {
     "title": "Video-based assessment tool for workflow analysis in minimally invasive colorectal surgery: expert consensus-based development and multicentre validation of ColoWorkflow.",
@@ -60524,7 +60524,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -60564,7 +60564,7 @@
       "entrez": "2026-7-20"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677167+00:00"
+    "checked_at": "2026-11-16T08:20:49.320277+00:00"
   },
   "HPBAI-CAND-d18d850805cc67f0": {
     "title": "Ghost in the Machine: Leveraging artificial intelligence in the trauma bay.",
@@ -60964,7 +60964,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -61008,7 +61008,7 @@
       "pmc-release": "2026-7-7"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677279+00:00"
+    "checked_at": "2026-11-16T08:20:49.320410+00:00"
   },
   "HPBAI-CAND-fb69b6cbfd0ec286": {
     "title": "Immersive head-mounted control of a robotic laparoscopic camera: a usability and accuracy evaluation.",
@@ -61020,7 +61020,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -61058,7 +61058,7 @@
       "entrez": "2026-8-28"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.676449+00:00"
+    "checked_at": "2026-11-16T08:20:49.319169+00:00"
   },
   "HPBAI-CAND-b99610795b16f435": {
     "title": "Innovations in Gastric Cancer Surgery During Early Minimally Invasive Era and Future Perspectives.",
@@ -61103,12 +61103,12 @@
     "doi": "10.1038/s41598-026-45143-7",
     "pmid": "41866407",
     "year": "2026",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41866407/",
+    "url": "https://europepmc.org/article/MED/41866407",
     "id": "HPBAI-CAND-beb30e2b555bb077",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-02T08:25:07.333546+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -61283,7 +61283,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -61322,7 +61322,7 @@
       "entrez": "2026-7-26"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.676895+00:00"
+    "checked_at": "2026-11-16T08:20:49.319938+00:00"
   },
   "HPBAI-CAND-317bcc14c7453c8e": {
     "title": "Using deep vision-language models improves multi-task performance in assistance applications for endoscopic ENT surgery.",
@@ -61468,7 +61468,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed",
@@ -61522,7 +61522,7 @@
       "pmc-release": "2026-4-27"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677666+00:00",
+    "checked_at": "2026-11-16T08:20:49.320869+00:00",
     "arxiv": "2605.14253",
     "updated": "2026-05-14T01:42:56Z",
     "publication_date": "2026-05-14T01:42:56Z",
@@ -62423,12 +62423,12 @@
     "doi": "10.1055/a-2769-1052",
     "pmid": "41948166",
     "year": "2026",
-    "url": "https://europepmc.org/article/MED/41948166",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41948166/",
     "id": "HPBAI-CAND-cc25ec3358696620",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-09-21T06:37:18.767898+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -62462,7 +62462,7 @@
       "pmc-release": "2026-12-31"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-09-15T11:21:39.024924+00:00"
+    "checked_at": "2026-11-16T08:20:49.321149+00:00"
   },
   "HPBAI-CAND-2d64de9589b40969": {
     "title": "Autonomous RCM-less endoscope control: integrating force-based pivoting with deep learning visual servoing.",
@@ -62599,7 +62599,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -62640,7 +62640,7 @@
       "entrez": "2026-8-20"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.676606+00:00"
+    "checked_at": "2026-11-16T08:20:49.319488+00:00"
   },
   "HPBAI-CAND-a8d702bb70aad928": {
     "title": "Artificial Intelligence in Oral and Maxillofacial Surgery—A Narrative Review",
@@ -62829,7 +62829,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -62883,7 +62883,7 @@
       "entrez": "2026-8-13"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.676662+00:00"
+    "checked_at": "2026-11-16T08:20:49.319550+00:00"
   },
   "HPBAI-CAND-48f3544f0f041430": {
     "title": "AI-driven perioperative risk stratification and complication management in craniomaxillofacial surgery: current progress and future directions.",
@@ -63455,7 +63455,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -63511,7 +63511,7 @@
       "entrez": "2026-7-21"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677072+00:00"
+    "checked_at": "2026-11-16T08:20:49.320162+00:00"
   },
   "HPBAI-CAND-d9a87342bbe55fb9": {
     "title": "Depthwise-Dilated Convolutional Adapters for Medical Object Tracking and Segmentation Using the Segment Anything Model 2.",
@@ -64033,7 +64033,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -64093,7 +64093,7 @@
       "pmc-release": "2026-9-8"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.676326+00:00"
+    "checked_at": "2026-11-16T08:20:49.319010+00:00"
   },
   "HPBAI-CAND-7f19e22d5a5d8a7b": {
     "title": "Automated assessment of simulated laparoscopic surgical skill performance using deep learning.",
@@ -64728,7 +64728,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -64779,7 +64779,7 @@
       "entrez": "2025-9-2"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678766+00:00"
+    "checked_at": "2026-11-16T08:20:49.322433+00:00"
   },
   "HPBAI-CAND-15936456b3556e27": {
     "title": "Benchmarking complete-to-partial point cloud registration techniques for laparoscopic surgery.",
@@ -65440,7 +65440,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -65478,7 +65478,7 @@
       "entrez": "2026-8-11"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.676712+00:00"
+    "checked_at": "2026-11-16T08:20:49.319607+00:00"
   },
   "HPBAI-CAND-fd48504aa55b0dd9": {
     "title": "BlinkNet-Q: A Deep Learning-Based Software for Real-Time Blink Rate Quantification and Incomplete-Blink Pattern Recognition.",
@@ -65636,7 +65636,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -65686,7 +65686,7 @@
       "entrez": "2025-4-22"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.679607+00:00"
+    "checked_at": "2026-11-16T08:20:50.579770+00:00"
   },
   "HPBAI-CAND-fd4a3c8180bb65a5": {
     "title": "Artificial Intelligence and Digital Biomarkers for Early Detection and Monitoring of Neurological Disorders: A Narrative Review",
@@ -66817,7 +66817,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -66865,7 +66865,7 @@
       "entrez": "2026-5-28"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677448+00:00"
+    "checked_at": "2026-11-16T08:20:49.320604+00:00"
   },
   "HPBAI-CAND-006a792ee27250af": {
     "title": "Real-time deep learning for tumor segmentation and tool tracking: development and validation of an AI navigation system in vacuum-assisted breast biopsy.",
@@ -67138,7 +67138,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-02T08:25:07.333546+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -67172,7 +67172,7 @@
       "pmc-release": "2027-1-9"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-02T08:25:32.415897+00:00"
+    "checked_at": "2026-11-16T08:20:49.321201+00:00"
   },
   "HPBAI-CAND-191b68ed8f99a863": {
     "title": "Multimodal Large Language Models in Medical Imaging: Current State and Future Directions.",
@@ -69073,7 +69073,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -69116,19 +69116,19 @@
       "entrez": "2026-4-13"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677857+00:00"
+    "checked_at": "2026-11-16T08:20:49.321084+00:00"
   },
   "HPBAI-CAND-17c2d0c9fac4bcec": {
     "title": "\"Slow Is Smooth, Smooth Is Fast\": Artificial Intelligence-Driven Suturing Simulation for Cardiothoracic Surgical Training.",
     "doi": "10.1016/j.jsurg.2026.104073",
     "pmid": "42696816",
     "year": "2026",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42696816/",
+    "url": "https://europepmc.org/article/MED/42696816",
     "id": "HPBAI-CAND-17c2d0c9fac4bcec",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -69627,7 +69627,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed",
@@ -72360,7 +72360,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-10-12T07:36:00.763663+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -72369,7 +72369,7 @@
       "可迁移方法"
     ],
     "identity_status": "数据库候选；内容与资源页面尚待核对",
-    "pmcid": "",
+    "pmcid": "PMC13759707",
     "journal": "International journal of computer assisted radiology and surgery",
     "authors": [
       "Schollmaier Philipp",
@@ -72408,12 +72408,13 @@
     "dates": {
       "received": "2026-1-9",
       "accepted": "2026-6-24",
-      "medline": "2026-7-22",
+      "medline": "2026-11-12",
       "pubmed": "2026-7-22",
-      "entrez": "2026-7-22"
+      "entrez": "2026-7-22",
+      "pmc-release": "2026-7-22"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-10-12T07:36:24.199220+00:00"
+    "checked_at": "2026-11-16T08:20:49.320077+00:00"
   },
   "HPBAI-CAND-caec177e6b1231f7": {
     "title": "A Review of Deep Learning Approaches Based on Segment Anything Model for Medical Image Segmentation.",
@@ -74355,7 +74356,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -74396,7 +74397,7 @@
       "pmc-release": "2025-12-29"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678363+00:00"
+    "checked_at": "2026-11-16T08:20:49.321874+00:00"
   },
   "HPBAI-CAND-285fd6057ae7f2ff": {
     "title": "Toward Artificial Intelligence in Oncology and Cardiology: A Narrative Review of Systems, Challenges, and Opportunities.",
@@ -74655,7 +74656,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -74690,7 +74691,7 @@
       "entrez": "2026-8-26"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.676494+00:00"
+    "checked_at": "2026-11-16T08:20:49.319229+00:00"
   },
   "HPBAI-CAND-ef6dd207876489c4": {
     "title": "The role of emerging technology in expanding regional anesthesia education and patient access.",
@@ -74835,7 +74836,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -74890,7 +74891,7 @@
       "entrez": "2026-4-24"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677727+00:00"
+    "checked_at": "2026-11-16T08:20:49.320942+00:00"
   },
   "HPBAI-CAND-d2e399d9ea9fafa9": {
     "title": "Endo-MedSAM: a promptable vision foundation model adaptation for uterus segmentation on pelvic MRI in endometriosis.",
@@ -75248,7 +75249,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -75290,7 +75291,7 @@
       "entrez": "2026-2-11"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678111+00:00"
+    "checked_at": "2026-11-16T08:20:49.321507+00:00"
   },
   "HPBAI-CAND-a394529340bf0a40": {
     "title": "Federated Gastrointestinal Lesion Classification with Clinical-Entropy Guided Quantum-Inspired Token Pruning in Vision Transformers.",
@@ -76248,7 +76249,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -76308,7 +76309,7 @@
       "entrez": "2026-5-24"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677559+00:00"
+    "checked_at": "2026-11-16T08:20:49.320738+00:00"
   },
   "HPBAI-CAND-09fd9756393537e7": {
     "title": "Artificial Intelligence in Non-Surgical Cosmetic Procedures: A Multi-Stakeholder Revolution.",
@@ -77100,7 +77101,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -77142,7 +77143,7 @@
       "entrez": "2025-3-31"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.679710+00:00"
+    "checked_at": "2026-11-16T08:20:50.579885+00:00"
   },
   "HPBAI-CAND-e73559dfea197ab9": {
     "title": "Enhanced vertebrae localization in CT volumes: a two-stage deep learning framework.",
@@ -77268,7 +77269,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -77314,7 +77315,7 @@
       "entrez": "2025-7-2"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.679150+00:00"
+    "checked_at": "2026-11-16T08:20:49.322880+00:00"
   },
   "HPBAI-CAND-2ac4b1fdc57dc114": {
     "title": "Artificial Intelligence in Orthopedic Surgery: Current Applications, Challenges, and Future Directions.",
@@ -78239,7 +78240,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -78283,7 +78284,7 @@
       "pmc-release": "2024-5-17"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.587941+00:00"
+    "checked_at": "2026-11-16T08:20:50.580721+00:00"
   },
   "HPBAI-CAND-40e0163cef0c60df": {
     "title": "Integrating Spatial Proteogenomics in Cancer Research.",
@@ -79819,7 +79820,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -79872,7 +79873,7 @@
       "entrez": "2023-11-2"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.588974+00:00"
+    "checked_at": "2026-11-16T08:20:50.581795+00:00"
   },
   "HPBAI-CAND-0ddf307384e7fdc5": {
     "title": "Application of artificial intelligence in lung cancer diagnosis, therapy, and prognosis.",
@@ -80901,7 +80902,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -80952,7 +80953,7 @@
       "entrez": "2024-10-17"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.587519+00:00"
+    "checked_at": "2026-11-16T08:20:50.580283+00:00"
   },
   "HPBAI-CAND-29cc3af10f9ee775": {
     "title": "Towards user-centered interactive medical image segmentation in VR with an assistive AI agent.",
@@ -81645,7 +81646,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -81697,7 +81698,7 @@
       "entrez": "2026-1-21"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678210+00:00"
+    "checked_at": "2026-11-16T08:20:49.321625+00:00"
   },
   "HPBAI-CAND-d8c26ae89e4dc7b9": {
     "title": "Advancements and challenges in autonomous endovascular interventional robotics: A comprehensive review.",
@@ -81804,7 +81805,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -81856,7 +81857,7 @@
       "pmc-release": "2025-4-29"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.679557+00:00"
+    "checked_at": "2026-11-16T08:20:50.579711+00:00"
   },
   "HPBAI-CAND-76d9b3a598bc29af": {
     "title": "The Operative Role of Artificial Intelligence in Vascular Surgery: A Systematic Review of Literature.",
@@ -83201,7 +83202,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -83237,7 +83238,7 @@
       "pmc-release": "2026-10-26"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678309+00:00"
+    "checked_at": "2026-11-16T08:20:49.321810+00:00"
   },
   "HPBAI-CAND-81e16d900e422b80": {
     "title": "Development of a Deep Learning-Based Feedback Model to Assist Medical Students Learning Renal Ultrasound Acquisition: Mixed Methods Study.",
@@ -84678,7 +84679,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -84730,7 +84731,7 @@
       "entrez": "2026-1-21"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678263+00:00"
+    "checked_at": "2026-11-16T08:20:49.321690+00:00"
   },
   "HPBAI-CAND-12f89b42f6088000": {
     "title": "Appendiceal abscess mimicking a painless abdominal wall mass in an adolescent: a case report.",
@@ -85425,7 +85426,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -85479,7 +85480,7 @@
       "entrez": "2025-8-2"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678941+00:00"
+    "checked_at": "2026-11-16T08:20:49.322629+00:00"
   },
   "HPBAI-CAND-dbfa24626e4e94fa": {
     "title": "Scaling Early Detection for Developmental Dysplasia of the Hip With Artificial Intelligence-Assisted Imaging.",
@@ -85674,7 +85675,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-02T08:25:07.333546+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -85683,7 +85684,7 @@
       "可迁移方法"
     ],
     "identity_status": "数据库候选；内容与资源页面尚待核对",
-    "pmcid": "",
+    "pmcid": "PMC13759612",
     "journal": "International journal of computer assisted radiology and surgery",
     "authors": [
       "Benito Rafael",
@@ -85729,12 +85730,13 @@
     "dates": {
       "received": "2026-1-14",
       "accepted": "2026-7-15",
-      "medline": "2026-7-31",
+      "medline": "2026-11-12",
       "pubmed": "2026-7-31",
-      "entrez": "2026-7-30"
+      "entrez": "2026-7-30",
+      "pmc-release": "2026-7-30"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-02T08:25:31.221398+00:00"
+    "checked_at": "2026-11-16T08:20:49.319689+00:00"
   },
   "HPBAI-CAND-70d9759505ad9083": {
     "title": "Artificial intelligence in contrast enhanced ultrasound: A new era for liver lesion assessment.",
@@ -85852,7 +85854,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -85901,7 +85903,7 @@
       "entrez": "2025-6-30"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.679196+00:00"
+    "checked_at": "2026-11-16T08:20:49.322935+00:00"
   },
   "HPBAI-CAND-999e1801e2246f5a": {
     "title": "[Robotic autonomous surgery in gastrointestinal practice: a viable pathway or an aspirational vision in the artificial intelligence era?].",
@@ -88053,7 +88055,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -88098,7 +88100,7 @@
       "entrez": "2025-11-20"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678509+00:00"
+    "checked_at": "2026-11-16T08:20:49.322125+00:00"
   },
   "HPBAI-CAND-f05053bfa30142c3": {
     "title": "Machine learning and artificial intelligence for delirium prediction with Electronic Health Records (EHR): a scoping review.",
@@ -91172,7 +91174,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -91225,7 +91227,7 @@
       "entrez": "2023-12-1"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.588801+00:00"
+    "checked_at": "2026-11-16T08:20:50.581611+00:00"
   },
   "HPBAI-CAND-2982f9baa291c813": {
     "title": "Anatomical recognition artificial intelligence for identifying the recurrent laryngeal nerve during endoscopic thyroid surgery: A single-center feasibility study.",
@@ -91539,7 +91541,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -91608,7 +91610,7 @@
       "entrez": "2024-8-2"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.587646+00:00"
+    "checked_at": "2026-11-16T08:20:50.580420+00:00"
   },
   "HPBAI-CAND-27a8031d8fc98aa5": {
     "title": "Role of AI in empowering and redefining the oncology care landscape: perspective from a developing nation.",
@@ -91945,7 +91947,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -91998,7 +92000,7 @@
       "entrez": "2023-8-14"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589030+00:00"
+    "checked_at": "2026-11-16T08:20:50.581856+00:00"
   },
   "HPBAI-CAND-40c33401fa1d95b8": {
     "title": "Optimizing Intraoperative AI: Evaluation of YOLOv8 for Real-Time Recognition of Robotic and Laparoscopic Instruments.",
@@ -93782,7 +93784,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -93819,7 +93821,7 @@
       "entrez": "2025-11-19"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678560+00:00"
+    "checked_at": "2026-11-16T08:20:49.322185+00:00"
   },
   "HPBAI-CAND-526a7c5592047288": {
     "title": "Predictive model for sphincter preservation in lower rectal cancer.",
@@ -94148,7 +94150,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -94197,7 +94199,7 @@
       "entrez": "2025-10-21"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678615+00:00"
+    "checked_at": "2026-11-16T08:20:49.322250+00:00"
   },
   "HPBAI-CAND-5b8750f693ef9679": {
     "title": "Intracardiac Echocardiography during Invasive Electrophysiological Procedures: a Scientific Statement of the European Heart Rhythm Association of the ESC, and the European Association of Percutaneous Cardiovascular Interventions of the ESC.",
@@ -95267,7 +95269,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -95305,7 +95307,7 @@
       "entrez": "2025-7-6"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.679047+00:00"
+    "checked_at": "2026-11-16T08:20:49.322753+00:00"
   },
   "HPBAI-CAND-4b154fa0876854e2": {
     "title": "From Big Data to AI-Driven Decisions in Obstructive Sleep Apnea: A Narrative Review Integrating the DDPP Framework.",
@@ -95871,7 +95873,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -95921,7 +95923,7 @@
       "pmc-release": "2026-5-2"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677611+00:00"
+    "checked_at": "2026-11-16T08:20:49.320802+00:00"
   },
   "HPBAI-CAND-6f53fe1f38c29030": {
     "title": "Intraoperative robot-guided femoral osteotomy during robot-assisted total knee arthroplasty for knee osteoarthritis with extra-articular deformity: a case report.",
@@ -96553,7 +96555,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -96603,7 +96605,7 @@
       "entrez": "2025-6-9"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.679293+00:00"
+    "checked_at": "2026-11-16T08:20:50.579400+00:00"
   },
   "HPBAI-CAND-73949a1d0b162b4a": {
     "title": "Fluorescence localization and tracking imaging with a spectral-splitting perovskite single-pixel detector.",
@@ -96653,7 +96655,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -96709,7 +96711,7 @@
       "entrez": "2023-11-10"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.588863+00:00"
+    "checked_at": "2026-11-16T08:20:50.581675+00:00"
   },
   "HPBAI-CAND-1781e24eedd2d532": {
     "title": "Artificial intelligence algorithms for real-time detection of colorectal polyps during colonoscopy: a review.",
@@ -98705,7 +98707,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -98757,7 +98759,7 @@
       "entrez": "2024-8-30"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.587575+00:00"
+    "checked_at": "2026-11-16T08:20:50.580344+00:00"
   },
   "HPBAI-CAND-c6065ebc91cdc2e0": {
     "title": "Meeting abstracts of the 11th International Breast Density and Cancer Risk Assessment Workshop : Līhu'e, HI, USA 4-6 June 2025.",
@@ -100946,7 +100948,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-02T08:25:07.333546+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -100986,7 +100988,7 @@
       "pmc-release": "2027-12-1"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-02T08:25:31.219870+00:00"
+    "checked_at": "2026-11-16T08:20:49.319290+00:00"
   },
   "HPBAI-CAND-240b2d3d16a6d0c1": {
     "title": "Analyzing Surgical Technique in Diverse Open Surgical Videos With Multitask Machine Learning.",
@@ -107838,7 +107840,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-02T08:25:07.333546+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -107890,7 +107892,7 @@
       "pmc-release": "2027-8-21"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-02T08:25:31.220190+00:00"
+    "checked_at": "2026-11-16T08:20:49.319427+00:00"
   },
   "HPBAI-CAND-5d9d17de1d7c2a38": {
     "title": "Curative-Intent Multimodality Treatment for NSCLC: Will Global Healthcare Systems Rise to the Challenge? A Perspective From the United Kingdom.",
@@ -108395,7 +108397,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -108448,7 +108450,7 @@
       "entrez": "2022-5-10"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.590216+00:00"
+    "checked_at": "2026-11-16T08:20:50.583183+00:00"
   },
   "HPBAI-CAND-d26e2696797b9b43": {
     "title": "Beyond trauma: a case-based imaging review of spontaneous splenic rupture.",
@@ -111374,7 +111376,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -111424,7 +111426,7 @@
       "entrez": "2026-1-30"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678164+00:00"
+    "checked_at": "2026-11-16T08:20:49.321568+00:00"
   },
   "HPBAI-CAND-532ec36c6f0d249e": {
     "title": "PhacoTrainer: Deep Learning for Cataract Surgical Videos to Track Surgical Tools.",
@@ -112021,7 +112023,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -112061,7 +112063,7 @@
       "entrez": "2024-5-9"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.587998+00:00"
+    "checked_at": "2026-11-16T08:20:50.580782+00:00"
   },
   "HPBAI-CAND-d6d586e2be5f8f07": {
     "title": "Artificial intelligence in electroencephalography analysis for epilepsy diagnosis and management.",
@@ -113911,7 +113913,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-09-15T11:21:05.466797+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -113963,7 +113965,7 @@
       "pmc-release": "2027-1-2"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-09-15T11:21:41.238916+00:00"
+    "checked_at": "2026-11-16T08:20:49.321754+00:00"
   },
   "HPBAI-CAND-de9f081824cc4a89": {
     "title": "Predicting breast cancer treatment response and prognosis using AI-based image classification.",
@@ -116076,7 +116078,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -116113,7 +116115,7 @@
       "entrez": "2025-9-8"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678714+00:00"
+    "checked_at": "2026-11-16T08:20:49.322370+00:00"
   },
   "HPBAI-CAND-868c5adf65403cb3": {
     "title": "Artificial intelligence in interventional cardiology: a review of its role in diagnosis, decision-making, and procedural precision.",
@@ -118838,13 +118840,13 @@
       "entrez": "2025-12-4"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678411+00:00",
+    "checked_at": "2026-11-16T08:20:49.321997+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41342915/",
     "id": "HPBAI-CAND-0c5fc30fc2403b9c",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -119191,13 +119193,13 @@
       "entrez": "2023-5-30"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589233+00:00",
+    "checked_at": "2026-11-16T08:20:50.582083+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/37249747/",
     "id": "HPBAI-CAND-1abebd4e8fd0da2a",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -119355,13 +119357,13 @@
       "pmc-release": "2027-7-29"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-02T08:25:32.410245+00:00",
+    "checked_at": "2026-11-16T08:20:49.319749+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42525407/",
     "id": "HPBAI-CAND-ff291d876527dbcf",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-02T08:25:07.333546+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -119412,13 +119414,13 @@
       "pmc-release": "2026-4-21"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677801+00:00",
+    "checked_at": "2026-11-16T08:20:49.321018+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42010992/",
     "id": "HPBAI-CAND-48357f346b86caaf",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -120170,7 +120172,7 @@
     "pmid": "42675993",
     "title": "The Evolution and Global Impact of Uniportal Endoscopic Spine Surgery : A Korean Perspective and Historical Legacy.",
     "doi": "10.3340/jkns.2026.0214",
-    "pmcid": "",
+    "pmcid": "PMC13748853",
     "journal": "Journal of Korean Neurosurgical Society",
     "year": "2026",
     "authors": [
@@ -120179,7 +120181,7 @@
     "abstract": [
       {
         "label": "",
-        "text": "Uniportal full-endoscopic spine surgery (FESS) has expanded over three decades from percutaneous discectomy to include multilevel decompression, endoscopic interbody fusion (Endo-LIF), spinal infection management, and tumor surgery. The Republic of Korea is a leading contributor to this field: across bibliometric analyses, six of the world's top ten contributing authors and three of the top five contributing institutions are Korean. This article provides a Korea-centered critical appraisal of uniportal FESS, integrating five domains: Korean academic contributions, Level-I evidence by spinal region, expansion of indications, integration of next-generation technologies (navigation, augmented reality, artificial intelligence, robotics), and structural barriers in health policy and reimbursement. Level-I randomized evidence supports clinical equivalence to microscopic surgery for lumbar disc herniation and lumbar spinal stenosis, with cost-utility data from the Korean National Health Insurance Service showing a cost-per-quality-adjusted-life-year of approximately USD 5,241-well below conventional willingness-to-pay thresholds. Cervical FESS evidence remains limited to two single-center RCTs from 2008-2009, and thoracic FESS data derive from non-randomized multicenter case series showing large perioperative advantages over open surgery. Despite the maturity of the evidence, Korean reimbursement codes have not been updated to reflect modern uniportal techniques, Endo-LIF lacks dedicated coding, and the radiofrequency-related fee schedule still uses 1990s-era valuations. We propose a tiered policy roadmap-short-term code differentiation, mid-term Endo-LIF and navigation-track integration, and long-term registry-based credentialing-to align Korean reimbursement infrastructure with the country's established academic and clinical leadership in this field."
+        "text": "Uniportal full-endoscopic spine surgery (FESS) has expanded over three decades from percutaneous discectomy to include multilevel decompression, endoscopic interbody fusion (Endo-LIF), spinal infection management, and tumor surgery. The Republic of Korea is a leading contributor to this field : across bibliometric analyses, six of the world's top 10 contributing authors and three of the top five contributing institutions are Korean. This article provides a Korea-centered critical appraisal of uniportal FESS, integrating five domains : Korean academic contributions, Level-I evidence by spinal region, expansion of indications, integration of next-generation technologies (navigation, augmented reality, artificial intelligence, robotics), and structural barriers in health policy and reimbursement. Level-I randomized evidence supports clinical equivalence to microscopic surgery for lumbar disc herniation and lumbar spinal stenosis, with cost-utility data from the Korean National Health Insurance Service showing a cost-per-quality-adjusted-life-year of approximately USD 5241-well below conventional willingness-to-pay thresholds. Cervical FESS evidence remains limited to two single-center randomized controlled trials from 2008-2009, and thoracic FESS data derive from non-randomized multicenter case series showing large perioperative advantages over open surgery. Despite the maturity of the evidence, Korean reimbursement codes have not been updated to reflect modern uniportal techniques, Endo-LIF lacks dedicated coding, and the radiofrequency-related fee schedule still uses 1990s-era valuations. We propose a tiered policy roadmap-short-term code differentiation, mid-term Endo-LIF and navigation-track integration, and long-term registry-based credentialing-to align Korean reimbursement infrastructure with the country's established academic and clinical leadership in this field."
       }
     ],
     "article_types": [
@@ -120191,16 +120193,17 @@
       "accepted": "2026-8-14",
       "medline": "2026-9-1",
       "pubmed": "2026-9-1",
-      "entrez": "2026-9-1"
+      "entrez": "2026-9-1",
+      "pmc-release": "2026-11-1"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-02T08:25:31.219445+00:00",
+    "checked_at": "2026-11-16T08:20:49.319064+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42675993/",
     "id": "HPBAI-CAND-fc852b5f82eb15e9",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-02T08:25:07.333546+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -120365,13 +120368,13 @@
       "entrez": "2026-8-22"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.676552+00:00",
+    "checked_at": "2026-11-16T08:20:49.319358+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42631886/",
     "id": "HPBAI-CAND-2d77c25a3c96d50f",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -120735,13 +120738,13 @@
       "entrez": "2026-7-27"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.676845+00:00",
+    "checked_at": "2026-11-16T08:20:49.319879+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42507084/",
     "id": "HPBAI-CAND-0f1c8f3e82ea6d65",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -120847,13 +120850,13 @@
       "entrez": "2026-7-20"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677118+00:00",
+    "checked_at": "2026-11-16T08:20:49.320219+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42474865/",
     "id": "HPBAI-CAND-36daaf55da775e8f",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -122192,13 +122195,13 @@
       "entrez": "2026-3-10"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677910+00:00",
+    "checked_at": "2026-11-16T08:20:49.321262+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41803602/",
     "id": "HPBAI-CAND-da8f93c638c73b3d",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -122819,13 +122822,13 @@
       "pmc-release": "2026-11-28"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-09-15T11:21:41.240285+00:00",
+    "checked_at": "2026-11-16T08:20:49.321939+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41396972/",
     "id": "HPBAI-CAND-6740b5cd7ab6e04f",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-09-15T11:21:05.466797+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -124254,13 +124257,13 @@
       "entrez": "2025-8-27"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678832+00:00",
+    "checked_at": "2026-11-16T08:20:49.322499+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/40864309/",
     "id": "HPBAI-CAND-67df53597daef7e4",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -124437,13 +124440,13 @@
       "entrez": "2025-8-6"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678886+00:00",
+    "checked_at": "2026-11-16T08:20:49.322562+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/40767924/",
     "id": "HPBAI-CAND-b3d46e4e2e0a7f86",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -124572,13 +124575,13 @@
       "entrez": "2025-7-24"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.678994+00:00",
+    "checked_at": "2026-11-16T08:20:49.322692+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/40707744/",
     "id": "HPBAI-CAND-ca84322fe6e289ee",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -125360,13 +125363,13 @@
       "entrez": "2025-6-25"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.679240+00:00",
+    "checked_at": "2026-11-16T08:20:49.322988+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/40560442/",
     "id": "HPBAI-CAND-290c35ce95c6bd4b",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "arXiv"
@@ -125884,13 +125887,13 @@
       "entrez": "2025-6-4"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.679349+00:00",
+    "checked_at": "2026-11-16T08:20:50.579473+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/40464927/",
     "id": "HPBAI-CAND-4f884c8805ef319d",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -126051,13 +126054,13 @@
       "entrez": "2025-5-29"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.679405+00:00",
+    "checked_at": "2026-11-16T08:20:50.579534+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/40439827/",
     "id": "HPBAI-CAND-8af172bdd37bbb54",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -126109,13 +126112,13 @@
       "entrez": "2025-5-22"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.679456+00:00",
+    "checked_at": "2026-11-16T08:20:50.579594+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/40402354/",
     "id": "HPBAI-CAND-a7d188f04dd6a0c1",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -126384,13 +126387,13 @@
       "entrez": "2025-5-6"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.679504+00:00",
+    "checked_at": "2026-11-16T08:20:50.579648+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/40327186/",
     "id": "HPBAI-CAND-bc33e6595ec4d2d0",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -126845,13 +126848,13 @@
       "entrez": "2025-4-8"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.679655+00:00",
+    "checked_at": "2026-11-16T08:20:50.579824+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/40198466/",
     "id": "HPBAI-CAND-c14c449446cf4b6e",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -127341,13 +127344,13 @@
       "entrez": "2025-3-12"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.587206+00:00",
+    "checked_at": "2026-11-16T08:20:50.579949+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/40072587/",
     "id": "HPBAI-CAND-122f08c1e29a97d2",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -127824,13 +127827,13 @@
       "entrez": "2025-2-17"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.587275+00:00",
+    "checked_at": "2026-11-16T08:20:50.580001+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/39961823/",
     "id": "HPBAI-CAND-817bf6783e6a4cac",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -129006,13 +129009,13 @@
       "entrez": "2024-10-26"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.587467+00:00",
+    "checked_at": "2026-11-16T08:20:50.580224+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/39460835/",
     "id": "HPBAI-CAND-fcb54650a2fdf141",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -130449,13 +130452,13 @@
       "entrez": "2024-7-7"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.587705+00:00",
+    "checked_at": "2026-11-16T08:20:50.580484+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/38972945/",
     "id": "HPBAI-CAND-371297fdadeb366d",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -131107,13 +131110,13 @@
       "entrez": "2024-5-22"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.587890+00:00",
+    "checked_at": "2026-11-16T08:20:50.580661+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/38775904/",
     "id": "HPBAI-CAND-bc8cd0a1cb1fba62",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -131671,13 +131674,13 @@
       "entrez": "2024-4-30"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.588069+00:00",
+    "checked_at": "2026-11-16T08:20:50.580836+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/38689146/",
     "id": "HPBAI-CAND-f83f92e6d4eb0213",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -131845,13 +131848,13 @@
       "entrez": "2024-4-23"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.588144+00:00",
+    "checked_at": "2026-11-16T08:20:50.580892+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/38652415/",
     "id": "HPBAI-CAND-b2c3fa54d3d149e6",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -132067,13 +132070,13 @@
       "entrez": "2024-4-18"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.588197+00:00",
+    "checked_at": "2026-11-16T08:20:50.580946+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/38635119/",
     "id": "HPBAI-CAND-9f13e690bc05426c",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -132304,13 +132307,13 @@
       "entrez": "2024-4-4"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.588257+00:00",
+    "checked_at": "2026-11-16T08:20:50.581010+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/38573374/",
     "id": "HPBAI-CAND-cb2735088e40967a",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -133080,13 +133083,13 @@
       "entrez": "2024-2-22"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.588369+00:00",
+    "checked_at": "2026-11-16T08:20:50.581146+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/38386116/",
     "id": "HPBAI-CAND-a120c94e52a47666",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -133130,13 +133133,13 @@
       "pmc-release": "2024-2-21"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.588426+00:00",
+    "checked_at": "2026-11-16T08:20:50.581206+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/38383805/",
     "id": "HPBAI-CAND-be128b8461cd1441",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -133496,13 +133499,13 @@
       "pmc-release": "2024-8-12"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.588552+00:00",
+    "checked_at": "2026-11-16T08:20:50.581344+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/38347141/",
     "id": "HPBAI-CAND-ea337577bddfeea7",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -133614,16 +133617,16 @@
       "medline": "2024-2-15",
       "pubmed": "2024-2-13",
       "entrez": "2024-2-12",
-      "pmc-release": "2024-8-12"
+      "pmc-release": "2024-8-14"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.588672+00:00",
+    "checked_at": "2026-11-16T08:20:50.581482+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/38347140/",
     "id": "HPBAI-CAND-3e6e08b759736dea",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -137719,13 +137722,13 @@
       "entrez": "2023-6-6"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589130+00:00",
+    "checked_at": "2026-11-16T08:20:50.581967+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/37278834/",
     "id": "HPBAI-CAND-10b2fa0d92f816e0",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -137886,13 +137889,13 @@
       "entrez": "2023-5-30"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589177+00:00",
+    "checked_at": "2026-11-16T08:20:50.582019+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/37253868/",
     "id": "HPBAI-CAND-2bbd431bfb6e8b62",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -138374,13 +138377,13 @@
       "entrez": "2023-5-7"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589302+00:00",
+    "checked_at": "2026-11-16T08:20:50.582177+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/37150781/",
     "id": "HPBAI-CAND-63a782ab351af65e",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -138431,13 +138434,13 @@
       "entrez": "2023-5-4"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589352+00:00",
+    "checked_at": "2026-11-16T08:20:50.582232+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/37142809/",
     "id": "HPBAI-CAND-cfa9061a64f8a4ed",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -138489,13 +138492,13 @@
       "entrez": "2023-4-29"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589402+00:00",
+    "checked_at": "2026-11-16T08:20:50.582287+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/37120481/",
     "id": "HPBAI-CAND-c3d9d11a2239a683",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -138597,13 +138600,13 @@
       "entrez": "2023-4-25"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589448+00:00",
+    "checked_at": "2026-11-16T08:20:50.582339+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/37097518/",
     "id": "HPBAI-CAND-f412a32f09bae4a5",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "arXiv"
@@ -138791,13 +138794,13 @@
       "entrez": "2023-4-7"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589497+00:00",
+    "checked_at": "2026-11-16T08:20:50.582391+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/37027082/",
     "id": "HPBAI-CAND-c220df037e2c314e",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -139857,13 +139860,13 @@
       "entrez": "2023-2-2"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589553+00:00",
+    "checked_at": "2026-11-16T08:20:50.582454+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/36729231/",
     "id": "HPBAI-CAND-e2670efc928c300d",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -140080,13 +140083,13 @@
       "entrez": "2023-1-22"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589600+00:00",
+    "checked_at": "2026-11-16T08:20:50.582508+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/36683136/",
     "id": "HPBAI-CAND-01a09920a95f62db",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -140307,13 +140310,13 @@
       "entrez": "2023-1-19"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589659+00:00",
+    "checked_at": "2026-11-16T08:20:50.582572+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/36658282/",
     "id": "HPBAI-CAND-935a163a4cad729d",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -140601,13 +140604,13 @@
       "entrez": "2023-1-5"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589721+00:00",
+    "checked_at": "2026-11-16T08:20:50.582641+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/36602643/",
     "id": "HPBAI-CAND-230a2aeb036410a1",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -140834,13 +140837,13 @@
       "entrez": "2022-12-19"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589841+00:00",
+    "checked_at": "2026-11-16T08:20:50.582761+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/36536082/",
     "id": "HPBAI-CAND-a6477121a16d913c",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -141671,13 +141674,13 @@
       "entrez": "2022-11-4"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589894+00:00",
+    "checked_at": "2026-11-16T08:20:50.582817+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/36331795/",
     "id": "HPBAI-CAND-5d86d3ac1a98b7ed",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -142687,13 +142690,13 @@
       "entrez": "2022-9-21"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.589946+00:00",
+    "checked_at": "2026-11-16T08:20:50.582871+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/36129573/",
     "id": "HPBAI-CAND-d411a603c4f54288",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -143459,13 +143462,13 @@
       "entrez": "2022-8-8"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.590010+00:00",
+    "checked_at": "2026-11-16T08:20:50.582940+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/35941310/",
     "id": "HPBAI-CAND-c8439a8e7f459a9e",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -143817,13 +143820,13 @@
       "entrez": "2022-6-28"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.590063+00:00",
+    "checked_at": "2026-11-16T08:20:50.583000+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/35764837/",
     "id": "HPBAI-CAND-31998d2d01c3cfc8",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -144290,13 +144293,13 @@
       "entrez": "2022-6-14"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.590110+00:00",
+    "checked_at": "2026-11-16T08:20:50.583052+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/35701681/",
     "id": "HPBAI-CAND-a7d0e73d4692d709",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -144408,13 +144411,13 @@
       "entrez": "2022-6-10"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.590160+00:00",
+    "checked_at": "2026-11-16T08:20:50.583118+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/35680692/",
     "id": "HPBAI-CAND-ac6e2b27a978b3cd",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -144993,13 +144996,13 @@
       "entrez": "2022-5-5"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.590271+00:00",
+    "checked_at": "2026-11-16T08:20:50.583249+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/35511359/",
     "id": "HPBAI-CAND-15bad1177fac18b5",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -146626,13 +146629,13 @@
       "entrez": "2021-10-28"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.590324+00:00",
+    "checked_at": "2026-11-16T08:20:50.583308+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/34709538/",
     "id": "HPBAI-CAND-f039f9e391307067",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -147123,13 +147126,13 @@
       "entrez": "2021-9-4"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.590376+00:00",
+    "checked_at": "2026-11-16T08:20:50.583364+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/34480674/",
     "id": "HPBAI-CAND-8275cf4631390386",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -149891,13 +149894,13 @@
       "entrez": "2020-11-21"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.590486+00:00",
+    "checked_at": "2026-11-16T08:20:50.583428+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/33220590/",
     "id": "HPBAI-CAND-b030143c46dac697",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T10:54:41.611553+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -158764,7 +158767,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-15T11:21:05.466797+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC"
     ],
@@ -158917,13 +158920,13 @@
       "entrez": "2026-9-19"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.676207+00:00",
+    "checked_at": "2026-11-16T08:20:49.318873+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42762598/",
     "id": "HPBAI-CAND-8e505c2fe8322f01",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-21T06:37:18.767898+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -159114,13 +159117,13 @@
       "entrez": "2026-9-15"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.676257+00:00",
+    "checked_at": "2026-11-16T08:20:49.318929+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42742868/",
     "id": "HPBAI-CAND-e882688851fd20f4",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-21T06:37:18.767898+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -159177,13 +159180,13 @@
       "entrez": "2026-2-25"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.677965+00:00",
+    "checked_at": "2026-11-16T08:20:49.321330+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41739357/",
     "id": "HPBAI-CAND-349c04e4ea6fb293",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-21T06:37:18.767898+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -169866,18 +169869,18 @@
     "dates": {
       "received": "2026-6-4",
       "accepted": "2026-9-8",
-      "medline": "2026-9-26",
+      "medline": "2026-11-12",
       "pubmed": "2026-9-26",
       "entrez": "2026-9-25"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-02T08:25:31.217619+00:00",
+    "checked_at": "2026-11-16T08:20:49.318562+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42791408/",
     "id": "HPBAI-CAND-2eb9edc07f07677f",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-28T07:07:30.551481+00:00",
-    "last_seen": "2026-11-02T08:25:07.333546+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -169926,24 +169929,26 @@
       }
     ],
     "article_types": [
-      "Journal Article"
+      "Journal Article",
+      "Observational Study",
+      "Validation Study"
     ],
     "corrections": [],
     "dates": {
       "received": "2026-6-1",
       "accepted": "2026-7-19",
-      "medline": "2026-9-25",
+      "medline": "2026-11-12",
       "pubmed": "2026-9-25",
       "entrez": "2026-9-25"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-02T08:25:31.217692+00:00",
+    "checked_at": "2026-11-16T08:20:49.318632+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42789066/",
     "id": "HPBAI-CAND-0e76a1f689c93be6",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-28T07:07:30.551481+00:00",
-    "last_seen": "2026-11-02T08:25:07.333546+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -169989,13 +169994,13 @@
       "entrez": "2026-9-24"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.676050+00:00",
+    "checked_at": "2026-11-16T08:20:49.318692+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42785227/",
     "id": "HPBAI-CAND-9569b3340b0492c1",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-28T07:07:30.551481+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -170158,13 +170163,13 @@
       "entrez": "2026-9-23"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.676123+00:00",
+    "checked_at": "2026-11-16T08:20:49.318774+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42777601/",
     "id": "HPBAI-CAND-aad8ab451cd37af7",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-09-28T07:07:30.551481+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -170364,7 +170369,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-05T07:19:25.871904+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -170423,7 +170428,7 @@
       "pmc-release": "2026-10-3"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.675838+00:00"
+    "checked_at": "2026-11-16T08:20:49.318329+00:00"
   },
   "HPBAI-CAND-97fc84b51052554c": {
     "title": "Evolution of surgical robotics innovation in China: a patent landscape analysis, 2003-2025.",
@@ -170435,7 +170440,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-05T07:19:25.871904+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -170471,7 +170476,7 @@
       "entrez": "2026-10-1"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.675942+00:00"
+    "checked_at": "2026-11-16T08:20:49.318444+00:00"
   },
   "HPBAI-CAND-ccdf87ea844424c2": {
     "title": "Artificial intelligence-based anatomical segmentation in transabdominal preperitoneal repair of groin hernia.",
@@ -170483,7 +170488,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-05T07:19:25.871904+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -170535,7 +170540,7 @@
       "entrez": "2026-10-1"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.675996+00:00"
+    "checked_at": "2026-11-16T08:20:49.318505+00:00"
   },
   "HPBAI-CAND-250c468e7f14e62b": {
     "pmid": "42828618",
@@ -170571,13 +170576,13 @@
       "entrez": "2026-10-3"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.675894+00:00",
+    "checked_at": "2026-11-16T08:20:49.318390+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42828618/",
     "id": "HPBAI-CAND-250c468e7f14e62b",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-05T07:19:25.871904+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -170910,12 +170915,12 @@
     },
     "source": "PubMed EFetch XML",
     "checked_at": "2026-11-09T08:21:39.675766+00:00",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42845252/",
+    "url": "https://europepmc.org/article/MED/42845252",
     "id": "HPBAI-CAND-17b23bac92414ec6",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-12T07:36:00.763663+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -171319,12 +171324,12 @@
     },
     "source": "PubMed EFetch XML",
     "checked_at": "2026-11-09T08:21:39.675426+00:00",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42869971/",
+    "url": "https://europepmc.org/article/MED/42869971",
     "id": "HPBAI-CAND-fc7ffcb3385b4fec",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-19T06:25:18.113872+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -171384,12 +171389,12 @@
     },
     "source": "PubMed EFetch XML",
     "checked_at": "2026-11-09T08:21:39.675262+00:00",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42881307/",
+    "url": "https://europepmc.org/article/MED/42881307",
     "id": "HPBAI-CAND-41ef3779aee561c8",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-19T06:25:18.113872+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -171656,13 +171661,13 @@
       "pmc-release": "2026-10-8"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.675703+00:00",
+    "checked_at": "2026-11-16T08:20:49.318254+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42856621/",
     "id": "HPBAI-CAND-7814843d763320dd",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-19T06:25:18.113872+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -171681,7 +171686,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-26T06:29:36.479982+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -171721,7 +171726,7 @@
       "entrez": "2026-10-22"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.675210+00:00"
+    "checked_at": "2026-11-16T08:20:49.318184+00:00"
   },
   "HPBAI-CAND-8a3b4f92ea6ef657": {
     "title": "AI-enhanced intraoperative decision-making in robotic surgery: from augmented reality navigation to foundation models.",
@@ -171733,7 +171738,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-26T06:29:36.479982+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -171771,7 +171776,7 @@
       "entrez": "2026-10-23"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.675107+00:00"
+    "checked_at": "2026-11-16T08:20:49.318046+00:00"
   },
   "HPBAI-CAND-29e3322fb53718bc": {
     "title": "Automated phase recognition in the cardiac catheterization laboratory with deep learning.",
@@ -171783,7 +171788,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-26T06:29:36.479982+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -171836,7 +171841,7 @@
       "pmc-release": "2026-10-21"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.675161+00:00"
+    "checked_at": "2026-11-16T08:20:49.318125+00:00"
   },
   "HPBAI-CAND-a287dabc2001dbb2": {
     "title": "Artificial Intelligence in MSK Radiology: Current Applications, LLMs, Agentic AI, and Future Directions.",
@@ -171848,7 +171853,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-26T06:29:36.479982+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -171884,7 +171889,7 @@
       "pmc-release": "2026-7-1"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.675059+00:00"
+    "checked_at": "2026-11-16T08:20:49.317987+00:00"
   },
   "HPBAI-CAND-f3347f571434f13a": {
     "pmid": "42927942",
@@ -171918,13 +171923,13 @@
       "entrez": "2026-10-25"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.674898+00:00",
+    "checked_at": "2026-11-16T08:20:49.317801+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42927942/",
     "id": "HPBAI-CAND-f3347f571434f13a",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-26T06:29:36.479982+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed",
       "Europe PMC"
@@ -171981,13 +171986,13 @@
       "entrez": "2026-10-24"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.674948+00:00",
+    "checked_at": "2026-11-16T08:20:49.317857+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42925055/",
     "id": "HPBAI-CAND-92b896465708c444",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-26T06:29:36.479982+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -172009,7 +172014,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-26T06:29:36.479982+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "arXiv"
     ],
@@ -172031,7 +172036,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-10-26T06:29:36.479982+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "arXiv"
     ],
@@ -172050,7 +172055,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-02T08:25:07.333546+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -172107,7 +172112,7 @@
       "entrez": "2026-10-26"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.674847+00:00"
+    "checked_at": "2026-11-16T08:20:49.317748+00:00"
   },
   "HPBAI-CAND-a59b4e704c6f33f5": {
     "title": "Bridging the Translational Gap in Artificial Intelligence for Otology and Neurotology: Clinical Readiness, Limitations, and Research Priorities.",
@@ -172119,7 +172124,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-02T08:25:07.333546+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -172162,7 +172167,7 @@
       "pmc-release": "2026-9-30"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.674706+00:00"
+    "checked_at": "2026-11-16T08:20:49.317608+00:00"
   },
   "HPBAI-CAND-b121e57021a91d74": {
     "pmid": "42934424",
@@ -172218,13 +172223,13 @@
       "entrez": "2026-10-27"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.674767+00:00",
+    "checked_at": "2026-11-16T08:20:49.317679+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42934424/",
     "id": "HPBAI-CAND-b121e57021a91d74",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-02T08:25:07.333546+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -172266,13 +172271,13 @@
       "entrez": "2026-10-28"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.674648+00:00",
+    "checked_at": "2026-11-16T08:20:49.317541+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42949099/",
     "id": "HPBAI-CAND-4d0645f55eb6e75b",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-02T08:25:07.333546+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -172318,13 +172323,13 @@
       "entrez": "2026-10-29"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.674508+00:00",
+    "checked_at": "2026-11-16T08:20:49.317386+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42955488/",
     "id": "HPBAI-CAND-e532e2f37aa7079b",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-02T08:25:07.333546+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -172387,13 +172392,13 @@
       "entrez": "2026-10-28"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.674563+00:00",
+    "checked_at": "2026-11-16T08:20:49.317448+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42949233/",
     "id": "HPBAI-CAND-63a3efa8d592341a",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-02T08:25:07.333546+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -172432,13 +172437,13 @@
       "entrez": "2026-10-28"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.674606+00:00",
+    "checked_at": "2026-11-16T08:20:49.317494+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42949170/",
     "id": "HPBAI-CAND-e1830475724bce12",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-02T08:25:07.333546+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -172527,13 +172532,13 @@
       "entrez": "2026-10-26"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:40.587361+00:00",
+    "checked_at": "2026-11-16T08:20:50.580107+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42932769/",
     "id": "HPBAI-CAND-6d742509f1539db2",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-02T08:25:07.333546+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -172555,7 +172560,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-02T08:25:07.333546+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "arXiv"
     ],
@@ -172578,7 +172583,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-02T08:25:07.333546+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "arXiv"
     ],
@@ -172598,7 +172603,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-09T08:21:17.712541+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -172645,7 +172650,7 @@
       "entrez": "2026-11-2"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.674450+00:00"
+    "checked_at": "2026-11-16T08:20:49.317323+00:00"
   },
   "HPBAI-CAND-1dd5f49bada08e27": {
     "title": "Evaluation of deep learning-based surface reconstruction and tracking of surgical scenes for minimally invasive intervention.",
@@ -172657,7 +172662,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-09T08:21:17.712541+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC",
       "PubMed"
@@ -172692,7 +172697,7 @@
       "pmc-release": "2026-11-3"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.674335+00:00"
+    "checked_at": "2026-11-16T08:20:49.317201+00:00"
   },
   "HPBAI-CAND-af02d624bee7f6ea": {
     "title": "Hybrid U-Net Model with Transformer-Enhanced Skip Connections for Abdominal Organ Segmentation in Laparoscopic Images",
@@ -172704,7 +172709,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-09T08:21:17.712541+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "Europe PMC"
     ],
@@ -172765,15 +172770,16 @@
       "pmc-release": "2026-10-22"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.674265+00:00",
+    "checked_at": "2026-11-16T08:20:49.317145+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42991531/",
     "id": "HPBAI-CAND-8a63b585991202bb",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-09T08:21:17.712541+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
-      "PubMed"
+      "PubMed",
+      "Europe PMC"
     ],
     "search_organs": [
       "可迁移方法"
@@ -172815,13 +172821,13 @@
       "pmc-release": "2026-11-1"
     },
     "source": "PubMed EFetch XML",
-    "checked_at": "2026-11-09T08:21:39.674396+00:00",
+    "checked_at": "2026-11-16T08:20:49.317265+00:00",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42973764/",
     "id": "HPBAI-CAND-db8a7f7927d4ebb9",
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-09T08:21:17.712541+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "PubMed"
     ],
@@ -172843,7 +172849,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-09T08:21:17.712541+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "arXiv"
     ],
@@ -172865,7 +172871,7 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-09T08:21:17.712541+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "arXiv"
     ],
@@ -172887,7 +172893,570 @@
     "kind": "candidate",
     "collection_id": "hpb-ai-video",
     "first_discovered": "2026-11-09T08:21:17.712541+00:00",
-    "last_seen": "2026-11-09T08:21:17.712541+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
+    "sources": [
+      "arXiv"
+    ],
+    "search_organs": [
+      "可迁移方法"
+    ],
+    "identity_status": "数据库候选；内容与资源页面尚待核对"
+  },
+  "HPBAI-CAND-42d22dd6ddbe102b": {
+    "title": "Artificial Intelligence in Pancreatic Resection: Current Evidence, Surgical Applications, and a Framework for Clinical Translation.",
+    "doi": "10.3390/jcm15218737",
+    "pmid": "43030879",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43030879/",
+    "id": "HPBAI-CAND-42d22dd6ddbe102b",
+    "kind": "candidate",
+    "collection_id": "hpb-ai-video",
+    "first_discovered": "2026-11-16T08:20:12.527781+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
+    "sources": [
+      "Europe PMC",
+      "PubMed"
+    ],
+    "search_organs": [
+      "胰腺外科",
+      "可迁移方法"
+    ],
+    "identity_status": "数据库候选；内容与资源页面尚待核对",
+    "pmcid": "PMC13764543",
+    "journal": "Journal of clinical medicine",
+    "authors": [
+      "Heiba Karim",
+      "Kausar Ambareen"
+    ],
+    "abstract": [
+      {
+        "label": "",
+        "text": "Introduction: Pancreatic resection remains technically demanding, with clinically relevant postoperative pancreatic fistula (CR-POPF) a major source of morbidity. Artificial intelligence (AI) may support risk stratification, operative planning, intraoperative assessment, and postoperative decision support. This focused narrative review evaluates current AI applications in pancreatic resection and their translational maturity. Methods: A structured PubMed/MEDLINE search with an evidence cutoff of 24 July 2026 was supplemented by backward and forward citation tracking. Seventy eligible primary reports were synthesised by clinical task, information timing, and validation maturity. Results: Evidence is dominated by CR-POPF prediction after pancreatoduodenectomy, with additional studies in distal pancreatectomy, other perioperative outcomes, tissue and margin assessment, three-dimensional anatomical planning, and intraoperative video and anatomy recognition. Performance varied with patient selection, predictor timing, data modality, and validation strategy. External validation often changed reported discrimination, while calibration and clinical utility were inconsistently reported. Most studies were retrospective or technical; overlapping cohorts limited independence, and no included study demonstrated improved patient-centred outcomes. Conclusions: AI in pancreatic resection is expanding across prediction, planning, and guidance, but technical performance should not be equated with clinical readiness. Independent validation, prospective workflow and human-factors evaluation, and clinical-impact studies are needed. AI should augment, rather than replace, specialist surgical judgement."
+      }
+    ],
+    "article_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "corrections": [],
+    "dates": {
+      "received": "2026-9-3",
+      "revised": "2026-10-22",
+      "accepted": "2026-11-1",
+      "medline": "2026-11-14",
+      "pubmed": "2026-11-14",
+      "entrez": "2026-11-14",
+      "pmc-release": "2026-11-9"
+    },
+    "source": "PubMed EFetch XML",
+    "checked_at": "2026-11-16T08:20:49.316624+00:00"
+  },
+  "HPBAI-CAND-6e3ac14fd56685db": {
+    "title": "Artificial Intelligence in Thoracic Surgical Oncology: Technical Foundations and Applications in Lung and Esophageal Cancer Surgery.",
+    "doi": "10.3390/cancers18213438",
+    "pmid": "43026760",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43026760/",
+    "id": "HPBAI-CAND-6e3ac14fd56685db",
+    "kind": "candidate",
+    "collection_id": "hpb-ai-video",
+    "first_discovered": "2026-11-16T08:20:12.527781+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
+    "sources": [
+      "Europe PMC",
+      "PubMed"
+    ],
+    "search_organs": [
+      "可迁移方法"
+    ],
+    "identity_status": "数据库候选；内容与资源页面尚待核对",
+    "pmcid": "PMC13762043",
+    "journal": "Cancers",
+    "authors": [
+      "Cassidy Ryan",
+      "Razzaq Sara",
+      "Howell Austin",
+      "Leiva-Juarez Miguel",
+      "Schumacher Lana"
+    ],
+    "abstract": [
+      {
+        "label": "BACKGROUND/OBJECTIVES",
+        "text": "Artificial intelligence (AI) is increasingly being investigated in lung and esophageal cancer surgery, where treatment decisions require integrating imaging, clinical risk, and operative findings. This narrative review describes the technical foundations of surgical AI and examines its applications in thoracic surgical oncology, with particular emphasis on robotic surgery and the evidence supporting clinical use."
+      },
+      {
+        "label": "METHODS",
+        "text": "PubMed/MEDLINE was searched for English-language publications addressing AI, machine learning, deep learning, computer vision, and robotic thoracic surgery. Targeted searches and examination of reference lists identified additional studies. Publications were selected for clinical and technical relevance, prioritizing original investigations, external or prospective validation studies, and reporting guidelines. Applications were examined across preoperative assessment, intraoperative assistance, and postoperative care."
+      },
+      {
+        "label": "RESULTS",
+        "text": "Preoperative applications include pulmonary nodule characterization, prediction of nodal disease and invasive tumor features, anatomical reconstruction, and assessment of response to neoadjuvant therapy. Intraoperative systems have demonstrated anatomical segmentation, surgical-phase recognition, and augmented reality guidance. Other models address technical performance, postoperative complications, recurrence, and survival. Selected studies report improved predictive performance or earlier recognition of critical structures; however, much of the evidence remains retrospective and institution-specific. External validation is limited, and evidence that AI assistance reduces complications or improves oncologic outcomes remains insufficient."
+      },
+      {
+        "label": "CONCLUSIONS",
+        "text": "AI offers tools for interpreting information relevant to thoracic cancer surgery, but technical accuracy alone does not establish clinical benefit. Prospective, multicenter evaluations should determine whether AI changes consequential surgical decisions and improves patient outcomes. Reliable performance under difficult operative conditions, integration into clinical workflow, and surgeon oversight remain essential to adoption."
+      }
+    ],
+    "article_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "corrections": [],
+    "dates": {
+      "received": "2026-9-30",
+      "revised": "2026-10-20",
+      "accepted": "2026-10-21",
+      "medline": "2026-11-14",
+      "pubmed": "2026-11-14",
+      "entrez": "2026-11-14",
+      "pmc-release": "2026-10-24"
+    },
+    "source": "PubMed EFetch XML",
+    "checked_at": "2026-11-16T08:20:49.316758+00:00"
+  },
+  "HPBAI-CAND-a2149d2247b083ce": {
+    "title": "OSS: Open suturing skills vision-based assessment challenge 2024-2025.",
+    "doi": "10.1016/j.media.2026.104359",
+    "pmid": "43019931",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43019931/",
+    "id": "HPBAI-CAND-a2149d2247b083ce",
+    "kind": "candidate",
+    "collection_id": "hpb-ai-video",
+    "first_discovered": "2026-11-16T08:20:12.527781+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
+    "sources": [
+      "Europe PMC",
+      "PubMed"
+    ],
+    "search_organs": [
+      "可迁移方法"
+    ],
+    "identity_status": "数据库候选；内容与资源页面尚待核对",
+    "pmcid": "",
+    "journal": "Medical image analysis",
+    "authors": [
+      "Hoffmann Hanna",
+      "Bady Setareh",
+      "Boer Claas de",
+      "Kirchner Max",
+      "Egger Jan",
+      "Röhrig Rainer",
+      "Hölzle Frank",
+      "Gruber Lennart Johannes",
+      "Xie Kunpeng",
+      "Neuhaus Marlon",
+      "Alves Victor",
+      "Barbosa Guilherme",
+      "Barroso Leonardo",
+      "Carvalho João",
+      "Chen Hao",
+      "d'Albenzio Gabriella",
+      "Ferreira André",
+      "Gomes Nuno",
+      "Hayashi Yuichiro",
+      "Hirasawa Kousuke",
+      "Hisey Rebecca",
+      "Hong Seungjae",
+      "Jeong Seoi",
+      "Jesus Tiago",
+      "Kang Daehong",
+      "Kasai Satoshi",
+      "Kikuchi Shunsuke",
+      "Kitasaka Takayuki",
+      "Kondo Satoshi",
+      "Kong Hyoun-Joong",
+      "Kong Youngbin",
+      "Kouno Atsushi",
+      "Laufer Shlomi",
+      "Lee Kyu Eun",
+      "Long Bining",
+      "Maghsoodi Nooshin",
+      "Matsuzaki Hiroki",
+      "Mazomenos Evangelos",
+      "Meiraz Ori",
+      "Mori Kensaku",
+      "Music Marina",
+      "Oda Masahiro",
+      "Papo Roi",
+      "Park Jieun",
+      "Piexoto Rafael",
+      "Rezaei Saeid",
+      "Ribeiro Mariana",
+      "Shin Soyeon",
+      "Shu Yang",
+      "Smoller Idan",
+      "Stoyanov Danail",
+      "Wang Yihui",
+      "Zhao Xinkai",
+      "Bodenstedt Sebastian",
+      "Funke Isabel",
+      "Speidel Stefanie",
+      "Hinrichs-Puladi Behrus"
+    ],
+    "abstract": [
+      {
+        "label": "",
+        "text": "Achieving high levels of surgical skill through effective training is essential for optimal patient outcomes. Automated, data-driven skill assessment holds significant potential to improve surgical training. While machine learning-based methods are increasingly popular for assessing skills in minimally invasive surgery, their application to open surgery remains limited. We present the results of a dedicated MICCAI challenge designed to benchmark and advance vision-based skill assessment in open surgery. The challenge dataset comprises videos of an open suturing training task recorded with a static GoPro camera in a dry-lab setting, with instrument trajectories available in addition to the primary video modality. The OSS Challenge was hosted over two consecutive years, comprising two and three independent tasks, respectively: (1) classifying skill level into four classes, (2) predicting the full Objective Structured Assessment of Technical Skills across eight categories, and (3) tracking hands and surgical tools. Participants submitted diverse solutions including deep learning-based video models, tracking-driven methods, and hybrid approaches. General-purpose spatiotemporal video models consistently achieved the strongest performance, though conceptually diverse approaches reached competitive levels when well-executed. Predicting fine-grained OSATS scores remains challenging but benefits substantially from increased training data. Keypoint tracking proves difficult given frequent occlusions and out-of-frame instances, limiting current applicability for motion-based skill analysis. This work benchmarks innovative and diverse solutions for surgical skill assessment, highlighting both the promise and current limitations of video-based evaluation in open surgery and identifying critical directions for advancing automated skill assessment toward clinical impact."
+      }
+    ],
+    "article_types": [
+      "Journal Article"
+    ],
+    "corrections": [],
+    "dates": {
+      "received": "2026-5-8",
+      "revised": "2026-10-8",
+      "accepted": "2026-10-11",
+      "medline": "2026-11-12",
+      "pubmed": "2026-11-12",
+      "entrez": "2026-11-12"
+    },
+    "source": "PubMed EFetch XML",
+    "checked_at": "2026-11-16T08:20:49.316879+00:00"
+  },
+  "HPBAI-CAND-91472a410a345e6e": {
+    "title": "Deep Learning for Real-Time Image Interpretation in Arthroscopy: A Systematic Review of Classification, Segmentation, and Detection Tasks.",
+    "doi": "10.5152/eurasianjmed.2026.261415",
+    "pmid": "43017839",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43017839/",
+    "id": "HPBAI-CAND-91472a410a345e6e",
+    "kind": "candidate",
+    "collection_id": "hpb-ai-video",
+    "first_discovered": "2026-11-16T08:20:12.527781+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
+    "sources": [
+      "Europe PMC",
+      "PubMed"
+    ],
+    "search_organs": [
+      "可迁移方法"
+    ],
+    "identity_status": "数据库候选；内容与资源页面尚待核对",
+    "pmcid": "",
+    "journal": "The Eurasian journal of medicine",
+    "authors": [
+      "Lasslett Christopher",
+      "Reddy Rohan",
+      "Giritharan Gayathri",
+      "Tamasios Stylianos",
+      "Dewan Ravit",
+      "Khalafallah Mohamed A",
+      "Hassan Atef A",
+      "Imam Mohamed A"
+    ],
+    "abstract": [
+      {
+        "label": "BACKGROUND",
+        "text": "Deep learning (DL) is increasingly applied to arthroscopic video for instrument recognition, anatomical segmentation, and intraoperative event detection. The performance, architectures, and real-time feasibility of these systems remain incompletely characterized. This systematic review aimed to evaluate the performance, architectures, and real-time feasibility of DL for classification, segmentation, and detection in arthroscopic video interpretation."
+      },
+      {
+        "label": "METHODS",
+        "text": "Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020, PubMed/ MEDLINE, Ovid, and the Cochrane Library were searched (February 2025), supplemented by artificial intelligence-assisted queries (Elicit, Undermind). Eligible studies applied DL to arthroscopy for classification, segmentation, or detection with quantitative performance and/or inference speed. Two reviewers independently screened, extracted, and assessed quality using Quality Assessment of Diagnostic Accuracy Studies-2; the protocol was registered in International Prospective Register of Systematic Reviews."
+      },
+      {
+        "label": "RESULTS",
+        "text": "Six studies met inclusion criteria (knee = 2, shoulder = 2, wrist = 1, non-site-specific bleeding = 1). Classification achieved high accuracy for instrument recognition (up to 99.1%, sensitivity = 0.988) and bleeding- frame detection (95.8%, sensitivity = 97.3%). Segmentation was strongest for large bony structures (Dice 0.79-0.89) and weakest for deformable tissues (meniscus Dice = 0.48). U-Net variants (U-Net++, DeepLab v3+) predominated with frequent transfer learning. Two studies achieved real-time inference (15-60 frames per second). Risk of bias was high across all studies."
+      },
+      {
+        "label": "CONCLUSION",
+        "text": "Based on 6 heterogeneous studies, DL appears technically feasible for arthroscopic image interpretation, particularly instrument classification and osseous segmentation, though findings should be interpreted as preliminary. No study evaluated impact on surgical decision-making or patient outcomes, and none was deployed prospectively in live surgery. Translation will require multicentre datasets, standardized reporting, and prospective evaluation against clinically meaningful endpoints. Cite this article as: Lasslett C, Reddy R, Giritharan G, et al. Deep learning for real-time image interpretation in arthroscopy: a systematic review of classification, segmentation, and detection tasks. Eurasian J Med. 2026, 58(4), 1415, doi: 10.5152/ eurasianjmed.2026.261415."
+      }
+    ],
+    "article_types": [
+      "Journal Article"
+    ],
+    "corrections": [],
+    "dates": {
+      "received": "2026-11-5",
+      "medline": "2026-11-12",
+      "pubmed": "2026-11-12",
+      "entrez": "2026-11-12"
+    },
+    "source": "PubMed EFetch XML",
+    "checked_at": "2026-11-16T08:20:49.316938+00:00"
+  },
+  "HPBAI-CAND-a77ec45c74698ddd": {
+    "pmid": "43013215",
+    "title": "The evolving landscape of artificial intelligence in cholecystectomy: a bibliometric and science-mapping analysis.",
+    "doi": "10.1007/s13304-026-02859-5",
+    "pmcid": "",
+    "journal": "Updates in surgery",
+    "year": "2026",
+    "authors": [
+      "Zou Hai-Bo",
+      "Ding Qian",
+      "Xiao Ying",
+      "Zhu Yi-Zhun"
+    ],
+    "abstract": [
+      {
+        "label": "",
+        "text": "To map the global research landscape and thematic evolution of artificial intelligence (AI)-related research in cholecystectomy and to identify major contributors, collaboration patterns, and intellectual foundations. English-language articles and reviews were retrieved from the Web of Science Core Collection and Scopus. After deduplication and eligibility screening, 559 publications were included. Publication trends, scientific collaboration, keyword co-occurrence, conceptual structure, thematic evolution, and co-citation and citation-burst patterns were analyzed using bibliometrix, VOSviewer, and Python. Research activity increased markedly in recent years, with 424 publications (75.8%) appearing between 2022 and 2025. China contributed the largest publication output, whereas the United States received the highest total citations. Keyword and conceptual-structure analyses identified research domains involving AI and computational methods, surgical workflow and intraoperative visual analysis, and computer-vision-based applications. Thematic evolution suggested a progression from early workflow- and convolutional-neural-network-related research toward machine learning, deep learning, radiomics, surgical phase recognition, and more recent transformer-related approaches. Twinanda et al. [1] showed the strongest citation burst and occupied a prominent position in the reference co-citation network. AI-related research in cholecystectomy has expanded rapidly and become increasingly diverse in its methodological and application-oriented focus. Current bibliometric patterns suggest growing attention to workflow analysis, computer vision, surgical phase recognition, and newer model architectures. Further multicenter validation and prospective clinical evaluation are needed to determine whether these developments translate into generalizable and clinically meaningful applications."
+      }
+    ],
+    "article_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "corrections": [],
+    "dates": {
+      "received": "2026-5-30",
+      "accepted": "2026-9-3",
+      "medline": "2026-11-11",
+      "pubmed": "2026-11-11",
+      "entrez": "2026-11-11"
+    },
+    "source": "PubMed EFetch XML",
+    "checked_at": "2026-11-16T08:20:49.316992+00:00",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43013215/",
+    "id": "HPBAI-CAND-a77ec45c74698ddd",
+    "kind": "candidate",
+    "collection_id": "hpb-ai-video",
+    "first_discovered": "2026-11-16T08:20:12.527781+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
+    "sources": [
+      "PubMed"
+    ],
+    "search_organs": [
+      "胆囊与胆道外科",
+      "可迁移方法"
+    ],
+    "identity_status": "数据库候选；内容与资源页面尚待核对"
+  },
+  "HPBAI-CAND-a097cecb0978bb3d": {
+    "pmid": "43032703",
+    "title": "AI Applications in Aortic and Peripheral Artery Disease: Risk Prediction, Imaging, Procedural Support, and Longitudinal Surveillance.",
+    "doi": "10.14797/mdcvj.1941",
+    "pmcid": "PMC13761777",
+    "journal": "Methodist DeBakey cardiovascular journal",
+    "year": "2026",
+    "authors": [
+      "Robert Joshua D",
+      "Bannikov Stephan",
+      "Atkins Aidan D",
+      "Rahimi Maham"
+    ],
+    "abstract": [
+      {
+        "label": "",
+        "text": "Aortic disease and lower-extremity peripheral artery disease (PAD) generate substantial morbidity, mortality, and longitudinal imaging burden. Artificial intelligence (AI) is increasingly studied for vascular risk prediction, image analysis, procedural support, and surveillance, but the maturity of these applications is heterogeneous. This review evaluates recent AI applications in aortic disease and PAD, emphasizing the distinction between algorithmic performance, external validation, demonstrated workflow impact, and proven patient benefit. Automated image segmentation and opportunistic abdominal aortic aneurysm (AAA) detection have the most mature evidence base, including retrospective external validation and, for AI-assisted AAA case finding, nonrandomized evidence of improved downstream evaluation and follow-up. Conversely, while machine-learning models for vascular risk prediction and disease progression often report high retrospective accuracy, their clinical readiness remains strictly investigational. Across most aortic and PAD applications, there is a persistent lack of independent external validation, decision-curve analysis, and prospective testing against standard care. Image-fusion guidance has clinical evidence for reducing procedural resource use, but this evidence should not be conflated with autonomous AI or robotic navigation. Cardiovascular digital twins remain largely mechanistic, computational, or early-development frameworks. AI can augment vascular imaging and risk assessment, but high retrospective accuracy is not equivalent to clinical utility. Current guideline thresholds for repair, revascularization, and surveillance should not be altered on the basis of investigational radiomics or prediction models. Translation requires multicenter external validation, prospective workflow evaluation, calibration and net-benefit assessment, transparent reporting, and trials demonstrating improved patient outcomes."
+      }
+    ],
+    "article_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "corrections": [],
+    "dates": {
+      "received": "2026-8-6",
+      "accepted": "2026-9-22",
+      "medline": "2026-11-15",
+      "pubmed": "2026-11-15",
+      "entrez": "2026-11-14",
+      "pmc-release": "2026-11-10"
+    },
+    "source": "PubMed EFetch XML",
+    "checked_at": "2026-11-16T08:20:49.316543+00:00",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032703/",
+    "id": "HPBAI-CAND-a097cecb0978bb3d",
+    "kind": "candidate",
+    "collection_id": "hpb-ai-video",
+    "first_discovered": "2026-11-16T08:20:12.527781+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
+    "sources": [
+      "PubMed"
+    ],
+    "search_organs": [
+      "可迁移方法"
+    ],
+    "identity_status": "数据库候选；内容与资源页面尚待核对"
+  },
+  "HPBAI-CAND-f2de3ee0c01830fd": {
+    "pmid": "43029571",
+    "title": "Automated Segmentation of the Deep Inferior Epigastric Artery on CTA Using Deep Learning for Preoperative Planning of DIEP Flap Breast Reconstruction.",
+    "doi": "10.3390/s26216771",
+    "pmcid": "PMC13765768",
+    "journal": "Sensors (Basel, Switzerland)",
+    "year": "2026",
+    "authors": [
+      "Su Cong",
+      "Shi Zitan",
+      "Wei Pengfei",
+      "Zhao Weiqing",
+      "He Shanshan",
+      "Wang Shu",
+      "Yin Jian"
+    ],
+    "abstract": [
+      {
+        "label": "",
+        "text": "Accurate segmentation of the deep inferior epigastric artery (DIEA) on computed tomography angiography (CTA) is important for preoperative planning of deep inferior epigastric perforator (DIEP) flap breast reconstruction. This retrospective study established a dedicated DIEA dataset and developed a deep learning model for automated segmentation. A total of 4446 high-resolution abdominal CTA images from 31 patients were curated and annotated at the pixel level using a multi-reviewer protocol. An improved ResU-Net++ model was trained with Tversky loss, AdamW optimization, and cosine annealing, and was compared with U-Net, ResU-Net, and ResU-Net++ using Accuracy, Sensitivity, Intersection over Union, Dice Similarity Coefficient (DSC), and Hausdorff Distance (HD). The proposed model achieved a Dice Similarity Coefficient (DSC) of 0.6807, an IoU of 0.5556, and a Sensitivity of 0.7326, representing the highest values for these metrics among the evaluated models. The complete automated processing pipeline required 0.0093±0.0015 s per image, compared with 19.85±5.75 s for manual segmentation (p<0.001). These findings support the technical feasibility of automated DIEA segmentation on abdominal CTA. Its potential application in DIEP flap preoperative planning and clinical workflows requires further prospective validation."
+      }
+    ],
+    "article_types": [
+      "Journal Article"
+    ],
+    "corrections": [],
+    "dates": {
+      "received": "2026-9-16",
+      "revised": "2026-10-15",
+      "accepted": "2026-10-23",
+      "medline": "2026-11-14",
+      "pubmed": "2026-11-14",
+      "entrez": "2026-11-14",
+      "pmc-release": "2026-10-26"
+    },
+    "source": "PubMed EFetch XML",
+    "checked_at": "2026-11-16T08:20:49.316691+00:00",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43029571/",
+    "id": "HPBAI-CAND-f2de3ee0c01830fd",
+    "kind": "candidate",
+    "collection_id": "hpb-ai-video",
+    "first_discovered": "2026-11-16T08:20:12.527781+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
+    "sources": [
+      "PubMed"
+    ],
+    "search_organs": [
+      "可迁移方法"
+    ],
+    "identity_status": "数据库候选；内容与资源页面尚待核对"
+  },
+  "HPBAI-CAND-d3639de48d05b4a1": {
+    "pmid": "43008056",
+    "title": "The development and validation of artificial intelligence model to assess the degree of mucosal cleanliness of the upper gastrointestinal tract.",
+    "doi": "10.1093/dote/doag130",
+    "pmcid": "",
+    "journal": "Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus",
+    "year": "2026",
+    "authors": [
+      "Romańczyk Marcin",
+      "Parasa Sravanthi",
+      "Sharma Prateek",
+      "Budzyń Krzysztof",
+      "Lesińska Magdalena",
+      "Machaj Mikołaj",
+      "Romańczyk Tomasz",
+      "Hicks Steven",
+      "Riegler Michael"
+    ],
+    "abstract": [
+      {
+        "label": "",
+        "text": "Mucosal cleanliness of the upper gastrointestinal (UGI) tract is one of the important quality indicators of esophagogastroduodenoscopy (EGD). The aim of the current study was to create and validate an artificial intelligence (AI)-based system to assess cleanliness during EGD. A total of 520 EGD video samples of the esophagus, stomach, and duodenum were collected between August 2021 and February 2025 at five endoscopic centers and annotated by two endoscopists using the previously validated PEACE scale (from 0-completely obscured, to 3-perfect cleanliness). The dataset was divided into training (332 videos), validation (84 videos), and test (104 videos) datasets. The RegNetY-3.2GF deep learning model architecture was used. The accuracy of videos testing for 12 classes ranges between 90.38% and 100%. The macro recall, precision, F1 score, and Matthews correlation coefficient (MCC) were 0.669, 0.697, 0.668, and 0.684 respectively. The precision, recall, and F1 score ranged between 0.341 and 0.880, 0.303 and 0.885, and 0.321 and 0.883, respectively. For distinguishing between inadequate (scores 0-1) and adequate (scores 2-3) cleanliness, the algorithm achieved a recall of 0.927, precision of 0.864, and a F1 score of 0.895, with a MCC of 0.77. All reported metrics were computed exclusively on the held-out test set. The current AI model demonstrated a high accuracy for both frames and video assessment of mucosal cleanliness along with appropriate identification of the UGI segments. This model allows for real-time use studies to assess this important EGD quality measure."
+      }
+    ],
+    "article_types": [
+      "Journal Article",
+      "Validation Study"
+    ],
+    "corrections": [],
+    "dates": {
+      "received": "2025-12-13",
+      "revised": "2026-8-25",
+      "accepted": "2026-10-18",
+      "medline": "2026-11-10",
+      "pubmed": "2026-11-10",
+      "entrez": "2026-11-10"
+    },
+    "source": "PubMed EFetch XML",
+    "checked_at": "2026-11-16T08:20:49.317059+00:00",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43008056/",
+    "id": "HPBAI-CAND-d3639de48d05b4a1",
+    "kind": "candidate",
+    "collection_id": "hpb-ai-video",
+    "first_discovered": "2026-11-16T08:20:12.527781+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
+    "sources": [
+      "PubMed"
+    ],
+    "search_organs": [
+      "可迁移方法"
+    ],
+    "identity_status": "数据库候选；内容与资源页面尚待核对"
+  },
+  "HPBAI-CAND-fa5c8018d627e434": {
+    "title": "TransGHOST: Real-Time, Synthesis-Free Reconstruction of Instrument-Occluded Regions in Ophthalmic Microsurgery",
+    "arxiv": "2611.13971",
+    "url": "https://arxiv.org/abs/2611.13971v2",
+    "doi": "",
+    "year": "2026",
+    "updated": "2026-11-13T08:58:12Z",
+    "publication_date": "2026-11-10T12:08:36Z",
+    "journal_ref": "",
+    "id": "HPBAI-CAND-fa5c8018d627e434",
+    "kind": "candidate",
+    "collection_id": "hpb-ai-video",
+    "first_discovered": "2026-11-16T08:20:12.527781+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
+    "sources": [
+      "arXiv"
+    ],
+    "search_organs": [
+      "可迁移方法"
+    ],
+    "identity_status": "数据库候选；内容与资源页面尚待核对"
+  },
+  "HPBAI-CAND-730b6ed533280d27": {
+    "title": "SurgTAP-3D: A Large-Scale Cross-Surgery Video Dataset with Contact-Aware 3D Motion Tracking",
+    "arxiv": "2611.11697",
+    "url": "https://arxiv.org/abs/2611.11697v1",
+    "doi": "",
+    "year": "2026",
+    "updated": "2026-11-08T23:33:50Z",
+    "publication_date": "2026-11-08T23:33:50Z",
+    "journal_ref": "",
+    "id": "HPBAI-CAND-730b6ed533280d27",
+    "kind": "candidate",
+    "collection_id": "hpb-ai-video",
+    "first_discovered": "2026-11-16T08:20:12.527781+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
+    "sources": [
+      "arXiv"
+    ],
+    "search_organs": [
+      "可迁移方法"
+    ],
+    "identity_status": "数据库候选；内容与资源页面尚待核对"
+  },
+  "HPBAI-CAND-69b6d912569625a8": {
+    "title": "SurgWorld: Learning Surgical Representations Beyond Observation via Latent Prediction",
+    "arxiv": "2611.11140",
+    "url": "https://arxiv.org/abs/2611.11140v1",
+    "doi": "",
+    "year": "2026",
+    "updated": "2026-11-08T05:15:27Z",
+    "publication_date": "2026-11-08T05:15:27Z",
+    "journal_ref": "",
+    "id": "HPBAI-CAND-69b6d912569625a8",
+    "kind": "candidate",
+    "collection_id": "hpb-ai-video",
+    "first_discovered": "2026-11-16T08:20:12.527781+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
+    "sources": [
+      "arXiv"
+    ],
+    "search_organs": [
+      "可迁移方法"
+    ],
+    "identity_status": "数据库候选；内容与资源页面尚待核对"
+  },
+  "HPBAI-CAND-7ece990bc1534cb4": {
+    "title": "ATLAS: A Multi-Procedure Benchmark and Context-Aware Model for Surgical Anatomy Segmentation",
+    "arxiv": "2611.10182",
+    "url": "https://arxiv.org/abs/2611.10182v1",
+    "doi": "",
+    "year": "2026",
+    "updated": "2026-11-06T20:02:56Z",
+    "publication_date": "2026-11-06T20:02:56Z",
+    "journal_ref": "",
+    "id": "HPBAI-CAND-7ece990bc1534cb4",
+    "kind": "candidate",
+    "collection_id": "hpb-ai-video",
+    "first_discovered": "2026-11-16T08:20:12.527781+00:00",
+    "last_seen": "2026-11-16T08:20:12.527781+00:00",
     "sources": [
       "arXiv"
     ],
